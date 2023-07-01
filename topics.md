@@ -828,7 +828,7 @@
 - [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI.
-- [acheong08/ChatGPT-Proxy-V4](https://github.com/acheong08/ChatGPT-Proxy-V4) - Simple Cloudflare bypass for ChatGPT
+- [acheong08/ChatGPTProxy](https://github.com/acheong08/ChatGPTProxy) - Simple Cloudflare bypass for ChatGPT
 - [Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 - [metromancn/Parse12306](https://github.com/metromancn/Parse12306) - 分析12306 获取全国列车数据
 - [Lakr233/ChatBot-TGLM6B](https://github.com/Lakr233/ChatBot-TGLM6B) - ChatGLM-6B Bot for Telegram
