@@ -780,6 +780,7 @@
 
 ## others 
 
+- [ventoy/PXE](https://github.com/ventoy/PXE) - The open source part of iVentoy.
 - [revanced/revanced-patches](https://github.com/revanced/revanced-patches) - 🧩 Patches for ReVanced
 - [google/security-research](https://github.com/google/security-research) - This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.
 - [mrjooz/password-generator](https://github.com/mrjooz/password-generator) - 密码生成工具
@@ -994,7 +995,7 @@
 - [missuo/IDCard-Verify](https://github.com/missuo/IDCard-Verify) - China's second-generation ID card verification and analysis
 - [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
 - [Hedilict/QuantumultX](https://github.com/Hedilict/QuantumultX) - QuantumultX去广告，签到等脚本合集
-- [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok免拔卡解锁最新支持 iPhone （iOS 17.0） 、TikTok（V30.1.0）、TikTok TestFlight，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！
+- [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok免拔卡解锁最新支持 iPhone （iOS 17.0） 、TikTok（V30.3.0）、TikTok TestFlight，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！
 - [missuo/CloudflareWarp](https://github.com/missuo/CloudflareWarp) - Cloudflare Warp One Click Script
 - [sjlleo/netflix-verify](https://github.com/sjlleo/netflix-verify) - 流媒体NetFlix解锁检测脚本 / A script used to determine whether your network can watch native Netflix movies or not
 - [gonelist/gonelist-web](https://github.com/gonelist/gonelist-web) - vue+iview
