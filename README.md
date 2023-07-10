@@ -44,6 +44,7 @@
 
 ## C 
 
+- [ventoy/PXE](https://github.com/ventoy/PXE) - The open source part of iVentoy.
 - [openzfs/zfs](https://github.com/openzfs/zfs) - OpenZFS on Linux and FreeBSD
 - [h3xx/jphs](https://github.com/h3xx/jphs) - jphide & seek steganography tools
 - [easychen/pushdeer](https://github.com/easychen/pushdeer) - 开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备
@@ -312,7 +313,7 @@
 - [leaves615/KeyboardHolder](https://github.com/leaves615/KeyboardHolder) - 
 - [zu1k/deepl-translate-api](https://github.com/zu1k/deepl-translate-api) - Reverse engineered DeepL translate api
 - [yingw/Lenovo-ThinkCentre-M73-Tiny-Hackintosh](https://github.com/yingw/Lenovo-ThinkCentre-M73-Tiny-Hackintosh) - 联想 M73 的黑苹果 EFI，使用 OpenCore 引导
-- [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok免拔卡解锁最新支持 iPhone （iOS 17.0） 、TikTok（V30.1.0）、TikTok TestFlight，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！
+- [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok免拔卡解锁最新支持 iPhone （iOS 17.0） 、TikTok（V30.3.0）、TikTok TestFlight，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！
 
 ## PHP 
 
