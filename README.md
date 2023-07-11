@@ -98,6 +98,7 @@
 
 ## Go 
 
+- [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [google/security-research](https://github.com/google/security-research) - This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。
 - [lyqingye/pikpak-go](https://github.com/lyqingye/pikpak-go) - pikpak golang sdk
@@ -489,6 +490,7 @@
 
 ## Swift 
 
+- [mazzzystar/Queryable](https://github.com/mazzzystar/Queryable) - Run CLIP on iPhone to Search Photos.
 - [Lakr233/Colorful](https://github.com/Lakr233/Colorful) - A SwiftUI implementation of AppleCard's animated colorful blur background.
 - [zenangst/KeyboardCowboy](https://github.com/zenangst/KeyboardCowboy) - :keyboard: The missing keyboard shortcut utility for macOS
 - [DreamSaddle/MacCopier](https://github.com/DreamSaddle/MacCopier) - MacCopier 是一个提供在 Macos 中收到短信验证码后自动复制到剪贴板功能的软件。
