@@ -568,6 +568,7 @@
 
 ## ios 
 
+- [mazzzystar/Queryable](https://github.com/mazzzystar/Queryable) - Run OpenAI's CLIP model on iPhone to search photos.
 - [purp0s3/Tweaked-iOS-Apps](https://github.com/purp0s3/Tweaked-iOS-Apps) - Tweaks injected into iOS apps.
 - [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - List of applications and tools that make my macOS experience even more amazing
 - [mastodon/mastodon-ios](https://github.com/mastodon/mastodon-ios) - Official iOS app for Mastodon
@@ -787,7 +788,6 @@
 
 - [fmz200/wool_scripts](https://github.com/fmz200/wool_scripts) - 收集一些QuantumultX、Loon、Surge、ShadowRocket的配置与脚本，去广告合集。不止有QuantumultX脚本！
 - [gee1k/coord-transform](https://github.com/gee1k/coord-transform) - 一个现代的、支持 TypeScript 的百度坐标（BD09）、火星坐标（GCJ02）、和WGS84坐标系相互转换。
-- [mazzzystar/Queryable](https://github.com/mazzzystar/Queryable) - Run OpenAI's CLIP model on iPhone to search photos.
 - [ventoy/PXE](https://github.com/ventoy/PXE) - The open source part of iVentoy.
 - [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
 - [google/security-research](https://github.com/google/security-research) - This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.
@@ -1217,6 +1217,7 @@
 
 ## swiftui 
 
+- [mazzzystar/Queryable](https://github.com/mazzzystar/Queryable) - Run OpenAI's CLIP model on iPhone to search photos.
 - [godly-devotion/MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion) - Run Stable Diffusion on Mac natively
 - [Yoddikko/yoddChatGPT](https://github.com/Yoddikko/yoddChatGPT) - This app uses the OpenAISwift library, ChatGPTSwift library and OpenAI library to communicate with the popular ChatGPT artificial intelligence. The app allows you to have a quick message exchange with
 - [Dimillian/IceCubesApp](https://github.com/Dimillian/IceCubesApp) - A SwiftUI Mastodon client
