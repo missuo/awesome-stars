@@ -508,7 +508,7 @@
 - [bookstairs/bookhunter](https://github.com/bookstairs/bookhunter) - A download tools for clawing the ebooks from internets.
 - [igorsheg/astro](https://github.com/igorsheg/astro) - An open, extensible, dashboard for all of your homelab services.
 - [lwch/natpass](https://github.com/lwch/natpass) - 🔥居家办公，远程开发神器
-- [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
+- [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - [mmpx12/twitter-media-downloader](https://github.com/mmpx12/twitter-media-downloader) - twmd: CLI/GUI Apiless twitter downlaoder. Download medias from single tweet or a whole profile.
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
@@ -1024,7 +1024,7 @@
 - [missuo/IDCard-Verify](https://github.com/missuo/IDCard-Verify) - China's second-generation ID card verification and analysis
 - [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
 - [Hedilict/QuantumultX](https://github.com/Hedilict/QuantumultX) - QuantumultX去广告，签到等脚本合集
-- [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok免拔卡解锁最新支持 iPhone （iOS 17.0） 、TikTok（V30.3.0）、TikTok TestFlight，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！
+- [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok免拔卡解锁最新支持 iPhone （iOS 17.0） 、TikTok（V30.4.0）、TikTok TestFlight，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！
 - [missuo/CloudflareWarp](https://github.com/missuo/CloudflareWarp) - Cloudflare Warp One Click Script
 - [sjlleo/netflix-verify](https://github.com/sjlleo/netflix-verify) - 流媒体NetFlix解锁检测脚本 / A script used to determine whether your network can watch native Netflix movies or not
 - [gonelist/gonelist-web](https://github.com/gonelist/gonelist-web) - vue+iview
