@@ -371,7 +371,7 @@
 - [igorsheg/astro](https://github.com/igorsheg/astro) - An open, extensible, dashboard for all of your homelab services.
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
 - [romancin/tinymediamanager-docker](https://github.com/romancin/tinymediamanager-docker) - A repository for creating a docker container including TinyMediaManager with GUI interface.
-- [Hagb/docker-easyconnect](https://github.com/Hagb/docker-easyconnect) - 使深信服（Sangfor）开发的非自由的 VPN 软件 EasyConnect 运行在 docker 或 podman 中，并作为网关和/或提供 socks5、http 代理服务
+- [Hagb/docker-easyconnect](https://github.com/Hagb/docker-easyconnect) - 使深信服（Sangfor）开发的非自由的 VPN 软件 EasyConnect 和 aTrust 运行在 docker 或 podman 中，并作为网关和/或提供 socks5、http 代理服务
 - [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place. Cloud is now available in public beta. 🌩
