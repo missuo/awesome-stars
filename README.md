@@ -76,7 +76,6 @@
 ## CSS 
 
 - [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/spicetify-cli
-- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1
 - [AppleIdLoginHelper/LoginHelper](https://github.com/AppleIdLoginHelper/LoginHelper) - Used to solve the two-factor authentication verification code problem when logging in with apple id
 - [telephone/LookingGlass](https://github.com/telephone/LookingGlass) - A user-friendly PHP Looking Glass
 - [foru17/Yasuko](https://github.com/foru17/Yasuko) - A Ghost theme
@@ -420,6 +419,7 @@
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
 - [missuo/FuckSheepGame](https://github.com/missuo/FuckSheepGame) - 羊了个羊刷通关助手 支持QuanX和HTTP Catcher
 - [ddimick/asn-to-ip](https://github.com/ddimick/asn-to-ip) - Queries whois and returns IP netblocks associated with BGP Autonomous System Numbers (ASN).
+- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1
 - [viperadnan-git/google-drive-telegram-bot](https://github.com/viperadnan-git/google-drive-telegram-bot) - A Google Drive Telegram Bot for managing, cloning files, uploading files on Google Drive
 - [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - 短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！
 - [dataabc/weibo-crawler](https://github.com/dataabc/weibo-crawler) - 新浪微博爬虫，用python爬取新浪微博数据，并下载微博图片和微博视频
@@ -486,7 +486,7 @@
 - [taamarin/ClashforMagisk](https://github.com/taamarin/ClashforMagisk) - Transparent proxy(Tproxy) for android (root)
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
 - [zhangt2333/actions-easyconnect](https://github.com/zhangt2333/actions-easyconnect) - Github Actions: run code with EasyConnect VPN ! :sparkles:
-- [Hagb/docker-easyconnect](https://github.com/Hagb/docker-easyconnect) - 使深信服（Sangfor）开发的非自由的 VPN 软件 EasyConnect 运行在 docker 或 podman 中，并作为网关和/或提供 socks5、http 代理服务
+- [Hagb/docker-easyconnect](https://github.com/Hagb/docker-easyconnect) - 使深信服（Sangfor）开发的非自由的 VPN 软件 EasyConnect 和 aTrust 运行在 docker 或 podman 中，并作为网关和/或提供 socks5、http 代理服务
 - [rikumi/iconsur](https://github.com/rikumi/iconsur) - macOS Big Sur Adaptive Icon Generator
 - [esirplayground/AutoBuild-OpenWrt](https://github.com/esirplayground/AutoBuild-OpenWrt) - Build OpenWrt using GitHub Actions | 使用 GitHub Actions 编译 OpenWrt | 感谢P3TERX的项目源码|感谢KFERMercer的项目源码
 - [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
