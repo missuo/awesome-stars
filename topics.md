@@ -119,6 +119,7 @@
 - [telegram](#telegram)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
+- [termux](#termux)
 - [terraform](#terraform)
 - [twitter](#twitter)
 - [typescript](#typescript)
@@ -802,6 +803,7 @@
 
 ## others 
 
+- [wanhebin/clash-for-linux](https://github.com/wanhebin/clash-for-linux) - Linux 端使用 Clash 作为代理工具
 - [qiyuangong/leetcode](https://github.com/qiyuangong/leetcode) - Python & JAVA Solutions for Leetcode
 - [OwO-Network/gDeepLX](https://github.com/OwO-Network/gDeepLX) - A Go library used for unlimited DeepL translation
 - [BandarHL/BHInstagram](https://github.com/BandarHL/BHInstagram) - An awesome tweak for Instagram!
@@ -1281,6 +1283,10 @@
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [ZingerLittleBee/netop](https://github.com/ZingerLittleBee/netop) - Network Top -- Help you monitor network traffic with bpf
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+
+## termux 
+
+- [mmpx12/twitter-media-downloader](https://github.com/mmpx12/twitter-media-downloader) - twmd: CLI/GUI Apiless twitter downlaoder. Download medias from single tweet or a whole profile.
 
 ## terraform 
 
