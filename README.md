@@ -466,6 +466,7 @@
 
 ## Shell 
 
+- [wanhebin/clash-for-linux](https://github.com/wanhebin/clash-for-linux) - Linux 端使用 Clash 作为代理工具
 - [ilikenwf/apt-fast](https://github.com/ilikenwf/apt-fast) - apt-fast: A shellscript wrapper for apt that speeds up downloading of packages.
 - [mac-cleanup/mac-cleanup-sh](https://github.com/mac-cleanup/mac-cleanup-sh) - 🗑️ Cleanup script for macOS (DEPRECATED)
 - [rime/plum](https://github.com/rime/plum) - 東風破 /plum/: Rime configuration manager and input schema repository
