@@ -172,7 +172,7 @@
 
 ## api 
 
-- [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言以及阿里通义千问，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API f
+- [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知以及阿里通义千问，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a singl
 - [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
 - [Postcatlab/postcat](https://github.com/Postcatlab/postcat) - Postcat 是一个可扩展的 API 工具平台。集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。An extensible API tool.
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
@@ -241,7 +241,7 @@
 - [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
 - [guangzhengli/ChatFiles](https://github.com/guangzhengli/ChatFiles) - Document Chatbot — multiple files. Powered by GPT / Embedding.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
-- [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言以及阿里通义千问，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API f
+- [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知以及阿里通义千问，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a singl
 - [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
@@ -581,7 +581,7 @@
 ## image-processing 
 
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
-- [webp-sh/webp_server_go](https://github.com/webp-sh/webp_server_go) - Go version of WebP Server. A tool that will serve your JPG/PNGs as WebP format with compression, on-the-fly.
+- [webp-sh/webp_server_go](https://github.com/webp-sh/webp_server_go) - Go version of WebP Server. A tool that will serve your JPG/PNG/BMP/SVGs as WebP/AVIF format with compression, on-the-fly.
 
 ## ios 
 
