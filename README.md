@@ -320,7 +320,7 @@
 - [leaves615/KeyboardHolder](https://github.com/leaves615/KeyboardHolder) - 
 - [zu1k/deepl-translate-api](https://github.com/zu1k/deepl-translate-api) - Reverse engineered DeepL translate api
 - [yingw/Lenovo-ThinkCentre-M73-Tiny-Hackintosh](https://github.com/yingw/Lenovo-ThinkCentre-M73-Tiny-Hackintosh) - 联想 M73 的黑苹果 EFI，使用 OpenCore 引导
-- [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok免拔卡解锁最新支持 iPhone （iOS 17.0） 、TikTok（V30.4.0）、TikTok TestFlight，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！
+- [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok免拔卡解锁最新支持 iPhone （iOS 17.0） 、TikTok（V30.5.0）、TikTok TestFlight，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！
 
 ## PHP 
 
