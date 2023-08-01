@@ -58,7 +58,7 @@
 
 ## C++ 
 
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 2791 LeetCode Problems (Weekly Update)
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 2801 LeetCode Problems (Weekly Update)
 - [qpdf/qpdf](https://github.com/qpdf/qpdf) - Primary QPDF source code and documentation
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [google/fuse-archive](https://github.com/google/fuse-archive) - FUSE file system for archives and compressed files (ZIP, RAR, 7Z, ISO, TGZ, XZ...)
@@ -89,6 +89,7 @@
 - [lucinhu/bili_you](https://github.com/lucinhu/bili_you) - 一个用flutter制作的第三方B站客户端.
 - [theiskaa/MobileGPT](https://github.com/theiskaa/MobileGPT) - 💬 ChatGPT Mobile Application (iOS and Android) built with Flutter
 - [ente-io/auth](https://github.com/ente-io/auth) - ente Auth – store your 2FA secrets
+- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [xusun0623/river_lite](https://github.com/xusun0623/river_lite) - 河畔Lite是电子科技大学官方校园论坛【清水河畔】的第三方客户端，本Repo为此项目的开源代码仓库。此App轻量、简洁、设计优雅，拥有诸多特性和功能。 作者：xusun000@foxmail.com
 - [sail-tunnel/sail](https://github.com/sail-tunnel/sail) - A flutter demo client application for v2board.
 
@@ -199,6 +200,7 @@
 
 ## JavaScript 
 
+- [blueagler/DeepL-Crack](https://github.com/blueagler/DeepL-Crack) - Bypass 5,000 characters, Remove edit restriction, Use DeepL Pro Account Cookies/DeepL Api Free Token to translate, Unlock Formal/informal tone, Randomize fingerprint
 - [fmz200/wool_scripts](https://github.com/fmz200/wool_scripts) - 收集一些QuantumultX、Loon、Surge、ShadowRocket的配置与脚本，去广告合集。不止有QuantumultX脚本！
 - [ijk0/vercel-azure-openai-proxy](https://github.com/ijk0/vercel-azure-openai-proxy) - Rapid deployment of Azure OpenAI service proxy to Vercel.
 - [sarkrui/MTR-Next-Train](https://github.com/sarkrui/MTR-Next-Train) - an API to retrieve MTR (Mass Transit Railway) train schedules for a specific line and station in Hong Kong.
@@ -346,6 +348,7 @@
 
 ## Python 
 
+- [Lakr233/Misskey-Bark](https://github.com/Lakr233/Misskey-Bark) - A bot that translates Misskey web-hook to Bark notifications.
 - [qiyuangong/leetcode](https://github.com/qiyuangong/leetcode) - Python & JAVA Solutions for Leetcode
 - [ading2210/poe-api](https://github.com/ading2210/poe-api) - A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
 - [ShadowWhisperer/Remove-MS-Edge](https://github.com/ShadowWhisperer/Remove-MS-Edge) - Uninstall Microsoft Edge silently, through an executable or batch script.
@@ -581,7 +584,6 @@
 - [ipfs/public-gateway-checker](https://github.com/ipfs/public-gateway-checker) - Checks which public gateways are online or not
 - [myWsq/simple-header-modifier](https://github.com/myWsq/simple-header-modifier) - Modify headers by new declarativeNetRequest API
 - [igorsheg/astro](https://github.com/igorsheg/astro) - An open, extensible, dashboard for all of your homelab services.
-- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - A browser extension that enhance search engines with ChatGPT
 - [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and blazing-fast book searcher, create and search your private library. Index metadata for over 10 million books in one minute as well as search in 30µs.
 - [zhengkai/zebra](https://github.com/zhengkai/zebra) - 基于 Book Searcher 的 Web 界面
