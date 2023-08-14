@@ -417,7 +417,7 @@
 - [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) - 
 - [wbt5/real-url](https://github.com/wbt5/real-url) - 获取斗鱼&虎牙&哔哩哔哩&抖音&快手等 58 个直播平台的真实流媒体地址(直播源)和弹幕，直播源可在 PotPlayer、flv.js 等播放器中播放。
 - [awslabs/aws-shell](https://github.com/awslabs/aws-shell) - An integrated shell for working with the AWS CLI.
-- [Qiantigers/crawlTelegraph](https://github.com/Qiantigers/crawlTelegraph) - 爬取Telegraph中的图片资源
+- [WuSuoV/crawlTelegraph](https://github.com/WuSuoV/crawlTelegraph) - 爬取Telegraph中的图片资源
 - [tlkh/asitop](https://github.com/tlkh/asitop) - Perf monitoring CLI tool for Apple Silicon
 - [SealedSaucer/Online-Forever](https://github.com/SealedSaucer/Online-Forever) - Make Your Discord Account 24/7 Online!
 - [Sqble/Telegram-To-Discord-Bot-Fixed](https://github.com/Sqble/Telegram-To-Discord-Bot-Fixed) - Modified code made by the original repo creator. Specifically I made the discord bot run 24/7 instead of having it restart every time a message is sent, (this caused any logging to have a multiple sec
