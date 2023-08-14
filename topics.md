@@ -975,7 +975,7 @@
 - [hybula/lookingglass](https://github.com/hybula/lookingglass) - Modern, simple and fresh looking glass based on Bootstrap 5 and PHP 8.
 - [go-admin-team/go-admin](https://github.com/go-admin-team/go-admin) - 基于Gin + Vue + Element UI &  Arco Design & Ant Design 的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；项目文档》：https://www.go-admin.pro   V2 Demo： https://vue2.go-admin.d
 - [kubernetes/client-go](https://github.com/kubernetes/client-go) - Go client for Kubernetes.
-- [Qiantigers/crawlTelegraph](https://github.com/Qiantigers/crawlTelegraph) - 爬取Telegraph中的图片资源
+- [WuSuoV/crawlTelegraph](https://github.com/WuSuoV/crawlTelegraph) - 爬取Telegraph中的图片资源
 - [rime/squirrel](https://github.com/rime/squirrel) - 【鼠鬚管】Rime for macOS
 - [wongdean/rime-settings](https://github.com/wongdean/rime-settings) - 接近原生的鼠须管 Rime 配置
 - [Clansty/superstar-checkin](https://github.com/Clansty/superstar-checkin) - 超星学习通自动签到
