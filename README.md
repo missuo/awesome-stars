@@ -511,6 +511,7 @@
 
 ## Swift 
 
+- [Lakr233/BBackupp](https://github.com/Lakr233/BBackupp) - Automated iOS Backup Robot
 - [mazzzystar/Queryable](https://github.com/mazzzystar/Queryable) - Run OpenAI's CLIP model on iOS to search photos.
 - [Lakr233/Colorful](https://github.com/Lakr233/Colorful) - A SwiftUI implementation of AppleCard's animated colorful blur background.
 - [zenangst/KeyboardCowboy](https://github.com/zenangst/KeyboardCowboy) - :keyboard: The missing keyboard shortcut utility for macOS
