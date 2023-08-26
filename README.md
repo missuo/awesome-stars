@@ -58,7 +58,7 @@
 
 ## C++ 
 
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 2818 LeetCode Problems (Weekly Update)
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 2832 LeetCode Problems (Weekly Update)
 - [qpdf/qpdf](https://github.com/qpdf/qpdf) - Primary QPDF source code and documentation
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [google/fuse-archive](https://github.com/google/fuse-archive) - FUSE file system for archives and compressed files (ZIP, RAR, 7Z, ISO, TGZ, XZ...)
@@ -90,7 +90,6 @@
 - [lucinhu/bili_you](https://github.com/lucinhu/bili_you) - 一个用flutter制作的第三方B站客户端.
 - [theiskaa/MobileGPT](https://github.com/theiskaa/MobileGPT) - 💬 ChatGPT Mobile Application (iOS and Android) built with Flutter
 - [ente-io/auth](https://github.com/ente-io/auth) - ente Auth – store your 2FA secrets
-- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [xusun0623/river_lite](https://github.com/xusun0623/river_lite) - 河畔Lite是电子科技大学官方校园论坛【清水河畔】的第三方客户端，本Repo为此项目的开源代码仓库。此App轻量、简洁、设计优雅，拥有诸多特性和功能。 作者：xusun000@foxmail.com
 - [sail-tunnel/sail](https://github.com/sail-tunnel/sail) - A flutter demo client application for v2board.
 
@@ -354,7 +353,7 @@
 
 - [Lakr233/Misskey-Bark](https://github.com/Lakr233/Misskey-Bark) - A bot that translates Misskey web-hook to Bark notifications.
 - [qiyuangong/leetcode](https://github.com/qiyuangong/leetcode) - Python & JAVA Solutions for Leetcode
-- [ading2210/poe-api](https://github.com/ading2210/poe-api) - A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
+- [ading2210/poe-api](https://github.com/ading2210/poe-api) - [MAINTAINERS NEEDED] A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
 - [ShadowWhisperer/Remove-MS-Edge](https://github.com/ShadowWhisperer/Remove-MS-Edge) - Uninstall Microsoft Edge silently, through an executable or batch script.
 - [purp0s3/Tweaked-iOS-Apps](https://github.com/purp0s3/Tweaked-iOS-Apps) - Tweaks injected into iOS apps.
 - [mandarons/icloud-drive-docker](https://github.com/mandarons/icloud-drive-docker) - Dockerized iCloud Client - make a local copy of your iCloud documents and photos, and keep it automatically up-to-date.
@@ -371,7 +370,7 @@
 - [steveyiyo/TranslateMD](https://github.com/steveyiyo/TranslateMD) - 
 - [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
 - [VermiIIi0n/fuckZHS](https://github.com/VermiIIi0n/fuckZHS) - 自动刷智慧树课程的脚本
-- [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic) - 为ChatGPT/GLM提供图形交互界面，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持清华chatglm2等本地模型。兼容复旦MOSS, llama2, rwkv, newbing, claude, claude2等
+- [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic) - 为ChatGPT/GLM提供图形交互界面，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm2等本地模型。兼容文心一言, moss, llama2, rwkv, claude2, 通义千问, 书生, 讯飞星火等。
 - [Lakr233/ChatBot-TGLM6B](https://github.com/Lakr233/ChatBot-TGLM6B) - ChatGLM-6B Bot for Telegram
 - [instaloader/instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram.
 - [wechaty/python-wechaty](https://github.com/wechaty/python-wechaty) - Python Wechaty is a Conversational RPA SDK for Chatbot Makers written in Python
@@ -390,7 +389,7 @@
 - [kazutoiris/ali_ecc](https://github.com/kazutoiris/ali_ecc) - AliyunDrive ECC Signature
 - [rawandahmad698/PyChatGPT](https://github.com/rawandahmad698/PyChatGPT) - ⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.
 - [why2lyj/ItChat-UOS](https://github.com/why2lyj/ItChat-UOS) - 复活Itchat,你只需要 pip install itchat-uos
-- [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - Wechat robot based on ChatGPT,  which using OpenAI api and itchat library. 使用ChatGPT搭建微信聊天机器人，基于 GPT3.5/GPT4.0/文心一言 模型，支持个人微信、公众号、企业微信部署，能处理文本、语音和图片，访问操作系统和互联网，支持基于知识库定制专属机器人。
+- [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - Wechat robot based on ChatGPT,  which using OpenAI api and itchat library. 使用ChatGPT搭建微信聊天机器人，基于 GPT3.5/GPT4.0/文心一言/讯飞星火 模型，支持个人微信、公众号、企业微信部署，能处理文本、语音和图片，访问操作系统和互联网，支持基于知识库定制专属机器人。
 - [dewscan001/python-mysql2postgresql](https://github.com/dewscan001/python-mysql2postgresql) - Python Package transfer data from MySQL to PostgreSQL
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [realByg/office-user-bot](https://github.com/realByg/office-user-bot) - 用 Telegram bot 创建 Office 账号
@@ -590,6 +589,7 @@
 - [ipfs/public-gateway-checker](https://github.com/ipfs/public-gateway-checker) - Checks which public gateways are online or not
 - [myWsq/simple-header-modifier](https://github.com/myWsq/simple-header-modifier) - Modify headers by new declarativeNetRequest API
 - [igorsheg/astro](https://github.com/igorsheg/astro) - An open, extensible, dashboard for all of your homelab services.
+- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - This project is deprecated. Check my new project ChatHub:
 - [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and blazing-fast book searcher, create and search your private library. Index metadata for over 10 million books in one minute as well as search in 30µs.
 - [zhengkai/zebra](https://github.com/zhengkai/zebra) - 基于 Book Searcher 的 Web 界面
