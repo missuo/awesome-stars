@@ -46,6 +46,7 @@
 
 - [ventoy/PXE](https://github.com/ventoy/PXE) - The open source part of iVentoy.
 - [google/security-research](https://github.com/google/security-research) - This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.
+- [damus-io/damus](https://github.com/damus-io/damus) - iOS nostr client
 - [openzfs/zfs](https://github.com/openzfs/zfs) - OpenZFS on Linux and FreeBSD
 - [h3xx/jphs](https://github.com/h3xx/jphs) - jphide & seek steganography tools
 - [easychen/pushdeer](https://github.com/easychen/pushdeer) - 开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备
@@ -90,6 +91,7 @@
 - [lucinhu/bili_you](https://github.com/lucinhu/bili_you) - 一个用flutter制作的第三方B站客户端.
 - [theiskaa/MobileGPT](https://github.com/theiskaa/MobileGPT) - 💬 ChatGPT Mobile Application (iOS and Android) built with Flutter
 - [ente-io/auth](https://github.com/ente-io/auth) - ente Auth – store your 2FA secrets
+- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [xusun0623/river_lite](https://github.com/xusun0623/river_lite) - 河畔Lite是电子科技大学官方校园论坛【清水河畔】的第三方客户端，本Repo为此项目的开源代码仓库。此App轻量、简洁、设计优雅，拥有诸多特性和功能。 作者：xusun000@foxmail.com
 - [sail-tunnel/sail](https://github.com/sail-tunnel/sail) - A flutter demo client application for v2board.
 
@@ -525,7 +527,6 @@
 - [yichengchen/clashX](https://github.com/yichengchen/clashX) - 
 - [Yoddikko/yoddChatGPT](https://github.com/Yoddikko/yoddChatGPT) - This app uses the OpenAISwift library, ChatGPTSwift library and OpenAI library to communicate with the popular ChatGPT artificial intelligence. The app allows you to have a quick message exchange with
 - [ITzTravelInTime/TINU](https://github.com/ITzTravelInTime/TINU) - TINU: The open tool to create bootable macOS installers.
-- [damus-io/damus](https://github.com/damus-io/damus) - iOS nostr client
 - [vapor/postgres-kit](https://github.com/vapor/postgres-kit) - 🐘 Non-blocking, event-driven Swift client for PostgreSQL.
 - [Dimillian/IceCubesApp](https://github.com/Dimillian/IceCubesApp) - A SwiftUI Mastodon client
 - [Lakr233/Kimis](https://github.com/Lakr233/Kimis) - Kimis is a client for Misskey built with pure UIKit for quality.
@@ -589,7 +590,6 @@
 - [ipfs/public-gateway-checker](https://github.com/ipfs/public-gateway-checker) - Checks which public gateways are online or not
 - [myWsq/simple-header-modifier](https://github.com/myWsq/simple-header-modifier) - Modify headers by new declarativeNetRequest API
 - [igorsheg/astro](https://github.com/igorsheg/astro) - An open, extensible, dashboard for all of your homelab services.
-- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - This project is deprecated. Check my new project ChatHub:
 - [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and blazing-fast book searcher, create and search your private library. Index metadata for over 10 million books in one minute as well as search in 30µs.
 - [zhengkai/zebra](https://github.com/zhengkai/zebra) - 基于 Book Searcher 的 Web 界面
