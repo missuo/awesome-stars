@@ -810,6 +810,7 @@
 
 ## others 
 
+- [1kc/razer-macos](https://github.com/1kc/razer-macos) - Color effects manager for Razer devices for macOS. Supports High Sierra (10.13) to Monterey (12.0). Made by the community, based on openrazer.
 - [ninxsoft/Mist](https://github.com/ninxsoft/Mist) - A Mac utility that automatically downloads macOS Firmwares / Installers.
 - [Lakr233/BBackupp](https://github.com/Lakr233/BBackupp) - Automated iOS Backup Robot
 - [antfu/1990-script](https://github.com/antfu/1990-script) - Make your GitHub history back to 1990
