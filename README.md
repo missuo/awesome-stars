@@ -171,7 +171,7 @@
 - [TruthHun/DocHub](https://github.com/TruthHun/DocHub) - 参考百度文库，使用Beego（Golang）开发的开源文库系统
 - [greycodee/wechat-backup](https://github.com/greycodee/wechat-backup) - 微信聊天记录持久化备份本地硬盘，释放手机存储空间。
 - [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a feature-packed proxy & relay tool optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting to foreign servers from China)
-- [nxtrace/Ntrace-core](https://github.com/nxtrace/Ntrace-core) - An open source visual route tracking CLI tool
+- [nxtrace/NTrace-core](https://github.com/nxtrace/NTrace-core) - An open source visual route tracking CLI tool
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :rocket:
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer
