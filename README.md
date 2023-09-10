@@ -355,6 +355,7 @@
 
 ## Python 
 
+- [ja-netfilter2/pandora](https://github.com/ja-netfilter2/pandora) - 
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [Lakr233/Misskey-Bark](https://github.com/Lakr233/Misskey-Bark) - A bot that translates Misskey web-hook to Bark notifications.
 - [qiyuangong/leetcode](https://github.com/qiyuangong/leetcode) - Python & JAVA Solutions for Leetcode
