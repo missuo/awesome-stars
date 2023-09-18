@@ -357,6 +357,7 @@
 
 ## Python 
 
+- [fuergaosi233/apple-health-exporter](https://github.com/fuergaosi233/apple-health-exporter) - 
 - [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2023
 - [zhile-io/pandora](https://github.com/zhile-io/pandora) - 潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT client that lets you breathe freely.
 - [ja-netfilter2/pandora](https://github.com/ja-netfilter2/pandora) - 
