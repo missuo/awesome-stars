@@ -214,7 +214,6 @@
 - [songquanpeng/stats-cards](https://github.com/songquanpeng/stats-cards) - 在 README 中展示你在知乎，GitHub，B 站，LeetCode，掘金，CSDN，牛客等网站的数据，也可用于服务状态监控. Show your LeetCode & GitHub stats in GitHub Profile.
 - [sindresorhus/emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line :open_mouth: :sparkles: :raised_hands: :horse: :boom: :see_no_evil:
 - [actuallymentor/battery](https://github.com/actuallymentor/battery) - CLI for managing the battery charging status for M1 Macs
-- [RuCu6/QuanX](https://github.com/RuCu6/QuanX) - 
 - [alipay/alipay-sdk-nodejs-all](https://github.com/alipay/alipay-sdk-nodejs-all) - 支付宝开放平台 Alipay SDK for Node.js
 - [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
 - [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognize.
@@ -364,7 +363,7 @@
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [Lakr233/Misskey-Bark](https://github.com/Lakr233/Misskey-Bark) - A bot that translates Misskey web-hook to Bark notifications.
 - [qiyuangong/leetcode](https://github.com/qiyuangong/leetcode) - Python & JAVA Solutions for Leetcode
-- [ading2210/poe-api](https://github.com/ading2210/poe-api) - [MAINTAINERS NEEDED] A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
+- [ading2210/poe-api](https://github.com/ading2210/poe-api) - [UNMAINTAINED] A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
 - [ShadowWhisperer/Remove-MS-Edge](https://github.com/ShadowWhisperer/Remove-MS-Edge) - Uninstall Microsoft Edge silently, through an executable or batch script.
 - [purp0s3/Tweaked-iOS-Apps](https://github.com/purp0s3/Tweaked-iOS-Apps) - Tweaks injected into iOS apps.
 - [mandarons/icloud-drive-docker](https://github.com/mandarons/icloud-drive-docker) - Dockerized iCloud Client - make a local copy of your iCloud documents and photos, and keep it automatically up-to-date.
@@ -571,6 +570,7 @@
 
 ## TypeScript 
 
+- [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
 - [gee1k/coord-transform](https://github.com/gee1k/coord-transform) - 一个现代的、支持 TypeScript 的百度坐标（BD09）、火星坐标（GCJ02）、和WGS84坐标系相互转换。
 - [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
 - [guangzhengli/ChatFiles](https://github.com/guangzhengli/ChatFiles) - Document Chatbot — multiple files. Powered by GPT / Embedding.
