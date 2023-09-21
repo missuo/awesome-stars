@@ -818,6 +818,8 @@
 
 ## others 
 
+- [victoryang00/A16-microbenchmark](https://github.com/victoryang00/A16-microbenchmark) - A repo to store what M1 explainer does and Armv9 ISA on A16
+- [MoshiCoCo/Apple-Monitor](https://github.com/MoshiCoCo/Apple-Monitor) - 一个用 Java 实现的 Apple 商店库存监控,支持bark,dingtalk，微信等方式推送实时库存信息。目前支持中国和日本地区。An Apple store inventory monitoring implemented in Java, supports bark, dingtalk, WeChat and other methods to push real-time invento
 - [fuergaosi233/apple-health-exporter](https://github.com/fuergaosi233/apple-health-exporter) - 
 - [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2023
 - [zhile-io/blank](https://github.com/zhile-io/blank) - 什么都没有。
