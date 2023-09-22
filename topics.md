@@ -1188,7 +1188,7 @@
 - [dracarys18/TweetBot](https://github.com/dracarys18/TweetBot) - A simple Telegram Bot to Stream the tweets from any twitter accounts to Telegram Channel
 - [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust.
 - [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
-- [zu1k/good-mitm](https://github.com/zu1k/good-mitm) - Rule-based MITM engine. Rewriting, redirecting and rejecting on HTTP(S) requests and responses, supports JavaScript.
+- [zu1k/Good-MITM](https://github.com/zu1k/Good-MITM) - Rule-based MITM engine. Rewriting, redirecting and rejecting on HTTP(S) requests and responses, supports JavaScript.
 - [ZingerLittleBee/netop](https://github.com/ZingerLittleBee/netop) - Network Top -- Help you monitor network traffic with bpf
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [zu1k/deepl-translate-api](https://github.com/zu1k/deepl-translate-api) - Reverse engineered DeepL translate api
