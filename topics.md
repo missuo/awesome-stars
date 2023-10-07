@@ -579,6 +579,7 @@
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 - [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix) - Google SafetyNet attestation workarounds for Magisk
+- [jellyfin/jellyfin-androidtv](https://github.com/jellyfin/jellyfin-androidtv) - Android TV Client for Jellyfin
 - [romancin/tinymediamanager-docker](https://github.com/romancin/tinymediamanager-docker) - A repository for creating a docker container including TinyMediaManager with GUI interface.
 - [MattIPv4/DNS-over-Discord](https://github.com/MattIPv4/DNS-over-Discord) - 1.1.1.1 works from a Discord server, thanks to the 1.1.1.1 bot. Invite the bot to your Discord server to start using DNS over Discord.
 - [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot) - An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support!
