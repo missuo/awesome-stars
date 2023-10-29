@@ -297,6 +297,7 @@
 
 ## Objective-C 
 
+- [hbang/libcephei](https://github.com/hbang/libcephei) - Useful functions for tweak developers
 - [BandarHL/BHTwitter](https://github.com/BandarHL/BHTwitter) - Awesome tweak for Twitter
 - [BandarHL/BHInstagram](https://github.com/BandarHL/BHInstagram) - An awesome tweak for Instagram!
 - [tisfeng/Easydict](https://github.com/tisfeng/Easydict) - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，ChatGPT，DeepL，Google，Bing，百度和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text.
@@ -313,7 +314,7 @@
 - [filsv/iOSDeviceSupport](https://github.com/filsv/iOSDeviceSupport) - Xcode iPhoneOS (iOS) DeviceSupport files (6.0 - 16.5)
 - [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - Apps/tools I use on macOS
 - [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
-- [Netskao/MacOS-Utils](https://github.com/Netskao/MacOS-Utils) - MacOS-Utils
+- [Netskao/MacOS-Utils](https://github.com/Netskao/MacOS-Utils) - MacOS-Apps-Utils
 - [megaease/Remembering-Haoel](https://github.com/megaease/Remembering-Haoel) - 记录您对左耳朵耗子（陈皓）的点滴回忆
 - [chxm1023/Script_X](https://github.com/chxm1023/Script_X) - 
 - [HMBSbige/qqwry](https://github.com/HMBSbige/qqwry) - 纯真 IP 库
@@ -496,6 +497,7 @@
 
 ## Shell 
 
+- [Al4ise/Azule](https://github.com/Al4ise/Azule) - 
 - [geekdada/snell-server-docker](https://github.com/geekdada/snell-server-docker) - A Docker image for Snell proxy service
 - [RManLuo/FakePosition](https://github.com/RManLuo/FakePosition) - Fake position for IOS17 虚拟定位 支持IOS17
 - [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
