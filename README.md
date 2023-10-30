@@ -364,6 +364,7 @@
 
 ## Perl 
 
+- [oetiker/SmokePing](https://github.com/oetiker/SmokePing) - The Active Monitoring System
 - [subogero/rename](https://github.com/subogero/rename) - Perl rename as a separate package
 - [bwachter/supermicro-ipmi-key](https://github.com/bwachter/supermicro-ipmi-key) - Generate keys for supermicro IPMI
 
