@@ -500,6 +500,7 @@
 
 ## Shell 
 
+- [myxuchangbin/dnsmasq_sniproxy_install](https://github.com/myxuchangbin/dnsmasq_sniproxy_install) - One-click Install and Configure Dnsmasq and Sniproxy for CentOS/Debian/Ubuntu
 - [Al4ise/Azule](https://github.com/Al4ise/Azule) - 
 - [geekdada/snell-server-docker](https://github.com/geekdada/snell-server-docker) - A Docker image for Snell proxy service
 - [RManLuo/FakePosition](https://github.com/RManLuo/FakePosition) - Fake position for IOS17 虚拟定位 支持IOS17
