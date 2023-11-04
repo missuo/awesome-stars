@@ -897,6 +897,8 @@
 
 ## others 
 
+- [Lakr233/Fix-GPS](https://github.com/Lakr233/Fix-GPS) - 从一生足迹中读取位置数据并写入图片
+- [Lakr233/cloudflared](https://github.com/Lakr233/cloudflared) - Cloudflared with health checking tools.
 - [LemonBench/LemonBench](https://github.com/LemonBench/LemonBench) - A simple Linux Benchmark Toolkit
 - [lmc999/RegionRestrictionCheck](https://github.com/lmc999/RegionRestrictionCheck) - A bash script to check if your VPS's IP is available for various OTT platforms
 - [ifyour/deeplx-js](https://github.com/ifyour/deeplx-js) - 🥰 JavaScript implementation of DeepLx with one-click deployment support
@@ -927,7 +929,6 @@
 - [antfu/1990-script](https://github.com/antfu/1990-script) - Make your GitHub history back to 1990
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - Go library for the Cloudflare v4 API
 - [Lakr233/Misskey-Bark](https://github.com/Lakr233/Misskey-Bark) - A bot that translates Misskey web-hook to Bark notifications.
-- [wanhebin/clash-for-linux](https://github.com/wanhebin/clash-for-linux) - Linux 端使用 Clash 作为代理工具
 - [qiyuangong/leetcode](https://github.com/qiyuangong/leetcode) - Python & JAVA Solutions for Leetcode
 - [OwO-Network/gDeepLX](https://github.com/OwO-Network/gDeepLX) - A Go library used for unlimited DeepL translation
 - [BandarHL/BHInstagram](https://github.com/BandarHL/BHInstagram) - An awesome tweak for Instagram!
@@ -965,7 +966,7 @@
 - [alipay/alipay-sdk-nodejs-all](https://github.com/alipay/alipay-sdk-nodejs-all) - 支付宝开放平台 Alipay SDK for Node.js
 - [HMBSbige/qqwry](https://github.com/HMBSbige/qqwry) - 纯真 IP 库
 - [lizhipay/acg-faka](https://github.com/lizhipay/acg-faka) - 个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡
-- [juewuy/ShellClash](https://github.com/juewuy/ShellClash) - One-click deployment and management of Clash services using Shell scripts in Linux environment
+- [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash) - RM
 - [cntrump/xcode-one-theme](https://github.com/cntrump/xcode-one-theme) - Atom One theme for Xcode
 - [lucinhu/bili_you](https://github.com/lucinhu/bili_you) - 一个用flutter制作的第三方B站客户端.
 - [imfuxiao/Hamster](https://github.com/imfuxiao/Hamster) - librime for iOS App
@@ -1003,7 +1004,6 @@
 - [yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) - Make bilingual epub books Using AI translate
 - [karfly/chatgpt_telegram_bot](https://github.com/karfly/chatgpt_telegram_bot) - 
 - [m1guelpf/plz-cli](https://github.com/m1guelpf/plz-cli) - Copilot for your terminal
-- [yichengchen/clashX](https://github.com/yichengchen/clashX) - 
 - [yetone/bob-plugin-rapidapi-deepl-translator](https://github.com/yetone/bob-plugin-rapidapi-deepl-translator) - DeepL RapidAPI 的 Bob 插件，可能是中国 macOS 用户可以无痛使用的相对合法的最便宜的 DeepL 翻译方案。
 - [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 - [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
