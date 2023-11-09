@@ -352,11 +352,10 @@
 - [leaves615/KeyboardHolder](https://github.com/leaves615/KeyboardHolder) - 
 - [zu1k/deepl-translate-api](https://github.com/zu1k/deepl-translate-api) - Reverse engineered DeepL translate api
 - [yingw/Lenovo-ThinkCentre-M73-Tiny-Hackintosh](https://github.com/yingw/Lenovo-ThinkCentre-M73-Tiny-Hackintosh) - 联想 M73 的黑苹果 EFI，使用 OpenCore 引导
-- [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok免拔卡解锁最新支持 iPhone （iOS 17.1） 、TikTok（V31.4.0）、TikTok TestFlight，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！
+- [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok免拔卡解锁最新支持 iPhone （iOS 17.2） 、TikTok（V32.0.0）、TikTok TestFlight，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！
 
 ## PHP 
 
-- [zhile-io/blank](https://github.com/zhile-io/blank) - 什么都没有。
 - [lizhipay/acg-faka](https://github.com/lizhipay/acg-faka) - 个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡
 - [maxmind/MaxMind-DB-Reader-php](https://github.com/maxmind/MaxMind-DB-Reader-php) - PHP Reader for the MaxMind DB Database Format
 - [pplulee/appleid_auto](https://github.com/pplulee/appleid_auto) - 基于密保问题，自动解锁Apple ID，自动关闭双重认证，提供前端账号展示，支持多账号
@@ -388,7 +387,6 @@
 - [a-maliarov/amazoncaptcha](https://github.com/a-maliarov/amazoncaptcha) - Pure Python, lightweight, Pillow-based solver for Amazon's text captcha.
 - [fuergaosi233/apple-health-exporter](https://github.com/fuergaosi233/apple-health-exporter) - 
 - [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2023
-- [zhile-io/pandora](https://github.com/zhile-io/pandora) - 潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT client that lets you breathe freely.
 - [ja-netfilter2/pandora](https://github.com/ja-netfilter2/pandora) - 
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [Lakr233/Misskey-Bark](https://github.com/Lakr233/Misskey-Bark) - A bot that translates Misskey web-hook to Bark notifications.
@@ -413,7 +411,7 @@
 - [instaloader/instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram.
 - [wechaty/python-wechaty](https://github.com/wechaty/python-wechaty) - Python Wechaty is a Conversational RPA SDK for Chatbot Makers written in Python
 - [gruns/furl](https://github.com/gruns/furl) - 🌐 URL parsing and manipulation made easy.
-- [microsoft/TaskMatrix](https://github.com/microsoft/TaskMatrix) - 
+- [moymix/TaskMatrix](https://github.com/moymix/TaskMatrix) - 
 - [VeNoMouS/cloudscraper](https://github.com/VeNoMouS/cloudscraper) - A Python module to bypass Cloudflare's anti-bot page.
 - [yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) - Make bilingual epub books Using AI translate
 - [karfly/chatgpt_telegram_bot](https://github.com/karfly/chatgpt_telegram_bot) - 
@@ -444,7 +442,6 @@
 - [k0rnh0li0/onlyfans-dl](https://github.com/k0rnh0li0/onlyfans-dl) - OnlyFans content downloader
 - [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) - 🚀「Douyin_TikTok_Download_API」是一个开箱即用的高性能异步抖音、快手、TikTok、Bilibili数据爬取工具，支持API调用，在线批量解析及下载。
 - [HFrost0/bilix](https://github.com/HFrost0/bilix) - ⚡️Lightning-fast async download tool for bilibili and more | 快如闪电的异步下载工具，支持bilibili及更多
-- [pofey/movie_robot](https://github.com/pofey/movie_robot) - 轻松便捷的与家人和朋友，一同享受多终端- 致的高品质私有化观影体验。
 - [mli/autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
 - [Acidham/alfred-airpod-connector](https://github.com/Acidham/alfred-airpod-connector) - Alfred Workflow to connect/disconnect AirPods (Airpod1/2, Airpod Pro) and Powerbeats Pro
 - [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud
