@@ -481,6 +481,7 @@
 
 ## Rust 
 
+- [LynMoe/nya-exif](https://github.com/LynMoe/nya-exif) - A cross-platform tool for embedding GPS data into photographs
 - [ReagentX/imessage-exporter](https://github.com/ReagentX/imessage-exporter) - Export iMessage data + run iMessage Diagnostics
 - [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure & Modern All-in-One Mail Server (IMAP, JMAP, SMTP)
 - [Brendonovich/prisma-client-rust](https://github.com/Brendonovich/prisma-client-rust) - Type-safe database access for Rust
