@@ -902,6 +902,7 @@
 
 ## others 
 
+- [LynMoe/nya-exif](https://github.com/LynMoe/nya-exif) - A cross-platform tool for embedding GPS data into photographs
 - [cokemine/nodestatus](https://github.com/cokemine/nodestatus) - Yet another servers monitor written in TypeScript
 - [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.
 - [apernet/tcp-brutal](https://github.com/apernet/tcp-brutal) - 
