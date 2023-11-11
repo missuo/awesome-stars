@@ -65,7 +65,7 @@
 
 - [victoryang00/A16-microbenchmark](https://github.com/victoryang00/A16-microbenchmark) - A repo to store what M1 explainer does and Armv9 ISA on A16
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - 一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 2926 LeetCode Problems (Weekly Update)
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 2927 LeetCode Problems (Weekly Update)
 - [qpdf/qpdf](https://github.com/qpdf/qpdf) - Primary QPDF source code and documentation
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: open-source LLM chatbots that you can run anywhere
 - [google/fuse-archive](https://github.com/google/fuse-archive) - FUSE file system for archives and compressed files (ZIP, RAR, 7Z, ISO, TGZ, XZ...)
@@ -279,7 +279,7 @@
 
 ## Kotlin 
 
-- [twiceyuan/WXAPK](https://github.com/twiceyuan/WXAPK) - [Play Store] 直接安装微信接收到的 APK
+- [twiceyuan/WXAPK](https://github.com/twiceyuan/WXAPK) - 直接安装微信接收到的 APK
 - [BaltiApps/Pixelify-Google-Photos](https://github.com/BaltiApps/Pixelify-Google-Photos) - Pixelify GPhotos
 - [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
 - [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) - A rule-based tunnel for Android.
@@ -620,7 +620,7 @@
 - [cokemine/nodestatus](https://github.com/cokemine/nodestatus) - Yet another servers monitor written in TypeScript
 - [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
 - [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) - An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)
-- [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
+- [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link management tool for modern marketing teams to create, share, and track short links.
 - [gee1k/coord-transform](https://github.com/gee1k/coord-transform) - 一个现代的、支持 TypeScript 的百度坐标（BD09）、火星坐标（GCJ02）、和WGS84坐标系相互转换。
 - [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
 - [guangzhengli/ChatFiles](https://github.com/guangzhengli/ChatFiles) - Document Chatbot — multiple files. Powered by GPT / Embedding.
