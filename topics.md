@@ -169,7 +169,7 @@
 
 ## android 
 
-- [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
+- [ReVanced/revanced-patches-template](https://github.com/ReVanced/revanced-patches-template) - 👋🧩ReVanced Patches template
 - [ente-io/auth](https://github.com/ente-io/auth) - Open source 2FA app for Android, iOS and the web, with free end-to-end encrypted backups
 - [taamarin/ClashforMagisk](https://github.com/taamarin/ClashforMagisk) - Transparent proxy(Tproxy) for android (root)
 - [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix) - Google SafetyNet attestation workarounds for Magisk
@@ -739,7 +739,7 @@
 ## kotlin 
 
 - [skiptools/skip](https://github.com/skiptools/skip) - Skip transpiler for converting SwiftUI iOS apps into Android Kotlin Compose apps
-- [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
+- [ReVanced/revanced-patches-template](https://github.com/ReVanced/revanced-patches-template) - 👋🧩ReVanced Patches template
 - [jellyfin/jellyfin-androidtv](https://github.com/jellyfin/jellyfin-androidtv) - Android TV Client for Jellyfin
 
 ## kubernetes 
@@ -1304,7 +1304,7 @@
 ## reverse-engineering 
 
 - [ReagentX/imessage-exporter](https://github.com/ReagentX/imessage-exporter) - Export iMessage data + run iMessage Diagnostics
-- [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
+- [ReVanced/revanced-patches-template](https://github.com/ReVanced/revanced-patches-template) - 👋🧩ReVanced Patches template
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 
