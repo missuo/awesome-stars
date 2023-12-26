@@ -160,7 +160,7 @@
 ## algorithm 
 
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言。
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 2968 LeetCode Problems (Weekly Update)
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 2977 LeetCode Problems (Weekly Update)
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 
 ## analytics 
@@ -370,7 +370,7 @@
 
 ## cpp 
 
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 2968 LeetCode Problems (Weekly Update)
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 2977 LeetCode Problems (Weekly Update)
 
 ## css 
 
@@ -804,6 +804,7 @@
 
 ## macos 
 
+- [zackelia/bclm](https://github.com/zackelia/bclm) - macOS command-line utility to limit max battery charge
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [DamascenoRafael/reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar) - Simple macOS menu bar application to view and interact with reminders. Developed with SwiftUI and using Apple Reminders as a source.
 - [Toxblh/MTMR](https://github.com/Toxblh/MTMR) - 🌟 [My TouchBar My rules]. The Touch Bar Customisation App for your MacBook Pro
@@ -939,6 +940,7 @@
 
 ## others 
 
+- [MirageNetwork/MirageServer](https://github.com/MirageNetwork/MirageServer) - 蜃境：基于Headscale修改的带WebUI开源版本Tailscale控制器
 - [Ehco1996/ehco](https://github.com/Ehco1996/ehco) - ehco is a network ʚrelayɞ tool and a typo :)
 - [YiiGuxing/TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin) - Translation plugin for IntelliJ based IDEs/Android Studio.
 - [ChiChou/bagbak](https://github.com/ChiChou/bagbak) - Yet another frida based iOS dumpdecrypted. Also decrypts app extensions
@@ -1240,7 +1242,7 @@
 ## python 
 
 - [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Browser automation framework for testing with Selenium, Python, and pytest. Includes a Dashboard, a Recorder for generating tests, Undetected Mode, and more.
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 2968 LeetCode Problems (Weekly Update)
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 2977 LeetCode Problems (Weekly Update)
 - [ading2210/poe-api](https://github.com/ading2210/poe-api) - [UNMAINTAINED] A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
 - [ShadowWhisperer/Remove-MS-Edge](https://github.com/ShadowWhisperer/Remove-MS-Edge) - Uninstall Microsoft Edge silently, through an executable.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
