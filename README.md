@@ -119,7 +119,7 @@
 
 ## Go 
 
-- [aaamoon/copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service) - 将Github Copilot Chat请求转换为ChatGPT请求，免费使用GPT-4模型
+- [aaamoon/copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service) - Convert the Github Copilot request into a ChatGPT request, free to use the GPT-4 model. 将Github Copilot请求转换为ChatGPT请求，免费使用GPT-4模型
 - [Ehco1996/ehco](https://github.com/Ehco1996/ehco) - ehco is a network ʚrelayɞ tool and a typo :)
 - [daeuniverse/dae](https://github.com/daeuniverse/dae) - A Linux high-performance transparent proxy solution based on eBPF.
 - [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
