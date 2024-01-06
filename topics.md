@@ -1037,7 +1037,7 @@
 - [gee1k/dotfiles](https://github.com/gee1k/dotfiles) - 
 - [ConnectAI-E/ChatGPT-PerfectUI](https://github.com/ConnectAI-E/ChatGPT-PerfectUI) - ✨ 用Vue3 + Vite + Tailwindcss 复刻ChatGPT！体验一模一样的web-app！✨
 - [cokemine/ServerStatus-goclient](https://github.com/cokemine/ServerStatus-goclient) - The client of ServerStatus-Hotaru written in Go
-- [tiny-lib/deepl](https://github.com/tiny-lib/deepl) - free deepl translate api in go
+- [lib-x/deepl](https://github.com/lib-x/deepl) - free deepl translate api in go
 - [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
 - [Masaiki/GeoIP2-CN](https://github.com/Masaiki/GeoIP2-CN) - 最小巧、最准确、最全面、最实用的中国大陆 GeoIP2 数据库及 IP 地址段
 - [gaoyifan/china-operator-ip](https://github.com/gaoyifan/china-operator-ip) - 中国运营商IPv4/IPv6地址库-每日更新
