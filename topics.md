@@ -1203,7 +1203,7 @@
 - [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
 - [Vittfarne/ASSL](https://github.com/Vittfarne/ASSL) - Automatic SSL creation by AKB@LET!
 - [namelessup/jd-script](https://github.com/namelessup/jd-script) - 
-- [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) - Simple and easy to use DDNS. Automatically update domain name resolution to public IP (Support Aliyun, Tencent, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, Na
+- [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) - Simple and easy to use DDNS. Support Aliyun, Tencent, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
 - [yingw/Lenovo-ThinkCentre-M73-Tiny-Hackintosh](https://github.com/yingw/Lenovo-ThinkCentre-M73-Tiny-Hackintosh) - 联想 M73 的黑苹果 EFI，使用 OpenCore 引导
 - [missuo/IDCard-Verify](https://github.com/missuo/IDCard-Verify) - China's second-generation ID card verification and analysis
 - [Hedilict/QuantumultX](https://github.com/Hedilict/QuantumultX) - QuantumultX去广告，签到等脚本合集
