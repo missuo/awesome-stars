@@ -1003,6 +1003,7 @@
 
 ## others 
 
+- [Lakr233/FixTim](https://github.com/Lakr233/FixTim) - Fix every runtime bug on macOS.
 - [joogps/Glur](https://github.com/joogps/Glur) - Progressive blurs in SwiftUI.
 - [h3110w0r1d-y/termius-cracked](https://github.com/h3110w0r1d-y/termius-cracked) - Termius Pro
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
@@ -1015,7 +1016,7 @@
 - [Hoshinonyaruko/palworld-go](https://github.com/Hoshinonyaruko/palworld-go) - Pal World all-in-one webui for pc and mobile devices.
 - [ZGGSONG/STranslate](https://github.com/ZGGSONG/STranslate) - A ready-to-use, ready-to-go translation tool developed by WPF/WPF 开发的一款即开即用、即用即走的翻译工具
 - [antfu/resume](https://github.com/antfu/resume) - Résumé d'antfu
-- [apernet/OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW on Linux
+- [apernet/OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux
 - [ihciah/aria2-rs](https://github.com/ihciah/aria2-rs) - Yet Another Aria2 JSON-RPC Client.
 - [LunarBar-app/LunarBar](https://github.com/LunarBar-app/LunarBar) - A compact lunar calendar for your macOS menu bar.
 - [MirageNetwork/MirageServer](https://github.com/MirageNetwork/MirageServer) - 蜃境：基于Headscale修改的带WebUI开源版本Tailscale控制器
