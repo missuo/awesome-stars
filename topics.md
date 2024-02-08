@@ -1078,7 +1078,6 @@
 - [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) - A rule-based tunnel for Android.
 - [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
 - [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
-- [QiuChenlyOpenSource/InjectLib](https://github.com/QiuChenlyOpenSource/InjectLib) - 基于Ruby编写的命令行注入版本
 - [ijk0/vercel-azure-openai-proxy](https://github.com/ijk0/vercel-azure-openai-proxy) - Rapid deployment of Azure OpenAI service proxy to Vercel.
 - [ilikenwf/apt-fast](https://github.com/ilikenwf/apt-fast) - apt-fast: A shellscript wrapper for apt that speeds up downloading of packages.
 - [Archeb/opentrace](https://github.com/Archeb/opentrace) - A cross-platform GUI wrapper for NextTrace. Bringing you the familiar traceroute experience. OpenTrace 是 NextTrace 的跨平台 GUI 界面，带来您熟悉但更强大的用户体验。
