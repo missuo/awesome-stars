@@ -347,7 +347,7 @@
 
 - [hbang/libcephei](https://github.com/hbang/libcephei) - Useful functions for tweak developers
 - [BandarHL/BHInstagram](https://github.com/BandarHL/BHInstagram) - An awesome tweak for Instagram!
-- [tisfeng/Easydict](https://github.com/tisfeng/Easydict) - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，ChatGPT，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and transla
+- [tisfeng/Easydict](https://github.com/tisfeng/Easydict) - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，ChatGPT，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and 
 - [newmarcel/KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Prevents your Mac from going to sleep.
 - [brunophilipe/Cakebrew](https://github.com/brunophilipe/Cakebrew) - Manage your Homebrew formulas with style using Cakebrew.
 - [opa334/TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
@@ -526,6 +526,7 @@
 
 ## Rust 
 
+- [MatthiasGrandl/loungy](https://github.com/MatthiasGrandl/loungy) - Loungy is a WIP launcher in the vein of Spotlight, Alfred, Raycast.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [ihciah/aria2-rs](https://github.com/ihciah/aria2-rs) - Yet Another Aria2 JSON-RPC Client.
 - [LynMoe/nya-exif](https://github.com/LynMoe/nya-exif) - A cross-platform tool for embedding GPS data into photographs
@@ -600,6 +601,7 @@
 
 ## Swift 
 
+- [Lakr233/Firework](https://github.com/Lakr233/Firework) - 烟花箱！
 - [Lakr233/FixTim](https://github.com/Lakr233/FixTim) - Fix every runtime bug on macOS.
 - [joogps/Glur](https://github.com/joogps/Glur) - Progressive blurs in SwiftUI.
 - [LunarBar-app/LunarBar](https://github.com/LunarBar-app/LunarBar) - A compact lunar calendar for your macOS menu bar.
