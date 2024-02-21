@@ -75,7 +75,7 @@
 
 - [victoryang00/A16-microbenchmark](https://github.com/victoryang00/A16-microbenchmark) - A repo to store what M1 explainer does and ~Armv9~ Armv8.6 ISA on A16
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - 一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3036 LeetCode Problems (Weekly Update)
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3045 LeetCode Problems (Weekly Update)
 - [qpdf/qpdf](https://github.com/qpdf/qpdf) - QPDF: A content-preserving PDF document transformer
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: run open-source LLMs anywhere
 - [google/fuse-archive](https://github.com/google/fuse-archive) - FUSE file system for archives and compressed files (ZIP, RAR, 7Z, ISO, TGZ, XZ...)
@@ -522,7 +522,7 @@
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
 - [missuo/FuckSheepGame](https://github.com/missuo/FuckSheepGame) - 羊了个羊刷通关助手 支持QuanX和HTTP Catcher
 - [ddimick/asn-to-ip](https://github.com/ddimick/asn-to-ip) - Queries whois and returns IP netblocks associated with BGP Autonomous System Numbers (ASN).
-- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1
+- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - [developing variable font] Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1
 - [viperadnan-git/google-drive-telegram-bot](https://github.com/viperadnan-git/google-drive-telegram-bot) - A Google Drive Telegram Bot for managing, cloning files, uploading files on Google Drive
 - [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - 【重制中 Repairing】短信轰炸 / 短信测压 | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！
 - [dataabc/weibo-crawler](https://github.com/dataabc/weibo-crawler) - 新浪微博爬虫，用python爬取新浪微博数据，并下载微博图片和微博视频
