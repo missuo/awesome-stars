@@ -125,6 +125,7 @@
 
 ## Go 
 
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models.
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [martin-helmich/prometheus-nginxlog-exporter](https://github.com/martin-helmich/prometheus-nginxlog-exporter) - Export metrics from Nginx access log files to Prometheus
 - [shopspring/decimal](https://github.com/shopspring/decimal) - Arbitrary-precision fixed-point decimal numbers in go
@@ -578,6 +579,7 @@
 
 ## Shell 
 
+- [supernotes/sn-pro](https://github.com/supernotes/sn-pro) - SN Pro Font Family
 - [QiuChenlyOpenSource/91QiuChen](https://github.com/QiuChenlyOpenSource/91QiuChen) - 91 Sex asm code asian cosplay hexinhex porn big dick 花Q
 - [jammsen/docker-palworld-dedicated-server](https://github.com/jammsen/docker-palworld-dedicated-server) - Docker container to easily provision and manage Palworld Dedicated Server
 - [thijsvanloef/palworld-server-docker](https://github.com/thijsvanloef/palworld-server-docker) - A Docker Container to easily run a Palworld dedicated server.
@@ -759,6 +761,7 @@
 
 ## Vue 
 
+- [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
 - [jw-12138/r2-uploader](https://github.com/jw-12138/r2-uploader) - Web Interface for Cloudflare R2
 - [MirageNetwork/MirageServer](https://github.com/MirageNetwork/MirageServer) - 蜃境：基于Headscale修改的带WebUI开源版本Tailscale控制器
 - [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - A Modern Redis GUI Client
