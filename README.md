@@ -30,6 +30,7 @@
 - [Others](#others)
 - [PHP](#php)
 - [Perl](#perl)
+- [PowerShell](#powershell)
 - [Python](#python)
 - [Roff](#roff)
 - [Ruby](#ruby)
@@ -50,6 +51,9 @@
 
 ## C 
 
+- [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
+- [Flipper-XFW/Xtreme-Firmware](https://github.com/Flipper-XFW/Xtreme-Firmware) - The Dom amongst the Flipper Zero Firmware. Give your Flipper the power and freedom it is really craving. Let it show you its true form. Dont delay, switch to the one and only true Master today!
+- [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
 - [RfidResearchGroup/proxmark3](https://github.com/RfidResearchGroup/proxmark3) - Iceman Fork - Proxmark3
 - [webserver-llc/angie](https://github.com/webserver-llc/angie) - Angie - drop-in replacement for Nginx
 - [opa334/Dopamine](https://github.com/opa334/Dopamine) - Dopamine is a semi-untethered jailbreak for iOS 15 and 16
@@ -75,6 +79,7 @@
 
 ## C++ 
 
+- [flipperdevices/qFlipper](https://github.com/flipperdevices/qFlipper) - qFlipper — desktop application for updating Flipper Zero firmware via PC
 - [victoryang00/A16-microbenchmark](https://github.com/victoryang00/A16-microbenchmark) - A repo to store what M1 explainer does and ~Armv9~ Armv8.6 ISA on A16
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - 一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。
 - [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3049 LeetCode Problems (Weekly Update)
@@ -127,13 +132,14 @@
 
 ## Go 
 
+- [eatmoreapple/openwechat](https://github.com/eatmoreapple/openwechat) - golang微信SDK
 - [zhsj/wghttp](https://github.com/zhsj/wghttp) - Turn WireGuard to HTTP & SOCKS5 proxies
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [martin-helmich/prometheus-nginxlog-exporter](https://github.com/martin-helmich/prometheus-nginxlog-exporter) - Export metrics from Nginx access log files to Prometheus
 - [shopspring/decimal](https://github.com/shopspring/decimal) - Arbitrary-precision fixed-point decimal numbers in go
 - [divyam234/teldrive](https://github.com/divyam234/teldrive) - Telegram Drive Storage
-- [zaigie/palworld-server-tool](https://github.com/zaigie/palworld-server-tool) - [中文|English|日本語]基于Level.sav存档解析和RCON优雅地用可视化界面管理幻兽帕鲁专用服务器。/ Through parse Level.sav and RCON, visual interface management PalWorld dedicated server.
+- [zaigie/palworld-server-tool](https://github.com/zaigie/palworld-server-tool) - [中文|English|日本語]基于.sav存档解析和RCON优雅地用可视化界面管理幻兽帕鲁专用服务器。/ Through parse .sav and RCON, visual interface management PalWorld dedicated server.
 - [akvorado/akvorado](https://github.com/akvorado/akvorado) - Flow collector, enricher and visualizer
 - [osrg/gobgp](https://github.com/osrg/gobgp) - BGP implemented in the Go Programming Language
 - [Hoshinonyaruko/palworld-go](https://github.com/Hoshinonyaruko/palworld-go) - Pal World all-in-one webui for pc and mobile devices.
@@ -246,6 +252,7 @@
 
 ## Java 
 
+- [qaiu/netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download) - 各类网盘直链解析, 已支持蓝奏云/奶牛快传/移动云云空间/UC网盘/小飞机盘/亿方云/123云盘等. 预览地址 https://lz.qaiu.top
 - [MoshiCoCo/Apple-Monitor](https://github.com/MoshiCoCo/Apple-Monitor) - 一个用 Java 实现的 Apple 商店库存监控,支持bark,dingtalk，微信等方式推送实时库存信息。目前支持中国和日本地区。An Apple store inventory monitoring implemented in Java, supports bark, dingtalk, WeChat and other methods to push real-time invento
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Python, C++, Java, C#, Go, Swift, JS, TS, Dart, Rust, C, Zig 等语言。English edition ongoing
 - [davinci1012/pinduoduo_backdoor_unpacker](https://github.com/davinci1012/pinduoduo_backdoor_unpacker) - Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo
@@ -375,6 +382,7 @@
 
 ## Others 
 
+- [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device.
 - [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb) - MaxMind's GeoIP2 GeoLite2 Country, City, and ASN databases
 - [h3110w0r1d-y/termius-cracked](https://github.com/h3110w0r1d-y/termius-cracked) - Termius Pro
 - [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.
@@ -435,6 +443,10 @@
 - [oetiker/SmokePing](https://github.com/oetiker/SmokePing) - The Active Monitoring System
 - [subogero/rename](https://github.com/subogero/rename) - Perl rename as a separate package
 - [bwachter/supermicro-ipmi-key](https://github.com/bwachter/supermicro-ipmi-key) - Generate keys for supermicro IPMI
+
+## PowerShell 
+
+- [UNC0V3R3D/Flipper_Zero-BadUsb](https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb) - Over 70 advanced BadUSB scripts for the Flipper Zero! By downloading the files, you automatically agree to the license and the terms outlined in the ReadMe. If you have any questions, please don't hes
 
 ## Python 
 
@@ -551,6 +563,7 @@
 
 ## Rust 
 
+- [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [MatthiasGrandl/Loungy](https://github.com/MatthiasGrandl/Loungy) - Loungy is a WIP launcher in the vein of Spotlight, Alfred, Raycast.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
@@ -705,6 +718,7 @@
 
 ## TypeScript 
 
+- [adamcohenhillel/ADeus](https://github.com/adamcohenhillel/ADeus) - An open source AI wearable device that captures what you say and hear in the real world and then transcribes and stores it on your own server. You can then chat with Adeus using the app, and it will h
 - [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers and the open-source alternative to Auth0.
 - [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) - Drift is a self-hostable Gist and paste service. Built with Next.js 13 and React Server Components.
