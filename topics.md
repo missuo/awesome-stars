@@ -1397,7 +1397,7 @@
 
 ## python 
 
-- [ihmily/DouyinLiveRecorder](https://github.com/ihmily/DouyinLiveRecorder) - 可循环值守和多人录制的直播录制软件，支持抖音、TikTok、快手、虎牙、斗鱼、B站、小红书、网易cc、pandaTV等平台直播录制，抓取多平台直播源地址，抖音无水印解析，快手无水印解析
+- [ihmily/DouyinLiveRecorder](https://github.com/ihmily/DouyinLiveRecorder) - 可循环值守和多人录制的直播录制软件，支持抖音、TikTok、快手、虎牙、斗鱼、B站、小红书、pandatv、afreecatv、flextv、popkontv、twitcasting、winktv等平台直播录制，抓取多平台直播源地址，抖音无水印解析，快手无水印解析
 - [GilbN/geoip2influx](https://github.com/GilbN/geoip2influx) - A python script that will parse the nginx access.log and send geolocation metrics and log metrics to InfluxDB
 - [Soroosh-N/us_visa_scheduler](https://github.com/Soroosh-N/us_visa_scheduler) - US VISA (usvisa-info) appointment re-scheduler bot with python.
 - [yangwenmai/github-trending-backup](https://github.com/yangwenmai/github-trending-backup) - Github trending backup by everyday.
@@ -1652,7 +1652,7 @@
 ## telegram 
 
 - [divyam234/teldrive](https://github.com/divyam234/teldrive) - Telegram Drive Storage
-- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [Helixform/TeleGPT](https://github.com/Helixform/TeleGPT) - An out-of-box ChatGPT bot for Telegram.
 - [MrMissx/Telegram_Forwarder](https://github.com/MrMissx/Telegram_Forwarder) - Simple telegram bot to forward message form channel/group
 - [go-telegram-bot-api/telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) - Golang bindings for the Telegram Bot API
@@ -1688,7 +1688,7 @@
 
 ## twitter 
 
-- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [BandarHL/BHTwitter](https://github.com/BandarHL/BHTwitter) - Awesome tweak for Twitter
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 - [robertoszek/pleroma-bot](https://github.com/robertoszek/pleroma-bot) - Bot for mirroring one or multiple Twitter accounts in Pleroma/Mastodon/Misskey.
