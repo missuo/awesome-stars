@@ -112,7 +112,6 @@
 - [parsing](#parsing)
 - [php](#php)
 - [postgresql](#postgresql)
-- [powershell](#powershell)
 - [privacy](#privacy)
 - [programming](#programming)
 - [pwa](#pwa)
@@ -1077,6 +1076,8 @@
 
 ## others 
 
+- [Dalufishe/freegptjs](https://github.com/Dalufishe/freegptjs) - Free ChatGPT 3.5 API for Javascript.
+- [biuld/weibo-album-dl](https://github.com/biuld/weibo-album-dl) - simple script to download photo album of a weibo user
 - [imperatrona/twitter-scraper](https://github.com/imperatrona/twitter-scraper) - Scrape the Twitter frontend API without authentication with Golang.
 - [wibus-wee/raycast-unblock](https://github.com/wibus-wee/raycast-unblock) - Unblock all features in Raycast Pro Plan with implementing similar functions in other ways
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
@@ -1405,10 +1406,6 @@
 - [dewscan001/python-mysql2postgresql](https://github.com/dewscan001/python-mysql2postgresql) - Python Package transfer data from MySQL to PostgreSQL
 - [vapor/sql-kit](https://github.com/vapor/sql-kit) - *️⃣ Build SQL queries in Swift. Extensible, protocol-based design that supports DQL, DML, and DDL.
 
-## powershell 
-
-- [unc0ver3d/Flipper_Zero-BadUsb](https://github.com/unc0ver3d/Flipper_Zero-BadUsb) - Over 70 advanced BadUSB scripts for the Flipper Zero! By downloading the files, you automatically agree to the license and the terms outlined in the ReadMe. If you have any questions, please don't hes
-
 ## privacy 
 
 - [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
@@ -1431,7 +1428,7 @@
 - [GilbN/geoip2influx](https://github.com/GilbN/geoip2influx) - A python script that will parse the nginx access.log and send geolocation metrics and log metrics to InfluxDB
 - [Soroosh-N/us_visa_scheduler](https://github.com/Soroosh-N/us_visa_scheduler) - US VISA (usvisa-info) appointment re-scheduler bot with python.
 - [yangwenmai/github-trending-backup](https://github.com/yangwenmai/github-trending-backup) - Github trending backup by everyday.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 All-in-one automation framework: Web crawling, scraping, testing, and reporting. (Python | pytest). UC Mode provides stealth. Over 200 examples.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 All in One Automation Framework: Web crawling, scraping, testing, and reporting. (Python | pytest). UC Mode provides stealth. Over 200 examples.
 - [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3102 LeetCode Problems (Weekly Update)
 - [ading2210/poe-api](https://github.com/ading2210/poe-api) - [UNMAINTAINED] A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
 - [ShadowWhisperer/Remove-MS-Edge](https://github.com/ShadowWhisperer/Remove-MS-Edge) - Uninstall Microsoft Edge silently, through an executable.
