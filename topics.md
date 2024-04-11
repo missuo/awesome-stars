@@ -602,6 +602,7 @@
 
 ## go 
 
+- [liushuangls/go-anthropic](https://github.com/liushuangls/go-anthropic) - Anthropic Claude API wrapper for Go
 - [eatmoreapple/openwechat](https://github.com/eatmoreapple/openwechat) - golang微信SDK
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
@@ -1035,6 +1036,7 @@
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 
 ## nlp 
 
@@ -1504,6 +1506,7 @@
 - [Performave/pane](https://github.com/Performave/pane) - A beautifully designed LookingGlass panel in TailwindCSS, React, and NodeJS.
 - [igorsheg/astro](https://github.com/igorsheg/astro) - An open, extensible, dashboard for all of your homelab services.
 - [creativetimofficial/material-kit-react](https://github.com/creativetimofficial/material-kit-react) - Material Kit React free and open source by Creative Tim
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 
 ## rest-api 
 
