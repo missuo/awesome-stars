@@ -454,6 +454,8 @@
 
 ## Python 
 
+- [WeChatAPIs/WeChatMsgHistory_real](https://github.com/WeChatAPIs/WeChatMsgHistory_real) - 实时微信聊天记录查询系统是一个面向开发者和研究人员的工具，旨在提供一个实时监控和查询微信聊天内容的解决方案。通过本系统，用户可以实时获取特定微信群或私聊的聊天记录，并通过提供的API进行访问。
+- [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫
 - [apiflask/apiflask](https://github.com/apiflask/apiflask) - A lightweight Python web API framework.
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
