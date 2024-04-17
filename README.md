@@ -757,7 +757,7 @@
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [ddiu8081/ddiu.io](https://github.com/ddiu8081/ddiu.io) - Personal website.
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGP
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, Ch
 - [xyxc0673/calendar-remark](https://github.com/xyxc0673/calendar-remark) - A simple calendar with nice design for remarking a date
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [soapbox-pub/soapbox](https://github.com/soapbox-pub/soapbox) - Software for the next generation of social media.
