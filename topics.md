@@ -299,6 +299,7 @@
 
 ## chatgpt 
 
+- [MartialBE/one-api](https://github.com/MartialBE/one-api) - OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。
 - [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Scalable, Low-latency and Hybrid-enabled Vector Search in Postgres. Revolutionize Vector Search, not Database.
 - [lobehub/lobe-cli-toolbox](https://github.com/lobehub/lobe-cli-toolbox) - 🪀 Lobe CLI Toolbox - AI CLI Toolbox, enhancing git commit and i18n workflow efficiency
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TT
@@ -607,7 +608,7 @@
 
 - [liushuangls/go-anthropic](https://github.com/liushuangls/go-anthropic) - Anthropic Claude API wrapper for Go
 - [eatmoreapple/openwechat](https://github.com/eatmoreapple/openwechat) - golang微信SDK
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [shopspring/decimal](https://github.com/shopspring/decimal) - Arbitrary-precision fixed-point decimal numbers in Go
 - [yangwenmai/github-trending-backup](https://github.com/yangwenmai/github-trending-backup) - Github trending backup by everyday.
@@ -650,7 +651,7 @@
 - [liushuangls/go-anthropic](https://github.com/liushuangls/go-anthropic) - Anthropic Claude API wrapper for Go
 - [hr3lxphr6j/bililive-go](https://github.com/hr3lxphr6j/bililive-go) - 一个直播录制工具
 - [eatmoreapple/openwechat](https://github.com/eatmoreapple/openwechat) - golang微信SDK
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [shopspring/decimal](https://github.com/shopspring/decimal) - Arbitrary-precision fixed-point decimal numbers in Go
 - [divyam234/teldrive](https://github.com/divyam234/teldrive) - Telegram Drive Storage
@@ -1092,6 +1093,7 @@
 
 ## others 
 
+- [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
 - [cohere-ai/cohere-go](https://github.com/cohere-ai/cohere-go) - Go Library for Accessing the Cohere API
 - [WeChatAPIs/WeChatMsgHistory_real](https://github.com/WeChatAPIs/WeChatMsgHistory_real) - Real-time Chat-重现微信群组和个人聊天记录查询项目，本项目为开发者和研究者提供一种深入查看微信聊天内容的解决方案，允许用户在特定条件下获取特定群组或私聊的聊天记录，并通过我们提供的API进行控制
 - [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫
@@ -1278,7 +1280,6 @@
 - [google/fuse-archive](https://github.com/google/fuse-archive) - FUSE file system for archives and compressed files (ZIP, RAR, 7Z, ISO, TGZ, XZ...)
 - [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Use ChatGPT On Wechat via wechaty
 - [evalphobia/go-ip-fraud-check](https://github.com/evalphobia/go-ip-fraud-check) - To check ip address risk and proxy usage using ip address check services
-- [shengxinjing/email-helper](https://github.com/shengxinjing/email-helper) - Generate your business emails in seconds (by OpenAI)
 - [minio/warp](https://github.com/minio/warp) - S3 benchmarking tool
 - [daodao97/SingBoxClient](https://github.com/daodao97/SingBoxClient) - Cross platform client for sing-box
 - [realByg/office-user-bot](https://github.com/realByg/office-user-bot) - 用 Telegram bot 创建 Office 账号
