@@ -1105,7 +1105,7 @@
 ## others 
 
 - [Helixform/GetFileTunnel](https://github.com/Helixform/GetFileTunnel) - A blazing-fast file transfer tool.
-- [ckt1031/cohere2openai-cf-worker](https://github.com/ckt1031/cohere2openai-cf-worker) - 
+- [ckt1031/cohere2openai-cf-worker](https://github.com/ckt1031/cohere2openai-cf-worker) - This is a simple Cloudflare Worker that transform Cohere API to OpenAI API, easily deployable to Cloudflare Workers.
 - [gngpp/deeplx](https://github.com/gngpp/deeplx) - DeepL Pro to free API
 - [imShire/pot-app-translate-plugin-cohere](https://github.com/imShire/pot-app-translate-plugin-cohere) - Cohere (Command R+) AI translation plugin for pot.
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
