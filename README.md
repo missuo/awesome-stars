@@ -64,7 +64,6 @@
 - [BandarHL/BHTwitter](https://github.com/BandarHL/BHTwitter) - Awesome tweak for Twitter
 - [ventoy/PXE](https://github.com/ventoy/PXE) - The open source part of iVentoy.
 - [google/security-research](https://github.com/google/security-research) - This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.
-- [damus-io/damus](https://github.com/damus-io/damus) - iOS nostr client
 - [openzfs/zfs](https://github.com/openzfs/zfs) - OpenZFS on Linux and FreeBSD
 - [h3xx/jphs](https://github.com/h3xx/jphs) - jphide & seek steganography tools
 - [easychen/pushdeer](https://github.com/easychen/pushdeer) - 开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备
@@ -466,7 +465,7 @@
 - [apiflask/apiflask](https://github.com/apiflask/apiflask) - A lightweight Python web API framework.
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
-- [ihmily/DouyinLiveRecorder](https://github.com/ihmily/DouyinLiveRecorder) - 可循环值守和多人录制的直播录制软件，支持抖音、TikTok、快手、虎牙、斗鱼、B站、小红书、pandatv、afreecatv、flextv、popkontv、twitcasting、winktv、百度、微博、酷狗、花椒等平台直播录制，抓取多平台直播源地址
+- [ihmily/DouyinLiveRecorder](https://github.com/ihmily/DouyinLiveRecorder) - 可循环值守和多人录制的直播录制软件，支持抖音、TikTok、快手、虎牙、斗鱼、B站、小红书、pandatv、afreecatv、flextv、popkontv、twitcasting、winktv、百度、微博、酷狗、花椒、流星等平台直播录制，抓取多平台直播源地址
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具
 - [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) - 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.
 - [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
@@ -719,6 +718,7 @@
 - [MessageKit/MessageKit](https://github.com/MessageKit/MessageKit) - A community-driven replacement for JSQMessagesViewController
 - [Yoddikko/yoddChatGPT](https://github.com/Yoddikko/yoddChatGPT) - This app uses the OpenAISwift library, ChatGPTSwift library and OpenAI library to communicate with the popular ChatGPT artificial intelligence. The app allows you to have a quick message exchange with
 - [ITzTravelInTime/TINU](https://github.com/ITzTravelInTime/TINU) - TINU: The open tool to create bootable macOS installers.
+- [damus-io/damus](https://github.com/damus-io/damus) - iOS nostr client
 - [vapor/postgres-kit](https://github.com/vapor/postgres-kit) - 🐘 Non-blocking, event-driven Swift client for PostgreSQL.
 - [Dimillian/IceCubesApp](https://github.com/Dimillian/IceCubesApp) - A SwiftUI Mastodon client
 - [Lakr233/Kimis](https://github.com/Lakr233/Kimis) - Kimis is a client for Misskey built with pure UIKit for quality.
