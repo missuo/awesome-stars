@@ -435,7 +435,6 @@
 
 ## PHP 
 
-- [pandora-next/deploy](https://github.com/pandora-next/deploy) - Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API + Signup Free = PandoraNext. New GPTs(Gizmo) UI, All in one!
 - [lizhipay/acg-faka](https://github.com/lizhipay/acg-faka) - 个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡
 - [maxmind/MaxMind-DB-Reader-php](https://github.com/maxmind/MaxMind-DB-Reader-php) - PHP Reader for the MaxMind DB Database Format
 - [pplulee/appleid_auto](https://github.com/pplulee/appleid_auto) - 基于密保问题，自动解锁Apple ID，自动关闭双重认证，提供前端账号展示，支持多账号
@@ -474,7 +473,7 @@
 - [QiuChenlyOpenSource/91QiuChen](https://github.com/QiuChenlyOpenSource/91QiuChen) - 91 Sex asm code asian cosplay hexinhex porn big dick 花Q
 - [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
 - [NateScarlet/holiday-cn](https://github.com/NateScarlet/holiday-cn) - 📅🇨🇳中国法定节假日数据 自动每日抓取国务院公告
-- [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告
+- [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手
 - [dqbd/tiktoken](https://github.com/dqbd/tiktoken) - JS port and JS/WASM bindings for openai/tiktoken
 - [machinewrapped/gpt-subtrans](https://github.com/machinewrapped/gpt-subtrans) - Open Source project using LLMs to translate SRT subtitles
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
@@ -582,7 +581,7 @@
 ## Rust 
 
 - [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit) - Customize your git commit hashes!
-- [gngpp/deeplx](https://github.com/gngpp/deeplx) - DeepL Pro to free API
+- [0x676e67/deeplx](https://github.com/0x676e67/deeplx) - DeepL Pro to free API
 - [imShire/pot-app-translate-plugin-cohere](https://github.com/imShire/pot-app-translate-plugin-cohere) - Cohere (Command R+) AI translation plugin for pot.
 - [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Scalable, Low-latency and Hybrid-enabled Vector Search in Postgres. Revolutionize Vector Search, not Database.
 - [mochi-neko/clust](https://github.com/mochi-neko/clust) - An unofficial Rust client for the Anthropic/Claude API.
