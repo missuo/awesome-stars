@@ -427,7 +427,7 @@
 ## css 
 
 - [ddgksf2013/ddgksf2013](https://github.com/ddgksf2013/ddgksf2013) - 
-- [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/spicetify-cli
+- [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/cli
 
 ## cybersecurity 
 
