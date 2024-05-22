@@ -187,7 +187,7 @@
 ## analytics 
 
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
-- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
 
 ## android 
 
@@ -763,7 +763,7 @@
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
-- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
 
 ## homebrew 
 
@@ -1377,7 +1377,7 @@
 - [akebe/address-parse](https://github.com/akebe/address-parse) - 🌏对国内地址地区进行智能解析，提取关键数据，如有识别不准的地址请Issues
 - [ddimick/asn-to-ip](https://github.com/ddimick/asn-to-ip) - Queries whois and returns IP netblocks associated with BGP Autonomous System Numbers (ASN).
 - [WildChickenUniversity/WildChickenUniversity](https://github.com/WildChickenUniversity/WildChickenUniversity) - The official repo for Wild Chicken University
-- [spicetify/spicetify-marketplace](https://github.com/spicetify/spicetify-marketplace) - Download extensions and themes directly from Spicetify
+- [spicetify/marketplace](https://github.com/spicetify/marketplace) - Download extensions and themes directly from Spicetify
 - [yichengchen/ATV-Bilibili-demo](https://github.com/yichengchen/ATV-Bilibili-demo) - BiliBili Client Demo for Apple TV (tvOS)
 - [viperadnan-git/google-drive-telegram-bot](https://github.com/viperadnan-git/google-drive-telegram-bot) - A Google Drive Telegram Bot for managing, cloning files, uploading files on Google Drive
 - [rikumi/iconsur](https://github.com/rikumi/iconsur) - macOS Big Sur Adaptive Icon Generator
@@ -1668,7 +1668,7 @@
 - [vapor/postgres-kit](https://github.com/vapor/postgres-kit) - 🐘 Non-blocking, event-driven Swift client for PostgreSQL.
 - [vapor/sql-kit](https://github.com/vapor/sql-kit) - *️⃣ Build SQL queries in Swift. Extensible, protocol-based design that supports DQL, DML, and DDL.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
 
 ## sqlite 
 
