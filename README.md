@@ -654,7 +654,7 @@
 - [krestaino/macos-folder-icons](https://github.com/krestaino/macos-folder-icons) - 📁 Generate custom folder icons using images or SF Symbols.
 - [missuo/OpenAI-Checker](https://github.com/missuo/OpenAI-Checker) - Used to check if your IP can access OpenAI services.
 - [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
-- [CN-Scars/A-Magisk-module-that-can-change-model-to-Google-Pixel-7-Pro](https://github.com/CN-Scars/A-Magisk-module-that-can-change-model-to-Google-Pixel-7-Pro) - 
+- [CN-Scars/A-Magisk-module-that-can-change-model-to-Google-Pixel-7-Pro](https://github.com/CN-Scars/A-Magisk-module-that-can-change-model-to-Google-Pixel-7-Pro) - Change the model of your Android device to Google Pixel 7 Pro
 - [Aurora-Admin-Panel/deploy](https://github.com/Aurora-Admin-Panel/deploy) - 一个多服务器端口租用管理面板
 - [bohanyang/debi](https://github.com/bohanyang/debi) - Reinstall your VPS to minimal Debian
 - [boredazfcuk/docker-icloudpd](https://github.com/boredazfcuk/docker-icloudpd) - An Alpine Linux container for the iCloud Photos Downloader command line utility
