@@ -1308,7 +1308,7 @@
 - [tucnak/telebot](https://github.com/tucnak/telebot) - Telebot is a Telegram bot framework in Go.
 - [steveyiyo/fetch-google-drive-direct-link](https://github.com/steveyiyo/fetch-google-drive-direct-link) - Quickly get Google Drive Direct Download Link
 - [go-gorm/clickhouse](https://github.com/go-gorm/clickhouse) - GORM clickhouse driver
-- [CN-Scars/A-Magisk-module-that-can-change-model-to-Google-Pixel-7-Pro](https://github.com/CN-Scars/A-Magisk-module-that-can-change-model-to-Google-Pixel-7-Pro) - 
+- [CN-Scars/A-Magisk-module-that-can-change-model-to-Google-Pixel-7-Pro](https://github.com/CN-Scars/A-Magisk-module-that-can-change-model-to-Google-Pixel-7-Pro) - Change the model of your Android device to Google Pixel 7 Pro
 - [wikihost-opensource/als](https://github.com/wikihost-opensource/als) - Another Looking-glass Server
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
 - [google/fuse-archive](https://github.com/google/fuse-archive) - FUSE file system for archives and compressed files (ZIP, RAR, 7Z, ISO, TGZ, XZ...)
