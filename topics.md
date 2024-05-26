@@ -1122,6 +1122,7 @@
 
 ## others 
 
+- [ccbikai/Sink](https://github.com/ccbikai/Sink) - A Simple / Speedy / Secrue Link Shortener with Analytics, 100% run on Cloudflare.
 - [RSSNext/follow](https://github.com/RSSNext/follow) - [WIP] Next generation information browser
 - [Helixform/GetFileTunnel](https://github.com/Helixform/GetFileTunnel) - A blazing-fast file transfer tool.
 - [ckt1031/cohere2openai-cf-worker](https://github.com/ckt1031/cohere2openai-cf-worker) - This is a simple Cloudflare Worker that transform Cohere API to OpenAI API, easily deployable to Cloudflare Workers.
