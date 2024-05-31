@@ -515,7 +515,7 @@
 - [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
-- [TikHubIO/Douyin-TikTok-API-Python-SDK](https://github.com/TikHubIO/Douyin-TikTok-API-Python-SDK) - High-performance asynchronous Douyin and TikTok unofficial API based on TikHub API.
+- [TikHubIO/TikHub-API-Python-SDK](https://github.com/TikHubIO/TikHub-API-Python-SDK) - High-performance asynchronous Douyin and TikTok unofficial API based on TikHub API.
 - [LyzenX/DouyinLiveRecorder](https://github.com/LyzenX/DouyinLiveRecorder) - 一个自动监测和录制抖音直播的工具，支持录制弹幕，以GUI或命令行形式运行，支持linux，无需设置cookie，不使用selenium，开箱即用。
 - [MrMissx/Telegram_Forwarder](https://github.com/MrMissx/Telegram_Forwarder) - Simple telegram bot to forward message from channel/group
 - [kazutoiris/ali_ecc](https://github.com/kazutoiris/ali_ecc) - AliyunDrive ECC Signature
@@ -758,7 +758,7 @@
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TT
 - [wibus-wee/raycast-unblock](https://github.com/wibus-wee/raycast-unblock) - Unblock all features in Raycast Pro Plan with implementing similar functions in other ways
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
-- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway. Route to 100+ LLMs with 1 fast & friendly API.
+- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway. Route to 200+ LLMs with 1 fast & friendly API.
 - [windingwind/zotero-pdf-translate](https://github.com/windingwind/zotero-pdf-translate) - Translate PDF, EPub, webpage, metadata, annotations, notes to the target language. Support 20+ translate services.
 - [adamcohenhillel/ADeus](https://github.com/adamcohenhillel/ADeus) - An open source AI wearable device that captures what you say and hear in the real world and then transcribes and stores it on your own server. You can then chat with Adeus using the app, and it will h
 - [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
