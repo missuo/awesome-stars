@@ -69,6 +69,7 @@
 - [golang](#golang)
 - [google](#google)
 - [graphql](#graphql)
+- [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
 - [homebrew](#homebrew)
 - [http](#http)
@@ -433,6 +434,7 @@
 ## cybersecurity 
 
 - [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
+- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - A web security gateway, serve as a reverse proxy to protect your websites from attacks and exploits.
 
 ## dart 
 
@@ -484,7 +486,6 @@
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 - [geekdada/snell-server-docker](https://github.com/geekdada/snell-server-docker) - A Docker image for Snell proxy service
-- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - A simple, lightweight, and secure WAF. Developed based on Nginx and connected as a reverse proxy. Protect your web applications from common attacks and exploits.
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [mandarons/icloud-drive-docker](https://github.com/mandarons/icloud-drive-docker) - Dockerized iCloud Client - make a local copy of your iCloud documents and photos, and keep it automatically up-to-date.
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。
@@ -731,6 +732,10 @@
 ## graphql 
 
 - [ading2210/poe-api](https://github.com/ading2210/poe-api) - [UNMAINTAINED] A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
+
+## hacking 
+
+- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - A web security gateway, serve as a reverse proxy to protect your websites from attacks and exploits.
 
 ## hacktoberfest 
 
@@ -1610,7 +1615,7 @@
 
 ## security 
 
-- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - A simple, lightweight, and secure WAF. Developed based on Nginx and connected as a reverse proxy. Protect your web applications from common attacks and exploits.
+- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - A web security gateway, serve as a reverse proxy to protect your websites from attacks and exploits.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [mufeedvh/pdfrip](https://github.com/mufeedvh/pdfrip) - A multi-threaded PDF password cracking utility equipped with commonly encountered password format builders and dictionary attacks.
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
