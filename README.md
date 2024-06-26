@@ -271,6 +271,7 @@
 
 ## JavaScript 
 
+- [said7388/github-portfolio](https://github.com/said7388/github-portfolio) - Create a Portfolio Website using your GitHub username. This website template is constructed with next.js and tailwind CSS, allowing you to display your work and skills as a software developer.
 - [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
 - [Dalufishe/freegptjs](https://github.com/Dalufishe/freegptjs) - Free ChatGPT 3.5 API for Javascript.
 - [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & ip limit (Vmess & Vless & Trojan &  ShadowSocks & Wireguard)
