@@ -227,7 +227,7 @@
 - [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
 - [Postcatlab/postcat](https://github.com/Postcatlab/postcat) - Postcat 是一个可扩展的 API 工具平台。集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。An extensible API tool.
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
-- [TikHubIO/TikHub-API-Python-SDK](https://github.com/TikHubIO/TikHub-API-Python-SDK) - High-performance asynchronous Douyin(抖音) TikTok Instagram Twitter Xiaohongshu(小红书) Kuaishou(快手) Weibo(微博) NetEase Cloud Music(网易云音乐) unofficial API.
+- [TikHubIO/TikHub-API-Python-SDK](https://github.com/TikHubIO/TikHub-API-Python-SDK) - High-performance asynchronous Douyin(抖音) TikTok Xiaohongshu(小红书) Kuaishou(快手) Weibo(微博) Instagram YouTube(油管) Twitter(X) Captcha Solver(验证码解决器) Temp Mail(临时邮箱) API(接口).
 - [fcambus/rrda](https://github.com/fcambus/rrda) - REST API allowing to perform DNS queries over HTTP
 - [fcambus/telize](https://github.com/fcambus/telize) - High performance JSON IP and GeoIP REST API (IP Geolocation)
 - [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) - 🚀「Douyin_TikTok_Download_API」是一个开箱即用的高性能异步抖音、快手、TikTok、Bilibili数据爬取工具，支持API调用，在线批量解析及下载。
@@ -249,6 +249,8 @@
 
 ## awesome 
 
+- [ccbikai/awesome-homelab-web](https://github.com/ccbikai/awesome-homelab-web) - Curating Top Apps for Homelab Enthusiasts
+- [ccbikai/awesome-homelab](https://github.com/ccbikai/awesome-homelab) - Curating Top Apps for Homelab Enthusiasts
 - [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device.
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
@@ -256,6 +258,7 @@
 
 ## awesome-list 
 
+- [ccbikai/awesome-homelab](https://github.com/ccbikai/awesome-homelab) - Curating Top Apps for Homelab Enthusiasts
 - [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
@@ -1631,6 +1634,7 @@
 
 ## self-hosted 
 
+- [ccbikai/awesome-homelab](https://github.com/ccbikai/awesome-homelab) - Curating Top Apps for Homelab Enthusiasts
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) - Drift is a self-hostable Gist and paste service. Built with Next.js 13 and React Server Components.
@@ -1806,7 +1810,7 @@
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [BandarHL/BHTwitter](https://github.com/BandarHL/BHTwitter) - Awesome tweak for Twitter
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
-- [TikHubIO/TikHub-API-Python-SDK](https://github.com/TikHubIO/TikHub-API-Python-SDK) - High-performance asynchronous Douyin(抖音) TikTok Instagram Twitter Xiaohongshu(小红书) Kuaishou(快手) Weibo(微博) NetEase Cloud Music(网易云音乐) unofficial API.
+- [TikHubIO/TikHub-API-Python-SDK](https://github.com/TikHubIO/TikHub-API-Python-SDK) - High-performance asynchronous Douyin(抖音) TikTok Xiaohongshu(小红书) Kuaishou(快手) Weibo(微博) Instagram YouTube(油管) Twitter(X) Captcha Solver(验证码解决器) Temp Mail(临时邮箱) API(接口).
 - [robertoszek/pleroma-bot](https://github.com/robertoszek/pleroma-bot) - Bot for mirroring one or multiple Twitter accounts in Pleroma/Mastodon/Misskey.
 - [klausi/mastodon-twitter-sync](https://github.com/klausi/mastodon-twitter-sync) - Synchronizes posts from Mastodon to Twitter and back
 - [mmpx12/twitter-media-downloader](https://github.com/mmpx12/twitter-media-downloader) - twmd: CLI/GUI Apiless twitter downlaoder. Download medias from single tweet or a whole profile.
