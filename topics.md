@@ -183,7 +183,7 @@
 ## algorithm 
 
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3204 LeetCode Problems (Weekly Update)
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3213 LeetCode Problems (Weekly Update)
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 
 ## analytics 
@@ -250,7 +250,7 @@
 ## awesome 
 
 - [ccbikai/awesome-homelab-web](https://github.com/ccbikai/awesome-homelab-web) - Curating Top Apps for Homelab Enthusiasts
-- [ccbikai/awesome-homelab](https://github.com/ccbikai/awesome-homelab) - Curating Top Apps for Homelab Enthusiasts
+- [ccbikai/awesome-homelab](https://github.com/ccbikai/awesome-homelab) - Curating Top Open Source Apps for Homelab Enthusiasts
 - [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device.
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
@@ -258,7 +258,7 @@
 
 ## awesome-list 
 
-- [ccbikai/awesome-homelab](https://github.com/ccbikai/awesome-homelab) - Curating Top Apps for Homelab Enthusiasts
+- [ccbikai/awesome-homelab](https://github.com/ccbikai/awesome-homelab) - Curating Top Open Source Apps for Homelab Enthusiasts
 - [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
@@ -428,7 +428,7 @@
 ## cpp 
 
 - [skyzh/RISCV-Simulator](https://github.com/skyzh/RISCV-Simulator) - 💻 RISC-V Simulator of RV32I ISA. 5-stage pipeline / out-of-order execution with Tomasulo algorithm and Speculation. Support runtime visualization. Project report available.
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3204 LeetCode Problems (Weekly Update)
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3213 LeetCode Problems (Weekly Update)
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
 
 ## css 
@@ -1498,7 +1498,7 @@
 - [Soroosh-N/us_visa_scheduler](https://github.com/Soroosh-N/us_visa_scheduler) - US VISA (usvisa-info) appointment re-scheduler bot with python.
 - [yangwenmai/github-trending-backup](https://github.com/yangwenmai/github-trending-backup) - Github trending backup by everyday.
 - [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 Python's all-in-one framework for web crawling, scraping, testing, and reporting. Supports pytest. UC Mode provides stealth. Includes many tools.
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3204 LeetCode Problems (Weekly Update)
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3213 LeetCode Problems (Weekly Update)
 - [ading2210/poe-api](https://github.com/ading2210/poe-api) - [UNMAINTAINED] A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
 - [ShadowWhisperer/Remove-MS-Edge](https://github.com/ShadowWhisperer/Remove-MS-Edge) - Uninstall Microsoft Edge silently, through an executable or batch script.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
@@ -1634,7 +1634,7 @@
 
 ## self-hosted 
 
-- [ccbikai/awesome-homelab](https://github.com/ccbikai/awesome-homelab) - Curating Top Apps for Homelab Enthusiasts
+- [ccbikai/awesome-homelab](https://github.com/ccbikai/awesome-homelab) - Curating Top Open Source Apps for Homelab Enthusiasts
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) - Drift is a self-hostable Gist and paste service. Built with Next.js 13 and React Server Components.
