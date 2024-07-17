@@ -1317,7 +1317,7 @@
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [pplulee/appleid_auto](https://github.com/pplulee/appleid_auto) - 基于密保问题，自动解锁Apple ID，自动关闭双重认证，提供前端账号展示，支持多账号
 - [v2board/v2board](https://github.com/v2board/v2board) - 🚀A multiple proxy protocol manage panel application interface
-- [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - DeepL Free API (No TOKEN required)
+- [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required
 - [subogero/rename](https://github.com/subogero/rename) - Perl rename as a separate package
 - [DualSubs/Netflix](https://github.com/DualSubs/Netflix) - Netflix字幕增强及双语模块
 - [kazutoiris/ali_ecc](https://github.com/kazutoiris/ali_ecc) - AliyunDrive ECC Signature
