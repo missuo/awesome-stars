@@ -392,6 +392,7 @@
 
 ## Others 
 
+- [Lessica/TrollFools](https://github.com/Lessica/TrollFools) - In-place injection with inject_dylib and ChOma.
 - [Helixform/GetFileTunnel](https://github.com/Helixform/GetFileTunnel) - A blazing-fast file transfer tool.
 - [yinanan77/Yi_WeChat](https://github.com/yinanan77/Yi_WeChat) - 仅做个人备份使用
 - [dayanch96/InfusePlus](https://github.com/dayanch96/InfusePlus) - Enhancer for Infuse iOS app
@@ -671,6 +672,7 @@
 
 ## Swift 
 
+- [Lakr233/ColorfulX](https://github.com/Lakr233/ColorfulX) - ColorfulX is a high-performance library designed for creating vibrant, animated gradient views.
 - [Lakr233/Asspp](https://github.com/Lakr233/Asspp) - The App Store for your multi-account eco system.
 - [Lakr233/NotchDrop](https://github.com/Lakr233/NotchDrop) - Use your MacBook's notch like Dynamic Island for temporary storing files and AirDrop
 - [Lakr233/ColorVector](https://github.com/Lakr233/ColorVector) - Color with its space, in Swift.
