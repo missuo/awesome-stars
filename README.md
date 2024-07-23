@@ -469,7 +469,6 @@
 - [ihmily/DouyinLiveRecorder](https://github.com/ihmily/DouyinLiveRecorder) - 可循环值守和多人录制的直播录制软件，支持抖音、TikTok、快手、虎牙、斗鱼、B站、小红书、pandatv、afreecatv、flextv、popkontv、twitcasting、winktv、百度、微博、酷狗、花椒、流星、Twitch等平台直播录制
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具
 - [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) - 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.
-- [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
 - [GilbN/geoip2influx](https://github.com/GilbN/geoip2influx) - A python script that will parse the nginx access.log and send geolocation metrics and log metrics to InfluxDB
 - [Soroosh-N/us_visa_scheduler](https://github.com/Soroosh-N/us_visa_scheduler) - US VISA (usvisa-info) appointment re-scheduler bot with python.
 - [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
@@ -590,6 +589,7 @@
 - [TheWaWaR/simple-http-server](https://github.com/TheWaWaR/simple-http-server) - Simple http server in Rust (Windows/Mac/Linux)
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
+- [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
 - [MatthiasGrandl/Loungy](https://github.com/MatthiasGrandl/Loungy) - Loungy is a WIP launcher in the vein of Spotlight, Alfred, Raycast.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [ihciah/aria2-rs](https://github.com/ihciah/aria2-rs) - Yet Another Aria2 JSON-RPC Client.
