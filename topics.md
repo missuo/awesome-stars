@@ -1154,7 +1154,7 @@
 - [Lakr233/Asspp](https://github.com/Lakr233/Asspp) - The App Store for your multi-account eco system.
 - [Lakr233/NotchDrop](https://github.com/Lakr233/NotchDrop) - Use your MacBook's notch like Dynamic Island for temporary storing files and AirDrop
 - [Lakr233/ColorVector](https://github.com/Lakr233/ColorVector) - Color with its space, in Swift.
-- [RSSNext/follow](https://github.com/RSSNext/follow) - 🧡 Next generation information browser
+- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser
 - [Helixform/GetFileTunnel](https://github.com/Helixform/GetFileTunnel) - A blazing-fast file transfer tool.
 - [ckt1031/cohere2openai-cf-worker](https://github.com/ckt1031/cohere2openai-cf-worker) - This is a simple Cloudflare Worker that transform Cohere API to OpenAI API, easily deployable to Cloudflare Workers.
 - [0x676e67/deeplx](https://github.com/0x676e67/deeplx) - DeepL Pro to free API
