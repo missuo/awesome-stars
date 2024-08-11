@@ -125,6 +125,7 @@
 - [python3](#python3)
 - [pytorch](#pytorch)
 - [qt](#qt)
+- [raspberry-pi](#raspberry-pi)
 - [react](#react)
 - [react-native](#react-native)
 - [rest-api](#rest-api)
@@ -1566,6 +1567,10 @@
 ## qt 
 
 - [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
+
+## raspberry-pi 
+
+- [Ysurac/openmptcprouter](https://github.com/Ysurac/openmptcprouter) - OpenMPTCProuter is an open source solution to aggregate multiple internet connections using Multipath TCP (MPTCP) on OpenWrt
 
 ## react 
 
