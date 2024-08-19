@@ -148,6 +148,7 @@
 - [svelte](#svelte)
 - [swift](#swift)
 - [swiftui](#swiftui)
+- [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
@@ -651,7 +652,7 @@
 - [yangwenmai/github-trending-backup](https://github.com/yangwenmai/github-trending-backup) - Github trending backup by everyday.
 - [go-gost/gost](https://github.com/go-gost/gost) - GO Simple Tunnel - a simple tunnel written in golang
 - [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
-- [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - A Modern Redis GUI Client
+- [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux..
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 - [uber-go/fx](https://github.com/uber-go/fx) - A dependency injection based application framework for Go.
@@ -696,7 +697,7 @@
 - [go-gost/gost](https://github.com/go-gost/gost) - GO Simple Tunnel - a simple tunnel written in golang
 - [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
 - [daeuniverse/dae](https://github.com/daeuniverse/dae) - eBPF-based Linux high-performance transparent proxy solution.
-- [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - A Modern Redis GUI Client
+- [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux..
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 - [uber-go/fx](https://github.com/uber-go/fx) - A dependency injection based application framework for Go.
@@ -1801,6 +1802,14 @@
 - [isaced/V2exOS](https://github.com/isaced/V2exOS) - 一个用 SwiftUI 编写的 V2ex macOS/iOS/tvOS 客户端 (A V2ex macOS/iOS/tvOS client written in SwiftUI)
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 
+## tailwindcss 
+
+- [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
+- [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
+- [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
+- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Vercel, Raycast, and Perplexity.
+- [Performave/pane](https://github.com/Performave/pane) - A beautifully designed LookingGlass panel in TailwindCSS, React, and NodeJS.
+
 ## telegram 
 
 - [ccbikai/BroadcastChannel](https://github.com/ccbikai/BroadcastChannel) - Turn your Telegram Channel into a MicroBlog.
@@ -1878,7 +1887,7 @@
 
 ## vue 
 
-- [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - A Modern Redis GUI Client
+- [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux..
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 - [Postcatlab/postcat](https://github.com/Postcatlab/postcat) - Postcat 是一个可扩展的 API 工具平台。集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。An extensible API tool.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
