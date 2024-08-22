@@ -586,7 +586,6 @@
 
 - [LibNyanpasu/clash-nyanpasu](https://github.com/LibNyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω&lt; )⌒☆​
 - [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit) - Customize your git commit hashes!
-- [0x676e67/deeplx](https://github.com/0x676e67/deeplx) - DeepL Pro to free API
 - [imShire/pot-app-translate-plugin-cohere](https://github.com/imShire/pot-app-translate-plugin-cohere) - Cohere (Command R+) AI translation plugin for pot.
 - [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Scalable, Low-latency and Hybrid-enabled Vector Search in Postgres. Revolutionize Vector Search, not Database.
 - [mochi-neko/clust](https://github.com/mochi-neko/clust) - An unofficial Rust client for the Anthropic/Claude API.
