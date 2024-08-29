@@ -26,6 +26,7 @@
 - [bot](#bot)
 - [bugbounty](#bugbounty)
 - [c](#c)
+- [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
 - [chrome](#chrome)
@@ -177,7 +178,7 @@
 - [noobnooc/AssisChat](https://github.com/noobnooc/AssisChat) - An ai-assistant chat app that using your own OpenAI/Claude API key.
 - [adamcohenhillel/ADeus](https://github.com/adamcohenhillel/ADeus) - An open source AI wearable device that captures what you say and hear in the real world and then transcribes and stores it on your own server. You can then chat with Adeus using the app, and it will h
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT 
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, OpenAI, Assistants API, Azure, Groq, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL-E-3, Cha
 - [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
 - [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - AI agent stdlib that works with any LLM and TypeScript AI SDK.
 - [ObservedObserver/chatgpt-i18n](https://github.com/ObservedObserver/chatgpt-i18n) - Localize your websites with AI assistance.
@@ -279,7 +280,7 @@
 
 ## azure 
 
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT 
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, OpenAI, Assistants API, Azure, Groq, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL-E-3, Cha
 - [stulzq/azure-openai-proxy](https://github.com/stulzq/azure-openai-proxy) - Azure OpenAI Service Proxy. Convert OpenAI official API request to Azure OpenAI API request. Support GPT-4,Embeddings,Langchain. Adapter from OpenAI to Azure OpenAI.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 
@@ -322,15 +323,29 @@
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [fcambus/telize](https://github.com/fcambus/telize) - High performance JSON IP and GeoIP REST API (IP Geolocation)
 
+## chatbot 
+
+- [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) - An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)
+- [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
+- [guangzhengli/ChatFiles](https://github.com/guangzhengli/ChatFiles) - Document Chatbot — multiple files. Powered by GPT / Embedding.
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
+- [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
+- [wechaty/python-wechaty](https://github.com/wechaty/python-wechaty) - Python Wechaty is a Conversational RPA SDK for Chatbot Makers written in Python
+- [wechaty/wechaty](https://github.com/wechaty/wechaty) - Conversational RPA SDK for Chatbot Makers. Join our Discord: https://discord.gg/7q8NBZbQzt
+- [father-bot/chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 💬 Telegram bot with ChatGPT, Python-based, using OpenAI's API.
+- [Yoddikko/yoddChatGPT](https://github.com/Yoddikko/yoddChatGPT) - This app uses the OpenAISwift library, ChatGPTSwift library and OpenAI library to communicate with the popular ChatGPT artificial intelligence. The app allows you to have a quick message exchange with
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+
 ## chatgpt 
 
+- [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more!
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 - [MartialBE/one-hub](https://github.com/MartialBE/one-hub) - OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。
 - [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Scalable, Low-latency and Hybrid-enabled Vector Search in Postgres. Revolutionize Vector Search, not Database.
 - [lobehub/lobe-cli-toolbox](https://github.com/lobehub/lobe-cli-toolbox) - 🪀 Lobe CLI Toolbox - AI CLI Toolbox, enhancing git commit and i18n workflow efficiency
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / DeepSeek),Knowledge Base(file upload / kno
 - [noobnooc/AssisChat](https://github.com/noobnooc/AssisChat) - An ai-assistant chat app that using your own OpenAI/Claude API key.
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT 
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, OpenAI, Assistants API, Azure, Groq, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL-E-3, Cha
 - [zhu327/gemini-openai-proxy](https://github.com/zhu327/gemini-openai-proxy) - A proxy for converting the OpenAI API protocol to the Google Gemini Pro protocol.
 - [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手
 - [barretlee/cloudflare-proxy](https://github.com/barretlee/cloudflare-proxy) - Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出
@@ -754,7 +769,7 @@
 
 ## google 
 
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT 
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, OpenAI, Assistants API, Azure, Groq, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL-E-3, Cha
 - [picatz/doh](https://github.com/picatz/doh) - 🍩  DNS over HTTPS command-line client
 - [tisfeng/Easydict](https://github.com/tisfeng/Easydict) - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and t
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
@@ -1174,6 +1189,7 @@
 
 ## others 
 
+- [MTR-Today/mtr-today-api](https://github.com/MTR-Today/mtr-today-api) - 
 - [unifi-utilities/unifios-utilities](https://github.com/unifi-utilities/unifios-utilities) - A collection of  enhancements for UnifiOS based devices
 - [SierraSoftworks/tailscale-udm](https://github.com/SierraSoftworks/tailscale-udm) - Run Tailscale on your Unifi Dream Machine
 - [willswire/unifi-ddns](https://github.com/willswire/unifi-ddns) - Cloudflare DDNS (Dynamic DNS) support for UniFi OS
@@ -1612,7 +1628,7 @@
 
 ## react 
 
-- [LibNyanpasu/clash-nyanpasu](https://github.com/LibNyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω&lt; )⌒☆​
+- [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω&lt; )⌒☆​
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
 - [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) - Drift is a self-hostable Gist and paste service. Built with Next.js 13 and React Server Components.
@@ -1657,7 +1673,7 @@
 
 ## rust 
 
-- [LibNyanpasu/clash-nyanpasu](https://github.com/LibNyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω&lt; )⌒☆​
+- [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω&lt; )⌒☆​
 - [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Scalable, Low-latency and Hybrid-enabled Vector Search in Postgres. Revolutionize Vector Search, not Database.
 - [mochi-neko/clust](https://github.com/mochi-neko/clust) - An unofficial Rust client for the Anthropic/Claude API.
 - [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust
