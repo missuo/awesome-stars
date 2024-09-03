@@ -859,6 +859,7 @@
 
 ## ios 
 
+- [OwnGoalStudio/ColorfulWallpaperX](https://github.com/OwnGoalStudio/ColorfulWallpaperX) - Dynamic wallpaper with colorful effects.
 - [Lessica/TrollRecorder](https://github.com/Lessica/TrollRecorder) - (i18n/CLI) Not the first, but the best phone call recorder with TrollStore.
 - [straight-tamago/misaka](https://github.com/straight-tamago/misaka) - iOS & tvOS customisation tool for KFD & MDC
 - [Al4ise/Azule](https://github.com/Al4ise/Azule) - 
