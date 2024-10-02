@@ -825,6 +825,7 @@
 - [bohanyang/debi](https://github.com/bohanyang/debi) - Reinstall your VPS to minimal Debian
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 - [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix) - Google SafetyNet attestation workarounds for Magisk
 - [romancin/tinymediamanager-docker](https://github.com/romancin/tinymediamanager-docker) - A repository for creating a docker container including TinyMediaManager with GUI interface.
@@ -1129,7 +1130,7 @@
 
 ## monitoring 
 
-- [henrygd/beszel](https://github.com/henrygd/beszel) - A lightweight server monitoring hub with historical data, docker stats, and alerts.
+- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Kener is a Modern Self hosted Status Page, batteries included
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 
@@ -1803,7 +1804,7 @@
 
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-- [henrygd/beszel](https://github.com/henrygd/beszel) - A lightweight server monitoring hub with historical data, docker stats, and alerts.
+- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
 - [ccbikai/awesome-homelab](https://github.com/ccbikai/awesome-homelab) - Curating Top Open Source Apps for Homelab Enthusiasts
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for AI (Formerly Ollama WebUI)
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
