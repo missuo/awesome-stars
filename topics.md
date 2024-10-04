@@ -1264,6 +1264,7 @@
 
 ## others 
 
+- [Jamesits/SND](https://github.com/Jamesits/SND) - Minimal authoritative PTR (rDNS, reverse DNS) resolver with automatic generation of records.
 - [mx1700/cloudflare-image-share](https://github.com/mx1700/cloudflare-image-share) - 基于 Cloudflare Pages + R2 实现的私有图片分享(图床)网站。
 - [ipinfo/sample-database](https://github.com/ipinfo/sample-database) - IPinfo database and API sample repository
 - [Lakr233/NotchNotification](https://github.com/Lakr233/NotchNotification) - Display Notification Inside Mac's Notch.
