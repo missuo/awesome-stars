@@ -131,6 +131,7 @@
 
 ## Go 
 
+- [Jamesits/SND](https://github.com/Jamesits/SND) - Minimal authoritative PTR (rDNS, reverse DNS) resolver with automatic generation of records.
 - [ipinfo/cli](https://github.com/ipinfo/cli) - Official Command Line Interface for the IPinfo API (IP geolocation and other types of IP data)
 - [Ashitahe/Twitter-Download](https://github.com/Ashitahe/Twitter-Download) - twitterDownload。推特下載器，下載指定用戶的所有媒體文件
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
