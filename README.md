@@ -700,6 +700,7 @@
 
 ## Swift 
 
+- [Lessica/SingleMute](https://github.com/Lessica/SingleMute) - Just a single mute icon on the status bar of iOS.
 - [Lakr233/NotchNotification](https://github.com/Lakr233/NotchNotification) - Display Notification Inside Mac's Notch.
 - [huami1314/SuperIcons](https://github.com/huami1314/SuperIcons) - This is a tool for replacing TrollStore's app icons
 - [Lakr233/ColorfulX](https://github.com/Lakr233/ColorfulX) - ColorfulX is a high-performance library designed for creating vibrant & animated mesh gradient views.
