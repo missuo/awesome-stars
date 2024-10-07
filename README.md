@@ -22,6 +22,7 @@
 - [Jinja](#jinja)
 - [Kotlin](#kotlin)
 - [Less](#less)
+- [Logos](#logos)
 - [Lua](#lua)
 - [Makefile](#makefile)
 - [Nix](#nix)
@@ -370,6 +371,10 @@
 - [renbaoshuo/hexo-theme-pure](https://github.com/renbaoshuo/hexo-theme-pure) - 🎨 A pure, modern and simple theme for Hexo.
 - [imhanjie/gridea-theme-pure](https://github.com/imhanjie/gridea-theme-pure) - 一款专为 Gridea 设计的主题 - 简约、漂亮。
 
+## Logos 
+
+- [Lessica/SingleMute](https://github.com/Lessica/SingleMute) - Just a single mute icon on the status bar of iOS.
+
 ## Lua 
 
 - [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
@@ -700,7 +705,6 @@
 
 ## Swift 
 
-- [Lessica/SingleMute](https://github.com/Lessica/SingleMute) - Just a single mute icon on the status bar of iOS.
 - [Lakr233/NotchNotification](https://github.com/Lakr233/NotchNotification) - Display Notification Inside Mac's Notch.
 - [huami1314/SuperIcons](https://github.com/huami1314/SuperIcons) - This is a tool for replacing TrollStore's app icons
 - [Lakr233/ColorfulX](https://github.com/Lakr233/ColorfulX) - ColorfulX is a high-performance library designed for creating vibrant & animated mesh gradient views.
