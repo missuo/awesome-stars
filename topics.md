@@ -1292,7 +1292,7 @@
 - [huami1314/SuperIcons](https://github.com/huami1314/SuperIcons) - This is a tool for replacing TrollStore's app icons
 - [sjlleo/nexttrace-backend](https://github.com/sjlleo/nexttrace-backend) - NextTrace BackEnd
 - [Lakr233/ColorfulX](https://github.com/Lakr233/ColorfulX) - ColorfulX is a high-performance library designed for creating vibrant & animated mesh gradient views.
-- [saoudrizwan/claude-dev](https://github.com/saoudrizwan/claude-dev) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.
+- [clinebot/cline](https://github.com/clinebot/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.
 - [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy) - 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\管理服务。支持免服务器部署到Render\Koyeb
 - [ciiiii/cloudflare-docker-proxy](https://github.com/ciiiii/cloudflare-docker-proxy) - A docker registry proxy run on cloudflare worker.
 - [Lakr233/Asspp](https://github.com/Lakr233/Asspp) - The App Store for your multi-account eco system.
@@ -1487,7 +1487,7 @@
 - [daodao97/SingBoxClient](https://github.com/daodao97/SingBoxClient) - Cross platform client for sing-box
 - [realByg/office-user-bot](https://github.com/realByg/office-user-bot) - 用 Telegram bot 创建 Office 账号
 - [realByg/office-user-auto-create](https://github.com/realByg/office-user-auto-create) - 用 cloudflare worker 自助创建 office 账号
-- [fanmingming/live](https://github.com/fanmingming/live) - ✯ 一个可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕
+- [fanmingming/live](https://github.com/fanmingming/live) - ✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕
 - [awslabs/dynamodb-shell](https://github.com/awslabs/dynamodb-shell) - A command line client (shell) for AWS DynamoDB that offers DDL and DML support similar to CLIs for other databases.
 - [PingKuNet/aliyunpan](https://github.com/PingKuNet/aliyunpan) - 小白羊 阿里云盘小白羊版 阿里云盘PC版 小白羊v3 aliyundriver
 - [glotlabs/gdrive](https://github.com/glotlabs/gdrive) - Google Drive CLI Client
