@@ -411,6 +411,7 @@
 
 ## Others 
 
+- [unixzii/swiftui-for-react-devs](https://github.com/unixzii/swiftui-for-react-devs) - A cheat sheet that helps React developers to quickly start with SwiftUI.
 - [ipinfo/sample-database](https://github.com/ipinfo/sample-database) - IPinfo database and API sample repository
 - [ipverse/asn-info](https://github.com/ipverse/asn-info) - Download autonomous system list organized by ASN
 - [ccbikai/Git.Bio](https://github.com/ccbikai/Git.Bio) - Turn your GitHub into a Biography
