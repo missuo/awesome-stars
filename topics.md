@@ -170,6 +170,7 @@
 - [web](#web)
 - [web-development](#web-development)
 - [webapp](#webapp)
+- [webpack](#webpack)
 - [website](#website)
 - [windows](#windows)
 - [xcode](#xcode)
@@ -821,6 +822,7 @@
 - [XcodesOrg/xcodes](https://github.com/XcodesOrg/xcodes) - The best command-line tool to install and switch between multiple versions of Xcode.
 - [MessageKit/MessageKit](https://github.com/MessageKit/MessageKit) - A community-driven replacement for JSQMessagesViewController
 - [corazawaf/coraza](https://github.com/corazawaf/coraza) - OWASP Coraza WAF is a golang modsecurity compatible web application firewall library
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [go-telegram-bot-api/telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) - Golang bindings for the Telegram Bot API
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -1270,6 +1272,7 @@
 
 ## others 
 
+- [Huangbai233/HBWeChatHelper](https://github.com/Huangbai233/HBWeChatHelper) - 黄白助手-增强iOS微信的插件
 - [jinweijie/notify-me](https://github.com/jinweijie/notify-me) - An Android application that forwards Bark notifications upon receiving SMS messages or phone calls.
 - [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) - ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
 - [i-am-shodan/USBArmyKnife](https://github.com/i-am-shodan/USBArmyKnife) - USB Army Knife – the ultimate close access tool for penetration testers and red teamers.
@@ -1294,7 +1297,7 @@
 - [huami1314/SuperIcons](https://github.com/huami1314/SuperIcons) - This is a tool for replacing TrollStore's app icons
 - [sjlleo/nexttrace-backend](https://github.com/sjlleo/nexttrace-backend) - NextTrace BackEnd
 - [Lakr233/ColorfulX](https://github.com/Lakr233/ColorfulX) - ColorfulX is a high-performance library designed for creating vibrant & animated mesh gradient views.
-- [clinebot/cline](https://github.com/clinebot/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.
+- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.
 - [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy) - 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\管理服务。支持免服务器部署到Render\Koyeb
 - [ciiiii/cloudflare-docker-proxy](https://github.com/ciiiii/cloudflare-docker-proxy) - A docker registry proxy run on cloudflare worker.
 - [Lakr233/Asspp](https://github.com/Lakr233/Asspp) - The App Store for your multi-account eco system.
@@ -2077,6 +2080,10 @@
 
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+
+## webpack 
+
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
 
 ## website 
 
