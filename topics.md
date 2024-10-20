@@ -211,7 +211,7 @@
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [twiceyuan/WXAPK](https://github.com/twiceyuan/WXAPK) - 直接安装微信接收到的 APK
 - [ReVanced/revanced-patches-template](https://github.com/ReVanced/revanced-patches-template) - 👋🧩Template repository for ReVanced Patches
-- [ddgksf2013/ddgksf2013](https://github.com/ddgksf2013/ddgksf2013) - 墨鱼去广告规则 | QuantumultX去广告 | 去开屏广告 | 应用净化 | Shadowrocket配置 | 会员解锁 | 墨鱼配置 | 应用增强 | 网页优化 | 网盘资源 | 模块去广告
+- [ddgksf2013/ddgksf2013](https://github.com/ddgksf2013/ddgksf2013) - 墨鱼去广告规则 | QuantumultX去广告 | 去开屏广告 | 应用净化 | 会员解锁 | Shadowrocket配置 | 墨鱼配置 | 应用增强 | 网页优化 | 网盘资源 | 模块去广告
 - [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
 - [taamarin/ClashforMagisk](https://github.com/taamarin/ClashforMagisk) - Transparent proxy(Tproxy) for android (root)
 - [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix) - Google SafetyNet attestation workarounds for Magisk
@@ -466,7 +466,7 @@
 
 - [Boeing/config-file-validator](https://github.com/Boeing/config-file-validator) - Cross Platform tool to validate configuration files
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
-- [ddgksf2013/ddgksf2013](https://github.com/ddgksf2013/ddgksf2013) - 墨鱼去广告规则 | QuantumultX去广告 | 去开屏广告 | 应用净化 | Shadowrocket配置 | 会员解锁 | 墨鱼配置 | 应用增强 | 网页优化 | 网盘资源 | 模块去广告
+- [ddgksf2013/ddgksf2013](https://github.com/ddgksf2013/ddgksf2013) - 墨鱼去广告规则 | QuantumultX去广告 | 去开屏广告 | 应用净化 | 会员解锁 | Shadowrocket配置 | 墨鱼配置 | 应用增强 | 网页优化 | 网盘资源 | 模块去广告
 
 ## cpp 
 
@@ -481,7 +481,7 @@
 ## css 
 
 - [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 小红书链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件！
-- [ddgksf2013/ddgksf2013](https://github.com/ddgksf2013/ddgksf2013) - 墨鱼去广告规则 | QuantumultX去广告 | 去开屏广告 | 应用净化 | Shadowrocket配置 | 会员解锁 | 墨鱼配置 | 应用增强 | 网页优化 | 网盘资源 | 模块去广告
+- [ddgksf2013/ddgksf2013](https://github.com/ddgksf2013/ddgksf2013) - 墨鱼去广告规则 | QuantumultX去广告 | 去开屏广告 | 应用净化 | 会员解锁 | Shadowrocket配置 | 墨鱼配置 | 应用增强 | 网页优化 | 网盘资源 | 模块去广告
 - [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/cli
 
 ## cybersecurity 
@@ -942,7 +942,7 @@
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
-- [ddgksf2013/ddgksf2013](https://github.com/ddgksf2013/ddgksf2013) - 墨鱼去广告规则 | QuantumultX去广告 | 去开屏广告 | 应用净化 | Shadowrocket配置 | 会员解锁 | 墨鱼配置 | 应用增强 | 网页优化 | 网盘资源 | 模块去广告
+- [ddgksf2013/ddgksf2013](https://github.com/ddgksf2013/ddgksf2013) - 墨鱼去广告规则 | QuantumultX去广告 | 去开屏广告 | 应用净化 | 会员解锁 | Shadowrocket配置 | 墨鱼配置 | 应用增强 | 网页优化 | 网盘资源 | 模块去广告
 - [shlinkio/shlink-web-client](https://github.com/shlinkio/shlink-web-client) - A React-based client application for Shlink
 - [lindell/JsBarcode](https://github.com/lindell/JsBarcode) - Barcode generation library written in JavaScript that works in both the browser and on Node.js
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
@@ -1120,6 +1120,7 @@
 
 ## mastodon 
 
+- [louisgrasset/touitomamout](https://github.com/louisgrasset/touitomamout) - Touitomamout is an easy way to synchronize your Twitter's tweets 🦤 to Mastodon 🦣 and Bluesky post ☁️ (also known as Twitter to Mastodon & Bluesky crossposter)
 - [soapbox-pub/soapbox](https://github.com/soapbox-pub/soapbox) - Software for the next generation of social media.
 - [mastodon/mastodon-ios](https://github.com/mastodon/mastodon-ios) - Official iOS app for Mastodon
 - [robertoszek/pleroma-bot](https://github.com/robertoszek/pleroma-bot) - Bot for mirroring one or multiple Twitter accounts in Pleroma/Mastodon/Misskey.
@@ -1276,6 +1277,7 @@
 
 ## others 
 
+- [NghiaTranUIT/proxyman-raycast-extension](https://github.com/NghiaTranUIT/proxyman-raycast-extension) - 
 - [Huangbai233/HBWeChatHelper](https://github.com/Huangbai233/HBWeChatHelper) - 黄白助手-增强iOS微信的插件
 - [jinweijie/notify-me](https://github.com/jinweijie/notify-me) - An Android application that forwards Bark notifications upon receiving SMS messages or phone calls.
 - [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) - ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
@@ -2013,6 +2015,8 @@
 
 ## twitter 
 
+- [the-convocation/twitter-scraper](https://github.com/the-convocation/twitter-scraper) - A port of n0madic/twitter-scraper to Node.js.
+- [louisgrasset/touitomamout](https://github.com/louisgrasset/touitomamout) - Touitomamout is an easy way to synchronize your Twitter's tweets 🦤 to Mastodon 🦣 and Bluesky post ☁️ (also known as Twitter to Mastodon & Bluesky crossposter)
 - [d60/twikit](https://github.com/d60/twikit) - Twitter API Scraper | Without an API key | Twitter Internal API | Free | Twitter scraper | Twitter Bot
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [BandarHL/BHTwitter](https://github.com/BandarHL/BHTwitter) - Awesome tweak for Twitter
