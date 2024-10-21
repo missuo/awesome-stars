@@ -82,6 +82,7 @@
 
 ## C++ 
 
+- [zhlynn/zsign](https://github.com/zhlynn/zsign) - Maybe it is the most quickly codesign alternative for iOS12+,  cross-platform ( macOS, Linux , Windows ), more features.
 - [skyzh/RISCV-Simulator](https://github.com/skyzh/RISCV-Simulator) - 💻 RISC-V Simulator of RV32I ISA. 5-stage pipeline / out-of-order execution with Tomasulo algorithm and Speculation. Support runtime visualization. Project report available.
 - [flipperdevices/qFlipper](https://github.com/flipperdevices/qFlipper) - qFlipper — desktop application for updating Flipper Zero firmware via PC
 - [victoryang00/A16-microbenchmark](https://github.com/victoryang00/A16-microbenchmark) - A repo to store what M1 explainer does and ~Armv9~ Armv8.6 ISA on A16
