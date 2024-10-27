@@ -902,7 +902,7 @@
 ## ios 
 
 - [unixzii/swiftui-for-react-devs](https://github.com/unixzii/swiftui-for-react-devs) - A cheat sheet that helps React developers to quickly start with SwiftUI.
-- [Lessica/SingleMute](https://github.com/Lessica/SingleMute) - Just a single mute icon on the status bar of iOS.
+- [OwnGoalStudio/SingleMute](https://github.com/OwnGoalStudio/SingleMute) - Just a single mute icon on the status bar of iOS.
 - [unixzii/ibackupextractor](https://github.com/unixzii/ibackupextractor) - A simple tool for extracting files from iOS backup archive.
 - [Lessica/TrollSpeed](https://github.com/Lessica/TrollSpeed) - Shows upload & download speed below the status bar. Supports opa334’s TrollStore.
 - [OwnGoalStudio/ColorfulWallpaperX](https://github.com/OwnGoalStudio/ColorfulWallpaperX) - Dynamic wallpaper with colorful effects.
