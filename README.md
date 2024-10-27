@@ -380,7 +380,7 @@
 ## Logos 
 
 - [Netskao/TwitterNoAds](https://github.com/Netskao/TwitterNoAds) - Twitter removes ads from data stream. Tested on version 10.64.1 only (Theos Tweak)
-- [Lessica/SingleMute](https://github.com/Lessica/SingleMute) - Just a single mute icon on the status bar of iOS.
+- [OwnGoalStudio/SingleMute](https://github.com/OwnGoalStudio/SingleMute) - Just a single mute icon on the status bar of iOS.
 
 ## Lua 
 
