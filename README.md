@@ -278,7 +278,7 @@
 
 ## Java 
 
-- [qaiu/netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download) - 各类网盘直链解析, 已支持蓝奏云/奶牛快传/移动云云空间/QQ邮箱中转站/小飞机盘/亿方云/123云盘等. 预览地址 https://lz.qaiu.top
+- [qaiu/netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download) - 各类网盘直链解析, 已支持蓝奏云/奶牛快传/移动云云空间/QQ邮箱中转站/小飞机盘/亿方云/123云盘等. 体验地址: https://lz.qaiu.top
 - [MoshiCoCo/Apple-Monitor](https://github.com/MoshiCoCo/Apple-Monitor) - Apple store inventory monitoring tool implemented in Java, supporting Bark, Feishu, Lark robot and other message push methods.  Currently supports monitoring Apple stores in mainland China, Hong Kong,
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
 - [davinci1012/pinduoduo_backdoor_unpacker](https://github.com/davinci1012/pinduoduo_backdoor_unpacker) - Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo
@@ -444,7 +444,7 @@
 - [davinci1010/pinduoduo_backdoor](https://github.com/davinci1010/pinduoduo_backdoor) - 拼多多apk内嵌提权代码，及动态下发dex分析
 - [zu1k/some-mitm-proxy](https://github.com/zu1k/some-mitm-proxy) - 开始封号了，停止公开服务观察一段时期
 - [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
-- [ddgksf2013/ddgksf2013](https://github.com/ddgksf2013/ddgksf2013) - 墨鱼去广告计划 | QuantumultX 去广告 | 去开屏广告 | 应用净化 | 会员解锁 | 墨鱼配置 | 应用增强 | 网页优化 | 网盘资源 | 模块去广告 | Shadowrocket配置 | 墨鱼规则 | Clash配置 | 小火箭去广告 | 资源库 | AdBlock | 不完全指北
+- [ddgksf2013/ddgksf2013](https://github.com/ddgksf2013/ddgksf2013) - 墨鱼去广告计划 | QuantumultX 去广告 | 去开屏广告 | 应用净化 | 会员解锁 | 墨鱼配置 | 应用增强 | 网页优化 | 网盘资源 | 模块去广告 | Shadowrocket配置 | 墨鱼规则 | Clash配置 | 小火箭去广告 | 资源库 | AdBlock | 网页广告 | 不完全指北
 - [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，适用于 V2Ray、Xray-core、mihomo(Clash-Meta)、hysteria、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, applicable to V2Ray, Xray-core, m
 - [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
 - [smartcontractkit/full-blockchain-solidity-course-py](https://github.com/smartcontractkit/full-blockchain-solidity-course-py) - Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition
@@ -520,7 +520,7 @@
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 Blazing fast Python framework for web crawling, scraping, testing, and reporting. Supports pytest. UC Mode provides stealth. Includes many tools.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 Blazing fast Python framework for web crawling, scraping, testing, and reporting. Supports pytest. Stealth options: UC Mode and CDP Mode. Multiple tools and integrations.
 - [a-maliarov/amazoncaptcha](https://github.com/a-maliarov/amazoncaptcha) - Pure Python, lightweight, Pillow-based solver for Amazon's text captcha.
 - [fuergaosi233/apple-health-exporter](https://github.com/fuergaosi233/apple-health-exporter) - 
 - [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2024
@@ -555,7 +555,7 @@
 - [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
-- [TikHubIO/TikHub-API-Python-SDK](https://github.com/TikHubIO/TikHub-API-Python-SDK) - High-performance asynchronous Douyin(抖音) TikTok Xiaohongshu(小红书) Kuaishou(快手) Weibo(微博) Instagram YouTube(油管) Twitter(X) Captcha Solver(验证码解决器) Temp Mail(临时邮箱) API(接口).
+- [TikHub/TikHub-API-Python-SDK](https://github.com/TikHub/TikHub-API-Python-SDK) - High-performance asynchronous Douyin(抖音) TikTok Xiaohongshu(小红书) Kuaishou(快手) Weibo(微博) Instagram YouTube(油管) Twitter(X) Captcha Solver(验证码解决器) Temp Mail(临时邮箱) API(接口).
 - [LyzenX/DouyinLiveRecorder](https://github.com/LyzenX/DouyinLiveRecorder) - 一个自动监测和录制抖音直播的工具，支持录制弹幕，以GUI或命令行形式运行，支持linux，无需设置cookie，不使用selenium，开箱即用。
 - [MrMissx/Telegram_Forwarder](https://github.com/MrMissx/Telegram_Forwarder) - Simple telegram bot to forward message from channel/group
 - [kazutoiris/ali_ecc](https://github.com/kazutoiris/ali_ecc) - AliyunDrive ECC Signature
