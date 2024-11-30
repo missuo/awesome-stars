@@ -674,6 +674,7 @@
 
 ## Shell 
 
+- [xykt/IPQuality](https://github.com/xykt/IPQuality) - A script for IP quality detection
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [OwnGoalStudio/ColorfulWallpaperX](https://github.com/OwnGoalStudio/ColorfulWallpaperX) - Dynamic wallpaper with colorful effects.
