@@ -758,7 +758,7 @@
 - [Lakr233/Firework](https://github.com/Lakr233/Firework) - 烟花箱！
 - [Lakr233/FixTim](https://github.com/Lakr233/FixTim) - Fix every runtime bug on macOS.
 - [joogps/Glur](https://github.com/joogps/Glur) - A library for progressive blurs in SwiftUI.
-- [LunarBar-app/LunarBar](https://github.com/LunarBar-app/LunarBar) - Mac 状态栏上的极简日历，完全免费且开源。
+- [LunarBar-app/LunarBar](https://github.com/LunarBar-app/LunarBar) - A compact lunar calendar for your macOS menu bar.
 - [zackelia/bclm](https://github.com/zackelia/bclm) - macOS command-line utility to limit max battery charge
 - [vapor/postgres-nio](https://github.com/vapor/postgres-nio) - 🐘 Non-blocking, event-driven Swift client for PostgreSQL.
 - [ekazaev/ChatLayout](https://github.com/ekazaev/ChatLayout) - ChatLayout is an alternative solution to MessageKit. It uses custom UICollectionViewLayout to provide you full control over the presentation as well as all the tools available in UICollectionView. It 
