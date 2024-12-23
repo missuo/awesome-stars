@@ -224,7 +224,7 @@
 - [twiceyuan/WXAPK](https://github.com/twiceyuan/WXAPK) - 直接安装微信接收到的 APK
 - [ReVanced/revanced-patches-template](https://github.com/ReVanced/revanced-patches-template) - 👋🧩Template repository for ReVanced Patches
 - [ddgksf2013/ddgksf2013](https://github.com/ddgksf2013/ddgksf2013) - 墨鱼去广告计划 | QuantumultX 去广告 | 去开屏广告 | 应用净化 | 会员解锁 | 墨鱼配置 | 应用增强 | 网页优化 | 网盘资源 | 模块去广告 | Shadowrocket配置 | 墨鱼规则 | Clash配置 | 小火箭去广告 | 资源库 | AdBlock | 网页广告 | 不完全指北
-- [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
+- [ente-io/ente](https://github.com/ente-io/ente) - FOSS, End to End Encrypted alternative to Google Photos and Apple Photos
 - [taamarin/ClashforMagisk](https://github.com/taamarin/ClashforMagisk) - Transparent proxy(Tproxy) for android (root)
 - [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix) - Google SafetyNet attestation workarounds for Magisk
 - [jellyfin/jellyfin-androidtv](https://github.com/jellyfin/jellyfin-androidtv) - Android TV Client for Jellyfin
@@ -675,7 +675,7 @@
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [theiskaa/MobileGPT](https://github.com/theiskaa/MobileGPT) - 💬 ChatGPT Mobile Application (iOS and Android) built with Flutter
-- [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
+- [ente-io/ente](https://github.com/ente-io/ente) - FOSS, End to End Encrypted alternative to Google Photos and Apple Photos
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [xusun0623/river_lite](https://github.com/xusun0623/river_lite) - 河畔Lite是电子科技大学官方校园论坛【清水河畔】的第三方客户端，本Repo为此项目的开源代码仓库。此App轻量、简洁、设计优雅，拥有诸多特性和功能。 作者：xusun000@foxmail.com
 - [sail-tunnel/sail](https://github.com/sail-tunnel/sail) - A flutter demo client application for v2board.
@@ -832,7 +832,7 @@
 - [iyear/E5SubBot](https://github.com/iyear/E5SubBot) - 🤖 Telebot for E5 Renewal
 - [go-telegram-bot-api/telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) - Golang bindings for the Telegram Bot API
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
-- [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
+- [ente-io/ente](https://github.com/ente-io/ente) - FOSS, End to End Encrypted alternative to Google Photos and Apple Photos
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 - [bookstairs/bookhunter](https://github.com/bookstairs/bookhunter) - A download tools for clawing the ebooks from internets.
 - [igorsheg/astro](https://github.com/igorsheg/astro) - An open, extensible, dashboard for all of your homelab services.
@@ -973,7 +973,7 @@
 - [mastodon/mastodon-ios](https://github.com/mastodon/mastodon-ios) - Official iOS app for Mastodon
 - [MessageKit/MessageKit](https://github.com/MessageKit/MessageKit) - A community-driven replacement for JSQMessagesViewController
 - [Yoddikko/yoddChatGPT](https://github.com/Yoddikko/yoddChatGPT) - This app uses the OpenAISwift library, ChatGPTSwift library and OpenAI library to communicate with the popular ChatGPT artificial intelligence. The app allows you to have a quick message exchange with
-- [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
+- [ente-io/ente](https://github.com/ente-io/ente) - FOSS, End to End Encrypted alternative to Google Photos and Apple Photos
 - [Dimillian/IceCubesApp](https://github.com/Dimillian/IceCubesApp) - A SwiftUI Mastodon client
 - [Daltron/NotificationBanner](https://github.com/Daltron/NotificationBanner) - The easiest way to display highly customizable in app notification banners in iOS
 - [AlanLang/BitClient](https://github.com/AlanLang/BitClient) - 📱 一款用于 qBittorrent 的 ios 客户端
@@ -1234,7 +1234,7 @@
 ## mysql 
 
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Vercel, Raycast, and Perplexity.
+- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
 - [tobymao/sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler
 - [dewscan001/python-mysql2postgresql](https://github.com/dewscan001/python-mysql2postgresql) - Python Package transfer data from MySQL to PostgreSQL
 - [vapor/mysql-kit](https://github.com/vapor/mysql-kit) - 🐬 Pure Swift MySQL client built on non-blocking, event-driven sockets.
@@ -1265,7 +1265,7 @@
 - [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) - Drift is a self-hostable Gist and paste service. Built with Next.js 13 and React Server Components.
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
-- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Vercel, Raycast, and Perplexity.
+- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 
 ## nlp 
@@ -1306,7 +1306,7 @@
 - [FrigadeHQ/trench](https://github.com/FrigadeHQ/trench) - Trench — Open-Source Analytics Infrastructure. A single production-ready Docker image built on ClickHouse, Kafka, and Node.js for tracking events, page views. Easily build product analytics dashboards
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Vercel, Raycast, and Perplexity.
+- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
@@ -1761,7 +1761,7 @@
 ## privacy 
 
 - [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
-- [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
+- [ente-io/ente](https://github.com/ente-io/ente) - FOSS, End to End Encrypted alternative to Google Photos and Apple Photos
 - [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
 
 ## programming 
@@ -1924,6 +1924,7 @@
 - [Helixform/TeleGPT](https://github.com/Helixform/TeleGPT) - An out-of-box ChatGPT bot for Telegram.
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
+- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [dracarys18/TweetBot](https://github.com/dracarys18/TweetBot) - A simple Telegram Bot to Stream the tweets from any twitter accounts to Telegram Channel
@@ -2097,7 +2098,7 @@
 - [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
-- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Vercel, Raycast, and Perplexity.
+- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
 - [Performave/pane](https://github.com/Performave/pane) - A beautifully designed LookingGlass panel in TailwindCSS, React, and NodeJS.
 
 ## telegram 
@@ -2169,13 +2170,13 @@
 - [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) - Drift is a self-hostable Gist and paste service. Built with Next.js 13 and React Server Components.
 - [yangwenmai/github-trending-backup](https://github.com/yangwenmai/github-trending-backup) - Github trending backup by everyday.
 - [xyxc0673/calendar-remark](https://github.com/xyxc0673/calendar-remark) - A simple calendar with nice design for remarking a date
-- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Vercel, Raycast, and Perplexity.
+- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
 - [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌  Your Self-hosted Comment System. | 自托管评论系统
 - [gaozhangmin/aliyunpan](https://github.com/gaozhangmin/aliyunpan) - 小白羊网盘 - Powered by 阿里云盘。
 - [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
 - [shlinkio/shlink-web-client](https://github.com/shlinkio/shlink-web-client) - A React-based client application for Shlink
-- [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
+- [ente-io/ente](https://github.com/ente-io/ente) - FOSS, End to End Encrypted alternative to Google Photos and Apple Photos
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
