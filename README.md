@@ -157,7 +157,7 @@
 - [Jamesits/SND](https://github.com/Jamesits/SND) - Minimal authoritative PTR (rDNS, reverse DNS) resolver with automatic generation of records.
 - [ipinfo/cli](https://github.com/ipinfo/cli) - Official Command Line Interface for the IPinfo API (IP geolocation and other types of IP data)
 - [Ashitahe/Twitter-Download](https://github.com/Ashitahe/Twitter-Download) - twitterDownload。推特下載器，下載指定用戶的所有媒體文件
-- [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database designed to scale vector search.
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
 - [gopkg-dev/amazoncaptcha](https://github.com/gopkg-dev/amazoncaptcha) - Amazon captcha recognition solution based on Go language standard library
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
 - [sjlleo/nexttrace-backend](https://github.com/sjlleo/nexttrace-backend) - NextTrace BackEnd
@@ -642,6 +642,7 @@
 
 ## Rust 
 
+- [Inokinoki/ai-no-jimaku-gumi](https://github.com/Inokinoki/ai-no-jimaku-gumi) - AI no jimaku gumi, a subtitle maker using AI, by INOKI.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [LaurenzV/krilla](https://github.com/LaurenzV/krilla) - A high-level, ergonomic Rust library for creating PDF documents.
 - [tsukinaha/tsukimi](https://github.com/tsukinaha/tsukimi) - A simple third-party Emby client
