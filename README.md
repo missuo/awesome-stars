@@ -753,6 +753,7 @@
 
 ## Swift 
 
+- [mainframecomputer/fullmoon-ios](https://github.com/mainframecomputer/fullmoon-ios) - chat with private and local large language models
 - [github/CopilotForXcode](https://github.com/github/CopilotForXcode) - Xcode extension for GitHub Copilot
 - [Lakr233/AppleWebLogin](https://github.com/Lakr233/AppleWebLogin) - Replaced login method for Xcodes.
 - [Lakr233/WindowAnimation](https://github.com/Lakr233/WindowAnimation) - Provide animation when animating SwiftUI windows on macOS.
