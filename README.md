@@ -295,6 +295,7 @@
 
 ## Java 
 
+- [jarvis2f/telegram-files](https://github.com/jarvis2f/telegram-files) - A self-hosted Telegram file downloader for continuous, stable, and unattended downloads.
 - [qaiu/netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download) - 各类网盘直链解析服务, 已支持蓝奏云/蓝奏优享/小飞机盘/123云盘. 专享版支持移动联通天翼云等大文件解析. 体验地址: https://lz.qaiu.top
 - [MoshiCoCo/Apple-Monitor](https://github.com/MoshiCoCo/Apple-Monitor) - Apple store inventory monitoring tool implemented in Java, supporting Bark, Feishu, Lark robot and other message push methods.  Currently supports monitoring Apple stores in mainland China, Hong Kong,
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
@@ -364,6 +365,7 @@
 - [creativetimofficial/material-kit-react](https://github.com/creativetimofficial/material-kit-react) - Material Kit React free and open source by Creative Tim
 - [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
 - [uclort/calendar](https://github.com/uclort/calendar) - 
+- [foamzou/melody](https://github.com/foamzou/melody) - 我的音乐精灵
 - [Runc2333/dingdong-helper-node](https://github.com/Runc2333/dingdong-helper-node) - 叮咚买菜助手，使用iOS客户端原生API，支持高峰期下单、支持捡漏、支持多账号、支持webhook通知（需自行实现对端）
 - [ShunCai/QZoneExport](https://github.com/ShunCai/QZoneExport) - QQ空间导出助手，用于备份QQ空间的说说、日志、私密日记、相册、视频、留言板、QQ好友、收藏夹、分享、最近访客为文件，便于迁移与保存
 - [0000CAFE/jd-script](https://github.com/0000CAFE/jd-script) - 
@@ -699,6 +701,7 @@
 
 ## Shell 
 
+- [X1a0He/X1a0HeWeChatPlugin](https://github.com/X1a0He/X1a0HeWeChatPlugin) - 一个随手写的微信插件，提供消息防撤回、显示红包转账详情、消息列表操作、头像圆角、毛玻璃模式、多开等功能
 - [Meliox/PVE-mods](https://github.com/Meliox/PVE-mods) - Proxmox modifications
 - [xykt/IPQuality](https://github.com/xykt/IPQuality) - A script for IP quality detection
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
@@ -965,7 +968,6 @@
 - [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
 - [wikihost-opensource/als](https://github.com/wikihost-opensource/als) - Another Looking-glass Server
 - [lookscanned/lookscanned.io](https://github.com/lookscanned/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned
-- [foamzou/melody](https://github.com/foamzou/melody) - 我的音乐精灵
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 - [gonelist/gonelist-web](https://github.com/gonelist/gonelist-web) - vue+iview
 
