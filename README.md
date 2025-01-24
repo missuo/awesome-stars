@@ -443,6 +443,7 @@
 
 ## Others 
 
+- [Lakr233/FlowDown-Beta](https://github.com/Lakr233/FlowDown-Beta) - Repository for FlowDown binary releases.
 - [Huangbai233/HBWeChatHelper](https://github.com/Huangbai233/HBWeChatHelper) - 黄白助手-增强iOS微信的插件
 - [unixzii/swiftui-for-react-devs](https://github.com/unixzii/swiftui-for-react-devs) - A cheat sheet that helps React developers to quickly start with SwiftUI.
 - [ipinfo/sample-database](https://github.com/ipinfo/sample-database) - IPinfo database and API sample repository
