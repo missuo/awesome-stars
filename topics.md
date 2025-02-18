@@ -191,6 +191,7 @@
 
 ## ai 
 
+- [sammcj/gollama](https://github.com/sammcj/gollama) - Go manage your Ollama models
 - [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simp
 - [getAsterisk/deepclaude](https://github.com/getAsterisk/deepclaude) - A high-performance LLM inference API and Chat UI that integrates DeepSeek R1's CoT reasoning traces with Anthropic Claude models.
 - [Inokinoki/ai-no-jimaku-gumi](https://github.com/Inokinoki/ai-no-jimaku-gumi) - AI no jimaku gumi (AIの字幕組), a subtitle maker for video using AI.
@@ -258,7 +259,7 @@
 - [Art-of-WiFi/UniFi-API-client](https://github.com/Art-of-WiFi/UniFi-API-client) - A PHP API client class to interact with Ubiquiti's UniFi Controller API
 - [aurorax-neo/free-gpt3.5-2api](https://github.com/aurorax-neo/free-gpt3.5-2api) - free chat gpt api
 - [apiflask/apiflask](https://github.com/apiflask/apiflask) - A lightweight Python web API framework.
-- [qaiu/netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download) - 各类网盘直链解析服务, 已支持蓝奏云/蓝奏优享/小飞机盘/123云盘. 专享版支持移动联通天翼云等大文件解析. 体验地址: https://lz.qaiu.top
+- [qaiu/netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download) - 各类网盘直链解析服务, 已支持蓝奏云/蓝奏优享/小飞机盘/123云盘/移动联通/天翼云等. 体验地址: https://lz.qaiu.top
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - The official Go library for the Cloudflare API
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key 
@@ -912,7 +913,6 @@
 - [XcodesOrg/xcodes](https://github.com/XcodesOrg/xcodes) - The best command-line tool to install and switch between multiple versions of Xcode.
 - [MessageKit/MessageKit](https://github.com/MessageKit/MessageKit) - A community-driven replacement for JSQMessagesViewController
 - [corazawaf/coraza](https://github.com/corazawaf/coraza) - OWASP Coraza WAF is a golang modsecurity compatible web application firewall library
-- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [go-telegram-bot-api/telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) - Golang bindings for the Telegram Bot API
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -947,6 +947,7 @@
 
 ## http 
 
+- [daijro/hrequests](https://github.com/daijro/hrequests) - 🚀 Web scraping for humans
 - [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess & Vless & Trojan &  ShadowSocks & Wireguard)
 - [TheWaWaR/simple-http-server](https://github.com/TheWaWaR/simple-http-server) - Simple http server in Rust (Windows/Mac/Linux)
 - [webserver-llc/angie](https://github.com/webserver-llc/angie) - Angie - drop-in replacement for Nginx
@@ -983,6 +984,7 @@
 
 ## ios 
 
+- [jtrivedi/VariableBlurView](https://github.com/jtrivedi/VariableBlurView) - An example of how to create a live, variable blur effect on iOS.
 - [BastiaanJansen/toast-swift](https://github.com/BastiaanJansen/toast-swift) - Customizable Swift Toast view built with UIKit. 🍞
 - [blacktop/ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife
 - [sail-tunnel/peakpass](https://github.com/sail-tunnel/peakpass) - new iOS client for vmess, shadowsocks, trojan, vless, socks and other protocols
@@ -998,6 +1000,7 @@
 - [insidegui/AssetCatalogTinkerer](https://github.com/insidegui/AssetCatalogTinkerer) - An app that lets you open .car files and browse/extract their images.
 - [BandarHL/BHTwitter](https://github.com/BandarHL/BHTwitter) - Awesome tweak for Twitter
 - [mazzzystar/Queryable](https://github.com/mazzzystar/Queryable) - Run OpenAI's CLIP and Apple's MobileCLIP model on iOS to search photos.
+- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
 - [mastodon/mastodon-ios](https://github.com/mastodon/mastodon-ios) - Official iOS app for Mastodon
 - [MessageKit/MessageKit](https://github.com/MessageKit/MessageKit) - A community-driven replacement for JSQMessagesViewController
 - [Yoddikko/yoddChatGPT](https://github.com/Yoddikko/yoddChatGPT) - This app uses the OpenAISwift library, ChatGPTSwift library and OpenAI library to communicate with the popular ChatGPT artificial intelligence. The app allows you to have a quick message exchange with
@@ -1021,7 +1024,7 @@
 
 ## java 
 
-- [qaiu/netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download) - 各类网盘直链解析服务, 已支持蓝奏云/蓝奏优享/小飞机盘/123云盘. 专享版支持移动联通天翼云等大文件解析. 体验地址: https://lz.qaiu.top
+- [qaiu/netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download) - 各类网盘直链解析服务, 已支持蓝奏云/蓝奏优享/小飞机盘/123云盘/移动联通/天翼云等. 体验地址: https://lz.qaiu.top
 - [yangwenmai/github-trending-backup](https://github.com/yangwenmai/github-trending-backup) - Github trending backup by everyday.
 - [kasuganosoras/SuperMicro-IPMI-LicenseGenerator](https://github.com/kasuganosoras/SuperMicro-IPMI-LicenseGenerator) - 🔑 SuperMicro 超微主板 IPMI 高级功能授权解锁 Key 生成工具
 - [jellyfin/jellyfin-androidtv](https://github.com/jellyfin/jellyfin-androidtv) - Android TV Client for Jellyfin
@@ -1052,10 +1055,12 @@
 
 ## jekyll 
 
+- [rampatra/photography](https://github.com/rampatra/photography) - A free online portfolio website to showcase your photos.
 - [poole/hyde](https://github.com/poole/hyde) - A brazen two-column theme for Jekyll.
 
 ## jekyll-theme 
 
+- [rampatra/photography](https://github.com/rampatra/photography) - A free online portfolio website to showcase your photos.
 - [poole/hyde](https://github.com/poole/hyde) - A brazen two-column theme for Jekyll.
 
 ## js 
@@ -1126,6 +1131,7 @@
 
 ## llm 
 
+- [sammcj/gollama](https://github.com/sammcj/gollama) - Go manage your Ollama models
 - [getAsterisk/deepclaude](https://github.com/getAsterisk/deepclaude) - A high-performance LLM inference API and Chat UI that integrates DeepSeek R1's CoT reasoning traces with Anthropic Claude models.
 - [Inokinoki/ai-no-jimaku-gumi](https://github.com/Inokinoki/ai-no-jimaku-gumi) - AI no jimaku gumi (AIの字幕組), a subtitle maker for video using AI.
 - [FrigadeHQ/trench](https://github.com/FrigadeHQ/trench) - Trench — Open-Source Analytics Infrastructure. A single production-ready Docker image built on ClickHouse, Kafka, and Node.js for tracking events, page views. Easily build product analytics dashboards
@@ -1241,7 +1247,7 @@
 
 ## microsoft 
 
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 - [ShadowWhisperer/Remove-MS-Edge](https://github.com/ShadowWhisperer/Remove-MS-Edge) - Uninstall Microsoft Edge silently, through an executable or batch script.
 
 ## mobile 
@@ -1255,6 +1261,7 @@
 
 ## monitoring 
 
+- [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -1407,6 +1414,13 @@
 
 ## others 
 
+- [jimp-dev/jimp](https://github.com/jimp-dev/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
+- [krau/SaveAny-Bot](https://github.com/krau/SaveAny-Bot) - 保存 Telegram 文件到各类存储空间 📂 (Alist、本地磁盘、Webdav...)  , 支持破解禁止保存的频道
+- [besscroft/PicImpact](https://github.com/besscroft/PicImpact) - 自部署的摄影作品网站，支持多种功能特性。PicImpact，分享你和世界！
+- [ml-explore/mlx-swift](https://github.com/ml-explore/mlx-swift) - Swift API for MLX
+- [leonboe1/GoogleFindMyTools](https://github.com/leonboe1/GoogleFindMyTools) - Framework for tracking and building your own Google Find My Device trackers 🧭
+- [bogdanfinn/tls-client](https://github.com/bogdanfinn/tls-client) - net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests.
+- [kutovoys/xray-checker](https://github.com/kutovoys/xray-checker) - Xray Checker: A Prometheus exporter for monitoring Xray proxies
 - [lzell/AIProxySwift](https://github.com/lzell/AIProxySwift) - Unified swift client for AI providers
 - [fdarkaou/open-deep-research](https://github.com/fdarkaou/open-deep-research) - An open-source alternative to OpenAI and Gemini's deep research.
 - [Elawen-Carl/Cursor_Pro_Helper](https://github.com/Elawen-Carl/Cursor_Pro_Helper) - 解决Cursor在免费订阅期间出现以下提示的问题: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let 
@@ -1813,7 +1827,7 @@
 
 ## powershell 
 
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 
 ## privacy 
 
@@ -1833,6 +1847,7 @@
 
 ## python 
 
+- [daijro/hrequests](https://github.com/daijro/hrequests) - 🚀 Web scraping for humans
 - [shaikhsajid1111/twitter-scraper-selenium](https://github.com/shaikhsajid1111/twitter-scraper-selenium) - Python's package to scrap Twitter's front-end easily
 - [psd-tools/psd-tools](https://github.com/psd-tools/psd-tools) - Python package for reading Adobe Photoshop PSD files
 - [vietnh1009/ASCII-generator](https://github.com/vietnh1009/ASCII-generator) - ASCII generator (image to text, image to image, video to video)
@@ -1959,6 +1974,7 @@
 
 ## rust 
 
+- [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 - [getAsterisk/deepclaude](https://github.com/getAsterisk/deepclaude) - A high-performance LLM inference API and Chat UI that integrates DeepSeek R1's CoT reasoning traces with Anthropic Claude models.
 - [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [0xlane/wechat-dump-rs](https://github.com/0xlane/wechat-dump-rs) - 该工具用于导出正在运行中的微信进程的 key 并自动解密所有微信数据库文件以及导出 key 后数据库文件离线解密。
@@ -2094,10 +2110,13 @@
 
 ## svelte 
 
+- [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 
 ## swift 
 
+- [pawello2222/WidgetExamples](https://github.com/pawello2222/WidgetExamples) - A demo project showing different types of Widgets created with SwiftUI and WidgetKit.
+- [nikstar/VariableBlur](https://github.com/nikstar/VariableBlur) - SwiftUI variable blur (progressive blur)
 - [BastiaanJansen/toast-swift](https://github.com/BastiaanJansen/toast-swift) - Customizable Swift Toast view built with UIKit. 🍞
 - [blacktop/ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife
 - [unixzii/swiftui-for-react-devs](https://github.com/unixzii/swiftui-for-react-devs) - A cheat sheet that helps React developers to quickly start with SwiftUI.
@@ -2142,6 +2161,9 @@
 
 ## swiftui 
 
+- [pawello2222/WidgetExamples](https://github.com/pawello2222/WidgetExamples) - A demo project showing different types of Widgets created with SwiftUI and WidgetKit.
+- [jtrivedi/VariableBlurView](https://github.com/jtrivedi/VariableBlurView) - An example of how to create a live, variable blur effect on iOS.
+- [nikstar/VariableBlur](https://github.com/nikstar/VariableBlur) - SwiftUI variable blur (progressive blur)
 - [powenn/ModMyIPA](https://github.com/powenn/ModMyIPA) - An app that modifies IPA files allows you to install the same app multiple times
 - [unixzii/swiftui-for-react-devs](https://github.com/unixzii/swiftui-for-react-devs) - A cheat sheet that helps React developers to quickly start with SwiftUI.
 - [Lessica/TrollFools](https://github.com/Lessica/TrollFools) - In-place tweak injection with insert_dylib and ChOma.
@@ -2329,7 +2351,7 @@
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [ShadowWhisperer/Remove-MS-Edge](https://github.com/ShadowWhisperer/Remove-MS-Edge) - Uninstall Microsoft Edge silently, through an executable or batch script.
 - [gaozhangmin/aliyunpan](https://github.com/gaozhangmin/aliyunpan) - 小白羊网盘 - Powered by 阿里云盘。
