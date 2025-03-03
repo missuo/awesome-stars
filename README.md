@@ -461,7 +461,7 @@
 ## Others 
 
 - [lanceliao/china-holiday-calender](https://github.com/lanceliao/china-holiday-calender) - 2023-2025中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calendar、Outlook等客户端订阅，包含节假日API
-- [Lakr233/FlowDown-Beta](https://github.com/Lakr233/FlowDown-Beta) - Repository for FlowDown binary releases.
+- [Lakr233/FlowDown-App](https://github.com/Lakr233/FlowDown-App) - Repository for FlowDown binary releases.
 - [Huangbai233/HBWeChatHelper](https://github.com/Huangbai233/HBWeChatHelper) - 黄白助手-增强iOS微信的插件
 - [unixzii/swiftui-for-react-devs](https://github.com/unixzii/swiftui-for-react-devs) - A cheat sheet that helps React developers to quickly start with SwiftUI.
 - [ipinfo/sample-database](https://github.com/ipinfo/sample-database) - IPinfo database and API sample repository
@@ -789,6 +789,7 @@
 
 ## Swift 
 
+- [AppPear/ChartView](https://github.com/AppPear/ChartView) - ChartView made in SwiftUI
 - [kvyatkovskys/KVKCalendar](https://github.com/kvyatkovskys/KVKCalendar) - A most fully customization calendar for Apple platforms 📅
 - [mocki-toki/barik](https://github.com/mocki-toki/barik) - macOS menu bar replacement, with yabai and AeroSpace support
 - [glinford/dns-easy-switcher](https://github.com/glinford/dns-easy-switcher) - DNS Easy Switcher (for MacOS)
