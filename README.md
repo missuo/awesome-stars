@@ -378,6 +378,7 @@
 - [NobyDa/Script](https://github.com/NobyDa/Script) - This project is based on the scripting capabilities of several excellent iOS proxy tools (e.g. Surge, Quantumult X)
 - [LCYLYM/Telegram-Channel-Mirror](https://github.com/LCYLYM/Telegram-Channel-Mirror) - 🎙️ 利用 CloudFlare Worker 搭建 telegram 频道镜像站，使得国内可以访问
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
+- [paulmillr/encrypted-dns](https://github.com/paulmillr/encrypted-dns) - DNS over HTTPS config profiles for iOS & macOS
 - [creativetimofficial/material-kit-react](https://github.com/creativetimofficial/material-kit-react) - Material Kit React free and open source by Creative Tim
 - [metowolf/iplist](https://github.com/metowolf/iplist) - IP CIDRs List / IP 地址列表
 - [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
@@ -498,7 +499,6 @@
 - [cbuijs/ipasn](https://github.com/cbuijs/ipasn) - IP to ASN list
 - [VirgilClyne/VirgilClyne](https://github.com/VirgilClyne/VirgilClyne) - About me
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
-- [paulmillr/encrypted-dns](https://github.com/paulmillr/encrypted-dns) - DNS over HTTPS config profiles for iOS & macOS
 - [Buernia/Zhudou-Sans](https://github.com/Buernia/Zhudou-Sans) - 煮豆黑体，Noto 风格中日韩标点符号字体。A font family for CJK symbols and punctuation, derived from Noto Sans.
 - [uclort/AppInfo-Publish](https://github.com/uclort/AppInfo-Publish) - 发布
 - [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 macOS 平台的翻译和 OCR 软件。
@@ -797,7 +797,7 @@
 - [pawello2222/WidgetExamples](https://github.com/pawello2222/WidgetExamples) - A demo project showing different types of Widgets created with SwiftUI and WidgetKit.
 - [jtrivedi/VariableBlurView](https://github.com/jtrivedi/VariableBlurView) - An example of how to create a live, variable blur effect on iOS.
 - [nikstar/VariableBlur](https://github.com/nikstar/VariableBlur) - SwiftUI variable blur (progressive blur)
-- [lzell/AIProxySwift](https://github.com/lzell/AIProxySwift) - Unified swift client for AI providers
+- [lzell/AIProxySwift](https://github.com/lzell/AIProxySwift) - Swift client for AI providers
 - [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner) - A free, source-available and fair-code licensed mac app cleaner
 - [BastiaanJansen/toast-swift](https://github.com/BastiaanJansen/toast-swift) - Customizable Swift Toast view built with UIKit. 🍞
 - [pcccccc/SimpleLiveTVOS](https://github.com/pcccccc/SimpleLiveTVOS) - 
