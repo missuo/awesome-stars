@@ -797,7 +797,7 @@
 - [pawello2222/WidgetExamples](https://github.com/pawello2222/WidgetExamples) - A demo project showing different types of Widgets created with SwiftUI and WidgetKit.
 - [jtrivedi/VariableBlurView](https://github.com/jtrivedi/VariableBlurView) - An example of how to create a live, variable blur effect on iOS.
 - [nikstar/VariableBlur](https://github.com/nikstar/VariableBlur) - SwiftUI variable blur (progressive blur)
-- [lzell/AIProxySwift](https://github.com/lzell/AIProxySwift) - Swift client for AI providers
+- [lzell/AIProxySwift](https://github.com/lzell/AIProxySwift) - Swift client for AI providers. Can make requests straight to the provider or proxied through our API key protection backend
 - [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner) - A free, source-available and fair-code licensed mac app cleaner
 - [BastiaanJansen/toast-swift](https://github.com/BastiaanJansen/toast-swift) - Customizable Swift Toast view built with UIKit. 🍞
 - [pcccccc/SimpleLiveTVOS](https://github.com/pcccccc/SimpleLiveTVOS) - 
@@ -833,7 +833,7 @@
 - [Toxblh/MTMR](https://github.com/Toxblh/MTMR) - 🌟 [My TouchBar My rules]. The Touch Bar Customisation App for your MacBook Pro
 - [Lakr233/Fix-GPS](https://github.com/Lakr233/Fix-GPS) - 从一生足迹中读取位置数据并写入图片
 - [Schlaubischlump/LocationSimulator](https://github.com/Schlaubischlump/LocationSimulator) - MacOS application to spoof / fake / mock your iOS / iPadOS or iPhoneSimulator device location.  WatchOS and TvOS are partially supported.
-- [skiptools/skip](https://github.com/skiptools/skip) - Skip transpiler for creating SwiftUI apps for iOS and Android
+- [skiptools/skip](https://github.com/skiptools/skip) - Skip enables the creation of native SwiftUI apps for iOS and Android
 - [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
 - [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
 - [adborbas/yahms](https://github.com/adborbas/yahms) - An open-source qBittorrent client for iOS.
