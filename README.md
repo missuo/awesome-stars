@@ -461,6 +461,8 @@
 
 ## Others 
 
+- [ip2location/ip2location-iata-icao](https://github.com/ip2location/ip2location-iata-icao) - This list contains the airport codes of IATA airport code and ICAO airport code together with country code and region name supported in IP2Location geolocation database.
+- [mwgg/Airports](https://github.com/mwgg/Airports) - A JSON database of 28k+ airports with ICAO/IATA codes, names, cities, two-letter country identifiers, elevation, latitude & longitude, and a timezone identifier
 - [lanceliao/china-holiday-calender](https://github.com/lanceliao/china-holiday-calender) - 2023-2025中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calendar、Outlook等客户端订阅，包含节假日API
 - [Lakr233/FlowDown-App](https://github.com/Lakr233/FlowDown-App) - https://flowdown.ai/
 - [Huangbai233/HBWeChatHelper](https://github.com/Huangbai233/HBWeChatHelper) - 黄白助手-增强iOS微信的插件
@@ -789,6 +791,7 @@
 
 ## Swift 
 
+- [Lakr233/MobileTransfer](https://github.com/Lakr233/MobileTransfer) - 
 - [AppPear/ChartView](https://github.com/AppPear/ChartView) - ChartView made in SwiftUI
 - [kvyatkovskys/KVKCalendar](https://github.com/kvyatkovskys/KVKCalendar) - A most fully customization calendar for Apple platforms 📅
 - [mocki-toki/barik](https://github.com/mocki-toki/barik) - macOS menu bar replacement, with yabai and AeroSpace support
