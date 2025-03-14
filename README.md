@@ -148,12 +148,13 @@
 
 ## Go 
 
+- [Qv2ray/gun-lite](https://github.com/Qv2ray/gun-lite) - Same gRPC Tunnel, but without gRPC / Protobuf
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
 - [rusq/slackdump](https://github.com/rusq/slackdump) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
 - [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [XTLS/Go](https://github.com/XTLS/Go) - Go implementation of XTLS protocol.
-- [krau/SaveAny-Bot](https://github.com/krau/SaveAny-Bot) - 保存 Telegram 文件到各类存储空间 📂 (Alist、本地磁盘、Webdav...)  , 支持破解禁止保存的频道
+- [krau/SaveAny-Bot](https://github.com/krau/SaveAny-Bot) - 保存 Telegram 文件到各类存储空间 📂 (Alist、本地磁盘、Webdav, Minio...)  , 支持破解禁止保存的频道
 - [sammcj/gollama](https://github.com/sammcj/gollama) - Go manage your Ollama models
 - [bogdanfinn/tls-client](https://github.com/bogdanfinn/tls-client) - net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests.
 - [kutovoys/xray-checker](https://github.com/kutovoys/xray-checker) - Xray Checker: A Prometheus exporter for monitoring Xray proxies
@@ -321,7 +322,7 @@
 ## JavaScript 
 
 - [itorr/patina](https://github.com/itorr/patina) - 🤢「电子包浆」 图片做旧工具，赛博包浆虚拟器
-- [levywang/avhub](https://github.com/levywang/avhub) - Adult Video Resource Management Platform
+- [levywang/avhub](https://github.com/levywang/avhub) - R18 Resource Search & Management Tool
 - [rampatra/photography](https://github.com/rampatra/photography) - A free online portfolio website to showcase your photos.
 - [sindresorhus/create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
 - [PublicAffairs/openai-gemini](https://github.com/PublicAffairs/openai-gemini) - Gemini ➜ OpenAI API proxy. Serverless!
