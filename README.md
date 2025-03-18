@@ -93,7 +93,7 @@
 - [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [ml-explore/mlx-swift](https://github.com/ml-explore/mlx-swift) - Swift API for MLX
 - [facebook/proxygen](https://github.com/facebook/proxygen) - A collection of C++ HTTP libraries including an easy to use HTTP server.
-- [zhlynn/zsign](https://github.com/zhlynn/zsign) - Maybe it is the most quickly codesign alternative for iOS12+,  cross-platform ( macOS, Linux , Windows ), more features.
+- [zhlynn/zsign](https://github.com/zhlynn/zsign) - It might be the quickest cross-platform codesign alternative for iOS 12+, supporting macOS, Linux, Windows, and more features.
 - [skyzh/RISCV-Simulator](https://github.com/skyzh/RISCV-Simulator) - 💻 RISC-V Simulator of RV32I ISA. 5-stage pipeline / out-of-order execution with Tomasulo algorithm and Speculation. Support runtime visualization. Project report available.
 - [flipperdevices/qFlipper](https://github.com/flipperdevices/qFlipper) - qFlipper — desktop application for updating Flipper Zero firmware via PC
 - [victoryang00/A16-microbenchmark](https://github.com/victoryang00/A16-microbenchmark) - A repo to store what M1 explainer does and ~Armv9~ Armv8.6 ISA on A16
@@ -101,7 +101,7 @@
 - [qpdf/qpdf](https://github.com/qpdf/qpdf) - qpdf: A content-preserving PDF document transformer
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [google/fuse-archive](https://github.com/google/fuse-archive) - FUSE file system for archives and compressed files (ZIP, RAR, 7Z, ISO, TGZ, XZ...)
-- [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
+- [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) - 不再维护，自寻替代品。 Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
 - [awslabs/dynamodb-shell](https://github.com/awslabs/dynamodb-shell) - A command line client (shell) for AWS DynamoDB that offers DDL and DML support similar to CLIs for other databases.
 - [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix) - Google SafetyNet attestation workarounds for Magisk
 - [BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter) - Wechat Chat History Exporter 微信聊天记录导出备份程序
@@ -193,6 +193,7 @@
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [martin-helmich/prometheus-nginxlog-exporter](https://github.com/martin-helmich/prometheus-nginxlog-exporter) - Export metrics from Nginx access log files to Prometheus
 - [shopspring/decimal](https://github.com/shopspring/decimal) - Arbitrary-precision fixed-point decimal numbers in Go
+- [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Teldrive
 - [zaigie/palworld-server-tool](https://github.com/zaigie/palworld-server-tool) - [中文|English|日本語]基于.sav存档解析和REST&RCON优雅地用可视化界面管理幻兽帕鲁专用服务器。/ Through parse .sav and REST&RCON, visual interface management PalWorld dedicated server.
 - [akvorado/akvorado](https://github.com/akvorado/akvorado) - Flow collector, enricher and visualizer
 - [osrg/gobgp](https://github.com/osrg/gobgp) - BGP implemented in the Go Programming Language
@@ -410,7 +411,7 @@
 - [sakana164/mytv-android](https://github.com/sakana164/mytv-android) - 使用Android原生开发的电视直播软件（source backup）
 - [Ackites/Nrfr](https://github.com/Ackites/Nrfr) - 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制
 - [jinweijie/notify-me](https://github.com/jinweijie/notify-me) - An Android application that forwards Bark, Email, Webhook notifications upon receiving SMS messages or phone calls.
-- [YiiGuxing/TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin) - Translation plugin for IntelliJ based IDEs/Android Studio.
+- [YiiGuxing/TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin) - Translation plugin for IntelliJ-based IDEs/Android Studio.
 - [twiceyuan/WXAPK](https://github.com/twiceyuan/WXAPK) - 直接安装微信接收到的 APK
 - [BaltiApps/Pixelify-Google-Photos](https://github.com/BaltiApps/Pixelify-Google-Photos) - Pixelify GPhotos
 - [ReVanced/revanced-patches-template](https://github.com/ReVanced/revanced-patches-template) - 👋🧩Template repository for ReVanced Patches
