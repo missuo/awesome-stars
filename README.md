@@ -548,6 +548,7 @@
 
 ## Python 
 
+- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
 - [daijro/hrequests](https://github.com/daijro/hrequests) - 🚀 Web scraping for humans
 - [leonboe1/GoogleFindMyTools](https://github.com/leonboe1/GoogleFindMyTools) - Framework for tracking and building your own Google Find My Device trackers 🧭
@@ -681,6 +682,8 @@
 
 ## Rust 
 
+- [DioCrafts/OxiCloud](https://github.com/DioCrafts/OxiCloud) - ☁️ OxiCloud server, efficient and secure way to save all your data
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [tun2proxy/tun2proxy](https://github.com/tun2proxy/tun2proxy) - Tunnel (TUN) interface for SOCKS and HTTP proxies
 - [getAsterisk/deepclaude](https://github.com/getAsterisk/deepclaude) - A high-performance LLM inference API and Chat UI that integrates DeepSeek R1's CoT reasoning traces with Anthropic Claude models.
 - [Elawen-Carl/Cursor_Pro_Helper](https://github.com/Elawen-Carl/Cursor_Pro_Helper) - 解决Cursor在免费订阅期间出现以下提示的问题: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let 
