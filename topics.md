@@ -1480,6 +1480,7 @@
 
 ## others 
 
+- [KHwang9883/MobileModels](https://github.com/KHwang9883/MobileModels) - 手机品牌型号汇总 | Mobile Models | This repository is licensed under CC BY-NC-SA 4.0
 - [Aviv-public/apples-translation-api-demo](https://github.com/Aviv-public/apples-translation-api-demo) - Apple's Translation API demo
 - [RROrg/rr](https://github.com/RROrg/rr) - Redpill Recovery (arpl-i18n)
 - [songtianlun/mirrorGit](https://github.com/songtianlun/mirrorGit) - mirror your Github to Gitea.
