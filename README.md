@@ -451,6 +451,7 @@
 
 ## Makefile 
 
+- [theos/theos](https://github.com/theos/theos) - A cross-platform suite of tools for building and deploying software for iOS and other platforms.
 - [Netskao/WCHideChatAvatars](https://github.com/Netskao/WCHideChatAvatars) - WeChat Hide Chat Avatars (Theos Tweak)
 - [pmkol/openwrt-lite](https://github.com/pmkol/openwrt-lite) - An enhanced OpenWrt variant for mainland China users.
 - [Netskao/QQiPadModeLogin](https://github.com/Netskao/QQiPadModeLogin) - QQ simulates iPad mode login (Theos Tweak)
