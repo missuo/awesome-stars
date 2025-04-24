@@ -138,6 +138,7 @@
 - [package-manager](#package-manager)
 - [parsing](#parsing)
 - [pentesting](#pentesting)
+- [perl](#perl)
 - [php](#php)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
@@ -173,6 +174,7 @@
 - [swiftui](#swiftui)
 - [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
+- [telegram-bot](#telegram-bot)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
 - [termux](#termux)
@@ -220,7 +222,7 @@
 ## algorithm 
 
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3520 LeetCode Problems (Weekly Update)
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3526 LeetCode Problems (Weekly Update)
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 
 ## analytics 
@@ -379,7 +381,7 @@
 - [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) - An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)
 - [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
 - [guangzhengli/ChatFiles](https://github.com/guangzhengli/ChatFiles) - Document Chatbot — multiple files. Powered by GPT / Embedding.
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o3 and deepseek r1, gpt-4.5
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
 - [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
 - [wechaty/python-wechaty](https://github.com/wechaty/python-wechaty) - Python Wechaty is a Conversational RPA SDK for Chatbot Makers written in Python
 - [wechaty/wechaty](https://github.com/wechaty/wechaty) - Conversational RPA SDK for Chatbot Makers. Join our Discord: https://discord.gg/7q8NBZbQzt
@@ -407,7 +409,7 @@
 - [ading2210/poe-api](https://github.com/ading2210/poe-api) - [UNMAINTAINED] A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
 - [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
 - [guangzhengli/ChatFiles](https://github.com/guangzhengli/ChatFiles) - Document Chatbot — multiple files. Powered by GPT / Embedding.
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o3 and deepseek r1, gpt-4.5
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key 
 - [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
@@ -443,7 +445,7 @@
 - [PublicAffairs/openai-gemini](https://github.com/PublicAffairs/openai-gemini) - Gemini ➜ OpenAI API proxy. Serverless!
 - [zhu327/gemini-openai-proxy](https://github.com/zhu327/gemini-openai-proxy) - A proxy for converting the OpenAI API protocol to the Google Gemini Pro protocol.
 - [guangzhengli/ChatFiles](https://github.com/guangzhengli/ChatFiles) - Document Chatbot — multiple files. Powered by GPT / Embedding.
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o3 and deepseek r1, gpt-4.5
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
 - [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
 - [ConnectAI-E/feishu-openai](https://github.com/ConnectAI-E/feishu-openai) - 🎒 飞书  ×（GPT-4 + GPT-4V + DALL·E-3 + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
@@ -528,7 +530,7 @@
 ## cpp 
 
 - [skyzh/RISCV-Simulator](https://github.com/skyzh/RISCV-Simulator) - 💻 RISC-V Simulator of RV32I ISA. 5-stage pipeline / out-of-order execution with Tomasulo algorithm and Speculation. Support runtime visualization. Project report available.
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3520 LeetCode Problems (Weekly Update)
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3526 LeetCode Problems (Weekly Update)
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 
 ## cryptography 
@@ -628,6 +630,7 @@
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [mandarons/icloud-docker](https://github.com/mandarons/icloud-docker) - Dockerized iCloud Client - make a local copy of your iCloud documents and photos, and keep it automatically up-to-date.
 - [kastldratza/zoomrec](https://github.com/kastldratza/zoomrec) - Record Zoom meetings automatically in headless docker container with Python and FFmpeg
+- [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -659,6 +662,7 @@
 
 ## electron 
 
+- [galaxy-s10/billd-desk](https://github.com/galaxy-s10/billd-desk) - 基于Vue3 + WebRTC + Nodejs + Electron搭建的远程桌面控制
 - [mihomo-party-org/mihomo-party](https://github.com/mihomo-party-org/mihomo-party) - :electron: Another Mihomo GUI.
 - [1c7/Translate-Subtitle-File](https://github.com/1c7/Translate-Subtitle-File) - 字幕机翻，翻译字幕文件 .srt .ass .vtt，和同类产品相比，特点是可以自己填写 API key，这样价格最低。最新版本 5.3.0 发布时间 2024 年 11 月 24 号
 - [Postcatlab/postcat](https://github.com/Postcatlab/postcat) - Postcat 是一个可扩展的 API 工具平台。集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。An extensible API tool.
@@ -1017,6 +1021,7 @@
 
 ## ios 
 
+- [theos/theos](https://github.com/theos/theos) - A cross-platform suite of tools for building and deploying software for iOS and other platforms.
 - [khcrysalis/Feather](https://github.com/khcrysalis/Feather) - Feather is a free on-device iOS application manager/installer, using certificates part of the Apple Developer Program.
 - [Lakr233/Saily](https://github.com/Lakr233/Saily) - Modern. Fast. Beautiful.
 - [aws-amplify/aws-sdk-ios-spm](https://github.com/aws-amplify/aws-sdk-ios-spm) - This repository enables Swift Package Manager support for the AWS Mobile SDK for iOS
@@ -1153,6 +1158,7 @@
 
 ## linux 
 
+- [theos/theos](https://github.com/theos/theos) - A cross-platform suite of tools for building and deploying software for iOS and other platforms.
 - [sammcj/gollama](https://github.com/sammcj/gollama) - Go manage your Ollama models
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [tsukinaha/tsukimi](https://github.com/tsukinaha/tsukimi) - A simple third-party Emby client for Linux
@@ -1220,6 +1226,7 @@
 
 ## macos 
 
+- [theos/theos](https://github.com/theos/theos) - A cross-platform suite of tools for building and deploying software for iOS and other platforms.
 - [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer) - A video player for iOS、macOS、tvOS、visionOS , based on AVPlayer and FFmpeg, support the horizontal, vertical screen. support adjust volume, brightness and seek by slide, SwiftUI, support subtitles.
 - [mocki-toki/barik](https://github.com/mocki-toki/barik) - macOS menu bar replacement, with yabai and AeroSpace support
 - [sammcj/gollama](https://github.com/sammcj/gollama) - Go manage your Ollama models
@@ -1386,6 +1393,8 @@
 
 ## nodejs 
 
+- [galaxy-s10/billd-desk](https://github.com/galaxy-s10/billd-desk) - 基于Vue3 + WebRTC + Nodejs + Electron搭建的远程桌面控制
+- [3l-d1abl0/watermark-remover](https://github.com/3l-d1abl0/watermark-remover) - A simple watermark remover app using Google Gemini 2.0
 - [sindresorhus/create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
 - [vitalets/google-translate-api](https://github.com/vitalets/google-translate-api) - A free and unlimited API for Google Translate :dollar: :no_entry_sign:
 - [gizmo-ds/totp-wasm](https://github.com/gizmo-ds/totp-wasm) - HOTP & TOTP & Steam Guard TOTP
@@ -1441,7 +1450,7 @@
 - [zhu327/gemini-openai-proxy](https://github.com/zhu327/gemini-openai-proxy) - A proxy for converting the OpenAI API protocol to the Google Gemini Pro protocol.
 - [stulzq/azure-openai-proxy](https://github.com/stulzq/azure-openai-proxy) - Azure OpenAI Service Proxy. Convert OpenAI official API request to Azure OpenAI API request. Support GPT-4,Embeddings,Langchain. Adapter from OpenAI to Azure OpenAI.
 - [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o3 and deepseek r1, gpt-4.5
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key 
 - [tisfeng/Easydict](https://github.com/tisfeng/Easydict) - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and t
 - [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
@@ -1483,6 +1492,8 @@
 
 ## others 
 
+- [akazwz/sshtalk](https://github.com/akazwz/sshtalk) - ssh sshtalk.com
+- [pxx917144686/DYYY](https://github.com/pxx917144686/DYYY) - 抖音++
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
 - [KHwang9883/MobileModels](https://github.com/KHwang9883/MobileModels) - 手机品牌型号汇总 | Mobile Models | This repository is licensed under CC BY-NC-SA 4.0
@@ -1522,7 +1533,6 @@
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [jimp-dev/jimp](https://github.com/jimp-dev/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
-- [krau/SaveAny-Bot](https://github.com/krau/SaveAny-Bot) - 保存 Telegram 文件到各类存储空间 📂 (Alist、本地磁盘、Webdav, Minio...)  , 支持破解禁止保存的频道
 - [besscroft/PicImpact](https://github.com/besscroft/PicImpact) - 自部署的摄影作品网站，支持多种功能特性。PicImpact，分享你和世界！
 - [ml-explore/mlx-swift](https://github.com/ml-explore/mlx-swift) - Swift API for MLX
 - [leonboe1/GoogleFindMyTools](https://github.com/leonboe1/GoogleFindMyTools) - Framework for tracking and building your own Google Find My Device trackers 🧭
@@ -1540,7 +1550,7 @@
 - [Lakr233/FlowDown-App](https://github.com/Lakr233/FlowDown-App) - https://flowdown.ai/
 - [X1a0He/X1a0HeWeChatPlugin](https://github.com/X1a0He/X1a0HeWeChatPlugin) - 一个随手写的微信插件，提供消息防撤回、显示红包转账详情、消息列表操作、头像圆角、毛玻璃模式、多开等功能
 - [mainframecomputer/fullmoon-ios](https://github.com/mainframecomputer/fullmoon-ios) - chat with private and local large language models
-- [sakana164/mytv-android](https://github.com/sakana164/mytv-android) - 使用Android原生开发的电视直播软件（source backup）
+- [sakana164/mytv-android](https://github.com/sakana164/mytv-android) - 使用Android原生开发的电视直播软件
 - [Ackites/Nrfr](https://github.com/Ackites/Nrfr) - 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制
 - [Q-WRT/Q-WRT](https://github.com/Q-WRT/Q-WRT) - Q-WRT, A Commercial product level fimware for IoT-Devices base OpenWrt
 - [Meliox/PVE-mods](https://github.com/Meliox/PVE-mods) - Proxmox modifications
@@ -1911,6 +1921,10 @@
 
 - [0xlane/wechat-dump-rs](https://github.com/0xlane/wechat-dump-rs) - 该工具用于导出正在运行中的微信进程的 key 并自动解密所有微信数据库文件以及导出 key 后数据库文件离线解密。
 
+## perl 
+
+- [theos/theos](https://github.com/theos/theos) - A cross-platform suite of tools for building and deploying software for iOS and other platforms.
+
 ## php 
 
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
@@ -1967,7 +1981,7 @@
 - [Soroosh-N/us_visa_scheduler](https://github.com/Soroosh-N/us_visa_scheduler) - US VISA (usvisa-info) appointment re-scheduler bot with python.
 - [yangwenmai/github-trending-backup](https://github.com/yangwenmai/github-trending-backup) - Github trending backup by everyday.
 - [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Python APIs for web automation, testing, and bypassing bot-detection.
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3520 LeetCode Problems (Weekly Update)
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3526 LeetCode Problems (Weekly Update)
 - [ading2210/poe-api](https://github.com/ading2210/poe-api) - [UNMAINTAINED] A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
 - [ShadowWhisperer/Remove-MS-Edge](https://github.com/ShadowWhisperer/Remove-MS-Edge) - Uninstall Microsoft Edge silently, through an executable or batch script.
 - [tobymao/sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler
@@ -2065,7 +2079,7 @@
 
 - [ReagentX/imessage-exporter](https://github.com/ReagentX/imessage-exporter) - Export iMessage data + run iMessage Diagnostics
 - [ReVanced/revanced-patches-template](https://github.com/ReVanced/revanced-patches-template) - 👋🧩Template repository for ReVanced Patches
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o3 and deepseek r1, gpt-4.5
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 
 ## robotics 
@@ -2333,6 +2347,17 @@
 - [missuo/Telegraph-Image-Hosting](https://github.com/missuo/Telegraph-Image-Hosting) - Build a free image hosting with Telegraph
 - [songquanpeng/message-pusher](https://github.com/songquanpeng/message-pusher) - 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用
 
+## telegram-bot 
+
+- [krau/SaveAny-Bot](https://github.com/krau/SaveAny-Bot) - 保存 Telegram 文件到各类存储空间 📂 (Alist、本地磁盘、Webdav, Minio...)  , 支持破解禁止保存的频道
+- [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Teldrive
+- [nekomeowww/insights-bot](https://github.com/nekomeowww/insights-bot) - A bot works with OpenAI GPT models to provide insights for your info flows.
+- [MrMissx/Telegram_Forwarder](https://github.com/MrMissx/Telegram_Forwarder) - Simple telegram bot to forward message from channel/group
+- [iyear/E5SubBot](https://github.com/iyear/E5SubBot) - 🤖 Telebot for E5 Renewal
+- [dracarys18/TweetBot](https://github.com/dracarys18/TweetBot) - A simple Telegram Bot to Stream the tweets from any twitter accounts to Telegram Channel
+- [m1guelpf/chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) - Run your own GPTChat Telegram bot, with a single command!
+- [gaowanliang/DownloadBot](https://github.com/gaowanliang/DownloadBot) - (Currently) 🤖 A distributed cross-platform Telegram Bot that can control your Aria2 server, control server files and also upload to OneDrive / Google Drive.
+
 ## tensorflow 
 
 - [Tencent/ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
@@ -2383,6 +2408,8 @@
 
 ## typescript 
 
+- [galaxy-s10/billd-desk](https://github.com/galaxy-s10/billd-desk) - 基于Vue3 + WebRTC + Nodejs + Electron搭建的远程桌面控制
+- [3l-d1abl0/watermark-remover](https://github.com/3l-d1abl0/watermark-remover) - A simple watermark remover app using Google Gemini 2.0
 - [Alice39s/kuma-mieru](https://github.com/Alice39s/kuma-mieru) - A 3rd-party Uptime Kuma monitoring dashboard built on Next.js 15, TypeScript and Recharts.
 - [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore) - Your Next Store: Modern Commerce with Next.js and Stripe as the backend.
 - [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
@@ -2471,6 +2498,7 @@
 
 ## windows 
 
+- [theos/theos](https://github.com/theos/theos) - A cross-platform suite of tools for building and deploying software for iOS and other platforms.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [0xlane/wechat-dump-rs](https://github.com/0xlane/wechat-dump-rs) - 该工具用于导出正在运行中的微信进程的 key 并自动解密所有微信数据库文件以及导出 key 后数据库文件离线解密。
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
