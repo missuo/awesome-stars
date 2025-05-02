@@ -100,7 +100,7 @@
 - [skyzh/RISCV-Simulator](https://github.com/skyzh/RISCV-Simulator) - 💻 RISC-V Simulator of RV32I ISA. 5-stage pipeline / out-of-order execution with Tomasulo algorithm and Speculation. Support runtime visualization. Project report available.
 - [flipperdevices/qFlipper](https://github.com/flipperdevices/qFlipper) - qFlipper — desktop application for updating Flipper Zero firmware via PC
 - [vickiegpt/A16-microbenchmark](https://github.com/vickiegpt/A16-microbenchmark) - A repo to store what M1 explainer does and ~Armv9~ Armv8.6 ISA on A16
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3526 LeetCode Problems (Weekly Update)
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3535 LeetCode Problems (Weekly Update)
 - [qpdf/qpdf](https://github.com/qpdf/qpdf) - qpdf: A content-preserving PDF document transformer
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [google/fuse-archive](https://github.com/google/fuse-archive) - FUSE file system for archives and compressed files (ZIP, RAR, 7Z, ISO, TGZ, XZ...)
@@ -151,6 +151,7 @@
 
 ## Go 
 
+- [cedar2025/hysteria](https://github.com/cedar2025/hysteria) - add support v2board to Hysteria2
 - [alvinunreal/tmuxai](https://github.com/alvinunreal/tmuxai) - AI-Powered, Non-Intrusive Terminal Assistant
 - [glebarez/go-sqlite](https://github.com/glebarez/go-sqlite) - pure-Go SQLite driver for Go (SQLite embedded)
 - [akazwz/sshtalk](https://github.com/akazwz/sshtalk) - ssh sshtalk.com
@@ -509,7 +510,6 @@
 - [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 
 - [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.
 - [1c7/Translate-Subtitle-File](https://github.com/1c7/Translate-Subtitle-File) - 字幕机翻，翻译字幕文件 .srt .ass .vtt，和同类产品相比，特点是可以自己填写 API key，这样价格最低。最新版本 5.3.0 发布时间 2024 年 11 月 24 号
-- [SimplifyJobs/Summer2025-Internships](https://github.com/SimplifyJobs/Summer2025-Internships) - Collection of Summer 2025 tech internships!
 - [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 - [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
 - [Netskao/MacOS-Utils](https://github.com/Netskao/MacOS-Utils) - MacOS-Apps-Utils
@@ -568,6 +568,7 @@
 
 ## Python 
 
+- [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm) - (🚧 WIP) a course of LLM inference serving on Apple Silicon for systems engineers.
 - [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) - A text-to-speech (TTS) and Speech-to-Speech (STS) library built on Apple's MLX framework, providing efficient speech synthesis on Apple Silicon.
 - [google/A2A](https://github.com/google/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
 - [ddCat-main/cursor-auto-register](https://github.com/ddCat-main/cursor-auto-register) - cursor-auto-register
@@ -607,6 +608,7 @@
 - [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
 - [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Python APIs for web automation, testing, and bypassing bot-detection.
 - [a-maliarov/amazoncaptcha](https://github.com/a-maliarov/amazoncaptcha) - Pure Python, lightweight, Pillow-based solver for Amazon's text captcha.
+- [SimplifyJobs/Summer2025-Internships](https://github.com/SimplifyJobs/Summer2025-Internships) - Collection of Summer 2025 tech internships!
 - [fuergaosi233/apple-health-exporter](https://github.com/fuergaosi233/apple-health-exporter) - 
 - [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2025 with HikerAPI SaaS
 - [ja-netfilter2/pandora](https://github.com/ja-netfilter2/pandora) - 
@@ -705,7 +707,7 @@
 
 ## Rust 
 
-- [lonelam/subconverter-rs](https://github.com/lonelam/subconverter-rs) - subconverter 一键部署rs/wasm版，带前端，实现 订阅转换 全量功能以及大量新feature。A more powerful utility to convert between proxy subscription formats, transformed from the original subconverter! Maintaining compatibility with
+- [lonelam/subconverter-rs](https://github.com/lonelam/subconverter-rs) - 一键部署rs/wasm版前后端，也可只部署native/docker版替换subconverter，实现 订阅转换 全量功能以及大量新feature。A more powerful utility to convert between proxy subscription formats, transformed from the original subconverter! Maintainin
 - [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
 - [DioCrafts/OxiCloud](https://github.com/DioCrafts/OxiCloud) - ☁️ OxiCloud server, efficient and secure way to save all your data
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
@@ -832,6 +834,7 @@
 
 ## Swift 
 
+- [Lakr233/AudioEditorKit](https://github.com/Lakr233/AudioEditorKit) - Simplified audio editing library for Swift + UIKit.
 - [Aviv-public/apples-translation-api-demo](https://github.com/Aviv-public/apples-translation-api-demo) - Apple's Translation API demo
 - [khcrysalis/Feather](https://github.com/khcrysalis/Feather) - Feather is a free on-device iOS application manager/installer, using certificates part of the Apple Developer Program.
 - [nathanborror/Heat](https://github.com/nathanborror/Heat) - An LLM agnostic desktop and mobile client.
@@ -943,6 +946,7 @@
 
 ## TypeScript 
 
+- [abersheeran/r2-webdav](https://github.com/abersheeran/r2-webdav) - Use Cloudflare Workers to provide a WebDav interface for Cloudflare R2.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
