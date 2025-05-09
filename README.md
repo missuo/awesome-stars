@@ -713,6 +713,7 @@
 
 ## Rust 
 
+- [ombrac/ombrac](https://github.com/ombrac/ombrac) - Safe, fast, small TCP tunnel using Rust
 - [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - UI components for building fantastic desktop application by using GPUI.
 - [3andne/restls](https://github.com/3andne/restls) - Restls Protocol: A Perfect Impersonation of TLS; Restls协议: 对TLS的完美伪装
 - [ihciah/shadow-tls](https://github.com/ihciah/shadow-tls) - A proxy to expose real tls handshake to the firewall
