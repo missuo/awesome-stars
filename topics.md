@@ -1513,6 +1513,7 @@
 
 ## others 
 
+- [civilblur/mazanoke](https://github.com/civilblur/mazanoke) - A self-hosted local image optimizer that runs in your browser.
 - [3andne/restls](https://github.com/3andne/restls) - Restls Protocol: A Perfect Impersonation of TLS; Restls协议: 对TLS的完美伪装
 - [database64128/shadowsocks-go](https://github.com/database64128/shadowsocks-go) - A versatile and efficient proxy platform for secure communications.
 - [ihciah/shadow-tls](https://github.com/ihciah/shadow-tls) - A proxy to expose real tls handshake to the firewall
