@@ -856,7 +856,7 @@
 
 ## Swift 
 
-- [Lakr233/Sentry](https://github.com/Lakr233/Sentry) - 
+- [Lakr233/Sentry](https://github.com/Lakr233/Sentry) - A powerful macOS security monitoring application that detects unauthorized access attempts and records video evidence for you.
 - [Lakr233/SkyLightWindow](https://github.com/Lakr233/SkyLightWindow) - Display your UI on lock screen.
 - [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - Voice-to-text app for macOS to transcribe what you say to text almost instantly
 - [mergesort/Recap](https://github.com/mergesort/Recap) - A What's New screen, and more
