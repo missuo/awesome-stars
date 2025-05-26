@@ -723,6 +723,7 @@
 
 ## Rust 
 
+- [Skardyy/mcat](https://github.com/Skardyy/mcat) - cat command for documents / images / videos and more!
 - [M0dEx/quincy](https://github.com/M0dEx/quincy) - QUIC-based VPN
 - [meh/rust-tun](https://github.com/meh/rust-tun) - TUN device creation and handling.
 - [ombrac/ombrac](https://github.com/ombrac/ombrac) - Safe, fast, small TCP tunnel using Rust
@@ -856,6 +857,7 @@
 
 ## Swift 
 
+- [Lakr233/SleepHoldService](https://github.com/Lakr233/SleepHoldService) - A lightweight macOS service that prevents system sleep when the lid is closed.
 - [Lakr233/Sentry](https://github.com/Lakr233/Sentry) - A powerful macOS security monitoring application that detects unauthorized access attempts and records video evidence for you.
 - [Lakr233/SkyLightWindow](https://github.com/Lakr233/SkyLightWindow) - Display your UI on lock screen.
 - [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - Voice-to-text app for macOS to transcribe what you say to text almost instantly
@@ -973,6 +975,7 @@
 
 ## TypeScript 
 
+- [Innei/photo-gallery](https://github.com/Innei/photo-gallery) - Capturing beautiful moments in life, documenting daily warmth and emotions through my lens.
 - [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Translate and understand any webpage in depth with AI assistance | 🐸 陪读蛙 - 借助 AI 深入翻译和讲解任何网页
 - [antfu/case-police](https://github.com/antfu/case-police) - 🚨 Make the case correct, PLEASE!
 - [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍  一个功能强大的 Telegram 聊天记录搜索客户端，支持聊天记录备份和向量搜索。
