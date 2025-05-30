@@ -158,7 +158,7 @@
 - [sjzar/chatlog](https://github.com/sjzar/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
 - [Wsine/feishu2md](https://github.com/Wsine/feishu2md) - 一键命令下载飞书文档为 Markdown
 - [enfein/mieru](https://github.com/enfein/mieru) - mieru is a socks5 / HTTP / HTTPS proxy to bypass censorship. 見える是一款 socks5 / HTTP / HTTPS 网络代理翻墙工具。
-- [Safe3/openresty-manager](https://github.com/Safe3/openresty-manager) - The easiest using, powerful and beautiful OpenResty Manager(Nginx Enhanced Version), open source alternative to OpenResty Edge.
+- [Safe3/openresty-manager](https://github.com/Safe3/openresty-manager) - The easiest using, powerful and beautiful OpenResty and host manager(Nginx Enhanced Version), open source alternative to OpenResty Edge.
 - [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip) - 🌚 🌍 🌝 GeoIP 规则文件加强版，支持自行定制 V2Ray dat 格式文件 geoip.dat、MaxMind mmdb 格式文件、sing-box SRS 格式文件、mihomo MRS 格式文件、Clash ruleset、Surge ruleset 等。Enhanced edition of GeoIP files for V2Ray, Xray-core, sing-box, Cl
 - [database64128/shadowsocks-go](https://github.com/database64128/shadowsocks-go) - A versatile and efficient proxy platform for secure communications.
 - [cedar2025/hysteria](https://github.com/cedar2025/hysteria) - add support v2board to Hysteria2
@@ -349,7 +349,6 @@
 - [StrayMeteor3337/WechatRealFriends](https://github.com/StrayMeteor3337/WechatRealFriends) - 微信好友关系一键检测，基于微信ipad协议，看看有没有朋友偷偷删掉或者拉黑你
 - [gnmyt/MySpeed](https://github.com/gnmyt/MySpeed) - A speed test analysis software that shows your internet speed for up to 30 days
 - [metowolf/qqwry.ipdb](https://github.com/metowolf/qqwry.ipdb) - 🐈️ 纯真数据库 IPIP.net 格式版，Make qqwry.ipdb Great Again!!!
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [itorr/patina](https://github.com/itorr/patina) - 🤢「电子包浆」 图片做旧工具，赛博包浆虚拟器
 - [levywang/avhub](https://github.com/levywang/avhub) - R18 Resource Search & Management Tool
 - [rampatra/photography](https://github.com/rampatra/photography) - A free online portfolio website to showcase your photos.
@@ -591,6 +590,7 @@
 - [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
 - [ddCat-main/cursor-auto-register](https://github.com/ddCat-main/cursor-auto-register) - cursor-auto-register
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
 - [daijro/hrequests](https://github.com/daijro/hrequests) - 🚀 Web scraping for humans
 - [leonboe1/GoogleFindMyTools](https://github.com/leonboe1/GoogleFindMyTools) - Framework for tracking and building your own Google Find My Device trackers 🧭
@@ -798,7 +798,7 @@
 - [create-dmg/create-dmg](https://github.com/create-dmg/create-dmg) - A shell script to build fancy DMGs
 - [X1a0He/X1a0HeWeChatPlugin](https://github.com/X1a0He/X1a0HeWeChatPlugin) - 一个随手写的微信插件，提供消息防撤回、显示红包转账详情、消息列表操作、头像圆角、毛玻璃模式、多开等功能
 - [Meliox/PVE-mods](https://github.com/Meliox/PVE-mods) - Proxmox modifications
-- [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  You've reached your trial request limit.  /  Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please l
+- [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine
 - [xykt/IPQuality](https://github.com/xykt/IPQuality) - IP质量检测脚本 - IP Quality Check Script
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
@@ -979,12 +979,13 @@
 
 ## TypeScript 
 
+- [logscore/Nimbus](https://github.com/logscore/Nimbus) - An open source alternative to Google Drive, One Drive, iCloud, etc.
 - [mengjian-github/wechat-daily-report](https://github.com/mengjian-github/wechat-daily-report) - 基于 Electron + React + AI 的跨平台桌面应用，自动分析微信群聊内容，生成精美的 AI 日报摘要，支持 macOS、Windows、Linux。
 - [thecuvii/fuji-recipes](https://github.com/thecuvii/fuji-recipes) - A TypeScript library to extract Fujifilm camera recipe data from EXIF maker notes.
 - [Innei/photo-gallery](https://github.com/Innei/photo-gallery) - Capturing beautiful moments in life, documenting daily warmth and emotions through my lens.
 - [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Translate and understand any webpage in depth with AI assistance | 🐸 陪读蛙 - 借助 AI 深入翻译和讲解任何网页
 - [antfu/case-police](https://github.com/antfu/case-police) - 🚨 Make the case correct, PLEASE!
-- [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍  A powerful Telegram chat history search client that supports chat history backup and vector search.
+- [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍  一个功能强大的 Telegram 聊天记录搜索工具，支持向量搜索和语义匹配。
 - [egoist/walk-ignore](https://github.com/egoist/walk-ignore) - Read files from a directory recursively and ignore patterns specified in `.gitignore`.
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [DyAxy/yet-another-sub-web](https://github.com/DyAxy/yet-another-sub-web) - 订阅转换前端，又一个 sub-web，基于 React、Next.JS 实现前端
@@ -1047,7 +1048,7 @@
 - [windingwind/zotero-pdf-translate](https://github.com/windingwind/zotero-pdf-translate) - Translate PDF, EPub, webpage, metadata, annotations, notes to the target language. Support 20+ translate services.
 - [adamcohenhillel/ADeus](https://github.com/adamcohenhillel/ADeus) - An open source AI wearable device that captures what you say and hear in the real world and then transcribes and stores it on your own server. You can then chat with Adeus using the app, and it will h
 - [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Open-source auth infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Auth infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
 - [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) - Drift is a self-hostable Gist and paste service. Built with Next.js 13 and React Server Components.
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
