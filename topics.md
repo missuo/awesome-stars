@@ -483,6 +483,7 @@
 
 ## clash 
 
+- [enfein/mieru](https://github.com/enfein/mieru) - mieru is a socks5 / HTTP / HTTPS proxy to bypass censorship. 見える是一款 socks5 / HTTP / HTTPS 网络代理翻墙工具。
 - [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip) - 🌚 🌍 🌝 GeoIP 规则文件加强版，支持自行定制 V2Ray dat 格式文件 geoip.dat、MaxMind mmdb 格式文件、sing-box SRS 格式文件、mihomo MRS 格式文件、Clash ruleset、Surge ruleset 等。Enhanced edition of GeoIP files for V2Ray, Xray-core, sing-box, Cl
 - [qier222/proxy-provider-converter](https://github.com/qier222/proxy-provider-converter) - 一个可以将 Clash 订阅转换成 Proxy Provider 和 External Group(Surge) 的工具
 - [mihomo-party-org/mihomo-party](https://github.com/mihomo-party-org/mihomo-party) - :electron: Another Mihomo GUI.
@@ -1241,7 +1242,7 @@
 ## login 
 
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Open-source auth infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Auth infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
 
 ## lua 
 
@@ -1544,6 +1545,7 @@
 
 ## others 
 
+- [nimbusdotstorage/Nimbus](https://github.com/nimbusdotstorage/Nimbus) - An open source alternative to Google Drive, One Drive, iCloud, etc.
 - [mengjian-github/wechat-daily-report](https://github.com/mengjian-github/wechat-daily-report) - 基于 Electron + React + AI 的跨平台桌面应用，自动分析微信群聊内容，生成精美的 AI 日报摘要，支持 macOS、Windows、Linux。
 - [madebyshaurya/SpendSmart](https://github.com/madebyshaurya/SpendSmart) - Less clutter, more clarity
 - [Lakr233/MarkdownView](https://github.com/Lakr233/MarkdownView) - 
@@ -1554,7 +1556,6 @@
 - [Lakr233/Sentry](https://github.com/Lakr233/Sentry) - A powerful macOS security monitoring application that detects unauthorized access attempts and records video evidence for you.
 - [Lakr233/SkyLightWindow](https://github.com/Lakr233/SkyLightWindow) - Display your UI on lock screen.
 - [antfu/case-police](https://github.com/antfu/case-police) - 🚨 Make the case correct, PLEASE!
-- [enfein/mieru](https://github.com/enfein/mieru) - mieru is a socks5 / HTTP / HTTPS proxy to bypass censorship. 見える是一款 socks5 / HTTP / HTTPS 网络代理翻墙工具。
 - [egoist/walk-ignore](https://github.com/egoist/walk-ignore) - Read files from a directory recursively and ignore patterns specified in `.gitignore`.
 - [khcrysalis/Zsign-Package](https://github.com/khcrysalis/Zsign-Package) - It might be the quickest cross-platform codesign alternative for iOS 12+, supporting macOS, Linux, Windows, and more features.
 - [HarukaKinen/Cardentify](https://github.com/HarukaKinen/Cardentify) - 银行卡高清卡面收集
@@ -1639,7 +1640,7 @@
 - [Meliox/PVE-mods](https://github.com/Meliox/PVE-mods) - Proxmox modifications
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [Netskao/WCHideChatAvatars](https://github.com/Netskao/WCHideChatAvatars) - WeChat Hide Chat Avatars (Theos Tweak)
-- [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  You've reached your trial request limit.  /  Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please l
+- [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine
 - [pmkol/openwrt-lite](https://github.com/pmkol/openwrt-lite) - An enhanced OpenWrt variant for mainland China users.
 - [xtaci/kcptun](https://github.com/xtaci/kcptun) - A Quantum-Safe Secure Tunnel based on QPP, KCP, FEC, and N:M multiplexing.
 - [pookjw/HermesEnabler](https://github.com/pookjw/HermesEnabler) - Enable Hermès Watch Faces on any Apple Watch devices
@@ -1739,7 +1740,7 @@
 - [MirageNetwork/MirageServer](https://github.com/MirageNetwork/MirageServer) - 蜃境：基于Headscale修改的带WebUI开源版本Tailscale控制器
 - [Ehco1996/ehco](https://github.com/Ehco1996/ehco) - ehco is a network ʚrelayɞ tool and a typo :)
 - [YiiGuxing/TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin) - Translation plugin for IntelliJ-based IDEs/Android Studio.
-- [ChiChou/bagbak](https://github.com/ChiChou/bagbak) - Yet another frida based iOS dumpdecrypted. Also decrypts app extensions
+- [ChiChou/bagbak](https://github.com/ChiChou/bagbak) - [deprecated] Yet another frida based iOS dumpdecrypted. Also decrypts app extensions
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [antirez/botlib](https://github.com/antirez/botlib) - C Telegram bot framework
 - [dqbd/tiktoken](https://github.com/dqbd/tiktoken) - JS port and JS/WASM bindings for openai/tiktoken
@@ -2120,6 +2121,7 @@
 
 ## pytorch 
 
+- [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 - [Tencent/ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
 - [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 
@@ -2240,7 +2242,7 @@
 
 ## self-hosted 
 
-- [Safe3/openresty-manager](https://github.com/Safe3/openresty-manager) - The easiest using, powerful and beautiful OpenResty Manager(Nginx Enhanced Version), open source alternative to OpenResty Edge.
+- [Safe3/openresty-manager](https://github.com/Safe3/openresty-manager) - The easiest using, powerful and beautiful OpenResty and host manager(Nginx Enhanced Version), open source alternative to OpenResty Edge.
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Mesh Reverse Proxy Server with Identity and Access Control and Dashboard UI
 - [DioCrafts/OxiCloud](https://github.com/DioCrafts/OxiCloud) - ☁️ OxiCloud server, efficient and secure way to save all your data
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
@@ -2321,6 +2323,7 @@
 
 ## stable-diffusion 
 
+- [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 - [MochiDiffusion/MochiDiffusion](https://github.com/MochiDiffusion/MochiDiffusion) - Run Stable Diffusion on Mac natively
 
 ## statistics 
@@ -2427,7 +2430,7 @@
 
 ## telegram 
 
-- [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍  A powerful Telegram chat history search client that supports chat history backup and vector search.
+- [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍  一个功能强大的 Telegram 聊天记录搜索工具，支持向量搜索和语义匹配。
 - [jarvis2f/telegram-files](https://github.com/jarvis2f/telegram-files) - A self-hosted Telegram file downloader for continuous, stable, and unattended downloads.
 - [ccbikai/BroadcastChannel](https://github.com/ccbikai/BroadcastChannel) - Turn your Telegram Channel into a MicroBlog.
 - [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Teldrive
@@ -2445,7 +2448,7 @@
 
 ## telegram-bot 
 
-- [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍  A powerful Telegram chat history search client that supports chat history backup and vector search.
+- [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍  一个功能强大的 Telegram 聊天记录搜索工具，支持向量搜索和语义匹配。
 - [krau/SaveAny-Bot](https://github.com/krau/SaveAny-Bot) - 保存 Telegram 文件到各类存储空间 📂 (Alist、本地磁盘、Webdav, Minio...)  , 支持破解禁止保存的频道
 - [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Teldrive
 - [nekomeowww/insights-bot](https://github.com/nekomeowww/insights-bot) - A bot works with OpenAI GPT models to provide insights for your info flows.
@@ -2512,7 +2515,7 @@
 - [Alice39s/kuma-mieru](https://github.com/Alice39s/kuma-mieru) - A 3rd-party Uptime Kuma monitoring dashboard built on Next.js 15, TypeScript and Recharts.
 - [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore) - Your Next Store: Modern Commerce with Next.js and Stripe as the backend.
 - [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Open-source auth infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Auth infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) - Drift is a self-hostable Gist and paste service. Built with Next.js 13 and React Server Components.
 - [yangwenmai/github-trending-backup](https://github.com/yangwenmai/github-trending-backup) - Github trending backup by everyday.
