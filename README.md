@@ -368,7 +368,7 @@
 - [31b4/Leetcode-Premium-Bypass](https://github.com/31b4/Leetcode-Premium-Bypass) - Leetcode Premium Unlocker 2024
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions
-- [ChiChou/bagbak](https://github.com/ChiChou/bagbak) - Yet another frida based iOS dumpdecrypted. Also decrypts app extensions
+- [ChiChou/bagbak](https://github.com/ChiChou/bagbak) - [deprecated] Yet another frida based iOS dumpdecrypted. Also decrypts app extensions
 - [barretlee/cloudflare-proxy](https://github.com/barretlee/cloudflare-proxy) - Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出
 - [ifyour/deeplx-js](https://github.com/ifyour/deeplx-js) - 🥰 JavaScript implementation of DeepLx with one-click deployment support
 - [haibbo/cf-openai-azure-proxy](https://github.com/haibbo/cf-openai-azure-proxy) - A Cloudflare worker script to proxy OpenAI‘s request to Azure OpenAI Service
@@ -980,7 +980,7 @@
 
 ## TypeScript 
 
-- [logscore/Nimbus](https://github.com/logscore/Nimbus) - An open source alternative to Google Drive, One Drive, iCloud, etc.
+- [nimbusdotstorage/Nimbus](https://github.com/nimbusdotstorage/Nimbus) - An open source alternative to Google Drive, One Drive, iCloud, etc.
 - [mengjian-github/wechat-daily-report](https://github.com/mengjian-github/wechat-daily-report) - 基于 Electron + React + AI 的跨平台桌面应用，自动分析微信群聊内容，生成精美的 AI 日报摘要，支持 macOS、Windows、Linux。
 - [thecuvii/fuji-recipes](https://github.com/thecuvii/fuji-recipes) - A TypeScript library to extract Fujifilm camera recipe data from EXIF maker notes.
 - [Innei/photo-gallery](https://github.com/Innei/photo-gallery) - Capturing beautiful moments in life, documenting daily warmth and emotions through my lens.
