@@ -1907,7 +1907,7 @@
 - [YanG-1989/m3u](https://github.com/YanG-1989/m3u) - 直播源
 - [mli/autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
 - [appleshan/fcitx5-rime-dict](https://github.com/appleshan/fcitx5-rime-dict) - 
-- [Acidham/alfred-airpod-connector](https://github.com/Acidham/alfred-airpod-connector) - Alfred Workflow to connect/disconnect AirPods (Airpod1/2, Airpod Pro) and Powerbeats Pro
+- [April-June-August/alfred-airpods-connector](https://github.com/April-June-August/alfred-airpods-connector) - Alfred Workflow to connect/disconnect wireless headsets/earphones made by Apple
 - [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud
 - [52funny/pikpakupload](https://github.com/52funny/pikpakupload) - pikpak upload cli
 - [liady/ChatGPT-pdf](https://github.com/liady/ChatGPT-pdf) - A Chrome extension for downloading your ChatGPT history to PNG, PDF or a sharable link
