@@ -587,7 +587,7 @@
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [patroni/patroni](https://github.com/patroni/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
 - [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm) - A course of LLM inference serving on Apple Silicon for systems engineers.
-- [CJackHwang/AIstudioProxyAPI](https://github.com/CJackHwang/AIstudioProxyAPI) - 一个基于 Python + FastAPI + Playwright + Camoufox 的代理服务器，兼容 OpenAI API 支持参数转发设置，将请求转发到 Google AI Studio 网页版的对话，并同样按照标准格式返回输出的工具。课余时间有限，周更
+- [CJackHwang/AIstudioProxyAPI](https://github.com/CJackHwang/AIstudioProxyAPI) - 一个基于 Python + FastAPI + Playwright + Camoufox 的中间层代理服务器，兼容 OpenAI API 支持参数转发设置和toolcall等，将请求转发到 Google AI Studio 网页版的对话，并同样按照标准格式返回输出的工具。课余时间有限，随缘更新
 - [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
 - [ddCat-main/cursor-auto-register](https://github.com/ddCat-main/cursor-auto-register) - cursor-auto-register
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
@@ -1002,7 +1002,7 @@
 - [google-a2a/A2A](https://github.com/google-a2a/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
 - [xxxbrian/Surge-Geosite](https://github.com/xxxbrian/Surge-Geosite) - Geosite ruleset for surge
 - [Rishikant181/Rettiwt-API](https://github.com/Rishikant181/Rettiwt-API) - A CLI tool and an API for fetching data from Twitter for free!
-- [niieani/gpt-tokenizer](https://github.com/niieani/gpt-tokenizer) - The fastest JavaScript BPE Tokenizer Encoder Decoder for OpenAI's GPT-2 / GPT-3 / GPT-4 / GPT-4o / GPT-o1. Port of OpenAI's tiktoken with additional features.
+- [niieani/gpt-tokenizer](https://github.com/niieani/gpt-tokenizer) - The fastest JavaScript BPE Tokenizer Encoder Decoder for OpenAI's GPT models (o1, o3, o4, gpt-4o, gpt-4, etc.). Port of OpenAI's tiktoken with additional features.
 - [szcharlesji/raycast-relay](https://github.com/szcharlesji/raycast-relay) - Relay your Raycast AI to an OpenAI compatible API endpoint
 - [raycast/ray-so](https://github.com/raycast/ray-so) - Create code snippets, browse AI prompts, create extension icons and more.
 - [iszhouhua/social-media-copilot](https://github.com/iszhouhua/social-media-copilot) - 社媒助手开源版 - 小红书、抖音、快手等平台数据采集的浏览器插件，可通过API调用，支持Docker部署。
