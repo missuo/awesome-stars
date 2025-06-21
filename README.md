@@ -455,6 +455,7 @@
 
 ## Logos 
 
+- [Netskao/WCABTestTimeLineEmoticonOrImage](https://github.com/Netskao/WCABTestTimeLineEmoticonOrImage) - WeChat Enables AB Tested TimeLine EmoticonOrImage, Only 8.0.60+
 - [Netskao/WCABTestLocalBackup](https://github.com/Netskao/WCABTestLocalBackup) - WeChat Enables AB Tested Local Backup, Only 8.0.50+ (Theos Tweak)
 - [Netskao/TwitterNoAds](https://github.com/Netskao/TwitterNoAds) - Twitter removes ads from data stream. Tested on version 10.64.1 only (Theos Tweak)
 - [OwnGoalStudio/SingleMute](https://github.com/OwnGoalStudio/SingleMute) - Just a single mute icon on the status bar of iOS.
@@ -861,7 +862,7 @@
 
 ## Swift 
 
-- [Lessica/EeveeSpotify](https://github.com/Lessica/EeveeSpotify) - A tweak to get Spotify Premium for free, just like Spotilife
+- [Lessica/EeveeSpotify](https://github.com/Lessica/EeveeSpotify) - A tweak to get Spotify Premium for free, just like Spotilife.
 - [MxIris-Reverse-Engineering/RuntimeViewer](https://github.com/MxIris-Reverse-Engineering/RuntimeViewer) - Objective-C Runtime Viewer for macOS and iOS
 - [madebyshaurya/SpendSmart](https://github.com/madebyshaurya/SpendSmart) - Less clutter, more clarity
 - [Lakr233/MarkdownView](https://github.com/Lakr233/MarkdownView) - 
