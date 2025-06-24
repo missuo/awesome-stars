@@ -745,7 +745,7 @@
 - [Inokinoki/ai-no-jimaku-gumi](https://github.com/Inokinoki/ai-no-jimaku-gumi) - AI no jimaku gumi (AIの字幕組), a subtitle maker for video using AI.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [LaurenzV/krilla](https://github.com/LaurenzV/krilla) - A high-level, ergonomic Rust library for creating PDF documents.
-- [tsukinaha/tsukimi](https://github.com/tsukinaha/tsukimi) - A simple third-party Emby client for Linux
+- [tsukinaha/tsukimi](https://github.com/tsukinaha/tsukimi) - A simple third-party jellyfin client for Linux
 - [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [0xlane/wechat-dump-rs](https://github.com/0xlane/wechat-dump-rs) - 该工具用于导出正在运行中的微信进程的 key 并自动解密所有微信数据库文件以及导出 key 后数据库文件离线解密。
 - [gizmo-ds/totp-wasm](https://github.com/gizmo-ds/totp-wasm) - HOTP & TOTP & Steam Guard TOTP
@@ -1004,7 +1004,7 @@
 - [3l-d1abl0/watermark-remover](https://github.com/3l-d1abl0/watermark-remover) - A simple watermark remover app using Google Gemini 2.0
 - [Alice39s/kuma-mieru](https://github.com/Alice39s/kuma-mieru) - A 3rd-party Uptime Kuma monitoring dashboard built on Next.js 15, TypeScript and Recharts.
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI
-- [google-a2a/A2A](https://github.com/google-a2a/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
+- [a2aproject/A2A](https://github.com/a2aproject/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
 - [xxxbrian/Surge-Geosite](https://github.com/xxxbrian/Surge-Geosite) - Geosite ruleset for surge
 - [Rishikant181/Rettiwt-API](https://github.com/Rishikant181/Rettiwt-API) - A CLI tool and an API for fetching data from Twitter for free!
 - [niieani/gpt-tokenizer](https://github.com/niieani/gpt-tokenizer) - The fastest JavaScript BPE Tokenizer Encoder Decoder for OpenAI's GPT models (o1, o3, o4, gpt-4o, gpt-4, etc.). Port of OpenAI's tiktoken with additional features.
@@ -1027,7 +1027,7 @@
 - [lyc8503/onedrive-cf-index-ng](https://github.com/lyc8503/onedrive-cf-index-ng) - Another OneDrive public directory listing on Docker / Cloudflare Workers, forked from onedrive-vercel-index.
 - [stonith404/pingvin-share](https://github.com/stonith404/pingvin-share) - A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing.
 - [pqoqubbw/icons](https://github.com/pqoqubbw/icons) - beautifully crafted animated icons
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - No Code Web Data Extraction Platform • Turn Websites To APIs & Spreadsheets In Minutes
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Open-Source No Code Web Data Extraction Platform • Turn Websites To APIs & Spreadsheets In Minutes!
 - [FrigadeHQ/trench](https://github.com/FrigadeHQ/trench) - Trench — Open-Source Analytics Infrastructure. A single production-ready Docker image built on ClickHouse, Kafka, and Node.js for tracking events, page views. Easily build product analytics dashboards
 - [the-convocation/twitter-scraper](https://github.com/the-convocation/twitter-scraper) - A port of n0madic/twitter-scraper to Node.js.
 - [louisgrasset/touitomamout](https://github.com/louisgrasset/touitomamout) - Touitomamout is an easy way to synchronize your Twitter's tweets 🦤 to Mastodon 🦣 and Bluesky post ☁️ (also known as Twitter to Mastodon & Bluesky crossposter)
