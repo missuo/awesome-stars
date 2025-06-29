@@ -155,6 +155,8 @@
 
 ## Go 
 
+- [johnste/finicky](https://github.com/johnste/finicky) - A macOS app for customizing which browser to start
+- [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
 - [sjzar/chatlog](https://github.com/sjzar/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
 - [Wsine/feishu2md](https://github.com/Wsine/feishu2md) - 一键命令下载飞书文档为 Markdown
 - [enfein/mieru](https://github.com/enfein/mieru) - mieru is a socks5 / HTTP / HTTPS proxy to bypass censorship. 見える是一款 socks5 / HTTP / HTTPS 网络代理翻墙工具。
