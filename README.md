@@ -990,6 +990,7 @@
 
 ## TypeScript 
 
+- [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
 - [kirel/raycast-openai-server](https://github.com/kirel/raycast-openai-server) - Extension that thats local openai server which passes requests to Raycast AI.
 - [nimbusdotstorage/Nimbus](https://github.com/nimbusdotstorage/Nimbus) - An open source alternative to Google Drive, One Drive, iCloud, etc.
 - [mengjian-github/wechat-daily-report](https://github.com/mengjian-github/wechat-daily-report) - 基于 Electron + React + AI 的跨平台桌面应用，自动分析微信群聊内容，生成精美的 AI 日报摘要，支持 macOS、Windows、Linux。
@@ -1068,7 +1069,7 @@
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [ddiu8081/ddiu.io](https://github.com/ddiu8081/ddiu.io) - Personal website.
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message searc
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search
 - [xyxc0673/calendar-remark](https://github.com/xyxc0673/calendar-remark) - A simple calendar with nice design for remarking a date
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [soapbox-pub/soapbox](https://github.com/soapbox-pub/soapbox) - Software for the next generation of social media.
