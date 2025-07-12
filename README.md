@@ -473,6 +473,7 @@
 
 ## Makefile 
 
+- [Netskao/WCABTestC2CLivePhoto](https://github.com/Netskao/WCABTestC2CLivePhoto) - WeChat Enable Chat Send Live Photos, Only 8.0.57+ (Theos Tweak)
 - [theos/theos](https://github.com/theos/theos) - A cross-platform suite of tools for building and deploying software for iOS and other platforms.
 - [Netskao/WCHideChatAvatars](https://github.com/Netskao/WCHideChatAvatars) - WeChat Hide Chat Avatars (Theos Tweak)
 - [pmkol/openwrt-lite](https://github.com/pmkol/openwrt-lite) - An enhanced OpenWrt variant for mainland China users.
@@ -592,6 +593,7 @@
 
 ## Python 
 
+- [fuergaosi233/claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy) - Claude Code to OpenAI API Proxy
 - [coffeegrind123/gemini-for-claude-code](https://github.com/coffeegrind123/gemini-for-claude-code) - This python program allows you to use Claude Code with Google's Gemini models.
 - [1rgs/claude-code-proxy](https://github.com/1rgs/claude-code-proxy) - Run Claude Code on OpenAI models
 - [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
@@ -738,6 +740,7 @@
 
 ## Rust 
 
+- [Xerxes-2/clewdr](https://github.com/Xerxes-2/clewdr) - High Performance LLM Reverse Proxy
 - [Skardyy/mcat](https://github.com/Skardyy/mcat) - Terminal image, video, directory, and Markdown viewer
 - [quincy-rs/quincy](https://github.com/quincy-rs/quincy) - QUIC-based VPN
 - [meh/rust-tun](https://github.com/meh/rust-tun) - TUN device creation and handling.
