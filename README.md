@@ -325,6 +325,7 @@
 
 ## HTML 
 
+- [zouzhekang/YJYpaper](https://github.com/zouzhekang/YJYpaper) - 一个用来记录武汉大学杨景媛论文问题的仓库
 - [Aemulo/Release](https://github.com/Aemulo/Release) - 
 - [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -516,7 +517,6 @@
 
 ## Others 
 
-- [zouzhekang/YJYpaper](https://github.com/zouzhekang/YJYpaper) - 一个用来记录武汉大学杨景媛论文问题的仓库
 - [FouadRaheb/Regram-for-Instagram](https://github.com/FouadRaheb/Regram-for-Instagram) - The all-in-one tweak for Instagram
 - [KHwang9883/MobileModels](https://github.com/KHwang9883/MobileModels) - 手机品牌型号汇总 | Mobile Models | This repository is licensed under CC BY-NC-SA 4.0
 - [ip2location/ip2location-iata-icao](https://github.com/ip2location/ip2location-iata-icao) - This list contains the airport codes of IATA airport code and ICAO airport code together with country code and region name supported in IP2Location geolocation database.
@@ -1098,7 +1098,7 @@
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [ddiu8081/ddiu.io](https://github.com/ddiu8081/ddiu.io) - Personal website.
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search,
 - [xyxc0673/calendar-remark](https://github.com/xyxc0673/calendar-remark) - A simple calendar with nice design for remarking a date
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [soapbox-pub/soapbox](https://github.com/soapbox-pub/soapbox) - Software for the next generation of social media.
