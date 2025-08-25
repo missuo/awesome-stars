@@ -1016,6 +1016,7 @@
 
 ## TypeScript 
 
+- [VityaSchel/lufin](https://github.com/VityaSchel/lufin) - Lufin — a modern client-side e2ee filesharing based on lufi (let’s upload that file—next)
 - [pommee/goaway](https://github.com/pommee/goaway) - Lightweight DNS sinkhole written in Go with a modern dashboard client
 - [KroMiose/claude-code-nexus](https://github.com/KroMiose/claude-code-nexus) - Claude API Proxy platform - Seamlessly forward Claude Code requests to any OpenAI-compatible API service with smart model mapping, streaming support, deployed on Cloudflare Worker.
 - [FxEmbed/FxEmbed](https://github.com/FxEmbed/FxEmbed) - Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others
