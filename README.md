@@ -156,6 +156,7 @@
 
 ## Go 
 
+- [gen2brain/jpegn](https://github.com/gen2brain/jpegn) - Baseline JPEG decoder with SIMD optimizations
 - [lib/pq](https://github.com/lib/pq) - Pure Go Postgres driver for database/sql
 - [alireza0/s-ui](https://github.com/alireza0/s-ui) - An advanced Web Panel • Built for SagerNet/Sing-Box
 - [wyx2685/V2bX](https://github.com/wyx2685/V2bX) - 
@@ -1016,6 +1017,7 @@
 
 ## TypeScript 
 
+- [ericc-ch/copilot-api](https://github.com/ericc-ch/copilot-api) - Turn GitHub Copilot into OpenAI/Anthropic API compatible server. Usable with Claude Code!
 - [VityaSchel/lufin](https://github.com/VityaSchel/lufin) - Lufin — a modern client-side e2ee filesharing based on lufi (let’s upload that file—next)
 - [pommee/goaway](https://github.com/pommee/goaway) - Lightweight DNS sinkhole written in Go with a modern dashboard client
 - [KroMiose/claude-code-nexus](https://github.com/KroMiose/claude-code-nexus) - Claude API Proxy platform - Seamlessly forward Claude Code requests to any OpenAI-compatible API service with smart model mapping, streaming support, deployed on Cloudflare Worker.
