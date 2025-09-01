@@ -1966,7 +1966,7 @@
 - [awslabs/dynamodb-shell](https://github.com/awslabs/dynamodb-shell) - A command line client (shell) for AWS DynamoDB that offers DDL and DML support similar to CLIs for other databases.
 - [PingKuNet/aliyunpan](https://github.com/PingKuNet/aliyunpan) - 小白羊 阿里云盘小白羊版 阿里云盘PC版 小白羊v3 aliyundriver
 - [glotlabs/gdrive](https://github.com/glotlabs/gdrive) - Google Drive CLI Client
-- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary microblogging platform 🚀
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary-microblogging platform 🚀
 - [Lakr233/Kimis](https://github.com/Lakr233/Kimis) - Kimis is a client for Misskey built with pure UIKit for quality.
 - [thedaviddelta/lingva-translate](https://github.com/thedaviddelta/lingva-translate) - Alternative front-end for Google Translate
 - [easychen/CookieCloud](https://github.com/easychen/CookieCloud) - CookieCloud是一个和自架服务器同步浏览器Cookie和LocalStorage的小工具，支持端对端加密，可设定同步时间间隔。本仓库包含了插件和服务器端源码。CookieCloud is a small tool for synchronizing browser cookies and LocalStorage with a self-hosted server. It supports
