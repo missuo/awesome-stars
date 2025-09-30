@@ -515,6 +515,7 @@
 
 ## cli 
 
+- [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
 - [sindresorhus/create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [ipinfo/cli](https://github.com/ipinfo/cli) - Official Command Line Interface for the IPinfo API (IP geolocation and other types of IP data)
@@ -1034,6 +1035,7 @@
 
 ## hacktoberfest 
 
+- [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
 - [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
 - [netbox-community/netbox-docker](https://github.com/netbox-community/netbox-docker) - 🐳  Docker Image of NetBox
 - [ccbikai/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong](https://github.com/ccbikai/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong) - Make your URL looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooonger
@@ -2325,6 +2327,7 @@
 - [foyer-rs/foyer](https://github.com/foyer-rs/foyer) - Hybrid in-memory and disk cache in Rust
 - [Michael-A-Kuykendall/shimmy](https://github.com/Michael-A-Kuykendall/shimmy) - ⚡ Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTensors, hot model swap, auto-discovery, single binary. FREE now, FREE forever.
 - [bgpkit/bgpkit-broker](https://github.com/bgpkit/bgpkit-broker) - Public BGP MRT data files metadata index.
+- [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
 - [yuezk/GlobalProtect-openconnect](https://github.com/yuezk/GlobalProtect-openconnect) - A GlobalProtect VPN client for Linux, written in Rust, based on OpenConnect and Tauri, supports SSO with MFA, Yubikey, and client certificate authentication, etc.
 - [btjawa/BiliTools](https://github.com/btjawa/BiliTools) - A cross-platform bilibili toolbox. 跨平台哔哩哔哩工具箱，支持下载视频、番剧等等各类资源
 - [quincy-rs/quincy](https://github.com/quincy-rs/quincy) - QUIC-based VPN
