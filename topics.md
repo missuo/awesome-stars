@@ -1644,6 +1644,7 @@
 
 ## others 
 
+- [iebb/NekokoLPA](https://github.com/iebb/NekokoLPA) - NekokoLPA
 - [HoshinoSuzumi/chronoframe](https://github.com/HoshinoSuzumi/chronoframe) - Self-hosted personal gallery application with online photo management and processing queue, supporting Live/Motion Photos, EXIF parsing, geolocation recognition, and an explore map.
 - [CaviarChen/fog-machine](https://github.com/CaviarChen/fog-machine) - Fog Machine is a 3rd party extension tool for the app Fog of World.
 - [damonto/estkme-cloud](https://github.com/damonto/estkme-cloud) - eSTK.me cloud enhance server written in Go.
@@ -1919,7 +1920,7 @@
 - [mrjooz/password-generator](https://github.com/mrjooz/password-generator) - 密码生成工具
 - [Lakr233/Colorful](https://github.com/Lakr233/Colorful) - A SwiftUI implementation of AppleCard's animated colorful blur background.
 - [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) - A rule-based tunnel for Android.
-- [lra/mackup](https://github.com/lra/mackup) - Backup and keep your application settings in sync (OS X/Linux)
+- [lra/mackup](https://github.com/lra/mackup) - Backup and keep your application settings in sync.
 - [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
 - [ijk0/vercel-azure-openai-proxy](https://github.com/ijk0/vercel-azure-openai-proxy) - Rapid deployment of Azure OpenAI service proxy to Vercel.
 - [ilikenwf/apt-fast](https://github.com/ilikenwf/apt-fast) - apt-fast: A shellscript wrapper for apt that speeds up downloading of packages.
