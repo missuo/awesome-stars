@@ -112,7 +112,7 @@
 - [skyzh/RISCV-Simulator](https://github.com/skyzh/RISCV-Simulator) - 💻 RISC-V Simulator of RV32I ISA. 5-stage pipeline / out-of-order execution with Tomasulo algorithm and Speculation. Support runtime visualization. Project report available.
 - [flipperdevices/qFlipper](https://github.com/flipperdevices/qFlipper) - qFlipper — desktop application for updating Flipper Zero firmware via PC
 - [vickiegpt/A16-microbenchmark](https://github.com/vickiegpt/A16-microbenchmark) - A repo to store what M1 explainer does and ~Armv9~ Armv8.6 ISA on A16
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3721 LeetCode Problems (Weekly Update)
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3730 LeetCode Problems (Weekly Update)
 - [qpdf/qpdf](https://github.com/qpdf/qpdf) - qpdf: A content-preserving PDF document transformer
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [google/fuse-archive](https://github.com/google/fuse-archive) - FUSE file system for archives and compressed files (ZIP, RAR, 7Z, ISO, TGZ, XZ...)
@@ -839,6 +839,7 @@
 
 ## Shell 
 
+- [GFW4Fun/x-ui-pro](https://github.com/GFW4Fun/x-ui-pro) - XUI-PRO nginx reverse proxy with ws/grpc/httpupgrade/splithttp,xray protocol support: vless,vmess,trojan,shadowsocks panel cloudflare ssl,xtls,ssr,v2fly,v2ray installer bypass restrictions sing-box,sh
 - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
 - [Jxck-S/airline-logos](https://github.com/Jxck-S/airline-logos) - Airline and Operator Banners/Logos
 - [RROrg/rr](https://github.com/RROrg/rr) - Redpill Recovery (arpl-i18n)
@@ -950,7 +951,7 @@
 - [Lakr233/FlowDown](https://github.com/Lakr233/FlowDown) - https://flowdown.ai/
 - [sail-tunnel/peakpass](https://github.com/sail-tunnel/peakpass) - new iOS client for vmess, shadowsocks, trojan, vless, socks and other protocols
 - [mainframecomputer/fullmoon-ios](https://github.com/mainframecomputer/fullmoon-ios) - chat with private and local large language models
-- [github/CopilotForXcode](https://github.com/github/CopilotForXcode) - Xcode extension for GitHub Copilot
+- [github/CopilotForXcode](https://github.com/github/CopilotForXcode) - AI coding assistant for Xcode
 - [Lakr233/AppleWebLogin](https://github.com/Lakr233/AppleWebLogin) - Replaced login method for Xcodes.
 - [Lakr233/WindowAnimation](https://github.com/Lakr233/WindowAnimation) - Provide animation when animating SwiftUI windows on macOS.
 - [Lakr233/NotchNotification](https://github.com/Lakr233/NotchNotification) - Display Notification Inside Mac's Notch.
