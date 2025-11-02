@@ -1041,7 +1041,7 @@
 
 ## TypeScript 
 
-- [oiov/vmail](https://github.com/oiov/vmail) - 📫 An open source temporary email tool. 只需一个域名部署临时邮箱到 Cloudflare worker ，支持多域名后缀，密码找回。
+- [oiov/vmail](https://github.com/oiov/vmail) - 📫 只需一个域名部署临时邮箱到 Cloudflare Worker，使用 D1 保存数据，支持多域名后缀，密码找回。
 - [iebb/NekokoLPA](https://github.com/iebb/NekokoLPA) - Open-source LPA Software for Android and iOS
 - [CaviarChen/fog-machine](https://github.com/CaviarChen/fog-machine) - Fog Machine is a 3rd party extension tool for the app Fog of World.
 - [Innei/Innei](https://github.com/Innei/Innei) - 
