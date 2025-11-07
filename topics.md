@@ -380,7 +380,6 @@
 
 ## blockchain 
 
-- [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI Reader
 - [smartcontractkit/full-blockchain-solidity-course-py](https://github.com/smartcontractkit/full-blockchain-solidity-course-py) - Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition
 - [argentlabs/web3.swift](https://github.com/argentlabs/web3.swift) - Ethereum Swift API with support for smart contracts, ENS & ERC20
 
@@ -578,6 +577,7 @@
 ## config 
 
 - [Boeing/config-file-validator](https://github.com/Boeing/config-file-validator) - Cross Platform tool to validate configuration files
+- [nikivdev/myflow](https://github.com/nikivdev/myflow) - Place to share & store what you use
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [ddgksf2013/ddgksf2013](https://github.com/ddgksf2013/ddgksf2013) - 墨鱼去广告计划 | QuantumultX 去广告 | 去开屏广告 | 应用净化 | 会员解锁 | 墨鱼配置 | 应用增强 | 网页优化 | 网盘资源 | 模块去广告 | 圈 X 配置 | Shadowrocket配置 | 墨鱼规则 | Clash配置 | 小火箭去广告 | 资源库 | AdBlock | 网页广告 | 不完全指北
 
