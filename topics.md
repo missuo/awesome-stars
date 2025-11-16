@@ -291,7 +291,7 @@
 - [MaxxRK/firstrade-api](https://github.com/MaxxRK/firstrade-api) - A reverse engineered api to work with the Firstrade broker.
 - [Johnserf-Seed/f2](https://github.com/Johnserf-Seed/f2) - High-speed downloader for multiple platforms
 - [winfunc/deepreasoning](https://github.com/winfunc/deepreasoning) - A high-performance LLM inference API and Chat UI that integrates DeepSeek R1's CoT reasoning traces with Anthropic Claude models.
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - ⚡ Easiest no code web data extraction platform • Instantly turn any website into API or spreadsheet ⚡
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Easiest no code web data extraction platform • Instantly turn any website into API or spreadsheet
 - [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 小红书（XiaoHongShu、RedNote）链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件
 - [Art-of-WiFi/UniFi-API-browser](https://github.com/Art-of-WiFi/UniFi-API-browser) - Tool to browse data exposed by Ubiquiti's UniFi Controller API
 - [Art-of-WiFi/UniFi-API-client](https://github.com/Art-of-WiFi/UniFi-API-client) - A PHP API client class to interact with Ubiquiti's UniFi Controller API
@@ -325,7 +325,7 @@
 
 - [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
 - [shaikhsajid1111/twitter-scraper-selenium](https://github.com/shaikhsajid1111/twitter-scraper-selenium) - Python's package to scrap Twitter's front-end easily
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - ⚡ Easiest no code web data extraction platform • Instantly turn any website into API or spreadsheet ⚡
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Easiest no code web data extraction platform • Instantly turn any website into API or spreadsheet
 - [kastldratza/zoomrec](https://github.com/kastldratza/zoomrec) - Record Zoom meetings automatically in headless docker container with Python and FFmpeg
 - [VermiIIi0n/fuckZHS](https://github.com/VermiIIi0n/fuckZHS) - 自动刷智慧树课程的脚本
 
@@ -873,7 +873,7 @@
 
 ## git 
 
-- [runxiyu/furgit](https://github.com/runxiyu/furgit) - Fast implementation of Git in pure Go
+- [runxiyu/furgit](https://github.com/runxiyu/furgit) - Fast Git library in pure Go
 - [AkashRajpurohit/git-sync](https://github.com/AkashRajpurohit/git-sync) - 🔄 A simple tool to backup and sync your git repositories
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit) - Customize your git commit hashes!
@@ -904,7 +904,7 @@
 
 ## go 
 
-- [runxiyu/furgit](https://github.com/runxiyu/furgit) - Fast implementation of Git in pure Go
+- [runxiyu/furgit](https://github.com/runxiyu/furgit) - Fast Git library in pure Go
 - [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
 - [kkdai/youtube](https://github.com/kkdai/youtube) - Download Youtube Video in Golang
 - [pommee/goaway](https://github.com/pommee/goaway) - Lightweight DNS sinkhole written in Go with a modern dashboard client
@@ -1054,7 +1054,7 @@
 - [ccbikai/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong](https://github.com/ccbikai/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong) - Make your URL looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooonger
 - [shaikhsajid1111/twitter-scraper-selenium](https://github.com/shaikhsajid1111/twitter-scraper-selenium) - Python's package to scrap Twitter's front-end easily
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - ⚡ Easiest no code web data extraction platform • Instantly turn any website into API or spreadsheet ⚡
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Easiest no code web data extraction platform • Instantly turn any website into API or spreadsheet
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore) - Your Next Store: Modern Commerce with Next.js and Stripe as the backend.
@@ -1137,7 +1137,7 @@
 
 - [FouadRaheb/Regram-for-Instagram](https://github.com/FouadRaheb/Regram-for-Instagram) - The all-in-one tweak for Instagram
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
-- [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2025 with HikerAPI SaaS
+- [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2026 with HikerAPI SaaS
 - [instaloader/instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram.
 - [siongui/instago](https://github.com/siongui/instago) - Download/access photos, videos, stories, story highlights, postlives, following and followers of Instagram
 - [TikHub/TikHub-API-Python-SDK](https://github.com/TikHub/TikHub-API-Python-SDK) - High-performance asynchronous Douyin(抖音) TikTok Xiaohongshu(小红书) Kuaishou(快手) Weibo(微博) Instagram YouTube(油管) Twitter(X) Captcha Solver(验证码解决器) Temp Mail(临时邮箱) API(接口).
@@ -1538,7 +1538,7 @@
 
 ## no-code 
 
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - ⚡ Easiest no code web data extraction platform • Instantly turn any website into API or spreadsheet ⚡
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Easiest no code web data extraction platform • Instantly turn any website into API or spreadsheet
 
 ## nodejs 
 
@@ -2422,7 +2422,7 @@
 - [vinceanalytics/vince](https://github.com/vinceanalytics/vince) - Self Hosted Alternative To Google Analytics
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [stonith404/pingvin-share](https://github.com/stonith404/pingvin-share) - A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing.
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - ⚡ Easiest no code web data extraction platform • Instantly turn any website into API or spreadsheet ⚡
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Easiest no code web data extraction platform • Instantly turn any website into API or spreadsheet
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
@@ -2608,7 +2608,7 @@
 
 ## telegram 
 
-- [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍  Search your telegram messages wisely | 搜索您的 Telegram 聊天记录
+- [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍  Semantic search your Telegram chat history | 语义化搜索您的 Telegram 聊天记录
 - [jarvis2f/telegram-files](https://github.com/jarvis2f/telegram-files) - A self-hosted Telegram file downloader for continuous, stable, and unattended downloads.
 - [ccbikai/BroadcastChannel](https://github.com/ccbikai/BroadcastChannel) - Turn your Telegram Channel into a MicroBlog.
 - [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Teldrive
@@ -2627,7 +2627,7 @@
 ## telegram-bot 
 
 - [TelechaBot/TelechaBot](https://github.com/TelechaBot/TelechaBot) - 验证机器人|自定义|反垃圾内容|梯度多样验证系统|策略组配置|自部署|新式验证方案|Telegram Capthca bot
-- [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍  Search your telegram messages wisely | 搜索您的 Telegram 聊天记录
+- [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍  Semantic search your Telegram chat history | 语义化搜索您的 Telegram 聊天记录
 - [krau/SaveAny-Bot](https://github.com/krau/SaveAny-Bot) - Save Telegram files to multiple storage 📂 (Alist, Disk, Webdav, S3...) . Support restrict saving content.
 - [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Teldrive
 - [nekomeowww/insights-bot](https://github.com/nekomeowww/insights-bot) - A bot works with OpenAI GPT models to provide insights for your info flows.
