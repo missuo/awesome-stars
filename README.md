@@ -61,7 +61,6 @@
 
 ## C 
 
-- [nyathea/NeoFreeBird-BHTwitter](https://github.com/nyathea/NeoFreeBird-BHTwitter) - the ultimate way to tweak your Twitter/X experience
 - [34306/TrollDecryptJB](https://github.com/34306/TrollDecryptJB) - Higher iOS IPA Decrypter for JB
 - [estkme-group/lpac](https://github.com/estkme-group/lpac) - C-based eUICC LPA
 - [NetworkConfiguration/dhcpcd](https://github.com/NetworkConfiguration/dhcpcd) - DHCP / IPv4LL / IPv6RA / DHCPv6 client.
@@ -304,7 +303,7 @@
 - [minio/warp](https://github.com/minio/warp) - S3 benchmarking tool
 - [daodao97/SingBoxClient](https://github.com/daodao97/SingBoxClient) - Cross platform client for sing-box
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
-- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
+- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client
 - [fcambus/rrda](https://github.com/fcambus/rrda) - REST API allowing to perform DNS queries over HTTP
 - [fcambus/telize](https://github.com/fcambus/telize) - High performance JSON IP and GeoIP REST API (IP Geolocation)
 - [nekomeowww/elapsing](https://github.com/nekomeowww/elapsing) - A simple Golang library for measuring elapsed time in application, function calls, and goroutine
@@ -364,7 +363,7 @@
 ## Java 
 
 - [jarvis2f/telegram-files](https://github.com/jarvis2f/telegram-files) - A self-hosted Telegram file downloader for continuous, stable, and unattended downloads.
-- [qaiu/netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download) - 各类网盘直链解析服务, 已支持蓝奏云/蓝奏优享/小飞机盘/123云盘/移动联通/天翼云等. 支持文件夹分享解析. 体验地址: https://lz.qaiu.top    http://www.722shop.top:6401
+- [qaiu/netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download) - 各类网盘直链解析服务, 已支持蓝奏云/蓝奏优享/小飞机盘/123云盘/移动联通/天翼云等. 支持文件夹分享解析. 体验地址: https://lz.qaiu.top
 - [MoshiCoCo/Apple-Monitor](https://github.com/MoshiCoCo/Apple-Monitor) - Apple store inventory monitoring tool implemented in Java, supporting Bark, Feishu, Lark robot and other message push methods.  Currently supports monitoring Apple stores in mainland China, Hong Kong,
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version in translation
 - [davinci1012/pinduoduo_backdoor_unpacker](https://github.com/davinci1012/pinduoduo_backdoor_unpacker) - Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo
@@ -855,6 +854,7 @@
 - [RROrg/rr](https://github.com/RROrg/rr) - Redpill Recovery (arpl-i18n)
 - [songtianlun/mirrorGit](https://github.com/songtianlun/mirrorGit) - mirror your Github to Gitea.
 - [xykt/NetQuality](https://github.com/xykt/NetQuality) - 网络质量检测脚本 - Network Quality Check Script
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [zxcvos/Xray-script](https://github.com/zxcvos/Xray-script) - Xray-XHTTP 管理脚本
 - [create-dmg/create-dmg](https://github.com/create-dmg/create-dmg) - A shell script to build fancy DMGs
 - [X1a0He/X1a0HeWeChatPlugin](https://github.com/X1a0He/X1a0HeWeChatPlugin) - 一个随手写的微信插件，提供消息防撤回、显示红包转账详情、消息列表操作、头像圆角、毛玻璃模式、多开等功能
@@ -1098,7 +1098,6 @@
 - [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [hamster1963/nezha-dash](https://github.com/hamster1963/nezha-dash) - A simple dashboard for nezha.
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [jimp-dev/jimp](https://github.com/jimp-dev/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
 - [besscroft/PicImpact](https://github.com/besscroft/PicImpact) - 自部署的摄影作品网站，支持多种功能特性。PicImpact，分享你和世界！
 - [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simp
@@ -1205,7 +1204,7 @@
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 - [getgridea/gridea](https://github.com/getgridea/gridea) - ✍️ A static blog writing client (一个静态博客写作客户端)
 - [djyde/ossart](https://github.com/djyde/ossart) - Print your GitHub activity as an artwork
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. A better, open-source alternative to Google Analytics, Mixpanel and Amplitude.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
 - [BilibiliVideoDownload/BilibiliVideoDownload](https://github.com/BilibiliVideoDownload/BilibiliVideoDownload) - Cross-platform download bilibili video desktop software, support windows, macOS, Linux
 - [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
 
