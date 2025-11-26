@@ -91,6 +91,7 @@
 - [golang](#golang)
 - [google](#google)
 - [graphql](#graphql)
+- [gui](#gui)
 - [hacktoberfest](#hacktoberfest)
 - [home-assistant](#home-assistant)
 - [homebrew](#homebrew)
@@ -203,6 +204,7 @@
 - [vuejs](#vuejs)
 - [web](#web)
 - [web-development](#web-development)
+- [web3](#web3)
 - [webapp](#webapp)
 - [webpack](#webpack)
 - [website](#website)
@@ -500,7 +502,7 @@
 - [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译
 - [iszhouhua/social-media-copilot](https://github.com/iszhouhua/social-media-copilot) - 社媒助手开源版 - 小红书、抖音、快手等平台数据采集的浏览器插件，可通过API调用，支持Docker部署。
 - [BewlyBewly/BewlyBewly](https://github.com/BewlyBewly/BewlyBewly) - Just make a few small changes to your Bilibili homepage. (English | 简体中文 | 正體中文 | 廣東話)
-- [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
+- [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - # Free AI at api.airforce https://discord.gg/AJDsM7jtbq
 - [blueagler/DeepL-Helper](https://github.com/blueagler/DeepL-Helper) - Extend character support to 5,000+, lift editing limits, integrate with DeepL (Pro or API), enable formal/informal tone selection, and provide privacy‑friendly device fingerprint rotation.
 - [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
 - [myWsq/simple-header-modifier](https://github.com/myWsq/simple-header-modifier) - Modify headers by new declarativeNetRequest API
@@ -1047,6 +1049,12 @@
 ## graphql 
 
 - [ading2210/poe-api](https://github.com/ading2210/poe-api) - [UNMAINTAINED] A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
+
+## gui 
+
+- [yuezk/GlobalProtect-openconnect](https://github.com/yuezk/GlobalProtect-openconnect) - A GlobalProtect VPN client for Linux, written in Rust, based on OpenConnect and Tauri, supports SSO with MFA, YubiKey, and client certificate authentication, etc.
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
+- [mmpx12/twitter-media-downloader](https://github.com/mmpx12/twitter-media-downloader) - twmd: CLI/GUI Apiless twitter downlaoder. Download medias from single tweet or a whole profile.
 
 ## hacktoberfest 
 
@@ -1665,7 +1673,7 @@
 - [woxiqingxian/RevenueBell](https://github.com/woxiqingxian/RevenueBell) - RevenueBell 是一个轻量级的 Cloudflare Worker 脚本，专门用于接收 Apple App Store Server Notifications V2 并实时推送收入通知到你的手机（通过 Bark）。  每当用户在你的 iOS/macOS 应用中产生订阅、续订、购买等收入事件时，RevenueBell 会立即将通知发送到你的设备，让你第一时间掌握应用收入动态。
 - [spiritLHLS/speedtest.net-CN-ID](https://github.com/spiritLHLS/speedtest.net-CN-ID) - speedtest.net部分地区的测速节点合集(数据每天更新一次)
 - [dushixiang/pika](https://github.com/dushixiang/pika) - 服务器监控
-- [PDFMathTranslate/PDFMathTranslate-next](https://github.com/PDFMathTranslate/PDFMathTranslate-next) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker
+- [PDFMathTranslate-next/PDFMathTranslate-next](https://github.com/PDFMathTranslate-next/PDFMathTranslate-next) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker
 - [funstory-ai/BabelDOC](https://github.com/funstory-ai/BabelDOC) - Yet Another Document Translator
 - [bqlpfy/flux-panel](https://github.com/bqlpfy/flux-panel) - 哆啦A梦转发面板
 - [straight-tamago/misaka26](https://github.com/straight-tamago/misaka26) - iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible.
@@ -1690,7 +1698,7 @@
 - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
 - [leonboe1/QuickDrop](https://github.com/leonboe1/QuickDrop) - An enhanced version of NearDrop, a Google Quick Share app for macOS 📲
 - [Innei/Innei](https://github.com/Innei/Innei) - 
-- [Afilmory/afilmory](https://github.com/Afilmory/afilmory) - A personal photography website celebrating the art of capturing moments with a nostalgic, retro vibe. Blending aperture, film, and memory.
+- [Afilmory/afilmory](https://github.com/Afilmory/afilmory) - Afilmory (/əˈfɪlməri/, "uh-FIL-muh-ree") is a term created for personal photography websites, blending Auto Focus (AF), aperture (light control), film (vintage medium), and memory (captured moments).
 - [gen2brain/jpegn](https://github.com/gen2brain/jpegn) - JPEG decoder with SIMD optimizations
 - [Lakr233/WhisperKit](https://github.com/Lakr233/WhisperKit) - 
 - [whoeevee/EeveeSpotifyReborn](https://github.com/whoeevee/EeveeSpotifyReborn) - A tweak to enhance Spotify experience
@@ -1796,7 +1804,7 @@
 - [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner) - A free, source-available and fair-code licensed mac app cleaner
 - [useplunk/plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform
 - [zxcvos/Xray-script](https://github.com/zxcvos/Xray-script) - Xray-XHTTP 管理脚本
-- [pcccccc/SimpleLiveTVOS](https://github.com/pcccccc/SimpleLiveTVOS) - 
+- [pcccccc/AngelLive](https://github.com/pcccccc/AngelLive) - 
 - [lanceliao/china-holiday-calender](https://github.com/lanceliao/china-holiday-calender) - 2023-2025中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calendar、Outlook等客户端订阅，包含节假日API
 - [XiaoNieGPT/unraid-theme](https://github.com/XiaoNieGPT/unraid-theme) - 专治强迫症
 - [Lakr233/FlowDown](https://github.com/Lakr233/FlowDown) - https://flowdown.ai/
@@ -2312,7 +2320,7 @@
 - [unixzii/swiftui-for-react-devs](https://github.com/unixzii/swiftui-for-react-devs) - A cheat sheet that helps React developers to quickly start with SwiftUI.
 - [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω&lt; )⌒☆​
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-- [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
+- [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - # Free AI at api.airforce https://discord.gg/AJDsM7jtbq
 - [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) - Drift is a self-hostable Gist and paste service. Built with Next.js 13 and React Server Components.
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
 - [xyxc0673/calendar-remark](https://github.com/xyxc0673/calendar-remark) - A simple calendar with nice design for remarking a date
@@ -2723,7 +2731,7 @@
 - [Alice39s/kuma-mieru](https://github.com/Alice39s/kuma-mieru) - A 3rd-party Uptime Kuma monitoring dashboard built on Next.js 16, TypeScript and Recharts.
 - [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
 - [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore) - Your Next Store: Modern Commerce with Next.js and Stripe as the backend.
-- [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
+- [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - # Free AI at api.airforce https://discord.gg/AJDsM7jtbq
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) - Drift is a self-hostable Gist and paste service. Built with Next.js 13 and React Server Components.
@@ -2816,6 +2824,10 @@
 ## web-development 
 
 - [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
+
+## web3 
+
+- [smartcontractkit/full-blockchain-solidity-course-py](https://github.com/smartcontractkit/full-blockchain-solidity-course-py) - Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition
 
 ## webapp 
 
