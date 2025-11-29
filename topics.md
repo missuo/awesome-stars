@@ -1693,6 +1693,8 @@
 
 ## others 
 
+- [Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image) - 
+- [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis
 - [RhysSullivan/twitter-account-location-in-username](https://github.com/RhysSullivan/twitter-account-location-in-username) - 
 - [woxiqingxian/RevenueBell](https://github.com/woxiqingxian/RevenueBell) - RevenueBell 是一个轻量级的 Cloudflare Worker 脚本，专门用于接收 Apple App Store Server Notifications V2 并实时推送收入通知到你的手机（通过 Bark）。  每当用户在你的 iOS/macOS 应用中产生订阅、续订、购买等收入事件时，RevenueBell 会立即将通知发送到你的设备，让你第一时间掌握应用收入动态。
 - [spiritLHLS/speedtest.net-CN-ID](https://github.com/spiritLHLS/speedtest.net-CN-ID) - speedtest.net部分地区的测速节点合集(数据每天更新一次)
@@ -2684,7 +2686,7 @@
 
 - [TelechaBot/TelechaBot](https://github.com/TelechaBot/TelechaBot) - 验证机器人|自定义|反垃圾内容|梯度多样验证系统|策略组配置|自部署|新式验证方案|Telegram Capthca bot
 - [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍  Semantic search your Telegram chat history | 语义化搜索您的 Telegram 聊天记录
-- [krau/SaveAny-Bot](https://github.com/krau/SaveAny-Bot) - Save any Telegram file, anywhere 📂 (Alist, Disk, Webdav, S3...) . Support restrict saving content and beyond telegram.
+- [krau/SaveAny-Bot](https://github.com/krau/SaveAny-Bot) - Save Any Telegram File to Anywhere 📂 (Alist, Disk, Webdav, S3...) . Support restrict saving content and beyond telegram.
 - [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Teldrive
 - [nekomeowww/insights-bot](https://github.com/nekomeowww/insights-bot) - A bot works with OpenAI GPT models to provide insights for your info flows.
 - [MrMissx/Telegram_Forwarder](https://github.com/MrMissx/Telegram_Forwarder) - Telegram bot to forward message from channel/group
