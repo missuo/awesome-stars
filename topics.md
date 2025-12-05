@@ -1296,6 +1296,7 @@
 
 ## kubernetes 
 
+- [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replicatio
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
 - [patroni/patroni](https://github.com/patroni/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
@@ -1696,6 +1697,8 @@
 
 ## others 
 
+- [dylanpdx/BetterTwitFix](https://github.com/dylanpdx/BetterTwitFix) - Fix Twitter video embeds in Discord (and Telegram!)
+- [yamada-sexta/touitomamout-next](https://github.com/yamada-sexta/touitomamout-next) - Synchronize your 𝕏 posts to other social media platforms with ease.
 - [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) - Voice-to-text macOS App - Fully local
 - [Innei/Shiro](https://github.com/Innei/Shiro) - 📜 A minimalist personal website embodying the purity of paper and freshness of snow.
 - [egoist/whispo](https://github.com/egoist/whispo) - AI-powered dictation tool
@@ -2407,6 +2410,7 @@
 
 ## rust 
 
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
 - [zhboner/realm](https://github.com/zhboner/realm) - A network relay tool
 - [foyer-rs/foyer](https://github.com/foyer-rs/foyer) - Hybrid in-memory and disk cache in Rust
 - [Michael-A-Kuykendall/shimmy](https://github.com/Michael-A-Kuykendall/shimmy) - ⚡ Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTensors, hot model swap, auto-discovery, single binary. FREE now, FREE forever.
