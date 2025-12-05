@@ -165,6 +165,7 @@
 
 ## Go 
 
+- [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replicatio
 - [labring/aiproxy](https://github.com/labring/aiproxy) - AI Proxy is a high performance AI gateway using OpenAI / Claude / Gemini protocol as the entry point. It features intelligent error handling, multi-channel management, and comprehensive monitoring. Wi
 - [looplj/axonhub](https://github.com/looplj/axonhub) - AxonHub is a modern AI gateway system that provides a unified OpenAI, Anthropic, Gemini and AI SDK compatible API
 - [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis
@@ -631,6 +632,7 @@
 
 ## Python 
 
+- [dylanpdx/BetterTwitFix](https://github.com/dylanpdx/BetterTwitFix) - Fix Twitter video embeds in Discord (and Telegram!)
 - [Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image) - 
 - [spiritLHLS/speedtest.net-CN-ID](https://github.com/spiritLHLS/speedtest.net-CN-ID) - speedtest.net部分地区的测速节点合集(数据每天更新一次)
 - [PDFMathTranslate-next/PDFMathTranslate-next](https://github.com/PDFMathTranslate-next/PDFMathTranslate-next) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker
@@ -788,6 +790,7 @@
 
 ## Rust 
 
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
 - [zhboner/realm](https://github.com/zhboner/realm) - A network relay tool
 - [Mas0nShi/chatwise-father](https://github.com/Mas0nShi/chatwise-father) - Chatwise's father 😊
 - [foyer-rs/foyer](https://github.com/foyer-rs/foyer) - Hybrid in-memory and disk cache in Rust
@@ -1073,6 +1076,7 @@
 
 ## TypeScript 
 
+- [yamada-sexta/touitomamout-next](https://github.com/yamada-sexta/touitomamout-next) - Synchronize your 𝕏 posts to other social media platforms with ease.
 - [Innei/Shiro](https://github.com/Innei/Shiro) - 📜 A minimalist personal website embodying the purity of paper and freshness of snow.
 - [egoist/whispo](https://github.com/egoist/whispo) - AI-powered dictation tool
 - [iyinchao/liquid-glass-studio](https://github.com/iyinchao/liquid-glass-studio) - 🔮 The Ultimate Apple Liquid Glass UI — Recreated for the Web, powered by WebGL2 and shaders.
