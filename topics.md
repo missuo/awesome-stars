@@ -320,7 +320,7 @@
 - [MaxxRK/firstrade-api](https://github.com/MaxxRK/firstrade-api) - A reverse engineered api to work with the Firstrade broker.
 - [Johnserf-Seed/f2](https://github.com/Johnserf-Seed/f2) - High-speed downloader for multiple platforms
 - [winfunc/deepreasoning](https://github.com/winfunc/deepreasoning) - A high-performance LLM inference API and Chat UI that integrates DeepSeek R1's CoT reasoning traces with Anthropic Claude models.
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into clean data pipelines, APIs & spreadsheets in minutes
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into clean data pipelines & structured APIs in minutes!
 - [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 小红书（XiaoHongShu、RedNote）链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件
 - [Art-of-WiFi/UniFi-API-browser](https://github.com/Art-of-WiFi/UniFi-API-browser) - Tool to browse data exposed by Ubiquiti's UniFi Controller API
 - [Art-of-WiFi/UniFi-API-client](https://github.com/Art-of-WiFi/UniFi-API-client) - A PHP API client class to interact with Ubiquiti's UniFi Controller API
@@ -350,7 +350,7 @@
 
 - [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
 - [shaikhsajid1111/twitter-scraper-selenium](https://github.com/shaikhsajid1111/twitter-scraper-selenium) - Python's package to scrap Twitter's front-end easily
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into clean data pipelines, APIs & spreadsheets in minutes
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into clean data pipelines & structured APIs in minutes!
 - [kastldratza/zoomrec](https://github.com/kastldratza/zoomrec) - Record Zoom meetings automatically in headless docker container with Python and FFmpeg
 - [VermiIIi0n/fuckZHS](https://github.com/VermiIIi0n/fuckZHS) - 自动刷智慧树课程的脚本
 
@@ -447,7 +447,7 @@
 - [wechaty/wechaty](https://github.com/wechaty/wechaty) - Conversational RPA SDK for Chatbot Makers. Join our Discord: https://discord.gg/7q8NBZbQzt
 - [father-bot/chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 💬 Telegram bot with ChatGPT, Python-based, using OpenAI's API.
 - [Yoddikko/yoddChatGPT](https://github.com/Yoddikko/yoddChatGPT) - This app uses the OpenAISwift library, ChatGPTSwift library and OpenAI library to communicate with the popular ChatGPT artificial intelligence. The app allows you to have a quick message exchange with
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## chatgpt 
 
@@ -495,7 +495,7 @@
 - [theiskaa/MobileGPT](https://github.com/theiskaa/MobileGPT) - 💬 ChatGPT Mobile Application (iOS and Android) built with Flutter
 - [missuo/OpenAI-Checker](https://github.com/missuo/OpenAI-Checker) - Used to check if your IP can access OpenAI services.
 - [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - 基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择ChatGPT/Claude/DeepSeek/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The first GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
 - [taranjeet/unofficial-chatgpt-api](https://github.com/taranjeet/unofficial-chatgpt-api) - This repo is unofficial ChatGPT api. It is based on Daniel Gross's WhatsApp GPT
@@ -513,7 +513,7 @@
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-5, GPT-Image-1, Whisper API clients for Go
 - [ConnectAI-E/feishu-openai](https://github.com/ConnectAI-E/feishu-openai) - 🎒 飞书  ×（GPT-4 + GPT-4V + DALL·E-3 + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
 - [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api) - Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## chrome 
 
@@ -522,6 +522,7 @@
 
 ## chrome-extension 
 
+- [xlch88/YouTubeTweak](https://github.com/xlch88/YouTubeTweak) - Packed with all the features you want: lock video quality, speed buttons, show commenter names, auto-translate comments, hide distractions, and more.
 - [EltonChou/TwitterMediaHarvest](https://github.com/EltonChou/TwitterMediaHarvest) - Download twitter media with only one-click.
 - [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译
 - [iszhouhua/social-media-copilot](https://github.com/iszhouhua/social-media-copilot) - 社媒助手开源版 - 小红书、抖音、快手等平台数据采集的浏览器插件，可通过API调用，支持Docker部署。
@@ -1105,7 +1106,7 @@
 - [miantiao-me/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong](https://github.com/miantiao-me/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong) - Make your URL looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooonger
 - [shaikhsajid1111/twitter-scraper-selenium](https://github.com/shaikhsajid1111/twitter-scraper-selenium) - Python's package to scrap Twitter's front-end easily
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into clean data pipelines, APIs & spreadsheets in minutes
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into clean data pipelines & structured APIs in minutes!
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore) - Your Next Store: Modern Commerce with Next.js and Stripe.
@@ -1157,6 +1158,7 @@
 
 ## http 
 
+- [antoniomika/sish](https://github.com/antoniomika/sish) - HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
 - [daijro/hrequests](https://github.com/daijro/hrequests) - 🚀 Web scraping for humans
 - [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Tunnel, Mixed, HTTP)
 - [TheWaWaR/simple-http-server](https://github.com/TheWaWaR/simple-http-server) - Simple http server in Rust (Windows/Mac/Linux)
@@ -1173,6 +1175,7 @@
 
 ## https 
 
+- [antoniomika/sish](https://github.com/antoniomika/sish) - HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [webserver-llc/angie](https://github.com/webserver-llc/angie) - Angie - drop-in replacement for nginx
 - [go-gost/gost](https://github.com/go-gost/gost) - GO Simple Tunnel - a simple tunnel written in golang
@@ -1324,7 +1327,7 @@
 
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## latex 
 
@@ -1601,7 +1604,7 @@
 
 ## no-code 
 
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into clean data pipelines, APIs & spreadsheets in minutes
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into clean data pipelines & structured APIs in minutes!
 
 ## nodejs 
 
@@ -2528,7 +2531,7 @@
 - [vinceanalytics/vince](https://github.com/vinceanalytics/vince) - Self Hosted Alternative To Google Analytics
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [stonith404/pingvin-share](https://github.com/stonith404/pingvin-share) - A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing.
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into clean data pipelines, APIs & spreadsheets in minutes
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into clean data pipelines & structured APIs in minutes!
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
@@ -2966,6 +2969,7 @@
 
 ## youtube 
 
+- [xlch88/YouTubeTweak](https://github.com/xlch88/YouTubeTweak) - Packed with all the features you want: lock video quality, speed buttons, show commenter names, auto-translate comments, hide distractions, and more.
 - [kkdai/youtube](https://github.com/kkdai/youtube) - Download Youtube Video in Golang
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [ihmily/DouyinLiveRecorder](https://github.com/ihmily/DouyinLiveRecorder) - 可循环值守和多人录制的直播录制软件，支持抖音、TikTok、Youtube、快手、虎牙、斗鱼、B站、小红书、pandatv、sooplive、flextv、popkontv、twitcasting、winktv、百度、微博、酷狗、17Live、Twitch、Acfun、CHZZK、shopee等40+平台直播录制
