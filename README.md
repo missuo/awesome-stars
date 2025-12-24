@@ -966,6 +966,7 @@
 
 ## Swift 
 
+- [kyleduo/TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - Native client of TinyPNG on macOS
 - [scenee/FloatingPanel](https://github.com/scenee/FloatingPanel) - A clean and easy-to-use floating panel UI component for iOS
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) - Voice-to-text macOS App - Fully local
@@ -1097,12 +1098,13 @@
 
 ## TypeScript 
 
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [afkarxyz/Twitter-X-Media-Batch-Downloader](https://github.com/afkarxyz/Twitter-X-Media-Batch-Downloader) - A GUI tool to download original-quality images and videos from Twitter/X accounts, powered by gallery-dl by @mikf
 - [xlch88/YouTubeTweak](https://github.com/xlch88/YouTubeTweak) - Packed with all the features you want: lock video quality, speed buttons, show commenter names, auto-translate comments, hide distractions, and more.
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning screen recordings for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [Hzao/PocketChest](https://github.com/Hzao/PocketChest) - Secure, serverless file and text sharing built on Cloudflare with large file support.
 - [vsxd/afilmory-vercel](https://github.com/vsxd/afilmory-vercel) - Vercel-native. High-performance. Modern. A refined photography gallery.
-- [jakejarvis/domainstack.io](https://github.com/jakejarvis/domainstack.io) - 📚 All-in-one domain name intelligence tool
+- [jakejarvis/domainstack.io](https://github.com/jakejarvis/domainstack.io) - 🧰 All-in-one domain name intelligence
 - [yamada-sexta/touitomamout-next](https://github.com/yamada-sexta/touitomamout-next) - Synchronize your 𝕏 posts to other social media platforms with ease.
 - [Innei/Shiro](https://github.com/Innei/Shiro) - 📜 A minimalist personal website embodying the purity of paper and freshness of snow.
 - [egoist/whispo](https://github.com/egoist/whispo) - AI-powered dictation tool
@@ -1273,7 +1275,7 @@
 
 ## Vue 
 
-- [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API-一站式开源中转服务，让 Claude订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+- [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 - [HuLaSpark/HuLa](https://github.com/HuLaSpark/HuLa) - 🍀 A cross-platform instant messaging desktop application with exceptional performance built on Rust + Vue3, compatible with Windows, macOS, Linux, Android, and iOS（一款基于Rust+Vue3极致性能的跨平台即时通讯桌面应用，兼容Wind
 - [HoshinoSuzumi/chronoframe](https://github.com/HoshinoSuzumi/chronoframe) - Self-hosted personal gallery application with online photo management and albums, supporting Live/Motion Photos, EXIF parsing, geolocation recognition, and an explore map.
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
