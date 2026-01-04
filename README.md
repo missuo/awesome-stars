@@ -580,7 +580,7 @@
 - [Huangbai233/HBWeChatHelper](https://github.com/Huangbai233/HBWeChatHelper) - 黄白助手-增强iOS微信的插件
 - [unixzii/swiftui-for-react-devs](https://github.com/unixzii/swiftui-for-react-devs) - A cheat sheet that helps React developers to quickly start with SwiftUI.
 - [ipinfo/sample-database](https://github.com/ipinfo/sample-database) - IPinfo database and API sample repository
-- [ipverse/asn-info](https://github.com/ipverse/asn-info) - Download autonomous system list organized by ASN
+- [ipverse/as-metadata](https://github.com/ipverse/as-metadata) - Download autonomous system list organized by ASN
 - [miantiao-me/Git.Bio](https://github.com/miantiao-me/Git.Bio) - Turn your GitHub into a Biography
 - [straight-tamago/misakaX](https://github.com/straight-tamago/misakaX) - iOS /iPadOS 16.0 - 18.0 / 18.1 beta 4, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible.
 - [NyaMisty/action-ipadown](https://github.com/NyaMisty/action-ipadown) - Download any versions of app using Github Actions
@@ -985,7 +985,7 @@
 - [gee1k/uPic](https://github.com/gee1k/uPic) - 📤uPic is a native, powerful, beautiful and simple picture and file upload tool for macOS.
 - [Lakr233/WhisperKit](https://github.com/Lakr233/WhisperKit) - 
 - [whoeevee/EeveeSpotifyReborn](https://github.com/whoeevee/EeveeSpotifyReborn) - A tweak to enhance Spotify experience
-- [MxIris-Reverse-Engineering/RuntimeViewer](https://github.com/MxIris-Reverse-Engineering/RuntimeViewer) - Objective-C Runtime Viewer for macOS and iOS
+- [MxIris-Reverse-Engineering/RuntimeViewer](https://github.com/MxIris-Reverse-Engineering/RuntimeViewer) - Objective-C & Swift Runtime Viewer for macOS and iOS
 - [madebyshaurya/SpendSmart](https://github.com/madebyshaurya/SpendSmart) - Less clutter, more clarity
 - [Lakr233/MarkdownView](https://github.com/Lakr233/MarkdownView) - 
 - [synth-inc/onit](https://github.com/synth-inc/onit) - Onit MacOS client
