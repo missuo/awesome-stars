@@ -346,7 +346,7 @@
 
 ## artificial-intelligence 
 
-- [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
+- [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [Tencent/ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
 
@@ -915,7 +915,7 @@
 
 ## generative-ai 
 
-- [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
+- [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 - [a2aproject/A2A](https://github.com/a2aproject/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
 
@@ -943,7 +943,7 @@
 - [situ2001/gitea-bulk-migration](https://github.com/situ2001/gitea-bulk-migration) - A command-line tool for bulk migrating GitHub repositories to Gitea as mirrors, with support for incremental syncs and configurable migration strategies
 - [gee1k/uPic](https://github.com/gee1k/uPic) - 📤uPic is a native, powerful, beautiful and simple picture and file upload tool for macOS.
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
-- [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
+- [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [cbrgm/bluesky-github-action](https://github.com/cbrgm/bluesky-github-action) - Send posts to Bluesky Social from GitHub Actions
 - [said7388/github-portfolio](https://github.com/said7388/github-portfolio) - Create a Portfolio Website using your GitHub username. This website template is constructed with next.js and tailwind CSS, allowing you to display your work and skills as a software developer.
@@ -1396,7 +1396,7 @@
 - [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm) - A course of learning LLM inference serving on Apple Silicon for systems engineers: build a tiny vLLM + Qwen.
-- [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
+- [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
 - [nathanborror/Heat](https://github.com/nathanborror/Heat) - An LLM agnostic desktop and mobile client.
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
@@ -1623,7 +1623,7 @@
 - [jakejarvis/domainstack.io](https://github.com/jakejarvis/domainstack.io) - 🧰 All-in-one domain name intelligence
 - [DyAxy/yet-another-sub-web](https://github.com/DyAxy/yet-another-sub-web) - 订阅转换前端，又一个 sub-web，基于 React、Next.JS 实现前端
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-- [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
+- [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 - [Alice39s/kuma-mieru](https://github.com/Alice39s/kuma-mieru) - A 3rd-party Uptime Kuma monitoring dashboard built on Next.js 16, TypeScript and Recharts.
 - [jarvis2f/telegram-files](https://github.com/jarvis2f/telegram-files) - A self-hosted Telegram file downloader for continuous, stable, and unattended downloads.
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
@@ -1706,7 +1706,7 @@
 - [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-- [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
+- [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 - [nathanborror/Heat](https://github.com/nathanborror/Heat) - An LLM agnostic desktop and mobile client.
 - [niieani/gpt-tokenizer](https://github.com/niieani/gpt-tokenizer) - The fastest JavaScript BPE Tokenizer Encoder Decoder for OpenAI's GPT models (gpt-5, gpt-o*, gpt-4o, etc.). Port of OpenAI's tiktoken with additional features.
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
@@ -1764,6 +1764,7 @@
 
 ## others 
 
+- [ddlmanus/MacOptimizer](https://github.com/ddlmanus/MacOptimizer) - MacOptimizer is a system optimization tool designed specifically for macOS, featuring a modern SwiftUI interface with eight core functional modules:
 - [llsc12/Paicord](https://github.com/llsc12/Paicord) - A native Discord client.
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google
 - [TogawaSakiko363/YALS](https://github.com/TogawaSakiko363/YALS) - Yet another looking glass project.
@@ -1914,7 +1915,6 @@
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [jimp-dev/jimp](https://github.com/jimp-dev/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
-- [besscroft/PicImpact](https://github.com/besscroft/PicImpact) - 自部署的摄影作品网站，支持多种功能特性。PicImpact，分享你和世界！
 - [ml-explore/mlx-swift](https://github.com/ml-explore/mlx-swift) - Swift API for MLX
 - [leonboe1/GoogleFindMyTools](https://github.com/leonboe1/GoogleFindMyTools) - Framework for tracking and building your own Google Find My Device / Find Hub trackers 🧭
 - [bogdanfinn/tls-client](https://github.com/bogdanfinn/tls-client) - net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests.
@@ -2085,7 +2085,7 @@
 - [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
 - [ijk0/vercel-azure-openai-proxy](https://github.com/ijk0/vercel-azure-openai-proxy) - Rapid deployment of Azure OpenAI service proxy to Vercel.
 - [ilikenwf/apt-fast](https://github.com/ilikenwf/apt-fast) - apt-fast: A shellscript wrapper for apt that speeds up downloading of packages.
-- [Archeb/opentrace](https://github.com/Archeb/opentrace) - Open Source Visualized Network Tracing Tool for macOS, Windows, and Linux. 跨平台可视化路由追踪工具。
+- [Archeb/opentrace](https://github.com/Archeb/opentrace) - Open Source Visualized Route Tracing Tool for macOS, Windows, and Linux. 跨平台可视化路由追踪工具。
 - [qpdf/qpdf](https://github.com/qpdf/qpdf) - qpdf: A content-preserving PDF document transformer
 - [sarkrui/MTR-Next-Train](https://github.com/sarkrui/MTR-Next-Train) - an API to retrieve MTR (Mass Transit Railway) train schedules for a specific line and station in Hong Kong.
 - [Netskao/MacOS-Utils](https://github.com/Netskao/MacOS-Utils) - MacOS-Apps-Utils
@@ -2455,7 +2455,7 @@
 - [VityaSchel/lufin](https://github.com/VityaSchel/lufin) - Read-only mirror of https://git.hloth.dev/hloth/lufin
 - [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译
 - [DyAxy/yet-another-sub-web](https://github.com/DyAxy/yet-another-sub-web) - 订阅转换前端，又一个 sub-web，基于 React、Next.JS 实现前端
-- [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
+- [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 - [Alice39s/kuma-mieru](https://github.com/Alice39s/kuma-mieru) - A 3rd-party Uptime Kuma monitoring dashboard built on Next.js 16, TypeScript and Recharts.
 - [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - A drawer component for React.
 - [unixzii/swiftui-for-react-devs](https://github.com/unixzii/swiftui-for-react-devs) - A cheat sheet that helps React developers to quickly start with SwiftUI.
@@ -2595,6 +2595,7 @@
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
 - [DioCrafts/OxiCloud](https://github.com/DioCrafts/OxiCloud) - ☁️ OxiCloud server, efficient and secure way to save all your data
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
+- [besscroft/PicImpact](https://github.com/besscroft/PicImpact) - 自部署的摄影作品网站，支持多种功能特性。PicImpact，分享你和世界！
 - [jarvis2f/telegram-files](https://github.com/jarvis2f/telegram-files) - A self-hosted Telegram file downloader for continuous, stable, and unattended downloads.
 - [vinceanalytics/vince](https://github.com/vinceanalytics/vince) - Self Hosted Alternative To Google Analytics
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
@@ -2894,7 +2895,7 @@
 - [btjawa/BiliTools](https://github.com/btjawa/BiliTools) - A cross-platform bilibili toolbox. 跨平台哔哩哔哩工具箱，支持下载视频、番剧等等各类资源
 - [johnste/finicky](https://github.com/johnste/finicky) - A macOS app for customizing which browser to start
 - [DyAxy/yet-another-sub-web](https://github.com/DyAxy/yet-another-sub-web) - 订阅转换前端，又一个 sub-web，基于 React、Next.JS 实现前端
-- [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
+- [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 - [galaxy-s10/billd-desk](https://github.com/galaxy-s10/billd-desk) - 基于Vue3 + WebRTC + Nodejs + Flutter搭建的远程桌面控制
 - [3l-d1abl0/watermark-remover](https://github.com/3l-d1abl0/watermark-remover) - A simple watermark remover app using Google Gemini 2.0
 - [Alice39s/kuma-mieru](https://github.com/Alice39s/kuma-mieru) - A 3rd-party Uptime Kuma monitoring dashboard built on Next.js 16, TypeScript and Recharts.
