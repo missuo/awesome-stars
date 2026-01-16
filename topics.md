@@ -1769,6 +1769,7 @@
 
 ## others 
 
+- [amak-tech/port-buddy](https://github.com/amak-tech/port-buddy) - Expose local ports to the internet in seconds
 - [iannuttall/dotagents](https://github.com/iannuttall/dotagents) - One location for all of your hooks, commands, skills, and AGENT/CLAUDE.md files.
 - [anytls/anytls-go](https://github.com/anytls/anytls-go) - 
 - [nooblk-98/noobwrt-arcadyan-aw1k](https://github.com/nooblk-98/noobwrt-arcadyan-aw1k) - A custom firmware built on top of ImmortalWRT (a fork of OpenWrt), tailored specifically for the Arcadyan AW1000 Telstra 5G Home Modem. This optimized build enhances network stability, system performa
