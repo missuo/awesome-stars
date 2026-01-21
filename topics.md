@@ -190,6 +190,7 @@
 - [svelte](#svelte)
 - [swift](#swift)
 - [swiftui](#swiftui)
+- [tailwind](#tailwind)
 - [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
 - [telegram-bot](#telegram-bot)
@@ -324,6 +325,7 @@
 
 ## api 
 
+- [zmh-program/next-whois](https://github.com/zmh-program/next-whois) - 🧪 Your Next-Gen Whois Lookup Tool With Modern UI. Support Domain/IPv4/IPv6/ASN/CIDR Whois Lookup And Powerful Features. Support RDAP protocol.
 - [MaxxRK/firstrade-api](https://github.com/MaxxRK/firstrade-api) - A reverse engineered api to work with the Firstrade broker.
 - [Johnserf-Seed/f2](https://github.com/Johnserf-Seed/f2) - High-speed downloader for multiple platforms
 - [winfunc/deepreasoning](https://github.com/winfunc/deepreasoning) - A high-performance LLM inference API and Chat UI that integrates DeepSeek R1's CoT reasoning traces with Anthropic Claude models.
@@ -1637,6 +1639,7 @@
 
 ## nextjs 
 
+- [zmh-program/next-whois](https://github.com/zmh-program/next-whois) - 🧪 Your Next-Gen Whois Lookup Tool With Modern UI. Support Domain/IPv4/IPv6/ASN/CIDR Whois Lookup And Powerful Features. Support RDAP protocol.
 - [vercel/examples](https://github.com/vercel/examples) - Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
 - [jakejarvis/domainstack.io](https://github.com/jakejarvis/domainstack.io) - 🧰 All-in-one domain name intelligence as a service
 - [DyAxy/yet-another-sub-web](https://github.com/DyAxy/yet-another-sub-web) - 订阅转换前端，又一个 sub-web，基于 React、Next.JS 实现前端
@@ -1783,9 +1786,10 @@
 
 ## others 
 
+- [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X
 - [blader/humanizer](https://github.com/blader/humanizer) - Claude Code skill that removes signs of AI-generated writing from text
 - [xixu-me/deeplx](https://github.com/xixu-me/deeplx) - Best serverless implementation of DeepLX
-- [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim) - Slimmed and cleaned oh-my-opencode fork, consumes much less tokens
+- [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim) - Slimmed, cleaned and fine-tuned oh-my-opencode fork, consumes much less tokens
 - [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - AI → JSON → UI
 - [amak-tech/port-buddy](https://github.com/amak-tech/port-buddy) - Expose local ports to the internet in seconds
 - [iannuttall/dotagents](https://github.com/iannuttall/dotagents) - One location for all of your hooks, commands, skills, and AGENT/CLAUDE.md files.
@@ -2825,8 +2829,13 @@
 - [isaced/V2exOS](https://github.com/isaced/V2exOS) - 一个用 SwiftUI 编写的 V2ex macOS/iOS/tvOS 客户端 (A V2ex macOS/iOS/tvOS client written in SwiftUI)
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 
+## tailwind 
+
+- [Logging-Studio/RetroUI](https://github.com/Logging-Studio/RetroUI) - A NeoBrutalism styled React + TailwindCSS UI library for building bold, modern web apps.
+
 ## tailwindcss 
 
+- [Logging-Studio/RetroUI](https://github.com/Logging-Studio/RetroUI) - A NeoBrutalism styled React + TailwindCSS UI library for building bold, modern web apps.
 - [jakejarvis/domainstack.io](https://github.com/jakejarvis/domainstack.io) - 🧰 All-in-one domain name intelligence as a service
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
 - [sjdonado/idonthavespotify](https://github.com/sjdonado/idonthavespotify) - Effortlessly convert Spotify links to your preferred streaming service
@@ -2977,6 +2986,7 @@
 
 ## ui 
 
+- [zmh-program/next-whois](https://github.com/zmh-program/next-whois) - 🧪 Your Next-Gen Whois Lookup Tool With Modern UI. Support Domain/IPv4/IPv6/ASN/CIDR Whois Lookup And Powerful Features. Support RDAP protocol.
 - [preetsuthar17/HextaUI](https://github.com/preetsuthar17/HextaUI) - Ready-to-use foundation components/blocks built on top of shadcn/ui.
 - [mocki-toki/barik](https://github.com/mocki-toki/barik) - macOS menu bar replacement, with yabai and AeroSpace support
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
