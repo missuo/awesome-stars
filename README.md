@@ -401,6 +401,7 @@
 
 ## JavaScript 
 
+- [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
 - [justlovemaki/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API) - Simulates Gemini CLI, Antigravity, Qwen Code, and Kiro client requests, compatible with the OpenAI API. It supports thousands of Gemini model requests per day and offers free use of the built-in Claud
 - [dompling/TrollScript-Store](https://github.com/dompling/TrollScript-Store) - TrollScript 商店脚本
 - [dompling/TrollScript-Release](https://github.com/dompling/TrollScript-Release) - 巨魔快捷指令脚本
@@ -827,6 +828,7 @@
 
 ## Rust 
 
+- [TrustTunnel/TrustTunnel](https://github.com/TrustTunnel/TrustTunnel) - Modern, fast and obfuscated VPN protocol
 - [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X
 - [ShadowsocksR-Live/overtls](https://github.com/ShadowsocksR-Live/overtls) - A minimalist proxy tunnel for bypassing the GFW.
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
@@ -918,6 +920,7 @@
 
 ## Shell 
 
+- [rust-cross/rust-musl-cross](https://github.com/rust-cross/rust-musl-cross) - Docker images for compiling static Rust binaries using musl-cross
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [ChamodyaChiran/AW1000-NSS-Build-Public](https://github.com/ChamodyaChiran/AW1000-NSS-Build-Public) - ChamodyaWRT is a free, open-source firmware for the Telstra AW1000  router built with love for the community.
 - [GFW4Fun/x-ui-pro](https://github.com/GFW4Fun/x-ui-pro) - XUI-PRO nginx reverse proxy with ws/grpc/httpupgrade/splithttp,xray protocol support: vless,vmess,trojan,shadowsocks panel cloudflare ssl,xtls,ssr,v2fly,v2ray installer bypass restrictions sing-box,sh
@@ -1132,6 +1135,7 @@
 
 ## TypeScript 
 
+- [hjinco/mdto](https://github.com/hjinco/mdto) - 
 - [zmh-program/next-whois](https://github.com/zmh-program/next-whois) - 🧪 Your Next-Gen Whois Lookup Tool With Modern UI. Support Domain/IPv4/IPv6/ASN/CIDR Whois Lookup And Powerful Features. Support RDAP protocol.
 - [Logging-Studio/RetroUI](https://github.com/Logging-Studio/RetroUI) - A NeoBrutalism styled React + TailwindCSS UI library for building bold, modern web apps.
 - [xixu-me/deeplx](https://github.com/xixu-me/deeplx) - Best serverless implementation of DeepLX
