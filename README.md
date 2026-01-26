@@ -155,6 +155,7 @@
 
 ## Dockerfile 
 
+- [miantiao-me/cloud-code](https://github.com/miantiao-me/cloud-code) - Cloud Code (Cloudflare + OpenCode) ，在 Cloudflare 运行 OpenCode 为你打造一个专属云端 Agent
 - [coachpo/immortalwrt-firmware-builder](https://github.com/coachpo/immortalwrt-firmware-builder) - ImmortalWrt seed configs, Docker env, and CI workflow to build TR3000/CR6606 firmware.
 - [xjasonlyu/docker-sniproxy](https://github.com/xjasonlyu/docker-sniproxy) - SNI Proxy docker image
 - [romancin/tinymediamanager-docker](https://github.com/romancin/tinymediamanager-docker) - A repository for creating a docker container including TinyMediaManager with GUI interface.
