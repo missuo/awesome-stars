@@ -166,6 +166,8 @@
 
 ## Go 
 
+- [steipete/goplaces](https://github.com/steipete/goplaces) - Modern Google Places CLI in Go
+- [steipete/gogcli](https://github.com/steipete/gogcli) - Google Suite CLI: Gmail, GCal, GDrive, GContacts.
 - [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
 - [nghyane/llm-mux](https://github.com/nghyane/llm-mux) - AI Gateway: Claude Pro, Copilot, Gemini subscriptions → OpenAI/Anthropic/Gemini APIs. No API keys needed.
 - [yalue/onnxruntime_go](https://github.com/yalue/onnxruntime_go) - A Go (golang) library wrapping microsoft/onnxruntime.
@@ -241,7 +243,7 @@
 - [kutovoys/xray-checker](https://github.com/kutovoys/xray-checker) - Xray Checker: A Prometheus exporter for monitoring Xray proxies
 - [blacktop/ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife
 - [wader/goutubedl](https://github.com/wader/goutubedl) - Go wrapper for youtube-dl and yt-dlp
-- [xtaci/kcptun](https://github.com/xtaci/kcptun) - A quantum-safe, secure tunnel built on QPP, KCP, FEC, and multiplexing.
+- [xtaci/kcptun](https://github.com/xtaci/kcptun) - Reliable UDP Transmission Optimizer based on KCP: Enhancing network efficiency in poor connectivity environments.
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [go-pay/gopay](https://github.com/go-pay/gopay) - 微信、支付宝、通联支付、拉卡拉、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
@@ -830,6 +832,9 @@
 
 ## Rust 
 
+- [hwangdev97/Rosetta](https://github.com/hwangdev97/Rosetta) - Vibe Coding with Cursor - Modern iOS localization file translator with beautiful CLI
+- [lynaghk/vibe](https://github.com/lynaghk/vibe) - Easy Linux virtual machine on MacOS to sandbox LLM agents.
+- [gfreezy/seeker](https://github.com/gfreezy/seeker) - 通过使用 tun 来实现透明代理。实现了类似 surge 增强模式与网关模式。
 - [messense/copilot-api-proxy](https://github.com/messense/copilot-api-proxy) - A reverse proxy for the GitHub Copilot API that exposes OpenAI and Anthropic compatible endpoints.
 - [TrustTunnel/TrustTunnel](https://github.com/TrustTunnel/TrustTunnel) - Modern, fast and obfuscated VPN protocol
 - [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X
@@ -922,6 +927,7 @@
 
 ## Shell 
 
+- [Dimillian/Skills](https://github.com/Dimillian/Skills) - My Codex Skills
 - [rust-cross/rust-musl-cross](https://github.com/rust-cross/rust-musl-cross) - Docker images for compiling static Rust binaries using musl-cross
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [ChamodyaChiran/AW1000-NSS-Build-Public](https://github.com/ChamodyaChiran/AW1000-NSS-Build-Public) - ChamodyaWRT is a free, open-source firmware for the Telstra AW1000  router built with love for the community.
@@ -930,7 +936,7 @@
 - [Jxck-S/airline-logos](https://github.com/Jxck-S/airline-logos) - Airline and Operator Banners/Logos
 - [RROrg/rr](https://github.com/RROrg/rr) - Redpill Recovery (arpl-i18n)
 - [songtianlun/mirrorGit](https://github.com/songtianlun/mirrorGit) - mirror your Github to Gitea.
-- [a2aproject/A2A](https://github.com/a2aproject/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
+- [a2aproject/A2A](https://github.com/a2aproject/A2A) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
 - [xykt/NetQuality](https://github.com/xykt/NetQuality) - 网络质量检测脚本 - Network Quality Check Script
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [zxcvos/Xray-script](https://github.com/zxcvos/Xray-script) - Xray-XHTTP 管理脚本
@@ -1001,6 +1007,7 @@
 
 ## Swift 
 
+- [nickustinov/itsytv-macos](https://github.com/nickustinov/itsytv-macos) - The missing Apple TV remote app for macOS
 - [Ebullioscopic/Atoll](https://github.com/Ebullioscopic/Atoll) - Dynamic Island for macOS
 - [tldev/posturr](https://github.com/tldev/posturr) - A macOS app that blurs your screen when you slouch.
 - [bahattinkoc/ipaverse](https://github.com/bahattinkoc/ipaverse) - A modern macOS app for downloading and managing iOS apps from the App Store
@@ -1139,6 +1146,7 @@
 
 ## TypeScript 
 
+- [steipete/sweet-cookie](https://github.com/steipete/sweet-cookie) - Extract cookies out of your browser. TypeScript. Any OS.
 - [Athena-AI-Lab/athena-core](https://github.com/Athena-AI-Lab/athena-core) - A General-Purpose AI Agent ✨
 - [steipete/bird](https://github.com/steipete/bird) - Bird is a cli for twitter, so your agents can tweet.
 - [antfu/skills](https://github.com/antfu/skills) - Anthony Fu's curated collection of agent skills.
