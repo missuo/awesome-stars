@@ -1832,6 +1832,7 @@
 
 ## others 
 
+- [SuperCmdLabs/SuperCmd](https://github.com/SuperCmdLabs/SuperCmd) - What Apple Intelligence should have been
 - [sdotee/cli](https://github.com/sdotee/cli) - A command-line client for the S.EE content sharing platform
 - [zhuzeitou/wechat-qrcode-ncnn](https://github.com/zhuzeitou/wechat-qrcode-ncnn) - WeChat QRCode NCNN
 - [chekusu/shipkey](https://github.com/chekusu/shipkey) - 
