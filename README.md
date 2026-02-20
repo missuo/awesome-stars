@@ -113,7 +113,7 @@
 - [skyzh/RISCV-Simulator](https://github.com/skyzh/RISCV-Simulator) - 💻 RISC-V Simulator of RV32I ISA. 5-stage pipeline / out-of-order execution with Tomasulo algorithm and Speculation. Support runtime visualization. Project report available.
 - [flipperdevices/qFlipper](https://github.com/flipperdevices/qFlipper) - qFlipper — desktop application for updating Flipper Zero firmware via PC
 - [vickiegpt/A16-microbenchmark](https://github.com/vickiegpt/A16-microbenchmark) - A repo to store what M1 explainer does and ~Armv9~ Armv8.6 ISA on A16
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3836 LeetCode Problems (Weekly Update)
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3846 LeetCode Problems (Weekly Update)
 - [qpdf/qpdf](https://github.com/qpdf/qpdf) - qpdf: A content-preserving PDF document transformer
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [google/fuse-archive](https://github.com/google/fuse-archive) - FUSE file system for archives and compressed files (ZIP, RAR, 7Z, ISO, TGZ, XZ...)
@@ -838,6 +838,7 @@
 
 ## Rust 
 
+- [nearai/ironclaw](https://github.com/nearai/ironclaw) - IronClaw is OpenClaw inspired implementation in Rust focused on privacy and security
 - [hwangdev97/Rosetta](https://github.com/hwangdev97/Rosetta) - Vibe Coding with Cursor - Modern iOS localization file translator with beautiful CLI
 - [lynaghk/vibe](https://github.com/lynaghk/vibe) - Easy Linux virtual machine on MacOS to sandbox LLM agents.
 - [gfreezy/seeker](https://github.com/gfreezy/seeker) - 通过使用 tun 来实现透明代理。实现了类似 surge 增强模式与网关模式。
