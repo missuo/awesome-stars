@@ -1015,6 +1015,7 @@
 
 ## Swift 
 
+- [tatsuz0u/FairFlag](https://github.com/tatsuz0u/FairFlag) - A SwiftUI country flag package built to mitigate Taiwan flag censorship issues.
 - [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
 - [nickustinov/itsytv-macos](https://github.com/nickustinov/itsytv-macos) - The missing Apple TV remote app for macOS
 - [Ebullioscopic/Atoll](https://github.com/Ebullioscopic/Atoll) - Dynamic Island for macOS
