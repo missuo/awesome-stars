@@ -168,6 +168,7 @@
 
 ## Go 
 
+- [xdevplatform/xurl](https://github.com/xdevplatform/xurl) - The official CLI for the X API
 - [likaia/nginxpulse](https://github.com/likaia/nginxpulse) - 轻量级 Nginx 访问日志分析与可视化面板，提供实时统计、PV 过滤、IP 归属地与客户端解析。
 - [tsosunchia/iNetSpeed-CLI](https://github.com/tsosunchia/iNetSpeed-CLI) - Speedtest.net 命令行工具平替，支持单线程、多线程、延迟采样
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
@@ -686,6 +687,7 @@
 
 ## Python 
 
+- [xdevplatform/samples](https://github.com/xdevplatform/samples) - Sample code for the X API v2 endpoints
 - [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) - 
 - [xdevplatform/xdk-python](https://github.com/xdevplatform/xdk-python) - Python repo for the XDK auto-generated code.
 - [x011/smtp-tunnel-proxy](https://github.com/x011/smtp-tunnel-proxy) - A high-speed covert tunnel that disguises TCP traffic as SMTP email communication to bypass Deep Packet Inspection (DPI) firewalls.
@@ -1027,6 +1029,7 @@
 
 ## Swift 
 
+- [hehehai/voxt](https://github.com/hehehai/voxt) - [Beta] Voice input and translation app for macOS. Press to talk, release to paste.
 - [pixelspark/sushitrain](https://github.com/pixelspark/sushitrain) - Securely synchronize files with your devices on iOS using Syncthing
 - [leonardocardoso/poirot](https://github.com/leonardocardoso/poirot) - A native macOS companion for Claude Code that lets you browse sessions, explore diffs, and re-run commands.
 - [sindresorhus/DSStore](https://github.com/sindresorhus/DSStore) - Parse and write macOS .DS_Store files from Swift
@@ -1263,7 +1266,7 @@
 - [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simp
 - [fdarkaou/open-deep-research](https://github.com/fdarkaou/open-deep-research) - An open-source alternative to OpenAI and Gemini's deep research.
 - [useplunk/plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform
-- [sjdonado/idonthavespotify](https://github.com/sjdonado/idonthavespotify) - Effortlessly convert Spotify links to your preferred streaming service
+- [sjdonado/idonthavespotify](https://github.com/sjdonado/idonthavespotify) - Effortlessly convert music links between streaming services
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [vitalets/google-translate-api](https://github.com/vitalets/google-translate-api) - A free and unlimited API for Google Translate :dollar: :no_entry_sign:
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
