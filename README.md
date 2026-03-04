@@ -1036,6 +1036,7 @@
 
 ## Swift 
 
+- [Lakr233/Iridium](https://github.com/Lakr233/Iridium) - An iOS app decrypter, full static using fouldecrypt.
 - [hehehai/voxt](https://github.com/hehehai/voxt) - [Beta] Voice input and translation app for macOS. Press to talk, release to paste.
 - [pixelspark/sushitrain](https://github.com/pixelspark/sushitrain) - Securely synchronize files with your devices on iOS using Syncthing
 - [leonardocardoso/poirot](https://github.com/leonardocardoso/poirot) - A native macOS companion for Claude Code that lets you browse sessions, explore diffs, and re-run commands.
