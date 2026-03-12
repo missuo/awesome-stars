@@ -170,6 +170,7 @@
 
 ## Go 
 
+- [chris1004tw/remote-adb](https://github.com/chris1004tw/remote-adb) - Remote ADB P2P forwarding tool - 遠端 ADB 設備 P2P 轉發工具
 - [Wikidepia/InstaFix](https://github.com/Wikidepia/InstaFix) - Fix Instagram embeds in Discord (and Telegram!)
 - [veil-net/conflux](https://github.com/veil-net/conflux) - Connector for decentralised post-quantum secure network - VeilNet
 - [xdevplatform/xurl](https://github.com/xdevplatform/xurl) - The official CLI for the X API
@@ -213,7 +214,7 @@
 - [runxiyu/furgit](https://github.com/runxiyu/furgit) - Fast Git library in pure Go
 - [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
 - [cloudflare/cfssl](https://github.com/cloudflare/cfssl) - CFSSL: Cloudflare's PKI and TLS toolkit
-- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - AI Trading OS: Multi-AI, multi-exchange trading infrastructure with Strategy Studio.
+- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - Your personal AI trading assistant. Any market. Any model. Pay with USDC, not API keys.
 - [icpz/open-snell](https://github.com/icpz/open-snell) - This is an unofficial open source port of https://github.com/surge-networks/snell
 - [kkdai/youtube](https://github.com/kkdai/youtube) - Download Youtube Video in Golang
 - [damonto/estkme-cloud](https://github.com/damonto/estkme-cloud) - eSTK.me cloud enhance server written in Go.
@@ -581,6 +582,7 @@
 
 ## Objective-C 
 
+- [donato-fiore/TrollDecrypt](https://github.com/donato-fiore/TrollDecrypt) - iOS IPA Decrypter for TrollStore
 - [maderix/ANE](https://github.com/maderix/ANE) - Training neural networks on Apple Neural Engine via reverse-engineered private APIs
 - [sparkle-project/Sparkle](https://github.com/sparkle-project/Sparkle) - A software update framework for macOS
 - [mineek/MuffinStore](https://github.com/mineek/MuffinStore) - 
@@ -618,7 +620,7 @@
 - [sjzar/chatlog](https://github.com/sjzar/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
 - [FouadRaheb/Regram-for-Instagram](https://github.com/FouadRaheb/Regram-for-Instagram) - The all-in-one tweak for Instagram
 - [KHwang9883/MobileModels](https://github.com/KHwang9883/MobileModels) - 手机品牌型号汇总 | Mobile Models | This repository is licensed under CC BY-NC-SA 4.0
-- [ip2location-com/ip2location-iata-icao](https://github.com/ip2location-com/ip2location-iata-icao) - This list contains the airport codes of IATA airport code and ICAO airport code together with country code and region name supported in IP2Location geolocation database.
+- [ip2location/ip2location-iata-icao-real](https://github.com/ip2location/ip2location-iata-icao-real) - This list contains the airport codes of IATA airport code and ICAO airport code together with country code and region name supported in IP2Location geolocation database.
 - [mwgg/Airports](https://github.com/mwgg/Airports) - A JSON database of 28k+ airports with ICAO/IATA codes, names, cities, two-letter country identifiers, elevation, latitude & longitude, and a timezone identifier
 - [lanceliao/china-holiday-calender](https://github.com/lanceliao/china-holiday-calender) - 2023-2025中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calendar、Outlook等客户端订阅，包含节假日API
 - [xtaci/kcptun](https://github.com/xtaci/kcptun) - Reliable UDP Transmission Optimizer based on KCP: Enhancing network efficiency in poor connectivity environments.
@@ -708,7 +710,6 @@
 - [pasquini-dario/LLMmap](https://github.com/pasquini-dario/LLMmap) - 
 - [Thearas/wechat-db-decrypt-macos](https://github.com/Thearas/wechat-db-decrypt-macos) - macOS arm64 微信 4.1 数据库解密，只在最新的微信 4.1.2.241 测试过，不支持4.0 以下版本
 - [xdevplatform/samples](https://github.com/xdevplatform/samples) - Sample code for the X API v2 endpoints
-- [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) - 
 - [xdevplatform/xdk-python](https://github.com/xdevplatform/xdk-python) - Python repo for the XDK auto-generated code.
 - [x011/smtp-tunnel-proxy](https://github.com/x011/smtp-tunnel-proxy) - A high-speed covert tunnel that disguises TCP traffic as SMTP email communication to bypass Deep Packet Inspection (DPI) firewalls.
 - [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop) - An open Apple AirDrop implementation written in Python
@@ -1050,11 +1051,13 @@
 
 ## Swift 
 
+- [Nyasami/Ksign](https://github.com/Nyasami/Ksign) - The "cleaner" Esign app.
 - [Lakr233/Litext](https://github.com/Lakr233/Litext) - A tiny rich-text supporting library for Apple platform.
 - [srimanachanta/Stasis](https://github.com/srimanachanta/Stasis) - Battery Management and Dashboard for Apple Silicon - A Better Battery Icon
 - [Dimillian/GithubMonitor](https://github.com/Dimillian/GithubMonitor) - A menu bar app to monitor your Github situation
 - [Lakr233/Iridium](https://github.com/Lakr233/Iridium) - An iOS app decrypter, full static using fouldecrypt.
-- [hehehai/voxt](https://github.com/hehehai/voxt) - [Beta] Voice input and translation app for macOS. Press to talk, release to paste.
+- [hehehai/voxt](https://github.com/hehehai/voxt) - 🎙️Voice input and translation app for macOS. Press to talk, release to paste.
+- [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) - 
 - [pixelspark/sushitrain](https://github.com/pixelspark/sushitrain) - Securely synchronize files with your devices on iOS using Syncthing
 - [leonardocardoso/poirot](https://github.com/leonardocardoso/poirot) - A native macOS companion for Claude Code that lets you browse sessions, explore diffs, and re-run commands.
 - [sindresorhus/DSStore](https://github.com/sindresorhus/DSStore) - Parse and write macOS .DS_Store files from Swift
@@ -1199,6 +1202,7 @@
 
 ## TypeScript 
 
+- [photon-hq/qclaw-wechat-client](https://github.com/photon-hq/qclaw-wechat-client) - Reverse-engineered TypeScript client for QClaw's WeChat Access API.
 - [Ablaze-MIRAI/Twitter-UI-Customizer](https://github.com/Ablaze-MIRAI/Twitter-UI-Customizer) - Twitter を思いのままに。
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf
 - [rymalia/bird](https://github.com/rymalia/bird) - Bird is a cli for twitter, so your agents can tweet.
