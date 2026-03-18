@@ -706,6 +706,7 @@
 
 ## Python 
 
+- [CodeDuet/codeduet-microvm-ai-agent-sandbox](https://github.com/CodeDuet/codeduet-microvm-ai-agent-sandbox) - MicroVM AI agent sandbox system using Cloud Hypervisor and Python with support for both Linux and Windows guest operating systems. The system provides hardware-level isolation through MicroVMs while m
 - [imbue-bit/OpenClaw-PwnKit](https://github.com/imbue-bit/OpenClaw-PwnKit) - Get shell to almost any OpenClaw host machine.
 - [jackwener/twitter-cli](https://github.com/jackwener/twitter-cli) - A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal
 - [ylytdeng/wechat-decrypt](https://github.com/ylytdeng/wechat-decrypt) - WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor
@@ -817,7 +818,7 @@
 - [kazutoiris/ali_ecc](https://github.com/kazutoiris/ali_ecc) - AliyunDrive ECC Signature
 - [rawandahmad698/PyChatGPT](https://github.com/rawandahmad698/PyChatGPT) - ⚡️ Python client for the ChatGPT API with, conversation tracking, proxy support and more.
 - [why2lyj/ItChat-UOS](https://github.com/why2lyj/ItChat-UOS) - 复活Itchat,你只需要 pip install itchat-uos
-- [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企业微信、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。
+- [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企微、QQ、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。
 - [dewscan001/python-mysql2postgresql](https://github.com/dewscan001/python-mysql2postgresql) - Python Package transfer data from MySQL to PostgreSQL
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [realByg/office-user-bot](https://github.com/realByg/office-user-bot) - 用 Telegram bot 创建 Office 账号
@@ -1330,7 +1331,7 @@
 - [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω&lt; )⌒☆​
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 - [miantiao-me/awesome-homelab-web](https://github.com/miantiao-me/awesome-homelab-web) - Curating Top Apps for Homelab Enthusiasts
-- [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI Reader
+- [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI RSS Reader
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [ckt1031/cohere-to-openai](https://github.com/ckt1031/cohere-to-openai) - This is a simple Cloudflare Worker that transform Cohere API to OpenAI API, easily deployable to Cloudflare Workers.
 - [lobehub/lobe-cli-toolbox](https://github.com/lobehub/lobe-cli-toolbox) - 🪀 Lobe CLI Toolbox - AI CLI Toolbox, enhancing git commit and i18n workflow efficiency
