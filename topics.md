@@ -987,7 +987,7 @@
 
 ## git 
 
-- [runxiyu/furgit](https://github.com/runxiyu/furgit) - Fast Git library in pure Go
+- [runxiyu/furgit](https://github.com/runxiyu/furgit) - Low-level Git plumbing library in pure Go
 - [AkashRajpurohit/git-sync](https://github.com/AkashRajpurohit/git-sync) - 🔄 A simple tool to backup and sync your git repositories
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit) - Customize your git commit hashes!
@@ -1026,7 +1026,7 @@
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application
 - [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Infrastructure as code for DNS!
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
-- [runxiyu/furgit](https://github.com/runxiyu/furgit) - Fast Git library in pure Go
+- [runxiyu/furgit](https://github.com/runxiyu/furgit) - Low-level Git plumbing library in pure Go
 - [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
 - [kkdai/youtube](https://github.com/kkdai/youtube) - Download Youtube Video in Golang
 - [pommee/goaway](https://github.com/pommee/goaway) - Lightweight DNS sinkhole written in Go with a modern dashboard client
@@ -1307,6 +1307,7 @@
 
 ## ios 
 
+- [wiedymi/swift-cloudflared](https://github.com/wiedymi/swift-cloudflared) - Pure Swift Cloudflare Access TCP tunnel SDK for SSH clients on Apple platforms (iOS/macOS).
 - [rasmuslos/AmpFin](https://github.com/rasmuslos/AmpFin) - Native Jellyfin music player for iOS & iPadOS
 - [Eslzzyl/Pixiv-SwiftUI](https://github.com/Eslzzyl/Pixiv-SwiftUI) - 一个 Pixiv 客户端，支持 iOS/iPadOS/macOS
 - [Nyasami/Ksign](https://github.com/Nyasami/Ksign) - The "cleaner" Esign app.
@@ -1568,6 +1569,7 @@
 
 ## macos 
 
+- [wiedymi/swift-cloudflared](https://github.com/wiedymi/swift-cloudflared) - Pure Swift Cloudflare Access TCP tunnel SDK for SSH clients on Apple platforms (iOS/macOS).
 - [Eslzzyl/Pixiv-SwiftUI](https://github.com/Eslzzyl/Pixiv-SwiftUI) - 一个 Pixiv 客户端，支持 iOS/iPadOS/macOS
 - [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune) - FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource.
 - [datlechin/TablePro](https://github.com/datlechin/TablePro) - A fast, native macOS database client with built-in AI assistant.
@@ -1925,7 +1927,7 @@
 
 - [adibhanna/tsm](https://github.com/adibhanna/tsm) - Terminal session manager
 - [opa334/darksword-kexploit](https://github.com/opa334/darksword-kexploit) - iOS &lt;=26.0.1 DarkSword Kernel Exploit reimplemented in Objective-C
-- [wong2/weixin-agent-sdk](https://github.com/wong2/weixin-agent-sdk) - 
+- [wong2/weixin-agent-sdk](https://github.com/wong2/weixin-agent-sdk) - 微信Clawbot接入任意Agent
 - [Lakr233/CoreExtendedNFC](https://github.com/Lakr233/CoreExtendedNFC) - Swift Package porting libnfc protocol-layer logic to iOS via CoreNFC
 - [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) - State-of-the-art TTS model under 25MB 😻
 - [xchacha20-poly1305/sing-trusttunnel](https://github.com/xchacha20-poly1305/sing-trusttunnel) - 
@@ -2695,7 +2697,7 @@
 ## react 
 
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
-- [iyinchao/liquid-glass-studio](https://github.com/iyinchao/liquid-glass-studio) - 🔮 The Ultimate Apple Liquid Glass UI — Recreated for the Web, powered by WebGL2 and shaders.
+- [iyinchao/liquid-glass-studio](https://github.com/iyinchao/liquid-glass-studio) - 🔮 The Ultimate Apple Liquid Glass UI — Recreated for the Web, powered by WebGL2 & WebGPU
 - [VityaSchel/lufin](https://github.com/VityaSchel/lufin) - Read-only mirror of https://git.hloth.dev/hloth/lufin
 - [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译
 - [DyAxy/yet-another-sub-web](https://github.com/DyAxy/yet-another-sub-web) - 订阅转换前端，又一个 sub-web，基于 React、Next.JS 实现前端
@@ -2961,6 +2963,7 @@
 
 ## swift 
 
+- [wiedymi/swift-cloudflared](https://github.com/wiedymi/swift-cloudflared) - Pure Swift Cloudflare Access TCP tunnel SDK for SSH clients on Apple platforms (iOS/macOS).
 - [rasmuslos/AmpFin](https://github.com/rasmuslos/AmpFin) - Native Jellyfin music player for iOS & iPadOS
 - [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune) - FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource.
 - [Nyasami/Ksign](https://github.com/Nyasami/Ksign) - The "cleaner" Esign app.
