@@ -66,7 +66,7 @@
 ## C 
 
 - [zigzap/zap](https://github.com/zigzap/zap) - blazingly fast backends in zig
-- [datlechin/TablePro](https://github.com/datlechin/TablePro) - A fast, native macOS database client with built-in AI assistant.
+- [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - A fast, native macOS database client with built-in AI assistant.
 - [zhuzeitou/wechat-qrcode-ncnn](https://github.com/zhuzeitou/wechat-qrcode-ncnn) - WeChat QRCode NCNN
 - [34306/TrollDecryptJB](https://github.com/34306/TrollDecryptJB) - Higher iOS IPA Decrypter for JB
 - [estkme-group/lpac](https://github.com/estkme-group/lpac) - C-based eUICC LPA
@@ -391,6 +391,7 @@
 ## HTML 
 
 - [theforeveriris/simulated-12306-view](https://github.com/theforeveriris/simulated-12306-view) - 简易的12306购票模拟器.用于应急应付对方请求看购票截图的无理要求
+- [TogawaSakiko363/YALS](https://github.com/TogawaSakiko363/YALS) - Respwaning
 - [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Generator of customized Cloudflare error pages (unofficial)
 - [EltonChou/TwitterMediaHarvest](https://github.com/EltonChou/TwitterMediaHarvest) - Download twitter media with only one-click.
 - [zouzhekang/YJYpaper](https://github.com/zouzhekang/YJYpaper) - 一个用来记录武汉大学杨景媛论文问题的仓库
@@ -614,7 +615,6 @@
 - [dm-zharov/ricoh-gr-bluetooth-api](https://github.com/dm-zharov/ricoh-gr-bluetooth-api) - RICOH GR Bluetooth API Specifications
 - [blader/humanizer](https://github.com/blader/humanizer) - Claude Code skill that removes signs of AI-generated writing from text
 - [nooblk-98/noobwrt-arcadyan-aw1k](https://github.com/nooblk-98/noobwrt-arcadyan-aw1k) - A custom firmware built on top of OpenWrt, tailored specifically for the Arcadyan AW1000 Telstra 5G Home Modem.  Simply the best firmware available online for this router.
-- [TogawaSakiko363/YALS](https://github.com/TogawaSakiko363/YALS) - Unknown
 - [k4yt3x/zed-theme-ayu-darker](https://github.com/k4yt3x/zed-theme-ayu-darker) - A darker variant of the Ayu Dark theme for Zed.
 - [666OS/ClashMac](https://github.com/666OS/ClashMac) - Native Proxy Experience Built for macOS
 - [straight-tamago/misaka26](https://github.com/straight-tamago/misaka26) - iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible.
@@ -1221,6 +1221,7 @@
 
 ## TypeScript 
 
+- [transitive-bullshit/tweet-to-md](https://github.com/transitive-bullshit/tweet-to-md) - Converts a Tweet to Markdown for LLMs.
 - [tiajinsha/JKVideo](https://github.com/tiajinsha/JKVideo) - 高颜值的第三方 B 站 React Native 客户端，支持安卓、H5、iOS | Bilibili-like app with DASH playback, danmaku, WBI sign & live streaming
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful & flexible React.js docs framework.
 - [wong2/weixin-agent-sdk](https://github.com/wong2/weixin-agent-sdk) - 微信Clawbot接入任意Agent
