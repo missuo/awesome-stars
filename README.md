@@ -1074,7 +1074,7 @@
 - [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune) - FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource.
 - [hugeBlack/OpenParsec](https://github.com/hugeBlack/OpenParsec) - An open-source Parsec client for iOS/iPadOS. This repo implements mouse & keyboard & touch screen support.
 - [Nyasami/Ksign](https://github.com/Nyasami/Ksign) - The "cleaner" Esign app.
-- [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - A fast, native macOS database client with built-in AI assistant.
+- [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Native macOS client for every database
 - [Lakr233/Litext](https://github.com/Lakr233/Litext) - A tiny rich-text supporting library for Apple platform.
 - [srimanachanta/Stasis](https://github.com/srimanachanta/Stasis) - Battery Management and Dashboard for Apple Silicon - A Better Battery Icon
 - [Dimillian/GithubMonitor](https://github.com/Dimillian/GithubMonitor) - A menu bar app to monitor your Github situation
