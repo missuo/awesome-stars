@@ -191,7 +191,7 @@
 - [yalue/onnxruntime_go](https://github.com/yalue/onnxruntime_go) - A Go (golang) library wrapping microsoft/onnxruntime.
 - [Qv2ray/mmp-go](https://github.com/Qv2ray/mmp-go) - Mega Multiplexer, a single port multi-service relay for shadowsocks. 中转机单端口转发多台shadowsocks服务器。
 - [anytls/anytls-go](https://github.com/anytls/anytls-go) - 
-- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source AI-first Identity and Access Management (IAM) /AI MCP gateway and auth server with web UI supporting MCP, A2A, OAuth 2.1, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Goog
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source AI-first Identity and Access Management (IAM) /AI MCP & agent gateway and auth server with web UI supporting MCP, A2A, OAuth 2.1, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face 
 - [pouriyajamshidi/tcping](https://github.com/pouriyajamshidi/tcping) - Ping TCP ports using tcping. Inspired by Linux's ping utility. Written in Go
 - [certimate-go/certimate](https://github.com/certimate-go/certimate) - An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, renewal, and monitoring visually. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主
 - [Lakr233/spotify-api](https://github.com/Lakr233/spotify-api) - 
@@ -460,7 +460,6 @@
 - [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
 - [Dalufishe/freegptjs](https://github.com/Dalufishe/freegptjs) - Free ChatGPT 3.5 API for Javascript.
 - [31b4/Leetcode-Premium-Bypass](https://github.com/31b4/Leetcode-Premium-Bypass) - Leetcode Premium Unlocker 2024
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions
 - [barretlee/cloudflare-proxy](https://github.com/barretlee/cloudflare-proxy) - Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出
 - [ifyour/deeplx-js](https://github.com/ifyour/deeplx-js) - 🥰 JavaScript implementation of DeepLx with one-click deployment support
@@ -610,6 +609,7 @@
 ## Others 
 
 - [krzyzanowskim/claude-better](https://github.com/krzyzanowskim/claude-better) - better claude harness
+- [dpearson2699/swift-ios-skills](https://github.com/dpearson2699/swift-ios-skills) - Agent Skills for iOS 26+, Swift 6.3, SwiftUI, and modern Apple frameworks
 - [dm-zharov/ricoh-gr-bluetooth-api](https://github.com/dm-zharov/ricoh-gr-bluetooth-api) - RICOH GR Bluetooth API Specifications
 - [blader/humanizer](https://github.com/blader/humanizer) - Claude Code skill that removes signs of AI-generated writing from text
 - [nooblk-98/noobwrt-arcadyan-aw1k](https://github.com/nooblk-98/noobwrt-arcadyan-aw1k) - A custom firmware built on top of OpenWrt, tailored specifically for the Arcadyan AW1000 Telstra 5G Home Modem.  Simply the best firmware available online for this router.
@@ -984,7 +984,6 @@
 ## Shell 
 
 - [SahilH4ck4you/iOS-SSL-pinning-bypass-without-jalibreak](https://github.com/SahilH4ck4you/iOS-SSL-pinning-bypass-without-jalibreak) - SSL pinning bypass setup for iOS (No Jailbreak) using OpenVPN + iptables traffic redirection to proxy (Burp Suite / mitmproxy)
-- [dpearson2699/swift-ios-skills](https://github.com/dpearson2699/swift-ios-skills) - Agent Skills for iOS 26+, Swift 6.3, SwiftUI, and modern Apple frameworks
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [Dimillian/Skills](https://github.com/Dimillian/Skills) - My Codex Skills
 - [rust-cross/rust-musl-cross](https://github.com/rust-cross/rust-musl-cross) - Docker images for compiling static Rust binaries using musl-cross
@@ -1156,6 +1155,7 @@
 - [Lakr233/Firework](https://github.com/Lakr233/Firework) - 烟花箱！
 - [Lakr233/FixTim](https://github.com/Lakr233/FixTim) - Fix every runtime bug on macOS.
 - [joogps/Glur](https://github.com/joogps/Glur) - A library for progressive blurs in SwiftUI.
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [LunarBar-app/LunarBar](https://github.com/LunarBar-app/LunarBar) - A compact lunar calendar for your macOS menu bar.
 - [zackelia/bclm](https://github.com/zackelia/bclm) - macOS command-line utility to limit max battery charge
 - [vapor/postgres-nio](https://github.com/vapor/postgres-nio) - 🐘 Non-blocking, event-driven Swift client for PostgreSQL.
