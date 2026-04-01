@@ -318,7 +318,6 @@
 
 ## android 
 
-- [HMAKT99/UnTouchID](https://github.com/HMAKT99/UnTouchID) - Use your phone's fingerprint to authenticate on any Mac — sudo, screensaver, App Store. No $199 Magic Keyboard needed. Works with iPhone, Android, Apple Watch, Wear OS, or any browser. Ready for MacBo
 - [tiajinsha/JKVideo](https://github.com/tiajinsha/JKVideo) - 
 - [rock3r/CameraSync](https://github.com/rock3r/CameraSync) - Sync GPS and date/time with your Ricoh or Sony camera.
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
@@ -1446,7 +1445,6 @@
 
 ## kotlin 
 
-- [HMAKT99/UnTouchID](https://github.com/HMAKT99/UnTouchID) - Use your phone's fingerprint to authenticate on any Mac — sudo, screensaver, App Store. No $199 Magic Keyboard needed. Works with iPhone, Android, Apple Watch, Wear OS, or any browser. Ready for MacBo
 - [ReVanced/revanced-patches-template](https://github.com/ReVanced/revanced-patches-template) - 👋🧩Template repository for ReVanced Patches
 - [jellyfin/jellyfin-androidtv](https://github.com/jellyfin/jellyfin-androidtv) - Android TV Client for Jellyfin
 
@@ -1580,7 +1578,6 @@
 
 ## macos 
 
-- [HMAKT99/UnTouchID](https://github.com/HMAKT99/UnTouchID) - Use your phone's fingerprint to authenticate on any Mac — sudo, screensaver, App Store. No $199 Magic Keyboard needed. Works with iPhone, Android, Apple Watch, Wear OS, or any browser. Ready for MacBo
 - [wiedymi/swift-cloudflared](https://github.com/wiedymi/swift-cloudflared) - Pure Swift Cloudflare Access TCP tunnel SDK for SSH clients on Apple platforms (iOS/macOS).
 - [Eslzzyl/Pixiv-SwiftUI](https://github.com/Eslzzyl/Pixiv-SwiftUI) - 一个 Pixiv 客户端，支持 iOS/iPadOS/macOS
 - [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune) - FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource.
@@ -1849,7 +1846,6 @@
 
 ## open-source 
 
-- [HMAKT99/UnTouchID](https://github.com/HMAKT99/UnTouchID) - Use your phone's fingerprint to authenticate on any Mac — sudo, screensaver, App Store. No $199 Magic Keyboard needed. Works with iPhone, Android, Apple Watch, Wear OS, or any browser. Ready for MacBo
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
@@ -1942,6 +1938,11 @@
 
 ## others 
 
+- [myWsq/dekit](https://github.com/myWsq/dekit) - Design Kit CLI
+- [louislva/claude-peers-mcp](https://github.com/louislva/claude-peers-mcp) - Allow all your Claude Codes to message each other ad-hoc!
+- [paoloanzn/free-code](https://github.com/paoloanzn/free-code) - The free build of Claude Code. All telemetry removed, security-prompt guardrails stripped, all experimental features enabled.
+- [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks.
+- [instructkr/claw-code](https://github.com/instructkr/claw-code) - The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after publication. Better Harness Tools, not merely storing the archive of leaked Claude Code but also make r
 - [djyde/ccmate](https://github.com/djyde/ccmate) - Configure your Claude Code without pain
 - [krzyzanowskim/claude-better](https://github.com/krzyzanowskim/claude-better) - better claude harness
 - [SahilH4ck4you/iOS-SSL-pinning-bypass-without-jalibreak](https://github.com/SahilH4ck4you/iOS-SSL-pinning-bypass-without-jalibreak) - SSL pinning bypass setup for iOS (No Jailbreak) using OpenVPN + iptables traffic redirection to proxy (Burp Suite / mitmproxy)
@@ -2006,7 +2007,7 @@
 - [Dimillian/Skills](https://github.com/Dimillian/Skills) - My Codex Skills
 - [lynaghk/vibe](https://github.com/lynaghk/vibe) - Easy Linux virtual machine on MacOS to sandbox LLM agents.
 - [gfreezy/seeker](https://github.com/gfreezy/seeker) - 通过使用 tun 来实现透明代理。实现了类似 surge 增强模式与网关模式。
-- [nghyane/launchdock](https://github.com/nghyane/launchdock) - Launch AI coding tools through one local runtime.
+- [nghyane/launchdock](https://github.com/nghyane/launchdock) - Use Claude and GPT through one local gateway with OpenAI-compatible and Claude-native APIs.
 - [Athena-AI-Lab/athena-core](https://github.com/Athena-AI-Lab/athena-core) - A General-Purpose AI Agent ✨
 - [antfu/skills](https://github.com/antfu/skills) - Anthony Fu's curated collection of agent skills.
 - [tldev/dorso](https://github.com/tldev/dorso) - A macOS app that blurs your screen when you slouch.
@@ -2844,7 +2845,7 @@
 
 ## security 
 
-- [HMAKT99/UnTouchID](https://github.com/HMAKT99/UnTouchID) - Use your phone's fingerprint to authenticate on any Mac — sudo, screensaver, App Store. No $199 Magic Keyboard needed. Works with iPhone, Android, Apple Watch, Wear OS, or any browser. Ready for MacBo
+- [tangxiaofeng7/cscan](https://github.com/tangxiaofeng7/cscan) - Enterprise distributed network asset scanning platform with port scanning, subdomain enumeration, fingerprinting, and vulnerability detection. Built with Go-Zero + Vue3.(端口扫描/子域名枚举/指纹识别/漏洞检测) --------
 - [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [ShadowsocksR-Live/overtls](https://github.com/ShadowsocksR-Live/overtls) - A minimalist proxy tunnel for bypassing the GFW.
@@ -2985,7 +2986,6 @@
 
 ## swift 
 
-- [HMAKT99/UnTouchID](https://github.com/HMAKT99/UnTouchID) - Use your phone's fingerprint to authenticate on any Mac — sudo, screensaver, App Store. No $199 Magic Keyboard needed. Works with iPhone, Android, Apple Watch, Wear OS, or any browser. Ready for MacBo
 - [wiedymi/swift-cloudflared](https://github.com/wiedymi/swift-cloudflared) - Pure Swift Cloudflare Access TCP tunnel SDK for SSH clients on Apple platforms (iOS/macOS).
 - [rasmuslos/AmpFin](https://github.com/rasmuslos/AmpFin) - Native Jellyfin music player for iOS & iPadOS
 - [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune) - FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource.
