@@ -1941,12 +1941,13 @@
 
 ## others 
 
+- [therealXiaomanChu/ex-skill](https://github.com/therealXiaomanChu/ex-skill) - 把前任蒸馏成 AI Skill，用ta的方式跟你说话。Inspired by colleague-skill（同事skill）.
 - [Lakr233/Cookey](https://github.com/Lakr233/Cookey) - 
 - [myWsq/dekit](https://github.com/myWsq/dekit) - Design Kit CLI
 - [louislva/claude-peers-mcp](https://github.com/louislva/claude-peers-mcp) - Allow all your Claude Codes to message each other ad-hoc!
 - [paoloanzn/free-code](https://github.com/paoloanzn/free-code) - [NOTE] Parent repo is migrating ownership, until the operation is done this repo is blocked. The free build of Claude Code. All telemetry removed, security-prompt guardrails stripped, all experimental
 - [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks.
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - [Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/ultraworkers/claw-code-parity. The fastest repo in history to surpass 100K stars 
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 - [djyde/ccmate](https://github.com/djyde/ccmate) - Configure your Claude Code without pain
 - [krzyzanowskim/claude-better](https://github.com/krzyzanowskim/claude-better) - better claude harness
 - [SahilH4ck4you/iOS-SSL-pinning-bypass-without-jalibreak](https://github.com/SahilH4ck4you/iOS-SSL-pinning-bypass-without-jalibreak) - SSL pinning bypass setup for iOS (No Jailbreak) using OpenVPN + iptables traffic redirection to proxy (Burp Suite / mitmproxy)
@@ -1987,7 +1988,6 @@
 - [likaia/nginxpulse](https://github.com/likaia/nginxpulse) - 轻量级 Nginx 访问日志分析与可视化面板，提供实时统计、PV 过滤、IP 归属地与客户端解析。
 - [hyvor/relay](https://github.com/hyvor/relay) - ✉️ Open-Source Email API for Developers. Self-hosted Alternative to SES, Mailgun, SendGrid.
 - [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) - 
-- [rymalia/bird](https://github.com/rymalia/bird) - Bird is a cli for twitter, so your agents can tweet.
 - [theforeveriris/simulated-12306-view](https://github.com/theforeveriris/simulated-12306-view) - 简易的12306购票模拟器.用于应急应付对方请求看购票截图的无理要求
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [pixelspark/sushitrain](https://github.com/pixelspark/sushitrain) - Securely synchronize files with your devices on iOS using Syncthing
@@ -3209,6 +3209,7 @@
 
 - [transitive-bullshit/tweet-to-md](https://github.com/transitive-bullshit/tweet-to-md) - Converts a Tweet to Markdown for LLMs.
 - [xdevplatform/samples](https://github.com/xdevplatform/samples) - Sample code for the X API v2 endpoints
+- [rymalia/bird](https://github.com/rymalia/bird) - Bird is a cli for twitter, so your agents can tweet. (Forked from @steipete, of course, who later shutdown his repo)
 - [nexmoe/VidBee](https://github.com/nexmoe/VidBee) - Download videos from almost any website worldwide
 - [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
 - [afkarxyz/Twitter-X-Media-Batch-Downloader](https://github.com/afkarxyz/Twitter-X-Media-Batch-Downloader) - A GUI tool to download original-quality images and videos from Twitter/X accounts, powered by gallery-dl by @mikf
