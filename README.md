@@ -174,6 +174,7 @@
 
 ## Go 
 
+- [stripe/stripe-cli](https://github.com/stripe/stripe-cli) - A command-line tool for Stripe
 - [tangxiaofeng7/cscan](https://github.com/tangxiaofeng7/cscan) - 🚀 Enterprise-grade Distributed Asset & Vulnerability Scanner. Features: Port Scanning, Subdomain Brute-force, Fingerprinting, and PoC Detection. Built on Go-Zero & Vue3. 高性能分布式网络资产扫描平台 (端口/子域名/指纹/漏扫)-
 - [adibhanna/tsm](https://github.com/adibhanna/tsm) - Terminal session manager
 - [xchacha20-poly1305/sing-trusttunnel](https://github.com/xchacha20-poly1305/sing-trusttunnel) - 
@@ -196,7 +197,7 @@
 - [yalue/onnxruntime_go](https://github.com/yalue/onnxruntime_go) - A Go (golang) library wrapping microsoft/onnxruntime.
 - [Qv2ray/mmp-go](https://github.com/Qv2ray/mmp-go) - Mega Multiplexer, a single port multi-service relay for shadowsocks. 中转机单端口转发多台shadowsocks服务器。
 - [anytls/anytls-go](https://github.com/anytls/anytls-go) - 
-- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source AI-first Identity and Access Management (IAM) /AI MCP & agent gateway and auth server with web UI supporting MCP, A2A, OAuth 2.1, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face 
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source AI-first Identity and Access Management (IAM) /AI MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face
 - [pouriyajamshidi/tcping](https://github.com/pouriyajamshidi/tcping) - Ping TCP ports using tcping. Inspired by Linux's ping utility. Written in Go
 - [certimate-go/certimate](https://github.com/certimate-go/certimate) - An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, renewal, and monitoring visually. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主
 - [Lakr233/spotify-api](https://github.com/Lakr233/spotify-api) - 
@@ -312,7 +313,7 @@
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [uber-go/fx](https://github.com/uber-go/fx) - A dependency injection based application framework for Go.
 - [stulzq/azure-openai-proxy](https://github.com/stulzq/azure-openai-proxy) - Azure OpenAI Service Proxy. Convert OpenAI official API request to Azure OpenAI API request. Support GPT-4,Embeddings,Langchain. Adapter from OpenAI to Azure OpenAI.
-- [Boeing/config-file-validator](https://github.com/Boeing/config-file-validator) - Cross Platform tool to validate configuration files
+- [Boeing/config-file-validator](https://github.com/Boeing/config-file-validator) - Cross-platform CLI tool to validate configuration files (JSON, YAML, TOML, XML, INI, HCL, ENV, Properties, CSV, and more). Catch errors in syntax and/or schema before deployment. Written in Go.
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
 - [orsinium-labs/enum](https://github.com/orsinium-labs/enum) - Type safe enums for Go without code generation or reflection
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - The official Go library for the Cloudflare API
@@ -885,6 +886,7 @@
 
 ## Rust 
 
+- [j178/prek](https://github.com/j178/prek) - ⚡ A Git hook manager written in Rust, designed as a drop-in alternative to pre-commit.
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
@@ -895,7 +897,7 @@
 - [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A 5-20x faster experimental Homebrew alternative
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
 - [CleverCloud/mdr](https://github.com/CleverCloud/mdr) - a very light rust based markdown reader with support of mermaid (web, native, TUI). vibe coded
-- [moltis-org/moltis](https://github.com/moltis-org/moltis) - A Rust-native claw you can trust. One binary — sandboxed, secure, auditable. Voice, memory, MCP tools, and multi-channel access built-in.
+- [moltis-org/moltis](https://github.com/moltis-org/moltis) - A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on you
 - [nearai/ironclaw](https://github.com/nearai/ironclaw) - IronClaw is OpenClaw inspired implementation in Rust focused on privacy and security
 - [hwangdev97/Rosetta](https://github.com/hwangdev97/Rosetta) - Vibe Coding with Cursor - Modern iOS localization file translator with beautiful CLI
 - [lynaghk/vibe](https://github.com/lynaghk/vibe) - Easy Linux virtual machine on MacOS to sandbox LLM agents.
