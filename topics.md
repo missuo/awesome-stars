@@ -246,7 +246,7 @@
 - [memohai/Memoh](https://github.com/memohai/Memoh) - ✨ Self hosted, always-on AI agent platform run in containers. Create multiple bots with long memory, and connect them to Telegram, Discord, Feishu(Lark), Matrix, etc (like OpenClaw).
 - [photon-hq/qclaw-wechat-client](https://github.com/photon-hq/qclaw-wechat-client) - Reverse-engineered TypeScript client for QClaw's WeChat Access API.
 - [miantiao-me/cloud-code](https://github.com/miantiao-me/cloud-code) - Cloud Code (Cloudflare + OpenCode), running OpenCode on Cloudflare to build a dedicated cloud Agent for you.
-- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source AI-first Identity and Access Management (IAM) /AI MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, 
 - [looplj/axonhub](https://github.com/looplj/axonhub) - ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing.
 - [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
 - [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simp
@@ -325,7 +325,8 @@
 ## android 
 
 - [madeye/meow](https://github.com/madeye/meow) - Meow - A Clash/mihomo Android client with Flutter UI, powered by mihomo-rust and netstack-smoltcp tun2socks
-- [erweixin/RaTeX](https://github.com/erweixin/RaTeX) - KaTeX-compatible LaTeX math renderer in pure Rust. No JavaScript, no WebView, no DOM. One Rust core → iOS,          Android, Flutter, Web, PNG. C ABI · WASM · Server-side PNG. &gt;99.5% KaTeX syntax c
+- [erweixin/RaTeX](https://github.com/erweixin/RaTeX) - KaTeX-compatible LaTeX math renderer in pure Rust. No JavaScript, no WebView, no DOM. One Rust core → iOS,          Android, Flutter, Web, PNG. C ABI · WASM · Server-side PNG/SVG. &gt;99.5% KaTeX synt
+- [HMAKT99/UnTouchID](https://github.com/HMAKT99/UnTouchID) - Use your phone's fingerprint to authenticate on any Mac — sudo, screensaver, App Store. No $199 Magic Keyboard needed. Works with iPhone, Android, Apple Watch, Wear OS, or any browser. Ready for MacBo
 - [tiajinsha/JKVideo](https://github.com/tiajinsha/JKVideo) - 
 - [rock3r/CameraSync](https://github.com/rock3r/CameraSync) - Sync GPS and date/time with your Ricoh or Sony camera.
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
@@ -956,7 +957,7 @@
 ## flutter 
 
 - [madeye/meow](https://github.com/madeye/meow) - Meow - A Clash/mihomo Android client with Flutter UI, powered by mihomo-rust and netstack-smoltcp tun2socks
-- [erweixin/RaTeX](https://github.com/erweixin/RaTeX) - KaTeX-compatible LaTeX math renderer in pure Rust. No JavaScript, no WebView, no DOM. One Rust core → iOS,          Android, Flutter, Web, PNG. C ABI · WASM · Server-side PNG. &gt;99.5% KaTeX syntax c
+- [erweixin/RaTeX](https://github.com/erweixin/RaTeX) - KaTeX-compatible LaTeX math renderer in pure Rust. No JavaScript, no WebView, no DOM. One Rust core → iOS,          Android, Flutter, Web, PNG. C ABI · WASM · Server-side PNG/SVG. &gt;99.5% KaTeX synt
 - [galaxy-s10/billd-desk](https://github.com/galaxy-s10/billd-desk) - 基于Vue3 + WebRTC + Nodejs + Flutter搭建的远程桌面控制、游戏串流
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
@@ -1333,6 +1334,7 @@
 ## instagram 
 
 - [Wikidepia/InstaFix](https://github.com/Wikidepia/InstaFix) - Fix Instagram embeds in Discord (and Telegram!)
+- [FouadRaheb/Regram-for-Instagram](https://github.com/FouadRaheb/Regram-for-Instagram) - The all-in-one tweak for Instagram
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2026 with HikerAPI SaaS
 - [instaloader/instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram.
@@ -1341,7 +1343,7 @@
 
 ## ios 
 
-- [erweixin/RaTeX](https://github.com/erweixin/RaTeX) - KaTeX-compatible LaTeX math renderer in pure Rust. No JavaScript, no WebView, no DOM. One Rust core → iOS,          Android, Flutter, Web, PNG. C ABI · WASM · Server-side PNG. &gt;99.5% KaTeX syntax c
+- [erweixin/RaTeX](https://github.com/erweixin/RaTeX) - KaTeX-compatible LaTeX math renderer in pure Rust. No JavaScript, no WebView, no DOM. One Rust core → iOS,          Android, Flutter, Web, PNG. C ABI · WASM · Server-side PNG/SVG. &gt;99.5% KaTeX synt
 - [wiedymi/swift-cloudflared](https://github.com/wiedymi/swift-cloudflared) - Pure Swift Cloudflare Access TCP tunnel SDK for SSH clients on Apple platforms (iOS/macOS).
 - [rasmuslos/AmpFin](https://github.com/rasmuslos/AmpFin) - Native Jellyfin music player for iOS & iPadOS
 - [Eslzzyl/Pixiv-SwiftUI](https://github.com/Eslzzyl/Pixiv-SwiftUI) - 一个 Pixiv 客户端，支持 iOS/iPadOS/macOS
@@ -1353,6 +1355,7 @@
 - [DnV1eX/LiquidGlassKit](https://github.com/DnV1eX/LiquidGlassKit) - Backport of Apple’s Liquid Glass system for iOS 13–18 with native API parity. Includes a reimplementation for iOS 26+ that unlocks advanced customization beyond the native system's limits.
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [OwnGoalStudio/TrollVNC](https://github.com/OwnGoalStudio/TrollVNC) - VNC server for iOS devices, allowing remote access and control of the device’s screen.
+- [FouadRaheb/Regram-for-Instagram](https://github.com/FouadRaheb/Regram-for-Instagram) - The all-in-one tweak for Instagram
 - [theos/theos](https://github.com/theos/theos) - A cross-platform suite of tools for building and deploying software for iOS and other platforms.
 - [CLARATION/Feather](https://github.com/CLARATION/Feather) - Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
 - [Lakr233/Saily](https://github.com/Lakr233/Saily) - Modern. Fast. Beautiful.
@@ -1398,7 +1401,7 @@
 
 ## iot 
 
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and reverse proxy for remote access
 
 ## ipfs 
 
@@ -1469,6 +1472,7 @@
 
 ## kotlin 
 
+- [HMAKT99/UnTouchID](https://github.com/HMAKT99/UnTouchID) - Use your phone's fingerprint to authenticate on any Mac — sudo, screensaver, App Store. No $199 Magic Keyboard needed. Works with iPhone, Android, Apple Watch, Wear OS, or any browser. Ready for MacBo
 - [ReVanced/revanced-patches-template](https://github.com/ReVanced/revanced-patches-template) - 👋🧩Template repository for ReVanced Patches
 - [jellyfin/jellyfin-androidtv](https://github.com/jellyfin/jellyfin-androidtv) - Android TV Client for Jellyfin
 
@@ -1491,7 +1495,7 @@
 
 ## latex 
 
-- [erweixin/RaTeX](https://github.com/erweixin/RaTeX) - KaTeX-compatible LaTeX math renderer in pure Rust. No JavaScript, no WebView, no DOM. One Rust core → iOS,          Android, Flutter, Web, PNG. C ABI · WASM · Server-side PNG. &gt;99.5% KaTeX syntax c
+- [erweixin/RaTeX](https://github.com/erweixin/RaTeX) - KaTeX-compatible LaTeX math renderer in pure Rust. No JavaScript, no WebView, no DOM. One Rust core → iOS,          Android, Flutter, Web, PNG. C ABI · WASM · Server-side PNG/SVG. &gt;99.5% KaTeX synt
 - [tuna/thuthesis](https://github.com/tuna/thuthesis) - LaTeX Thesis Template for Tsinghua University
 
 ## library 
@@ -1546,7 +1550,7 @@
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
 - [moltis-org/moltis](https://github.com/moltis-org/moltis) - A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on you
-- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source AI-first Identity and Access Management (IAM) /AI MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, 
 - [looplj/axonhub](https://github.com/looplj/axonhub) - ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing.
 - [Helicone/helicone](https://github.com/Helicone/helicone) - 🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓
 - [maxnowack/anthropic-proxy](https://github.com/maxnowack/anthropic-proxy) - Proxy server that converts Anthropic API requests to OpenAI format and sends it to OpenRouter. It's used to use Claude Code with OpenRouter instead of the Anthropic API
@@ -1606,6 +1610,7 @@
 
 ## macos 
 
+- [HMAKT99/UnTouchID](https://github.com/HMAKT99/UnTouchID) - Use your phone's fingerprint to authenticate on any Mac — sudo, screensaver, App Store. No $199 Magic Keyboard needed. Works with iPhone, Android, Apple Watch, Wear OS, or any browser. Ready for MacBo
 - [wiedymi/swift-cloudflared](https://github.com/wiedymi/swift-cloudflared) - Pure Swift Cloudflare Access TCP tunnel SDK for SSH clients on Apple platforms (iOS/macOS).
 - [Eslzzyl/Pixiv-SwiftUI](https://github.com/Eslzzyl/Pixiv-SwiftUI) - 一个 Pixiv 客户端，支持 iOS/iPadOS/macOS
 - [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune) - FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource.
@@ -1732,7 +1737,7 @@
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
 - [moltis-org/moltis](https://github.com/moltis-org/moltis) - A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on you
 - [miantiao-me/bm.md](https://github.com/miantiao-me/bm.md) - 更好用的 Markdown 排版助手｜一键适配微信公众号、网页与图片。
-- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source AI-first Identity and Access Management (IAM) /AI MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, 
 - [jakejarvis/domainstack.io](https://github.com/jakejarvis/domainstack.io) - 🧰 All-in-one domain name intelligence as a service
 - [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍 导出并模糊搜索 Telegram 聊天记录 | Export and fuzzy search your Telegram chat history
 - [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
@@ -1875,6 +1880,7 @@
 
 ## open-source 
 
+- [HMAKT99/UnTouchID](https://github.com/HMAKT99/UnTouchID) - Use your phone's fingerprint to authenticate on any Mac — sudo, screensaver, App Store. No $199 Magic Keyboard needed. Works with iPhone, Android, Apple Watch, Wear OS, or any browser. Ready for MacBo
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
@@ -2206,7 +2212,7 @@
 - [xykt/NetQuality](https://github.com/xykt/NetQuality) - 网络质量检测脚本 - Network Quality Check Script
 - [hamster1963/nezha-dash](https://github.com/hamster1963/nezha-dash) - A simple dashboard for nezha.
 - [Helixform/Litext](https://github.com/Helixform/Litext) - A tiny rich-text supporting library for Apple platform.
-- [ip2location/ip2location-iata-icao-real](https://github.com/ip2location/ip2location-iata-icao-real) - This list contains the airport codes of IATA airport code and ICAO airport code together with country code and region name supported in IP2Location geolocation database.
+- [ip2location/ip2location-iata-icao](https://github.com/ip2location/ip2location-iata-icao) - This list contains the airport codes of IATA airport code and ICAO airport code together with country code and region name supported in IP2Location geolocation database.
 - [mwgg/Airports](https://github.com/mwgg/Airports) - A JSON database of 28k+ airports with ICAO/IATA codes, names, cities, two-letter country identifiers, elevation, latitude & longitude, and a timezone identifier
 - [Lakr233/MobileTransfer](https://github.com/Lakr233/MobileTransfer) - Backup & restore iOS devices with advanced settings.
 - [rusq/slackdump](https://github.com/rusq/slackdump) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
@@ -2251,7 +2257,7 @@
 - [Lakr233/AppleWebLogin](https://github.com/Lakr233/AppleWebLogin) - Replaced login method for Xcodes.
 - [Lakr233/WindowAnimation](https://github.com/Lakr233/WindowAnimation) - Provide animation when animating SwiftUI windows on macOS.
 - [facebook/proxygen](https://github.com/facebook/proxygen) - A collection of C++ HTTP libraries including an easy to use HTTP server.
-- [zhlynn/zsign](https://github.com/zhlynn/zsign) - It might be the quickest cross-platform codesign alternative for iOS 12+, supporting macOS, Linux, Windows, and more features.
+- [zhlynn/zsign](https://github.com/zhlynn/zsign) - Fast Cross-Platform iOS Code Signing Tool
 - [NghiaTranUIT/proxyman-raycast-extension](https://github.com/NghiaTranUIT/proxyman-raycast-extension) - 
 - [Huangbai233/HBWeChatHelper](https://github.com/Huangbai233/HBWeChatHelper) - 黄白助手-增强iOS微信的插件
 - [jinweijie/notify-me](https://github.com/jinweijie/notify-me) - An Android application that forwards Bark, Email, Webhook notifications upon receiving SMS messages or phone calls.
@@ -2822,7 +2828,7 @@
 ## rust 
 
 - [madeye/meow](https://github.com/madeye/meow) - Meow - A Clash/mihomo Android client with Flutter UI, powered by mihomo-rust and netstack-smoltcp tun2socks
-- [erweixin/RaTeX](https://github.com/erweixin/RaTeX) - KaTeX-compatible LaTeX math renderer in pure Rust. No JavaScript, no WebView, no DOM. One Rust core → iOS,          Android, Flutter, Web, PNG. C ABI · WASM · Server-side PNG. &gt;99.5% KaTeX syntax c
+- [erweixin/RaTeX](https://github.com/erweixin/RaTeX) - KaTeX-compatible LaTeX math renderer in pure Rust. No JavaScript, no WebView, no DOM. One Rust core → iOS,          Android, Flutter, Web, PNG. C ABI · WASM · Server-side PNG/SVG. &gt;99.5% KaTeX synt
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
@@ -2887,6 +2893,7 @@
 ## security 
 
 - [tangxiaofeng7/cscan](https://github.com/tangxiaofeng7/cscan) - 🚀 Enterprise-grade Distributed Asset & Vulnerability Scanner. Features: Port Scanning, Subdomain Brute-force, Fingerprinting, and PoC Detection. Built on Go-Zero & Vue3. 高性能分布式网络资产扫描平台 (端口/子域名/指纹/漏扫)-
+- [HMAKT99/UnTouchID](https://github.com/HMAKT99/UnTouchID) - Use your phone's fingerprint to authenticate on any Mac — sudo, screensaver, App Store. No $199 Magic Keyboard needed. Works with iPhone, Android, Apple Watch, Wear OS, or any browser. Ready for MacBo
 - [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [ShadowsocksR-Live/overtls](https://github.com/ShadowsocksR-Live/overtls) - A minimalist proxy tunnel for bypassing the GFW.
@@ -2921,7 +2928,7 @@
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
 - [ChristopherHX/github-act-runner](https://github.com/ChristopherHX/github-act-runner) - act as self-hosted runner
 - [Safe3/openresty-manager](https://github.com/Safe3/openresty-manager) - Modern, secure, and elegant server control panel, alternative to OpenResty Edge and Nginx Proxy Manager.
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and reverse proxy for remote access
 - [DioCrafts/OxiCloud](https://github.com/DioCrafts/OxiCloud) - ☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [besscroft/PicImpact](https://github.com/besscroft/PicImpact) - 自部署的摄影作品网站，支持多种功能特性。PicImpact，分享你和世界！
@@ -3028,6 +3035,7 @@
 
 ## swift 
 
+- [HMAKT99/UnTouchID](https://github.com/HMAKT99/UnTouchID) - Use your phone's fingerprint to authenticate on any Mac — sudo, screensaver, App Store. No $199 Magic Keyboard needed. Works with iPhone, Android, Apple Watch, Wear OS, or any browser. Ready for MacBo
 - [wiedymi/swift-cloudflared](https://github.com/wiedymi/swift-cloudflared) - Pure Swift Cloudflare Access TCP tunnel SDK for SSH clients on Apple platforms (iOS/macOS).
 - [rasmuslos/AmpFin](https://github.com/rasmuslos/AmpFin) - Native Jellyfin music player for iOS & iPadOS
 - [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune) - FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource.
@@ -3363,7 +3371,7 @@
 - [yuezk/GlobalProtect-openconnect](https://github.com/yuezk/GlobalProtect-openconnect) - A GlobalProtect VPN client for Linux, written in Rust, based on OpenConnect and Tauri, supports SSO with MFA, YubiKey, and client certificate authentication, etc.
 - [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
 - [quincy-rs/quincy](https://github.com/quincy-rs/quincy) - Post-quantum QUIC-based VPN
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and reverse proxy for remote access
 - [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
 - [Ysurac/openmptcprouter](https://github.com/Ysurac/openmptcprouter) - OpenMPTCProuter is an open source solution to aggregate multiple internet connections using Multipath TCP (MPTCP) on OpenWrt
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
@@ -3410,7 +3418,7 @@
 
 ## web-components 
 
-- [erweixin/RaTeX](https://github.com/erweixin/RaTeX) - KaTeX-compatible LaTeX math renderer in pure Rust. No JavaScript, no WebView, no DOM. One Rust core → iOS,          Android, Flutter, Web, PNG. C ABI · WASM · Server-side PNG. &gt;99.5% KaTeX syntax c
+- [erweixin/RaTeX](https://github.com/erweixin/RaTeX) - KaTeX-compatible LaTeX math renderer in pure Rust. No JavaScript, no WebView, no DOM. One Rust core → iOS,          Android, Flutter, Web, PNG. C ABI · WASM · Server-side PNG/SVG. &gt;99.5% KaTeX synt
 
 ## web-development 
 
