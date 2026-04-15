@@ -325,7 +325,7 @@
 ## android 
 
 - [madeye/meow](https://github.com/madeye/meow) - Meow - A Clash/mihomo Android client with Flutter UI, powered by mihomo-rust and netstack-smoltcp tun2socks
-- [erweixin/RaTeX](https://github.com/erweixin/RaTeX) - KaTeX-compatible LaTeX math renderer in pure Rust. No JavaScript, no WebView, no DOM. One Rust core → iOS,          Android, Flutter, Web, PNG. C ABI · WASM · Server-side PNG/SVG. &gt;99.5% KaTeX synt
+- [erweixin/RaTeX](https://github.com/erweixin/RaTeX) - &gt;99.5% KaTeX syntax coverage. LaTeX math renderer in pure Rust. No JavaScript, no WebView, no DOM. One Rust core → iOS, Android, Flutter, Web, PNG. C ABI · WASM · Server-side PNG/SVG.
 - [HMAKT99/UnTouchID](https://github.com/HMAKT99/UnTouchID) - Use your phone's fingerprint to authenticate on any Mac — sudo, screensaver, App Store. No $199 Magic Keyboard needed. Works with iPhone, Android, Apple Watch, Wear OS, or any browser. Ready for MacBo
 - [tiajinsha/JKVideo](https://github.com/tiajinsha/JKVideo) - 
 - [rock3r/CameraSync](https://github.com/rock3r/CameraSync) - Sync GPS and date/time with your Ricoh or Sony camera.
@@ -957,7 +957,7 @@
 ## flutter 
 
 - [madeye/meow](https://github.com/madeye/meow) - Meow - A Clash/mihomo Android client with Flutter UI, powered by mihomo-rust and netstack-smoltcp tun2socks
-- [erweixin/RaTeX](https://github.com/erweixin/RaTeX) - KaTeX-compatible LaTeX math renderer in pure Rust. No JavaScript, no WebView, no DOM. One Rust core → iOS,          Android, Flutter, Web, PNG. C ABI · WASM · Server-side PNG/SVG. &gt;99.5% KaTeX synt
+- [erweixin/RaTeX](https://github.com/erweixin/RaTeX) - &gt;99.5% KaTeX syntax coverage. LaTeX math renderer in pure Rust. No JavaScript, no WebView, no DOM. One Rust core → iOS, Android, Flutter, Web, PNG. C ABI · WASM · Server-side PNG/SVG.
 - [galaxy-s10/billd-desk](https://github.com/galaxy-s10/billd-desk) - 基于Vue3 + WebRTC + Nodejs + Flutter搭建的远程桌面控制、游戏串流
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
@@ -1343,7 +1343,7 @@
 
 ## ios 
 
-- [erweixin/RaTeX](https://github.com/erweixin/RaTeX) - KaTeX-compatible LaTeX math renderer in pure Rust. No JavaScript, no WebView, no DOM. One Rust core → iOS,          Android, Flutter, Web, PNG. C ABI · WASM · Server-side PNG/SVG. &gt;99.5% KaTeX synt
+- [erweixin/RaTeX](https://github.com/erweixin/RaTeX) - &gt;99.5% KaTeX syntax coverage. LaTeX math renderer in pure Rust. No JavaScript, no WebView, no DOM. One Rust core → iOS, Android, Flutter, Web, PNG. C ABI · WASM · Server-side PNG/SVG.
 - [wiedymi/swift-cloudflared](https://github.com/wiedymi/swift-cloudflared) - Pure Swift Cloudflare Access TCP tunnel SDK for SSH clients on Apple platforms (iOS/macOS).
 - [rasmuslos/AmpFin](https://github.com/rasmuslos/AmpFin) - Native Jellyfin music player for iOS & iPadOS
 - [Eslzzyl/Pixiv-SwiftUI](https://github.com/Eslzzyl/Pixiv-SwiftUI) - 一个 Pixiv 客户端，支持 iOS/iPadOS/macOS
@@ -1495,7 +1495,7 @@
 
 ## latex 
 
-- [erweixin/RaTeX](https://github.com/erweixin/RaTeX) - KaTeX-compatible LaTeX math renderer in pure Rust. No JavaScript, no WebView, no DOM. One Rust core → iOS,          Android, Flutter, Web, PNG. C ABI · WASM · Server-side PNG/SVG. &gt;99.5% KaTeX synt
+- [erweixin/RaTeX](https://github.com/erweixin/RaTeX) - &gt;99.5% KaTeX syntax coverage. LaTeX math renderer in pure Rust. No JavaScript, no WebView, no DOM. One Rust core → iOS, Android, Flutter, Web, PNG. C ABI · WASM · Server-side PNG/SVG.
 - [tuna/thuthesis](https://github.com/tuna/thuthesis) - LaTeX Thesis Template for Tsinghua University
 
 ## library 
@@ -1572,7 +1572,7 @@
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
-- [SCIR-HI/Huatuo-Llama-Med-Chinese](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese) - Repo for BenTsao [original name: HuaTuo (华驼)], Instruction-tuning Large Language Models with Chinese Medical Knowledge. 本草（原名：华驼）模型仓库，基于中文医学知识的大语言模型指令微调
+- [SCIR-HI/Huatuo-Llama-Med-Chinese](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese) - Repo for BenCao [original name: HuaTuo (华驼)], Instruction-tuning Large Language Models with Chinese Medical Knowledge. 本草（原名：华驼）模型仓库，基于中文医学知识的大语言模型指令微调
 - [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and productivity. The ultimate hub to manage, customize, and share prompts. (English/中文/Español/العربية). 让生产力加倍的 AI 快捷指令。更高效地管理提示词，在分享社区中发现适用于不同场景的灵感。
 - [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) - CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
@@ -1837,7 +1837,7 @@
 
 ## nlp 
 
-- [SCIR-HI/Huatuo-Llama-Med-Chinese](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese) - Repo for BenTsao [original name: HuaTuo (华驼)], Instruction-tuning Large Language Models with Chinese Medical Knowledge. 本草（原名：华驼）模型仓库，基于中文医学知识的大语言模型指令微调
+- [SCIR-HI/Huatuo-Llama-Med-Chinese](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese) - Repo for BenCao [original name: HuaTuo (华驼)], Instruction-tuning Large Language Models with Chinese Medical Knowledge. 本草（原名：华驼）模型仓库，基于中文医学知识的大语言模型指令微调
 
 ## no-code 
 
@@ -1974,6 +1974,10 @@
 
 ## others 
 
+- [Lakr233/FireProxy](https://github.com/Lakr233/FireProxy) - 
+- [lbr77/apple-music-api](https://github.com/lbr77/apple-music-api) - ALAC music download & decrypt
+- [lbr77/SideImpactor](https://github.com/lbr77/SideImpactor) - pure frontend ipa signing page.
+- [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents.
 - [Lakr233/SwiftBonjour](https://github.com/Lakr233/SwiftBonjour) - 
 - [DIYgod/cloudflare-edge-tts](https://github.com/DIYgod/cloudflare-edge-tts) - 
 - [serenakeyitan/sbti-wiki](https://github.com/serenakeyitan/sbti-wiki) - SBTI 人格测试完整结果图鉴 · 27 种结局的中文 Wiki（25 标准人格 + HHHH 兜底 + DRUNK 隐藏）·  https://sbti-wiki.pages.dev
@@ -2828,7 +2832,7 @@
 ## rust 
 
 - [madeye/meow](https://github.com/madeye/meow) - Meow - A Clash/mihomo Android client with Flutter UI, powered by mihomo-rust and netstack-smoltcp tun2socks
-- [erweixin/RaTeX](https://github.com/erweixin/RaTeX) - KaTeX-compatible LaTeX math renderer in pure Rust. No JavaScript, no WebView, no DOM. One Rust core → iOS,          Android, Flutter, Web, PNG. C ABI · WASM · Server-side PNG/SVG. &gt;99.5% KaTeX synt
+- [erweixin/RaTeX](https://github.com/erweixin/RaTeX) - &gt;99.5% KaTeX syntax coverage. LaTeX math renderer in pure Rust. No JavaScript, no WebView, no DOM. One Rust core → iOS, Android, Flutter, Web, PNG. C ABI · WASM · Server-side PNG/SVG.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
@@ -3418,7 +3422,7 @@
 
 ## web-components 
 
-- [erweixin/RaTeX](https://github.com/erweixin/RaTeX) - KaTeX-compatible LaTeX math renderer in pure Rust. No JavaScript, no WebView, no DOM. One Rust core → iOS,          Android, Flutter, Web, PNG. C ABI · WASM · Server-side PNG/SVG. &gt;99.5% KaTeX synt
+- [erweixin/RaTeX](https://github.com/erweixin/RaTeX) - &gt;99.5% KaTeX syntax coverage. LaTeX math renderer in pure Rust. No JavaScript, no WebView, no DOM. One Rust core → iOS, Android, Flutter, Web, PNG. C ABI · WASM · Server-side PNG/SVG.
 
 ## web-development 
 
