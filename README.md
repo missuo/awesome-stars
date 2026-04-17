@@ -207,7 +207,7 @@
 - [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 - [databasus/databasus](https://github.com/databasus/databasus) - Database backup tool (PostgreSQL, MySQL\MariaDB and MongoDB)
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
-- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen m
+- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude model through API
 - [antoniomika/sish](https://github.com/antoniomika/sish) - HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [daodao97/code-switch](https://github.com/daodao97/code-switch) - Claude Code & Codex 多供应商代理与管理工具
@@ -721,6 +721,7 @@
 
 ## Python 
 
+- [Lakr233/SubsonicDemoAPI](https://github.com/Lakr233/SubsonicDemoAPI) - Self-contained Subsonic demo API with bundled Suno albums and GHCR publishing.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [starccy/doubaoime-asr](https://github.com/starccy/doubaoime-asr) - 豆包输入法语音识别的非官方 Python 客户端
 - [therealXiaomanChu/ex-skill](https://github.com/therealXiaomanChu/ex-skill) - 把前任蒸馏成 AI Skill，用ta的方式跟你说话。
@@ -895,6 +896,8 @@
 
 ## Rust 
 
+- [mitex-rs/mitex](https://github.com/mitex-rs/mitex) - LaTeX support for Typst, powered by Rust and WASM. https://mitex-rs.github.io/mitex/
+- [tailscale/tailscale-rs](https://github.com/tailscale/tailscale-rs) - Rust implementation of Tailscale (preview, experimental)
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
@@ -1090,6 +1093,7 @@
 
 ## Swift 
 
+- [Lakr233/MuseAmp](https://github.com/Lakr233/MuseAmp) - 
 - [momenbasel/PureMac](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
 - [Lakr233/SwiftBonjour](https://github.com/Lakr233/SwiftBonjour) - 
 - [madeye/BaoLianDeng](https://github.com/madeye/BaoLianDeng) - A macOS VPN proxy app powered by Mihomo (Clash Meta)
@@ -1254,6 +1258,9 @@
 
 ## TypeScript 
 
+- [bevibing/remote-opencode](https://github.com/bevibing/remote-opencode) - Discord bot for remote OpenCode CLI access
+- [KurtGokhan/tegaki](https://github.com/KurtGokhan/tegaki) - Handwriting animation for the web. Supports any font or text.
+- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source voice synthesis studio
 - [DIYgod/cloudflare-edge-tts](https://github.com/DIYgod/cloudflare-edge-tts) - 
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 - [myWsq/dekit](https://github.com/myWsq/dekit) - Design Kit CLI
