@@ -188,7 +188,7 @@
 - [likaia/nginxpulse](https://github.com/likaia/nginxpulse) - 轻量级 Nginx 访问日志分析与可视化面板，提供实时统计、PV 过滤、IP 归属地与客户端解析。
 - [nxtrace/iNetSpeed-CLI](https://github.com/nxtrace/iNetSpeed-CLI) - Speedtest.net 命令行工具平替，支持单线程、多线程、延迟采样
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
-- [rudrankriyam/App-Store-Connect-CLI](https://github.com/rudrankriyam/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more. JSON-first, no interactive prompts
+- [rorkai/App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more. JSON-first, no interactive prompts
 - [danielpaulus/go-ios](https://github.com/danielpaulus/go-ios) - This is an operating system independent implementation of iOS device features. You can run UI tests, launch or kill apps, install apps etc. with it.
 - [sdotee/cli](https://github.com/sdotee/cli) - A command-line client for the S.EE content sharing platform
 - [jyz0309/NotionAI-go](https://github.com/jyz0309/NotionAI-go) - Unofficial NotionAI Go SDK
@@ -461,7 +461,6 @@
 - [gnmyt/MySpeed](https://github.com/gnmyt/MySpeed) - A speed test analysis software that shows your internet speed for up to 30 days
 - [metowolf/qqwry.ipdb](https://github.com/metowolf/qqwry.ipdb) - 🐈️ 纯真数据库 IPIP.net 格式版，Make qqwry.ipdb Great Again!!!
 - [itorr/patina](https://github.com/itorr/patina) - 🤢「电子包浆」 图片做旧工具，赛博包浆虚拟器
-- [levywang/avhub](https://github.com/levywang/avhub) - R18 Resource Search & Management Tool
 - [rampatra/photography](https://github.com/rampatra/photography) - A free online portfolio website to showcase your photos.
 - [sindresorhus/create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
 - [PublicAffairs/openai-gemini](https://github.com/PublicAffairs/openai-gemini) - Gemini ➜ OpenAI API proxy. Serverless!
@@ -769,6 +768,7 @@
 - [ddCat-main/cursor-auto-register](https://github.com/ddCat-main/cursor-auto-register) - cursor-auto-register
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
+- [levywang/avhub](https://github.com/levywang/avhub) - R18 Resource Search & Management Tool
 - [daijro/hrequests](https://github.com/daijro/hrequests) - 🚀 Web scraping for humans
 - [leonboe1/GoogleFindMyTools](https://github.com/leonboe1/GoogleFindMyTools) - Framework for tracking and building your own Google Find My Device / Find Hub trackers 🧭
 - [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free) - auto sign cursor
@@ -1258,6 +1258,7 @@
 
 ## TypeScript 
 
+- [cloudflare/agentic-inbox](https://github.com/cloudflare/agentic-inbox) - A self-hosted email client with an AI agent, running entirely on Cloudflare Workers
 - [bevibing/remote-opencode](https://github.com/bevibing/remote-opencode) - Discord bot for remote OpenCode CLI access
 - [KurtGokhan/tegaki](https://github.com/KurtGokhan/tegaki) - Handwriting animation for the web. Supports any font or text.
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source voice synthesis studio
