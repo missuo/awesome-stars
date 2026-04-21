@@ -450,6 +450,7 @@
 
 ## bash 
 
+- [Mapleawaa/PVE-Tools-9](https://github.com/Mapleawaa/PVE-Tools-9) - 面向 Proxmox VE 9.x 的一键运维脚本，覆盖 VM 生命周期运维、宿主机网络 / 防火墙 / IPv6、GPU / PCI 直通、系统维护与第三方生态集成。
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [create-dmg/create-dmg](https://github.com/create-dmg/create-dmg) - A shell script to build fancy DMGs
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
@@ -561,7 +562,7 @@
 
 ## chatgpt-api 
 
-- [PublicAffairs/openai-gemini](https://github.com/PublicAffairs/openai-gemini) - Gemini ➜ OpenAI API proxy. Serverless!
+- [PublicAffairs/openai-gemini](https://github.com/PublicAffairs/openai-gemini) - ✦ Gemini ➜ OpenAI API proxy. Serverless!
 - [zhu327/gemini-openai-proxy](https://github.com/zhu327/gemini-openai-proxy) - A proxy for converting the OpenAI API protocol to the Google Gemini Pro protocol.
 - [guangzhengli/ChatFiles](https://github.com/guangzhengli/ChatFiles) - Document Chatbot — multiple files. Powered by GPT / Embedding.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
@@ -1934,7 +1935,7 @@
 - [niieani/gpt-tokenizer](https://github.com/niieani/gpt-tokenizer) - The fastest JavaScript BPE Tokenizer Encoder Decoder for OpenAI's GPT models (gpt-5, gpt-o*, gpt-4o, etc.). Port of OpenAI's tiktoken with additional features.
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
 - [lzell/AIProxySwift](https://github.com/lzell/AIProxySwift) - Swift client for AI providers. Can make requests straight to the provider or proxied through our API key protection backend
-- [PublicAffairs/openai-gemini](https://github.com/PublicAffairs/openai-gemini) - Gemini ➜ OpenAI API proxy. Serverless!
+- [PublicAffairs/openai-gemini](https://github.com/PublicAffairs/openai-gemini) - ✦ Gemini ➜ OpenAI API proxy. Serverless!
 - [MartialBE/one-hub](https://github.com/MartialBE/one-hub) - OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。
 - [lobehub/lobe-cli-toolbox](https://github.com/lobehub/lobe-cli-toolbox) - 🪀 Lobe CLI Toolbox - AI CLI Toolbox, enhancing git commit and i18n workflow efficiency
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
@@ -3011,7 +3012,7 @@
 
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [xjasonlyu/vercel-deeplx](https://github.com/xjasonlyu/vercel-deeplx) - Serverless DeepLX on Vercel (Golang)
-- [PublicAffairs/openai-gemini](https://github.com/PublicAffairs/openai-gemini) - Gemini ➜ OpenAI API proxy. Serverless!
+- [PublicAffairs/openai-gemini](https://github.com/PublicAffairs/openai-gemini) - ✦ Gemini ➜ OpenAI API proxy. Serverless!
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 
