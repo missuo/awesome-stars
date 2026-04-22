@@ -67,6 +67,7 @@
 ## C 
 
 - [zigzap/zap](https://github.com/zigzap/zap) - blazingly fast backends in zig
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [zhuzeitou/wechat-qrcode-ncnn](https://github.com/zhuzeitou/wechat-qrcode-ncnn) - WeChat QRCode NCNN
 - [34306/TrollDecryptJB](https://github.com/34306/TrollDecryptJB) - Higher iOS IPA Decrypter for JB
 - [estkme-group/lpac](https://github.com/estkme-group/lpac) - C-based eUICC LPA
@@ -116,7 +117,7 @@
 - [skyzh/RISCV-Simulator](https://github.com/skyzh/RISCV-Simulator) - 💻 RISC-V Simulator of RV32I ISA. 5-stage pipeline / out-of-order execution with Tomasulo algorithm and Speculation. Support runtime visualization. Project report available.
 - [flipperdevices/qFlipper](https://github.com/flipperdevices/qFlipper) - qFlipper — desktop application for updating Flipper Zero firmware via PC
 - [vickiegpt/A16-microbenchmark](https://github.com/vickiegpt/A16-microbenchmark) - A repo to store what M1 explainer does and ~Armv9~ Armv8.6 ISA on A16
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3902 LeetCode Problems (Weekly Update)
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3906 LeetCode Problems (Weekly Update)
 - [qpdf/qpdf](https://github.com/qpdf/qpdf) - qpdf: A content-preserving PDF document transformer
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [google/fuse-archive](https://github.com/google/fuse-archive) - FUSE file system for archives and compressed files (ZIP, RAR, 7Z, ISO, TGZ, XZ...)
@@ -407,10 +408,10 @@
 - [zouzhekang/YJYpaper](https://github.com/zouzhekang/YJYpaper) - 一个用来记录武汉大学杨景媛论文问题的仓库
 - [Aemulo/Release](https://github.com/Aemulo/Release) - 
 - [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
-- [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Tunnel, Mixed, HTTP, Tun)
+- [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun)
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [186526/CloudflareCustomErrorPage](https://github.com/186526/CloudflareCustomErrorPage) - 
-- [mrjooz/password-generator](https://github.com/mrjooz/password-generator) - 密码生成工具
+- [zoegea/password-generator](https://github.com/zoegea/password-generator) - 密码生成工具
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
@@ -1108,7 +1109,7 @@
 - [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune) - FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource.
 - [hugeBlack/OpenParsec](https://github.com/hugeBlack/OpenParsec) - An open-source Parsec client for iOS/iPadOS. This repo implements mouse & keyboard & touch screen support.
 - [Nyasami/Ksign](https://github.com/Nyasami/Ksign) - The "cleaner" Esign app.
-- [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Native macOS client for every database
+- [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Native macOS database client for MySQL, PostgreSQL, SQLite, MongoDB, Redis, and 15+ more. Free and open-source.
 - [Lakr233/Litext](https://github.com/Lakr233/Litext) - A tiny rich-text supporting library for Apple platform.
 - [srimanachanta/Stasis](https://github.com/srimanachanta/Stasis) - Battery Management and Dashboard for Apple Silicon - A Better Battery Icon
 - [Dimillian/GithubMonitor](https://github.com/Dimillian/GithubMonitor) - A menu bar app to monitor your Github situation
@@ -1514,7 +1515,6 @@
 
 - [zon-dev/zinc](https://github.com/zon-dev/zinc) - Zinc is a web framework written in pure Zig with a focus on high performance, usability, security, and extensibility.
 - [justrach/turboAPI](https://github.com/justrach/turboAPI) - FastAPI-compatible Python framework with Zig HTTP core; 7x faster, free-threading native
-- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 
 ## templ 
