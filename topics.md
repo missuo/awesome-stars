@@ -2902,7 +2902,7 @@
 - [yuezk/GlobalProtect-openconnect](https://github.com/yuezk/GlobalProtect-openconnect) - A GlobalProtect VPN client for Linux, written in Rust, based on OpenConnect and Tauri, supports SSO with MFA, YubiKey, and client certificate authentication, etc.
 - [btjawa/BiliTools](https://github.com/btjawa/BiliTools) - A cross-platform bilibili toolbox. 跨平台哔哩哔哩工具箱，支持下载视频、番剧等等各类资源
 - [quincy-rs/quincy](https://github.com/quincy-rs/quincy) - Post-quantum QUIC-based VPN
-- [ombrac/ombrac](https://github.com/ombrac/ombrac) - Safe, fast, small TCP over QUIC tunnel using Rust
+- [ombrac/ombrac](https://github.com/ombrac/ombrac) - Safe, fast, small TCP/UDP-over-QUIC tunnel written in Rust
 - [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 - [AtalayaLabs/OxiCloud](https://github.com/AtalayaLabs/OxiCloud) - ☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust.
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
