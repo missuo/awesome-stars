@@ -106,7 +106,7 @@
 
 ## C++ 
 
-- [CLARATION/Zsign-Package](https://github.com/CLARATION/Zsign-Package) - It might be the quickest cross-platform codesign alternative for iOS 12+, supporting macOS, Linux, Windows, and more features.
+- [claration/Zsign-Package](https://github.com/claration/Zsign-Package) - It might be the quickest cross-platform codesign alternative for iOS 12+, supporting macOS, Linux, Windows, and more features.
 - [asdlokj1qpi233/subconverter](https://github.com/asdlokj1qpi233/subconverter) - About Utility to convert between various subscription format.Support anytls、mieru、hy2、hy and vless for singbox and clash meta.original git: https://github.com/asdlokj1qpi23/subconverter
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
@@ -117,7 +117,7 @@
 - [skyzh/RISCV-Simulator](https://github.com/skyzh/RISCV-Simulator) - 💻 RISC-V Simulator of RV32I ISA. 5-stage pipeline / out-of-order execution with Tomasulo algorithm and Speculation. Support runtime visualization. Project report available.
 - [flipperdevices/qFlipper](https://github.com/flipperdevices/qFlipper) - qFlipper — desktop application for updating Flipper Zero firmware via PC
 - [vickiegpt/A16-microbenchmark](https://github.com/vickiegpt/A16-microbenchmark) - A repo to store what M1 explainer does and ~Armv9~ Armv8.6 ISA on A16
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3916 LeetCode Problems (Weekly Update)
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3920 LeetCode Problems (Weekly Update)
 - [qpdf/qpdf](https://github.com/qpdf/qpdf) - qpdf: A content-preserving PDF document transformer
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [google/fuse-archive](https://github.com/google/fuse-archive) - FUSE file system for archives and compressed files (ZIP, RAR, 7Z, ISO, TGZ, XZ...)
@@ -220,7 +220,6 @@
 - [looplj/axonhub](https://github.com/looplj/axonhub) - ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing.
 - [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis
 - [acepanel/panel](https://github.com/acepanel/panel) - ⚡ AcePanel - Enterprise server operation and maintenance management panel
-- [dushixiang/pika](https://github.com/dushixiang/pika) - Pika Monitor
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [bqlpfy/flux-panel](https://github.com/bqlpfy/flux-panel) - 哆啦A梦转发面板
 - [runxiyu/furgit](https://github.com/runxiyu/furgit) - Low-level Git plumbing library in pure Go
@@ -1110,6 +1109,7 @@
 
 ## Swift 
 
+- [Lakr233/unfair](https://github.com/Lakr233/unfair) - 
 - [saihgupr/DMGMaker](https://github.com/saihgupr/DMGMaker) - A premium macOS DMG creation tool with live-rendered SwiftUI backgrounds, glassmorphism, and Retina support.
 - [Lakr233/MuseAmp](https://github.com/Lakr233/MuseAmp) - 
 - [momenbasel/PureMac](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
@@ -1165,7 +1165,7 @@
 - [Dean151/ButtonKit](https://github.com/Dean151/ButtonKit) - Asynchronous and Throwable button implementation for SwiftUI, with animations and progress tracking
 - [Lakr233/AudioEditorKit](https://github.com/Lakr233/AudioEditorKit) - Simplified audio editing library for Swift + UIKit.
 - [Aviv-public/apples-translation-api-demo](https://github.com/Aviv-public/apples-translation-api-demo) - Apple's Translation API demo
-- [CLARATION/Feather](https://github.com/CLARATION/Feather) - Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
+- [claration/Feather](https://github.com/claration/Feather) - Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
 - [nathanborror/Heat](https://github.com/nathanborror/Heat) - An LLM agnostic desktop and mobile client.
 - [aws-amplify/aws-sdk-ios-spm](https://github.com/aws-amplify/aws-sdk-ios-spm) - This repository enables Swift Package Manager support for the AWS Mobile SDK for iOS
 - [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer) - A video player for iOS、macOS、tvOS、visionOS , based on AVPlayer and FFmpeg, support the horizontal, vertical screen. support adjust volume, brightness and seek by slide, SwiftUI, support subtitles.
@@ -1350,6 +1350,7 @@
 - [Innei/Shiro](https://github.com/Innei/Shiro) - 📜 A minimalist personal website embodying the purity of paper and freshness of snow.
 - [egoist/whispo](https://github.com/egoist/whispo) - AI-powered dictation tool
 - [iyinchao/liquid-glass-studio](https://github.com/iyinchao/liquid-glass-studio) - 🔮 The Ultimate Apple Liquid Glass UI — Recreated for the Web, powered by WebGL2 & WebGPU
+- [dushixiang/pika](https://github.com/dushixiang/pika) - Pika Monitor
 - [preetsuthar17/HextaUI](https://github.com/preetsuthar17/HextaUI) - Ready-to-use foundation components/blocks built on top of shadcn/ui.
 - [oiov/vmail](https://github.com/oiov/vmail) - 📫 只需一个域名部署临时邮箱到 Cloudflare Worker，使用 D1 保存数据，支持多域名后缀，密码找回，开放API接口。
 - [iebb/NekokoLPA](https://github.com/iebb/NekokoLPA) - Open-source LPA Software for Android and iOS
