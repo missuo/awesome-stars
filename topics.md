@@ -1080,7 +1080,7 @@
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
-- [cbrgm/bluesky-github-action](https://github.com/cbrgm/bluesky-github-action) - Send posts + media to Bluesky Social from GitHub Actions
+- [cbrgm/bluesky-github-action](https://github.com/cbrgm/bluesky-github-action) - Up-To-Date GitHub Action to send posts + media to Bluesky Social
 - [said7388/github-portfolio](https://github.com/said7388/github-portfolio) - Create a Portfolio Website using your GitHub username. This website template is constructed with next.js and tailwind CSS, allowing you to display your work and skills as a software developer.
 - [yangwenmai/github-trending-backup](https://github.com/yangwenmai/github-trending-backup) - Github trending backup by everyday.
 - [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions
@@ -2022,12 +2022,13 @@
 
 ## others 
 
+- [h-sumiya/xserver-auto-renew-rs](https://github.com/h-sumiya/xserver-auto-renew-rs) - Rust製 xserver無料VPS アップデートツール　自動ログイン、定期実行、無料VPS内から実行可能
 - [Lakr233/unfair](https://github.com/Lakr233/unfair) - 
 - [pnpm/pacquet](https://github.com/pnpm/pacquet) - The official pnpm rewrite in Rust
 - [mattpocock/sandcastle](https://github.com/mattpocock/sandcastle) - Orchestrate sandboxed coding agents in TypeScript with sandcastle.run()
 - [Le-Syl21/exiftool-rs](https://github.com/Le-Syl21/exiftool-rs) - port of exiftool 13.53 to rust crate by claude
 - [stevysmith/og-image-skill](https://github.com/stevysmith/og-image-skill) - Generate social media preview images (Open Graph) and configure all meta tags for optimal sharing on Twitter/X, LinkedIn, Facebook, Slack, Discord, and more.
-- [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) - 
+- [craft-ai-agents/craft-agents-oss](https://github.com/craft-ai-agents/craft-agents-oss) - 
 - [neko-kai/claude-code-sandbox](https://github.com/neko-kai/claude-code-sandbox) - macOS sandbox-exec config for Claude Code that restricts filesystem READ access for enhanced security
 - [2mawi2/para](https://github.com/2mawi2/para) - Manage sandboxed parallel claude code sessions on git worktrees
 - [nilbuild/claude-queue](https://github.com/nilbuild/claude-queue) - Automated GitHub issue solver using Claude Code
