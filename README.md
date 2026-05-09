@@ -275,7 +275,7 @@
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [vinceanalytics/vince](https://github.com/vinceanalytics/vince) - Self Hosted Alternative To Google Analytics
 - [shawn1m/overture](https://github.com/shawn1m/overture) - A customized DNS relay server
-- [cbrgm/bluesky-github-action](https://github.com/cbrgm/bluesky-github-action) - Send posts + media to Bluesky Social from GitHub Actions
+- [cbrgm/bluesky-github-action](https://github.com/cbrgm/bluesky-github-action) - Up-To-Date GitHub Action to send posts + media to Bluesky Social
 - [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [The-NeXT-Project/NeXT-Server](https://github.com/The-NeXT-Project/NeXT-Server) - Next generation proxy server.
@@ -902,6 +902,7 @@
 
 ## Rust 
 
+- [h-sumiya/xserver-auto-renew-rs](https://github.com/h-sumiya/xserver-auto-renew-rs) - Rust製 xserver無料VPS アップデートツール　自動ログイン、定期実行、無料VPS内から実行可能
 - [pnpm/pacquet](https://github.com/pnpm/pacquet) - The official pnpm rewrite in Rust
 - [Le-Syl21/exiftool-rs](https://github.com/Le-Syl21/exiftool-rs) - port of exiftool 13.53 to rust crate by claude
 - [2mawi2/para](https://github.com/2mawi2/para) - Manage sandboxed parallel claude code sessions on git worktrees
@@ -1280,7 +1281,7 @@
 - [SukkaW/dashflare](https://github.com/SukkaW/dashflare) - An unofficial Cloudflare dashboard built on top of Cloudflare API.
 - [SukkaW/sekisho](https://github.com/SukkaW/sekisho) - Authentication and Access Control for any React app
 - [mattpocock/sandcastle](https://github.com/mattpocock/sandcastle) - Orchestrate sandboxed coding agents in TypeScript with sandcastle.run()
-- [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) - 
+- [craft-ai-agents/craft-agents-oss](https://github.com/craft-ai-agents/craft-agents-oss) - 
 - [cdinnison/ray-finance](https://github.com/cdinnison/ray-finance) - An open-source AI financial advisor that learns your situation and gets smarter every conversation.
 - [anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) - A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
 - [cloudflare/kumo](https://github.com/cloudflare/kumo) - Cloudflare's component library for building modern web applications.
