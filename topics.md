@@ -1379,6 +1379,7 @@
 
 ## ios 
 
+- [yoavst/ida-ios-helper](https://github.com/yoavst/ida-ios-helper) - Plugin to ease reversing iOS projects
 - [erweixin/RaTeX](https://github.com/erweixin/RaTeX) - &gt;99.5% KaTeX syntax coverage. LaTeX math renderer in pure Rust. No JavaScript, no WebView, no DOM. One Rust core → iOS, Android, Flutter, Web, PNG. C ABI · WASM · Server-side PNG/SVG.
 - [wiedymi/swift-cloudflared](https://github.com/wiedymi/swift-cloudflared) - Pure Swift Cloudflare Access TCP tunnel SDK for SSH clients on Apple platforms (iOS/macOS).
 - [rasmuslos/AmpFin](https://github.com/rasmuslos/AmpFin) - Native Jellyfin music player for iOS & iPadOS
@@ -1917,6 +1918,7 @@
 
 ## objective-c 
 
+- [yoavst/ida-ios-helper](https://github.com/yoavst/ida-ios-helper) - Plugin to ease reversing iOS projects
 - [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
 - [github/CopilotForXcode](https://github.com/github/CopilotForXcode) - AI coding assistant for Xcode
 - [insidegui/AssetCatalogTinkerer](https://github.com/insidegui/AssetCatalogTinkerer) - An app that lets you open .car files and browse/extract their images.
@@ -2022,6 +2024,9 @@
 
 ## others 
 
+- [openai/openai-cli](https://github.com/openai/openai-cli) - Official CLI for the OpenAI API
+- [vercel-labs/zero-native](https://github.com/vercel-labs/zero-native) - Build desktop + mobile apps with Zig and web UI
+- [anthropics/financial-services](https://github.com/anthropics/financial-services) - 
 - [h-sumiya/xserver-auto-renew-rs](https://github.com/h-sumiya/xserver-auto-renew-rs) - Rust製 xserver無料VPS アップデートツール　自動ログイン、定期実行、無料VPS内から実行可能
 - [Lakr233/unfair](https://github.com/Lakr233/unfair) - 
 - [pnpm/pacquet](https://github.com/pnpm/pacquet) - The official pnpm rewrite in Rust
@@ -2889,6 +2894,7 @@
 
 ## reverse-engineering 
 
+- [dwgx/WindsurfAPI](https://github.com/dwgx/WindsurfAPI) - Windsurf-to-OpenAI compatible API proxy
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
 - [ericc-ch/copilot-api](https://github.com/ericc-ch/copilot-api) - Turn GitHub Copilot into OpenAI/Anthropic API compatible server. Usable with Claude Code!
 - [wtznc/not-so-private-relay](https://github.com/wtznc/not-so-private-relay) -  not-so-private-relay
