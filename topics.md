@@ -273,7 +273,7 @@
 - [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) - Secure, Fast, and Extensible Sandbox runtime for AI agents.
 - [memohai/Memoh](https://github.com/memohai/Memoh) - ✨ Self hosted, always-on AI agent platform run in containers. Create multiple bots with long memory, and connect them to Telegram, Discord, Feishu(Lark), Matrix, etc.
 - [hehehai/voxt](https://github.com/hehehai/voxt) - 🎙️Voice input and translation app for macOS. Press to talk, release to paste.
-- [leonardocardoso/poirot](https://github.com/leonardocardoso/poirot) - A native macOS companion for Claude Code that lets you browse sessions, explore diffs, and re-run commands.
+- [a7t-ai/poirot](https://github.com/a7t-ai/poirot) - A native macOS companion for Claude Code that lets you browse sessions, explore diffs, and re-run commands.
 - [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [looplj/axonhub](https://github.com/looplj/axonhub) - ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing.
@@ -633,7 +633,7 @@
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 - [dpearson2699/swift-ios-skills](https://github.com/dpearson2699/swift-ios-skills) - Agent Skills for iOS 26+, Swift 6.3, SwiftUI, and modern Apple frameworks
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-- [leonardocardoso/poirot](https://github.com/leonardocardoso/poirot) - A native macOS companion for Claude Code that lets you browse sessions, explore diffs, and re-run commands.
+- [a7t-ai/poirot](https://github.com/a7t-ai/poirot) - A native macOS companion for Claude Code that lets you browse sessions, explore diffs, and re-run commands.
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Claude model through API
@@ -1056,7 +1056,6 @@
 
 ## generative-ai 
 
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from ChatGPT (GPT-5.5 Thinking), Claude (Opus 4.7, Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, Gemini CLI), Grok (4.3 beta), Perplexity, and more. Updated re
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 - [a2aproject/A2A](https://github.com/a2aproject/A2A) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 1,600+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
@@ -1100,6 +1099,7 @@
 
 ## go 
 
+- [xchacha20-poly1305/sing-trusttunnel](https://github.com/xchacha20-poly1305/sing-trusttunnel) - A sing style TrustTunnel implementation.
 - [rorkai/App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more. JSON-first, no interactive prompts
 - [openclaw/goplaces](https://github.com/openclaw/goplaces) - Modern Google Places CLI in Go
 - [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
@@ -1594,7 +1594,6 @@
 ## llm 
 
 - [cdinnison/ray-finance](https://github.com/cdinnison/ray-finance) - An open-source AI financial advisor that learns your situation and gets smarter every conversation.
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from ChatGPT (GPT-5.5 Thinking), Claude (Opus 4.7, Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, Gemini CLI), Grok (4.3 beta), Perplexity, and more. Updated re
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and
@@ -1671,6 +1670,7 @@
 - [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune) - FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource.
 - [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free and open source database client built natively for developers
 - [Dimillian/GithubMonitor](https://github.com/Dimillian/GithubMonitor) - A menu bar app to monitor your Github situation
+- [a7t-ai/poirot](https://github.com/a7t-ai/poirot) - A native macOS companion for Claude Code that lets you browse sessions, explore diffs, and re-run commands.
 - [sindresorhus/DSStore](https://github.com/sindresorhus/DSStore) - Parse and write macOS .DS_Store files from Swift
 - [SuperCmdLabs/SuperCmd](https://github.com/SuperCmdLabs/SuperCmd) - Powerful MacOS Launcher
 - [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
@@ -1790,6 +1790,7 @@
 - [agent-infra/sandbox](https://github.com/agent-infra/sandbox) - All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a single Docker container.
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
+- [a7t-ai/poirot](https://github.com/a7t-ai/poirot) - A native macOS companion for Claude Code that lets you browse sessions, explore diffs, and re-run commands.
 - [moltis-org/moltis](https://github.com/moltis-org/moltis) - A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on you
 - [miantiao-me/bm.md](https://github.com/miantiao-me/bm.md) - 更好用的 Markdown 排版助手｜一键适配微信公众号、网页与图片。
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, 
@@ -2037,7 +2038,7 @@
 
 ## others 
 
-- [AFK-surf/OpenBridge](https://github.com/AFK-surf/OpenBridge) - The best open source codex alternative
+- [AFK-surf/OpenBridge](https://github.com/AFK-surf/OpenBridge) - A free, safe and open agent for everything. Alternative to Claude Cowork & Codex. Open Bridge, the AI bridge bwtween your intention and get the job done.
 - [aeroxy/tunnix](https://github.com/aeroxy/tunnix) - An encrypted SOCKS5/HTTP proxy tunnel over HTTP/SSE — built for environments where only plain HTTP works.
 - [EvanDbg/doubao-ime-win](https://github.com/EvanDbg/doubao-ime-win) - 
 - [Kyle-Ye/airdrop-keychain-extractor](https://github.com/Kyle-Ye/airdrop-keychain-extractor) - Extracting Apple ID Validation Record, Certificate, and Key for AirDrop
@@ -2096,7 +2097,6 @@
 - [wong2/weixin-agent-sdk](https://github.com/wong2/weixin-agent-sdk) - 微信Clawbot接入任意Agent
 - [Lakr233/CoreExtendedNFC](https://github.com/Lakr233/CoreExtendedNFC) - Swift Package porting libnfc protocol-layer logic to iOS via CoreNFC
 - [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) - State-of-the-art TTS model under 25MB 😻
-- [xchacha20-poly1305/sing-trusttunnel](https://github.com/xchacha20-poly1305/sing-trusttunnel) - 
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named local URLs. For humans and agents.
@@ -2244,7 +2244,7 @@
 - [Netskao/WCABTestC2CLivePhoto](https://github.com/Netskao/WCABTestC2CLivePhoto) - WeChat Enable Chat Send Live Photos, Only 8.0.57+ (Theos Tweak)
 - [1rgs/claude-code-proxy](https://github.com/1rgs/claude-code-proxy) - Run Claude Code on OpenAI models
 - [Jxck-S/airline-logos](https://github.com/Jxck-S/airline-logos) - Airline and Operator Banners/Logos
-- [anhthang/soaring-symbols](https://github.com/anhthang/soaring-symbols) - A curated collection of airline branding assets — logos, icons, and tails in SVG.
+- [soaring-symbols/soaring-symbols](https://github.com/soaring-symbols/soaring-symbols) - A curated collection of airline branding assets — logos, icons, and tails in SVG.
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
 - [kirel/raycast-openai-server](https://github.com/kirel/raycast-openai-server) - Extension that thats local openai server which passes requests to Raycast AI.
 - [Netskao/WCABTestTimeLineEmoticonOrImage](https://github.com/Netskao/WCABTestTimeLineEmoticonOrImage) - WeChat Enables AB Tested TimeLine EmoticonOrImage, Only 8.0.60+ (Theos Tweak)
@@ -3156,6 +3156,7 @@
 - [dpearson2699/swift-ios-skills](https://github.com/dpearson2699/swift-ios-skills) - Agent Skills for iOS 26+, Swift 6.3, SwiftUI, and modern Apple frameworks
 - [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free and open source database client built natively for developers
 - [Dimillian/GithubMonitor](https://github.com/Dimillian/GithubMonitor) - A menu bar app to monitor your Github situation
+- [a7t-ai/poirot](https://github.com/a7t-ai/poirot) - A native macOS companion for Claude Code that lets you browse sessions, explore diffs, and re-run commands.
 - [sindresorhus/DSStore](https://github.com/sindresorhus/DSStore) - Parse and write macOS .DS_Store files from Swift
 - [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
 - [rorkai/App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more. JSON-first, no interactive prompts
@@ -3225,6 +3226,7 @@
 - [dpearson2699/swift-ios-skills](https://github.com/dpearson2699/swift-ios-skills) - Agent Skills for iOS 26+, Swift 6.3, SwiftUI, and modern Apple frameworks
 - [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free and open source database client built natively for developers
 - [Dimillian/GithubMonitor](https://github.com/Dimillian/GithubMonitor) - A menu bar app to monitor your Github situation
+- [a7t-ai/poirot](https://github.com/a7t-ai/poirot) - A native macOS companion for Claude Code that lets you browse sessions, explore diffs, and re-run commands.
 - [tatsuz0u/FairFlag](https://github.com/tatsuz0u/FairFlag) - A SwiftUI country flag package built to mitigate Taiwan flag censorship issues.
 - [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
 - [666OS/ClashMac](https://github.com/666OS/ClashMac) - Native Proxy Experience Built for macOS
