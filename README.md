@@ -66,6 +66,7 @@
 
 ## C 
 
+- [Lakr233/SSHKit](https://github.com/Lakr233/SSHKit) - 
 - [gphoto/libgphoto2](https://github.com/gphoto/libgphoto2) - The libgphoto2 camera access and control library.
 - [zigzap/zap](https://github.com/zigzap/zap) - blazingly fast backends in zig
 - [zhuzeitou/wechat-qrcode-ncnn](https://github.com/zhuzeitou/wechat-qrcode-ncnn) - WeChat QRCode NCNN
@@ -174,6 +175,7 @@
 
 ## Go 
 
+- [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
 - [openai/openai-cli](https://github.com/openai/openai-cli) - Official CLI for the OpenAI API
 - [zackpollard/frameio-immich-relay](https://github.com/zackpollard/frameio-immich-relay) - Self-hosted relay: Frame.io Camera-to-Cloud uploads → Immich. Webhook-driven, SHA-1 dedup, delete-after-ingest.
 - [GALIAIS/Notion2API](https://github.com/GALIAIS/Notion2API) - 
@@ -287,7 +289,7 @@
 - [gopkg-dev/amazoncaptcha](https://github.com/gopkg-dev/amazoncaptcha) - Amazon captcha recognition solution based on Go language standard library
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
 - [sjlleo/nexttrace-backend](https://github.com/sjlleo/nexttrace-backend) - NextTrace BackEnd
-- [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
+- [passteque/gluetun](https://github.com/passteque/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [aurorax-neo/free-gpt3.5-2api](https://github.com/aurorax-neo/free-gpt3.5-2api) - free chat gpt api
 - [MartialBE/one-hub](https://github.com/MartialBE/one-hub) - OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。
 - [cohere-ai/cohere-go](https://github.com/cohere-ai/cohere-go) - Go Library for Accessing the Cohere API
@@ -345,7 +347,7 @@
 - [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
 - [gin-gonic/autotls](https://github.com/gin-gonic/autotls) - Support Let's Encrypt for a Go server application.
 - [siongui/instago](https://github.com/siongui/instago) - Download/access photos, videos, stories, story highlights, postlives, following and followers of Instagram
-- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL, KDL and CSV files with a single tool. Also available as a go mod.
+- [TomWright/dasel](https://github.com/TomWright/dasel) - Unified querying, transformation, and modification of JSON, TOML, YAML, XML, INI, HCL, KDL and CSV.
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [corazawaf/coraza](https://github.com/corazawaf/coraza) - OWASP Coraza WAF is a golang modsecurity compatible web application firewall library
 - [oschwald/geoip2-golang](https://github.com/oschwald/geoip2-golang) - Unofficial MaxMind GeoIP2 Reader for Go
@@ -539,6 +541,7 @@
 
 ## Kotlin 
 
+- [suqi8/OShin](https://github.com/suqi8/OShin) - 一个专为ColorOS系统设计的辅助模块
 - [rock3r/CameraSync](https://github.com/rock3r/CameraSync) - Sync GPS and date/time with your Ricoh or Sony camera.
 - [sdotee/app](https://github.com/sdotee/app) - S.EE Desktop
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
@@ -627,7 +630,7 @@
 ## Others 
 
 - [stevysmith/og-image-skill](https://github.com/stevysmith/og-image-skill) - Generate social media preview images (Open Graph) and configure all meta tags for optimal sharing on Twitter/X, LinkedIn, Facebook, Slack, Discord, and more.
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from ChatGPT (GPT-5.5 Thinking), Claude (Opus 4.7, Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, Gemini CLI), Grok (4.3 beta), Perplexity, and more. Updated re
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Opus 4.7, Opus 4.6, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google Gemini - 3.5 Flash, 3.1 Pro, 3 Flash, Antigravity. xAI - Grok. G
 - [Lakr233/bgclick-rev-skill](https://github.com/Lakr233/bgclick-rev-skill) - 
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 - [krzyzanowskim/claude-better](https://github.com/krzyzanowskim/claude-better) - better claude harness
@@ -737,7 +740,7 @@
 - [Lakr233/SubsonicDemoAPI](https://github.com/Lakr233/SubsonicDemoAPI) - Self-contained Subsonic demo API with bundled Suno albums and GHCR publishing.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [therealXiaomanChu/ex-skill](https://github.com/therealXiaomanChu/ex-skill) - 把前任蒸馏成 AI Skill，用ta的方式跟你说话。
-- [punitarani/fli](https://github.com/punitarani/fli) - Google Flights MCP and Python Library
+- [punitarani/fli](https://github.com/punitarani/fli) - Google Flights MCP, CLI and Python Library
 - [agent-infra/sandbox](https://github.com/agent-infra/sandbox) - All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a single Docker container.
 - [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) - State-of-the-art TTS model under 25MB 😻
 - [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) - Secure, Fast, and Extensible Sandbox runtime for AI agents.
@@ -1119,6 +1122,7 @@
 
 ## Swift 
 
+- [kageroumado/phosphene](https://github.com/kageroumado/phosphene) - A video wallpaper engine for macOS Tahoe
 - [mudkipme/MoeMemos](https://github.com/mudkipme/MoeMemos) - An app to help you capture thoughts and ideas
 - [lbr77/unfair](https://github.com/lbr77/unfair) - Fairplay DRM decrypt. Modified for jailbroken device on iOS.
 - [AFK-surf/OpenBridge](https://github.com/AFK-surf/OpenBridge) - A free, safe and open agent for everything. Alternative to Claude Cowork & Codex. Open Bridge, the AI bridge between your intention and get the job done.
@@ -1291,6 +1295,7 @@
 
 ## TypeScript 
 
+- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
 - [aloth/olcli](https://github.com/aloth/olcli) - Overleaf from your terminal — pull, push, two-way sync, compile, and manage LaTeX projects via CLI. Smart .olignore filtering, deletion propagation, self-hosted Overleaf/ShareLaTeX support, AgentSkill
