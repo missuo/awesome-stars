@@ -176,6 +176,7 @@
 
 ## Go 
 
+- [SagerNet/sing-tun](https://github.com/SagerNet/sing-tun) - Simple transparent proxy library
 - [openai/openai-cli](https://github.com/openai/openai-cli) - Official CLI for the OpenAI API
 - [zackpollard/frameio-immich-relay](https://github.com/zackpollard/frameio-immich-relay) - Self-hosted relay: Frame.io Camera-to-Cloud uploads → Immich. Webhook-driven, SHA-1 dedup, delete-after-ingest.
 - [GALIAIS/Notion2API](https://github.com/GALIAIS/Notion2API) - 
@@ -208,7 +209,7 @@
 - [certimate-go/certimate](https://github.com/certimate-go/certimate) - An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, renewal, and monitoring visually. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主
 - [Lakr233/spotify-api](https://github.com/Lakr233/spotify-api) - 
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
-- [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+- [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 - [databasus/databasus](https://github.com/databasus/databasus) - Database backup tool (PostgreSQL, MySQL\MariaDB and MongoDB)
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude m
@@ -732,6 +733,7 @@
 
 ## Python 
 
+- [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - CLI and library for removing visible (Gemini) and invisible (SynthID, C2PA, EXIF) AI watermarks from images
 - [JUk1-GH/gpt-promo-scanner](https://github.com/JUk1-GH/gpt-promo-scanner) - ChatGPT Team(Business) 促销码自动扫描工具 — 批量发现/验证/价格收集，支持 17 国 34 个码，最高折扣 71% | ChatGPT Business promo code scanner — batch discovery, validation, price collection, 34 codes across 17 countries, up to 71% of
 - [yoavst/ida-ios-helper](https://github.com/yoavst/ida-ios-helper) - Plugin to ease reversing iOS projects
 - [anthropics/financial-services](https://github.com/anthropics/financial-services) - 
@@ -909,6 +911,7 @@
 
 ## Rust 
 
+- [c4pt0r/pie](https://github.com/c4pt0r/pie) - Rust port of the pi agent harness — coding agent + LLM runtime stack
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence. Private, Simple and extremely powerful.
 - [julesklord/mangofetch](https://github.com/julesklord/mangofetch) - tui/cli tool for fetch everythin' in internet (fork of omniget)
 - [aeroxy/tunnix](https://github.com/aeroxy/tunnix) - An encrypted SOCKS5/HTTP proxy tunnel over HTTP/SSE — built for environments where only plain HTTP works.
@@ -1073,7 +1076,7 @@
 - [LemonBench/LemonBench](https://github.com/LemonBench/LemonBench) - A simple Linux Benchmark Toolkit
 - [lmc999/RegionRestrictionCheck](https://github.com/lmc999/RegionRestrictionCheck) - A bash script to check the status of your IP on various geo-restricted services.
 - [myxuchangbin/dnsmasq_sniproxy_install](https://github.com/myxuchangbin/dnsmasq_sniproxy_install) - One-click Install and Configure Dnsmasq and Sniproxy for CentOS/Debian/Ubuntu
-- [mpelteshki/Azule](https://github.com/mpelteshki/Azule) - 
+- [mpelteshki/Azule](https://github.com/mpelteshki/Azule) - iOS app-tweak injection CLI with 500+ stars and 10k+ release downloads.
 - [geekdada/snell-server-docker](https://github.com/geekdada/snell-server-docker) - A Docker image for Snell proxy service
 - [signalapp/Signal-TLS-Proxy](https://github.com/signalapp/Signal-TLS-Proxy) - 
 - [RManLuo/FakePosition](https://github.com/RManLuo/FakePosition) - Fake position for IOS17 虚拟定位 支持IOS17
