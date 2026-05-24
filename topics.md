@@ -265,6 +265,7 @@
 
 ## ai 
 
+- [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - CLI and library for removing visible (Gemini) and invisible (SynthID, C2PA, EXIF) AI watermarks from images
 - [cdinnison/ray-finance](https://github.com/cdinnison/ray-finance) - An open-source AI financial advisor that learns your situation and gets smarter every conversation.
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Opus 4.7, Opus 4.6, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google Gemini - 3.5 Flash, 3.1 Pro, 3 Flash, Antigravity. xAI - Grok. G
 - [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ A CLI tool for tracking token usage from OpenCode, Claude Code, 🦞OpenClaw (Clawdbot/Moltbot), Pi, Codex, Gemini, Cursor, AmpCode, Factory Droid, Kimi, and more! • 🏅Global Leaderboard + 2D/3D Contri
@@ -638,7 +639,7 @@
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [a7t-ai/poirot](https://github.com/a7t-ai/poirot) - A native macOS companion for Claude Code that lets you browse sessions, explore diffs, and re-run commands.
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
-- [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+- [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude m
 - [looplj/axonhub](https://github.com/looplj/axonhub) - ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing.
 - [KroMiose/claude-code-nexus](https://github.com/KroMiose/claude-code-nexus) - Claude API Proxy platform - Seamlessly forward Claude Code requests to any OpenAI-compatible API service with smart model mapping, streaming support, deployed on Cloudflare Worker.
@@ -647,6 +648,7 @@
 
 ## cli 
 
+- [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - CLI and library for removing visible (Gemini) and invisible (SynthID, C2PA, EXIF) AI watermarks from images
 - [julesklord/mangofetch](https://github.com/julesklord/mangofetch) - tui/cli tool for fetch everythin' in internet (fork of omniget)
 - [aloth/olcli](https://github.com/aloth/olcli) - Overleaf from your terminal — pull, push, two-way sync, compile, and manage LaTeX projects via CLI. Smart .olignore filtering, deletion propagation, self-hosted Overleaf/ShareLaTeX support, AgentSkill
 - [ProjectKumo/KumoApp](https://github.com/ProjectKumo/KumoApp) - A calm, native macOS client for the Mihomo proxy core, built with SwiftUI and a shared agent-friendly CLI.
@@ -669,6 +671,7 @@
 - [lobehub/lobe-cli-toolbox](https://github.com/lobehub/lobe-cli-toolbox) - 🪀 Lobe CLI Toolbox - AI CLI Toolbox, enhancing git commit and i18n workflow efficiency
 - [vldmrkl/airdrop-cli](https://github.com/vldmrkl/airdrop-cli) - A macOS CLI for AirDrop written in Swift
 - [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
+- [mpelteshki/Azule](https://github.com/mpelteshki/Azule) - iOS app-tweak injection CLI with 500+ stars and 10k+ release downloads.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [Mark24Code/rime-auto-deploy](https://github.com/Mark24Code/rime-auto-deploy) - Rime输入法安装脚本，让一切更轻松。Make using Rime easy.
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
@@ -724,6 +727,7 @@
 
 ## computer-vision 
 
+- [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - CLI and library for removing visible (Gemini) and invisible (SynthID, C2PA, EXIF) AI watermarks from images
 - [advimman/lama](https://github.com/advimman/lama) - 🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022
 
 ## config 
@@ -1381,6 +1385,7 @@
 
 ## image-processing 
 
+- [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - CLI and library for removing visible (Gemini) and invisible (SynthID, C2PA, EXIF) AI watermarks from images
 - [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) - Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！
 - [miantiao-me/cloudflare-worker-image](https://github.com/miantiao-me/cloudflare-worker-image) - 使用 Cloudflare Worker + Container 处理图片, 依赖 Photon，支持缩放、剪裁、水印、滤镜等功能。
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing, processing, and converting images on the fly
@@ -1435,7 +1440,7 @@
 - [straight-tamago/misaka](https://github.com/straight-tamago/misaka) - iOS & tvOS customisation tool for KFD & MDC
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [skiptools/skip](https://github.com/skiptools/skip) - Skip enables the creation of native SwiftUI apps for iOS and Android
-- [mpelteshki/Azule](https://github.com/mpelteshki/Azule) - 
+- [mpelteshki/Azule](https://github.com/mpelteshki/Azule) - iOS app-tweak injection CLI with 500+ stars and 10k+ release downloads.
 - [adborbas/yahms](https://github.com/adborbas/yahms) - An open-source qBittorrent client for iOS.
 - [insidegui/AssetCatalogTinkerer](https://github.com/insidegui/AssetCatalogTinkerer) - An app that lets you open .car files and browse/extract their images.
 - [BandarHL/BHTwitter](https://github.com/BandarHL/BHTwitter) - Awesome tweak for Twitter
@@ -1848,6 +1853,7 @@
 
 - [ShadowsocksR-Live/overtls](https://github.com/ShadowsocksR-Live/overtls) - A minimalist proxy tunnel for bypassing the GFW.
 - [Helicone/helicone](https://github.com/Helicone/helicone) - 🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓
+- [Alice39s/kuma-mieru](https://github.com/Alice39s/kuma-mieru) - A 3rd-party Uptime Kuma monitoring dashboard built on Next.js 16, TypeScript and Recharts.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 - [kutovoys/xray-checker](https://github.com/kutovoys/xray-checker) - Xray Checker: A Prometheus exporter for monitoring Xray proxies
@@ -2062,6 +2068,8 @@
 
 ## others 
 
+- [c4pt0r/pie](https://github.com/c4pt0r/pie) - Rust port of the pi agent harness — coding agent + LLM runtime stack
+- [SagerNet/sing-tun](https://github.com/SagerNet/sing-tun) - Simple transparent proxy library
 - [kageroumado/phosphene](https://github.com/kageroumado/phosphene) - A video wallpaper engine for macOS Tahoe
 - [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
@@ -2804,6 +2812,7 @@
 
 ## python 
 
+- [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - CLI and library for removing visible (Gemini) and invisible (SynthID, C2PA, EXIF) AI watermarks from images
 - [JUk1-GH/gpt-promo-scanner](https://github.com/JUk1-GH/gpt-promo-scanner) - ChatGPT Team(Business) 促销码自动扫描工具 — 批量发现/验证/价格收集，支持 17 国 34 个码，最高折扣 71% | ChatGPT Business promo code scanner — batch discovery, validation, price collection, 34 codes across 17 countries, up to 71% of
 - [xdevplatform/samples](https://github.com/xdevplatform/samples) - Sample code for the X API v2 endpoints
 - [vaayne/NotionAI-Plus](https://github.com/vaayne/NotionAI-Plus) - NotionAI Plus is a browser extension that adds NotionAI's powerful features to any website you visit
@@ -3133,6 +3142,7 @@
 - [agent-infra/sandbox](https://github.com/agent-infra/sandbox) - All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a single Docker container.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [myxuchangbin/dnsmasq_sniproxy_install](https://github.com/myxuchangbin/dnsmasq_sniproxy_install) - One-click Install and Configure Dnsmasq and Sniproxy for CentOS/Debian/Ubuntu
+- [mpelteshki/Azule](https://github.com/mpelteshki/Azule) - iOS app-tweak injection CLI with 500+ stars and 10k+ release downloads.
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [lwch/natpass](https://github.com/lwch/natpass) - 🔥居家办公，远程开发神器
