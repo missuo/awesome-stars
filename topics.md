@@ -279,7 +279,7 @@
 - [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [looplj/axonhub](https://github.com/looplj/axonhub) - ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing.
-- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - Your personal AI trading assistant. Any market. Any model. Pay with USDC, not API keys.
+- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - Your AI trading terminal assistant for US stocks, commodities, forex, and crypto.
 - [coder/httpjail](https://github.com/coder/httpjail) - HTTP(s) request filter for processes
 - [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍 导出并模糊搜索 Telegram 聊天记录 | Export and fuzzy search your Telegram chat history
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
@@ -304,7 +304,7 @@
 - [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Your API ⇒ Paid MCP. Instantly.
 - [ObservedObserver/chatgpt-i18n](https://github.com/ObservedObserver/chatgpt-i18n) - Localize your websites with AI assistance.
 - [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and productivity. The ultimate hub to manage, customize, and share prompts. (English/中文/Español/العربية). 让生产力加倍的 AI 快捷指令。更高效地管理提示词，在分享社区中发现适用于不同场景的灵感。
-- [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) - CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择DeepSeek/OpenAI/Claude/Gemini/ MiniMax/Qwen/GLM/LinkAI，能处理文
+- [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) - Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, autonomously grows with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install 
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
@@ -318,6 +318,7 @@
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
+- [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) - Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, autonomously grows with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install 
 
 ## algorithm 
 
@@ -478,7 +479,7 @@
 
 ## bitcoin 
 
-- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - Your personal AI trading assistant. Any market. Any model. Pay with USDC, not API keys.
+- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - Your AI trading terminal assistant for US stocks, commodities, forex, and crypto.
 - [damus-io/damus](https://github.com/damus-io/damus) - iOS nostr client
 
 ## blockchain 
@@ -613,6 +614,7 @@
 
 ## clash 
 
+- [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 - [JUk1-GH/gpt-promo-scanner](https://github.com/JUk1-GH/gpt-promo-scanner) - ChatGPT Team(Business) 促销码自动扫描工具 — 批量发现/验证/价格收集，支持 17 国 34 个码，最高折扣 71% | ChatGPT Business promo code scanner — batch discovery, validation, price collection, 34 codes across 17 countries, up to 71% of
 - [ProjectKumo/KumoApp](https://github.com/ProjectKumo/KumoApp) - A calm, native macOS client for the Mihomo proxy core, built with SwiftUI and a shared agent-friendly CLI.
 - [madeye/meow](https://github.com/madeye/meow) - Meow - A Clash/mihomo Android client with Flutter UI, powered by mihomo-rust and netstack-smoltcp tun2socks
@@ -645,6 +647,7 @@
 - [KroMiose/claude-code-nexus](https://github.com/KroMiose/claude-code-nexus) - Claude API Proxy platform - Seamlessly forward Claude Code requests to any OpenAI-compatible API service with smart model mapping, streaming support, deployed on Cloudflare Worker.
 - [coffeegrind123/gemini-for-claude-code](https://github.com/coffeegrind123/gemini-for-claude-code) - This python program allows you to use Claude Code with Google's Gemini models.
 - [maxnowack/anthropic-proxy](https://github.com/maxnowack/anthropic-proxy) - Proxy server that converts Anthropic API requests to OpenAI format and sends it to OpenRouter. It's used to use Claude Code with OpenRouter instead of the Anthropic API
+- [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) - Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, autonomously grows with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install 
 
 ## cli 
 
@@ -1006,6 +1009,7 @@
 
 ## flutter 
 
+- [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 - [madeye/meow](https://github.com/madeye/meow) - Meow - A Clash/mihomo Android client with Flutter UI, powered by mihomo-rust and netstack-smoltcp tun2socks
 - [erweixin/RaTeX](https://github.com/erweixin/RaTeX) - &gt;99.5% KaTeX syntax coverage. LaTeX math renderer in pure Rust. No JavaScript, no WebView, no DOM. One Rust core → iOS, Android, Flutter, Web, PNG. C ABI · WASM · Server-side PNG/SVG.
 - [galaxy-s10/billd-desk](https://github.com/galaxy-s10/billd-desk) - 基于Vue3 + WebRTC + Nodejs + Flutter搭建的远程桌面控制、游戏串流
@@ -1617,6 +1621,7 @@
 
 ## llm 
 
+- [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - An AI prompt optimizer for writing better prompts and getting better AI results.
 - [cdinnison/ray-finance](https://github.com/cdinnison/ray-finance) - An open-source AI financial advisor that learns your situation and gets smarter every conversation.
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Opus 4.7, Opus 4.6, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google Gemini - 3.5 Flash, 3.1 Pro, 3 Flash, Antigravity. xAI - Grok. G
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
@@ -1650,7 +1655,7 @@
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [SCIR-HI/Huatuo-Llama-Med-Chinese](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese) - Repo for BenCao [original name: HuaTuo (华驼)], Instruction-tuning Large Language Models with Chinese Medical Knowledge. 本草（原名：华驼）模型仓库，基于中文医学知识的大语言模型指令微调
 - [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and productivity. The ultimate hub to manage, customize, and share prompts. (English/中文/Español/العربية). 让生产力加倍的 AI 快捷指令。更高效地管理提示词，在分享社区中发现适用于不同场景的灵感。
-- [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) - CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择DeepSeek/OpenAI/Claude/Gemini/ MiniMax/Qwen/GLM/LinkAI，能处理文
+- [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) - Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, autonomously grows with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install 
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## localization 
@@ -1687,6 +1692,7 @@
 
 ## macos 
 
+- [kageroumado/phosphene](https://github.com/kageroumado/phosphene) - A video wallpaper engine for macOS Tahoe
 - [ProjectKumo/KumoApp](https://github.com/ProjectKumo/KumoApp) - A calm, native macOS client for the Mihomo proxy core, built with SwiftUI and a shared agent-friendly CLI.
 - [saihgupr/DMGMaker](https://github.com/saihgupr/DMGMaker) - A premium macOS DMG creation tool with live-rendered SwiftUI backgrounds, glassmorphism, and Retina support.
 - [momenbasel/PureMac](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
@@ -1829,7 +1835,7 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
-- [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) - CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择DeepSeek/OpenAI/Claude/Gemini/ MiniMax/Qwen/GLM/LinkAI，能处理文
+- [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) - Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, autonomously grows with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install 
 
 ## microsoft 
 
@@ -2039,7 +2045,7 @@
 - [rawandahmad698/PyChatGPT](https://github.com/rawandahmad698/PyChatGPT) - ⚡️ Python client for the ChatGPT API with, conversation tracking, proxy support and more.
 - [theiskaa/MobileGPT](https://github.com/theiskaa/MobileGPT) - 💬 ChatGPT Mobile Application (iOS and Android) built with Flutter
 - [missuo/OpenAI-Checker](https://github.com/missuo/OpenAI-Checker) - Used to check if your IP can access OpenAI services.
-- [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) - CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择DeepSeek/OpenAI/Claude/Gemini/ MiniMax/Qwen/GLM/LinkAI，能处理文
+- [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) - Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, autonomously grows with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install 
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The first GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
@@ -2070,7 +2076,6 @@
 
 - [c4pt0r/pie](https://github.com/c4pt0r/pie) - Rust port of the pi agent harness — coding agent + LLM runtime stack
 - [SagerNet/sing-tun](https://github.com/SagerNet/sing-tun) - Simple transparent proxy library
-- [kageroumado/phosphene](https://github.com/kageroumado/phosphene) - A video wallpaper engine for macOS Tahoe
 - [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
 - [Lakr233/SSHKit](https://github.com/Lakr233/SSHKit) - 
@@ -2798,6 +2803,7 @@
 
 ## prompt-engineering 
 
+- [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - An AI prompt optimizer for writing better prompts and getting better AI results.
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Opus 4.7, Opus 4.6, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google Gemini - 3.5 Flash, 3.1 Pro, 3 Flash, Antigravity. xAI - Grok. G
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line 
 - [Helicone/helicone](https://github.com/Helicone/helicone) - 🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓
@@ -2876,7 +2882,6 @@
 - [a-maliarov/amazoncaptcha](https://github.com/a-maliarov/amazoncaptcha) - Pure Python, lightweight, Pillow-based solver for Amazon's text captcha.
 - [kastldratza/zoomrec](https://github.com/kastldratza/zoomrec) - Record Zoom meetings automatically in headless docker container with Python and FFmpeg
 - [gruns/furl](https://github.com/gruns/furl) - 🌐 The easiest way to parse and modify URLs in Python.
-- [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) - CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择DeepSeek/OpenAI/Claude/Gemini/ MiniMax/Qwen/GLM/LinkAI，能处理文
 - [krypton-byte/tiktok-downloader](https://github.com/krypton-byte/tiktok-downloader) - Tiktok Downloader/Scraper using requests & bs4
 - [gruns/icecream](https://github.com/gruns/icecream) - 🍦 Never use print() to debug again.
 - [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) - 
@@ -3405,7 +3410,7 @@
 
 ## trading 
 
-- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - Your personal AI trading assistant. Any market. Any model. Pay with USDC, not API keys.
+- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - Your AI trading terminal assistant for US stocks, commodities, forex, and crypto.
 
 ## tui 
 
@@ -3512,6 +3517,7 @@
 
 ## v2ray 
 
+- [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 - [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip) - 🌚 🌍 🌝 GeoIP 增强版，支持自由定制 V2Ray dat 格式文件 geoip.dat、MaxMind mmdb 格式文件、sing-box SRS 格式文件、mihomo MRS 格式文件、Clash ruleset、Surge ruleset 等。Enhanced edition of GeoIP for V2Ray, Xray-core, sing-box, Clash, mihom
 - [sail-tunnel/peakpass](https://github.com/sail-tunnel/peakpass) - new iOS client for vmess, shadowsocks, trojan, vless, socks and other protocols
 - [The-NeXT-Project/NeXT-Server](https://github.com/The-NeXT-Project/NeXT-Server) - Next generation proxy server.
@@ -3537,6 +3543,7 @@
 
 ## vpn 
 
+- [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 - [madeye/meow](https://github.com/madeye/meow) - Meow - A Clash/mihomo Android client with Flutter UI, powered by mihomo-rust and netstack-smoltcp tun2socks
 - [veil-net/conflux](https://github.com/veil-net/conflux) - Connector for decentralised post-quantum secure network - VeilNet
 - [TrustTunnel/TrustTunnel](https://github.com/TrustTunnel/TrustTunnel) - Modern, fast and obfuscated VPN protocol
