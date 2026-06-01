@@ -2578,7 +2578,7 @@
 - [lib-x/deepl](https://github.com/lib-x/deepl) - free deepl translate api in go
 - [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
 - [Masaiki/GeoIP2-CN](https://github.com/Masaiki/GeoIP2-CN) - 最小巧、最准确、最全面、最实用的中国大陆 GeoIP2 数据库及 IP 地址段
-- [gaoyifan/china-operator-ip](https://github.com/gaoyifan/china-operator-ip) - 中国运营商IPv4/IPv6地址库-每日更新
+- [gaoyifan/china-operator-ip](https://github.com/gaoyifan/china-operator-ip) - An IP database derived from BGP data analysis, automatically updated daily
 - [egoist/openai-proxy](https://github.com/egoist/openai-proxy) - OpenAI proxy on Cloudflare Worker / Vercel Edge
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 - [steveyiyo/TranslateMD](https://github.com/steveyiyo/TranslateMD) - 
@@ -2864,7 +2864,7 @@
 - [GilbN/geoip2influx](https://github.com/GilbN/geoip2influx) - A python script that will parse the nginx access.log and send geolocation metrics and log metrics to InfluxDB
 - [Soroosh-N/us_visa_scheduler](https://github.com/Soroosh-N/us_visa_scheduler) - US VISA (usvisa-info) appointment re-scheduler bot with python.
 - [yangwenmai/github-trending-backup](https://github.com/yangwenmai/github-trending-backup) - Github trending backup by everyday.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Python APIs for web automation, E2E testing, and bypassing bot-detection.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 Python's all-in-one framework for web crawling, scraping, and testing. Supports pytest. CDP Mode provides stealth. Includes many tools.
 - [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3944 LeetCode Problems (Weekly Update)
 - [ading2210/poe-api](https://github.com/ading2210/poe-api) - [UNMAINTAINED] A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
 - [ShadowWhisperer/Remove-MS-Edge](https://github.com/ShadowWhisperer/Remove-MS-Edge) - Uninstall Microsoft Edge with an executable or batch script.
