@@ -66,6 +66,7 @@
 
 ## C 
 
+- [gkoh/furble](https://github.com/gkoh/furble) - A bluetooth wireless remote shutter release for Fujifilm X/GFX, Canon EOS, Nikon and Sony cameras.
 - [califio/publications](https://github.com/califio/publications) - Publications from Calif
 - [Lakr233/SSHKit](https://github.com/Lakr233/SSHKit) - 
 - [gphoto/libgphoto2](https://github.com/gphoto/libgphoto2) - The libgphoto2 camera access and control library.
@@ -108,6 +109,7 @@
 
 ## C++ 
 
+- [anthropics/claude-desktop-buddy](https://github.com/anthropics/claude-desktop-buddy) - Reference and an example for the Bluetooth API for makers in Claude Cowork & Claude Code Desktop
 - [claration/Zsign-Package](https://github.com/claration/Zsign-Package) - It might be the quickest cross-platform codesign alternative for iOS 12+, supporting macOS, Linux, Windows, and more features.
 - [asdlokj1qpi233/subconverter](https://github.com/asdlokj1qpi233/subconverter) - About Utility to convert between various subscription format.Support anytls、mieru、hy2、hy and vless for singbox and clash meta.original git: https://github.com/asdlokj1qpi23/subconverter
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
@@ -442,9 +444,10 @@
 
 ## JavaScript 
 
+- [expo/skills](https://github.com/expo/skills) - A collection of AI agent skills for working with Expo projects and Expo Application Services
 - [antfu/qr-scanner-wechat](https://github.com/antfu/qr-scanner-wechat) - QR Code scanner in JS with Open CV and WeChat's Algorithm
 - [dwgx/WindsurfAPI](https://github.com/dwgx/WindsurfAPI) - Windsurf-to-OpenAI compatible API proxy
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Opus 4.7, Opus 4.6, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google Gemini - 3.5 Flash, 3.1 Pro, 3 Flash, Antigravity. xAI - Grok. G
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Code, Claude Design, Opus 4.8, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex, Google - Gemini - 3.5 Flash, 3.1 Pro, Antigravity, xA
 - [PVE-Tools/PVE-Tools-9](https://github.com/PVE-Tools/PVE-Tools-9) - 面向 Proxmox VE 9.x 的一键运维脚本，覆盖 VM 生命周期运维、宿主机网络 / 防火墙 / IPv6、GPU / PCI 直通、系统维护与第三方生态集成。
 - [lbr77/SideImpactor](https://github.com/lbr77/SideImpactor) - pure frontend ipa signing page.
 - [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks.
@@ -751,7 +754,7 @@
 - [punitarani/fli](https://github.com/punitarani/fli) - Google Flights MCP, CLI and Python Library
 - [agent-infra/sandbox](https://github.com/agent-infra/sandbox) - All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a single Docker container.
 - [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) - State-of-the-art TTS model under 25MB 😻
-- [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) - Secure, Fast, and Extensible Sandbox runtime for AI agents.
+- [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) - Secure, Fast, and Extensible Sandbox runtime for AI agents.
 - [CodeDuet/codeduet-microvm-ai-agent-sandbox](https://github.com/CodeDuet/codeduet-microvm-ai-agent-sandbox) - MicroVM AI agent sandbox system using Cloud Hypervisor and Python with support for both Linux and Windows guest operating systems. The system provides hardware-level isolation through MicroVMs while m
 - [imbue-bit/OpenClaw-PwnKit](https://github.com/imbue-bit/OpenClaw-PwnKit) - Get shell to almost any OpenClaw host machine.
 - [public-clis/twitter-cli](https://github.com/public-clis/twitter-cli) - A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal
@@ -918,6 +921,7 @@
 
 ## Rust 
 
+- [DDULDDUCK/pingora-proxy-manager](https://github.com/DDULDDUCK/pingora-proxy-manager) - A high-performance, zero-downtime reverse proxy manager built on Cloudflare's Pingora. Simple, Modern, and Fast. Now supports Wildcard SSL & TCP/UDP Streams!
 - [Yeuoly/maleme](https://github.com/Yeuoly/maleme) - 骂了么
 - [c4pt0r/pie](https://github.com/c4pt0r/pie) - Rust port of the pi agent harness — coding agent + LLM runtime stack
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence. Private, Simple and extremely powerful.
