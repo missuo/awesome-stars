@@ -298,7 +298,7 @@
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
 - [sjlleo/nexttrace-backend](https://github.com/sjlleo/nexttrace-backend) - NextTrace BackEnd
 - [passteque/gluetun](https://github.com/passteque/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
-- [aurorax-neo/free-gpt3.5-2api](https://github.com/aurorax-neo/free-gpt3.5-2api) - free chat gpt api
+- [aurorax-neo/chat2api](https://github.com/aurorax-neo/chat2api) - chat2api
 - [MartialBE/one-hub](https://github.com/MartialBE/one-hub) - OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。
 - [cohere-ai/cohere-go](https://github.com/cohere-ai/cohere-go) - Go Library for Accessing the Cohere API
 - [imperatrona/twitter-scraper](https://github.com/imperatrona/twitter-scraper) - Scrape the Twitter frontend API without authentication with Golang.
@@ -1119,7 +1119,7 @@
 - [docker-easyconnect/docker-easyconnect](https://github.com/docker-easyconnect/docker-easyconnect) - 使深信服（Sangfor）开发的非自由的 VPN 软件 EasyConnect 和 aTrust 运行在 docker 或 podman 中，并作为网关和/或提供 socks5、http 代理服务
 - [rikumi/iconsur](https://github.com/rikumi/iconsur) - macOS Big Sur Adaptive Icon Generator
 - [esirplayground/AutoBuild-OpenWrt](https://github.com/esirplayground/AutoBuild-OpenWrt) - Build OpenWrt using GitHub Actions | 使用 GitHub Actions 编译 OpenWrt | 感谢P3TERX的项目源码|感谢KFERMercer的项目源码
-- [a244573118/WeChatIntercept](https://github.com/a244573118/WeChatIntercept) - 微信防撤回插件，一键安装，仅MAC可用，支持最新v4.1.10微信
+- [a244573118/WeChatIntercept](https://github.com/a244573118/WeChatIntercept) - 微信防撤回插件，一键安装，MAC可用，支持最新v4.1.10微信
 - [AlmaLinux/almalinux-deploy](https://github.com/AlmaLinux/almalinux-deploy) - EL to AlmaLinux migration tool.
 - [sarkrui/Eudic-for-Mac](https://github.com/sarkrui/Eudic-for-Mac) - 快速安装欧路词典并导入牛津高阶词典
 - [missuo/CloudflareWarp](https://github.com/missuo/CloudflareWarp) - Cloudflare Warp One Click Script
@@ -1135,6 +1135,7 @@
 
 ## Swift 
 
+- [lbr77/AssppJailbroken](https://github.com/lbr77/AssppJailbroken) - Modified with ipa download & ipa decrypt workflow!
 - [kageroumado/phosphene](https://github.com/kageroumado/phosphene) - A video wallpaper engine for macOS Tahoe
 - [mudkipme/MoeMemos](https://github.com/mudkipme/MoeMemos) - An app to help you capture thoughts and ideas
 - [lbr77/unfair](https://github.com/lbr77/unfair) - Fairplay DRM decrypt. Modified for jailbroken device on iOS.
