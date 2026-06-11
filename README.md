@@ -122,7 +122,7 @@
 - [skyzh/RISCV-Simulator](https://github.com/skyzh/RISCV-Simulator) - 💻 RISC-V Simulator of RV32I ISA. 5-stage pipeline / out-of-order execution with Tomasulo algorithm and Speculation. Support runtime visualization. Project report available.
 - [flipperdevices/qFlipper](https://github.com/flipperdevices/qFlipper) - qFlipper — desktop application for updating Flipper Zero firmware via PC
 - [vickiegpt/A16-microbenchmark](https://github.com/vickiegpt/A16-microbenchmark) - A repo to store what M1 explainer does and ~Armv9~ Armv8.6 ISA on A16
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3949 LeetCode Problems (Weekly Update)
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3958 LeetCode Problems (Weekly Update)
 - [qpdf/qpdf](https://github.com/qpdf/qpdf) - qpdf: A content-preserving PDF document transformer
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [google/fuse-archive](https://github.com/google/fuse-archive) - FUSE file system for archives and compressed files (ZIP, RAR, 7Z, ISO, TGZ, XZ...)
@@ -214,6 +214,7 @@
 - [Qv2ray/mmp-go](https://github.com/Qv2ray/mmp-go) - Mega Multiplexer, a single port multi-service relay for shadowsocks. 中转机单端口转发多台shadowsocks服务器。
 - [anytls/anytls-go](https://github.com/anytls/anytls-go) - 
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, 
+- [TogawaSakiko363/YALS](https://github.com/TogawaSakiko363/YALS) - Respwaning
 - [pouriyajamshidi/tcping](https://github.com/pouriyajamshidi/tcping) - Ping TCP ports using tcping. Inspired by Linux's ping utility. Written in Go
 - [certimate-go/certimate](https://github.com/certimate-go/certimate) - An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, renewal, and monitoring visually. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主
 - [Lakr233/spotify-api](https://github.com/Lakr233/spotify-api) - 
@@ -414,7 +415,6 @@
 - [serenakeyitan/sbti-wiki](https://github.com/serenakeyitan/sbti-wiki) - SBTI 人格测试完整结果图鉴 · 27 种结局的中文 Wiki（25 标准人格 + HHHH 兜底 + DRUNK 隐藏）·  https://sbti-wiki.pages.dev
 - [UnluckyNinja/SBTI-test](https://github.com/UnluckyNinja/SBTI-test) - 注意建立这个repo只是因为网页自身就是全部源码，原作者并未声明license所以本repo也不包含license，一切行为请自行斟酌，不要给原作者添麻烦。 原作者：B站@蛆肉儿串儿
 - [theforeveriris/simulated-12306-view](https://github.com/theforeveriris/simulated-12306-view) - 简易的12306购票模拟器.用于应急应付对方请求看购票截图的无理要求
-- [TogawaSakiko363/YALS](https://github.com/TogawaSakiko363/YALS) - Respwaning
 - [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Generator of customized Cloudflare error pages (unofficial)
 - [EltonChou/TwitterMediaHarvest](https://github.com/EltonChou/TwitterMediaHarvest) - Download twitter media with only one-click.
 - [zouzhekang/YJYpaper](https://github.com/zouzhekang/YJYpaper) - 一个用来记录武汉大学杨景媛论文问题的仓库
@@ -744,7 +744,7 @@
 ## Python 
 
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
-- [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - CLI and Python library to strip visible and invisible AI watermarks and provenance metadata (SynthID, C2PA, EXIF/XMP "Made with AI", Gemini sparkle) from AI-generated images
+- [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - AI watermark remover. CLI and Python library to strip visible and invisible AI watermarks (Gemini / Nano Banana sparkle, SynthID) and provenance metadata (C2PA, EXIF, IPTC) from images.
 - [JUk1-GH/gpt-promo-scanner](https://github.com/JUk1-GH/gpt-promo-scanner) - ChatGPT Team(Business) 促销码自动扫描工具 — 批量发现/验证/价格收集，支持 17 国 34 个码，最高折扣 71% | ChatGPT Business promo code scanner — batch discovery, validation, price collection, 34 codes across 17 countries, up to 71% of
 - [yoavst/ida-ios-helper](https://github.com/yoavst/ida-ios-helper) - Plugin to ease reversing iOS projects
 - [anthropics/financial-services](https://github.com/anthropics/financial-services) - 
@@ -984,7 +984,7 @@
 - [Michael-A-Kuykendall/shimmy](https://github.com/Michael-A-Kuykendall/shimmy) - ⚡ Pure-Rust WebGPU inference engine — OpenAI-API compatible, GGUF native, runs on any GPU. No Python. No llama.cpp. Single binary.
 - [bgpkit/bgpkit-broker](https://github.com/bgpkit/bgpkit-broker) - Public BGP MRT data files metadata index.
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
-- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - Analyze coding (agent) CLI token usage and costs from local data.
+- [ccusage/ccusage](https://github.com/ccusage/ccusage) - Analyze coding (agent) CLI token usage and costs from local data.
 - [yuezk/GlobalProtect-openconnect](https://github.com/yuezk/GlobalProtect-openconnect) - A GlobalProtect VPN client for Linux, written in Rust, based on OpenConnect and Tauri, supports SSO with MFA, YubiKey, and client certificate authentication, etc.
 - [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) - 由 Rust & Tokio 驱动的哔哩哔哩同步工具
 - [Xerxes-2/clewdr](https://github.com/Xerxes-2/clewdr) - High Performance LLM Reverse Proxy
@@ -1138,6 +1138,7 @@
 
 ## Swift 
 
+- [caezium/Burrow](https://github.com/caezium/Burrow) - A free, open-source, native macOS GUI for the Mole CLI (mo): clean, uninstall, optimize, analyze disk, and watch live status. Plus long-range history + an MCP server for AI agents.
 - [NoopApp/noop](https://github.com/NoopApp/noop) - Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.
 - [lbr77/AssppJailbroken](https://github.com/lbr77/AssppJailbroken) - Modified with ipa download & ipa decrypt workflow!
 - [kageroumado/phosphene](https://github.com/kageroumado/phosphene) - A video wallpaper engine for macOS Tahoe
