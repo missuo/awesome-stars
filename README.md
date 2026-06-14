@@ -183,6 +183,7 @@
 
 ## Go 
 
+- [foxcpp/maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
 - [songloft-org/songloft](https://github.com/songloft-org/songloft) - 🎵 面向个人用户的自托管音乐服务器
 - [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/
 - [NetworkCats/Merged-IP-Data](https://github.com/NetworkCats/Merged-IP-Data) - merge multiple IP geolocation databases into a single MMDB file
@@ -451,7 +452,7 @@
 - [expo/skills](https://github.com/expo/skills) - A collection of AI agent skills for working with Expo projects and Expo Application Services
 - [Archeb/peer.as](https://github.com/Archeb/peer.as) - PEER.AS — explore global BGP routing, IP prefixes, ASNs, AS_PATH, origins and peering.
 - [antfu/qr-scanner-wechat](https://github.com/antfu/qr-scanner-wechat) - QR Code scanner in JS with Open CV and WeChat's Algorithm
-- [dwgx/WindsurfAPI](https://github.com/dwgx/WindsurfAPI) - Windsurf-to-OpenAI compatible API proxy
+- [dwgx/WindsurfAPI](https://github.com/dwgx/WindsurfAPI) - Windsurf OpenAI-compatible and Anthropic-compatible LLM API proxy
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. 
 - [PVE-Tools/PVE-Tools-9](https://github.com/PVE-Tools/PVE-Tools-9) - 面向 Proxmox VE 9.x 的一键运维脚本，覆盖 VM 生命周期运维、宿主机网络 / 防火墙 / IPv6、GPU / PCI 直通、系统维护与第三方生态集成。
 - [lbr77/SideImpactor](https://github.com/lbr77/SideImpactor) - pure frontend ipa signing page.
@@ -1329,7 +1330,7 @@
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
-- [aloth/olcli](https://github.com/aloth/olcli) - Overleaf from your terminal — pull, push, two-way sync, compile, and manage LaTeX projects via CLI. Smart .olignore filtering, deletion propagation, self-hosted Overleaf/ShareLaTeX support, AgentSkill
+- [aloth/olcli](https://github.com/aloth/olcli) - Overleaf CLI, library & MCP server — pull, push, sync, compile LaTeX projects. Use from terminal, import as TypeScript library, or connect AI agents via Model Context Protocol.
 - [SukkaW/dashflare](https://github.com/SukkaW/dashflare) - An unofficial Cloudflare dashboard built on top of Cloudflare API.
 - [SukkaW/sekisho](https://github.com/SukkaW/sekisho) - Authentication and Access Control for any React app
 - [mattpocock/sandcastle](https://github.com/mattpocock/sandcastle) - Orchestrate sandboxed coding agents in TypeScript with sandcastle.run()
