@@ -54,6 +54,7 @@
 
 ## Astro 
 
+- [satnaing/astro-paper](https://github.com/satnaing/astro-paper) - A minimal, accessible and SEO-friendly Astro blog theme.
 - [miantiao-me/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong](https://github.com/miantiao-me/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong) - Make your URL looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooonger
 - [miantiao-me/astro-aria](https://github.com/miantiao-me/astro-aria) - A personal blog, portfolio, or blog template
 - [miantiao-me/RSS.Beauty](https://github.com/miantiao-me/RSS.Beauty) - Make Your RSS Beautiful!
@@ -862,7 +863,7 @@
 - [chenfei-wu/TaskMatrix](https://github.com/chenfei-wu/TaskMatrix) - 
 - [VeNoMouS/cloudscraper](https://github.com/VeNoMouS/cloudscraper) - A Python module to bypass Cloudflare's anti-bot page.
 - [yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) - Make bilingual epub books Using AI translate
-- [father-bot/chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 💬 Telegram bot with ChatGPT, Python-based, using OpenAI's API.
+- [father-bot/chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 💬 Telegram bot with ChatGPT & Claude Python-based, using OpenAI's API.
 - [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api) - Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
 - [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
@@ -1141,6 +1142,7 @@
 
 ## Swift 
 
+- [EEliberto/IPA-Download](https://github.com/EEliberto/IPA-Download) - 一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。
 - [caezium/Burrow](https://github.com/caezium/Burrow) - 🐹 A free, open-source, native macOS GUI for the Mole CLI (mo): clean, uninstall, optimize, analyze disk, and watch live status. Plus long-range history + an MCP server for AI agents.
 - [NoopApp/noop](https://github.com/NoopApp/noop) - Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.
 - [mysk-research/loupe](https://github.com/mysk-research/loupe) - A privacy-focused iOS app that raises awareness about what native apps can see
@@ -1220,7 +1222,7 @@
 - [pawello2222/WidgetExamples](https://github.com/pawello2222/WidgetExamples) - A demo project showing different types of Widgets created with SwiftUI and WidgetKit.
 - [jtrivedi/VariableBlurView](https://github.com/jtrivedi/VariableBlurView) - An example of how to create a live, variable blur effect on iOS.
 - [nikstar/VariableBlur](https://github.com/nikstar/VariableBlur) - SwiftUI variable blur (progressive blur)
-- [lzell/AIProxySwift](https://github.com/lzell/AIProxySwift) - Swift client for AI providers. Can make requests straight to the provider or proxied through our API key protection backend
+- [AIProxyTeam/AIProxySwift](https://github.com/AIProxyTeam/AIProxySwift) - Swift clients for AI providers. You can make requests straight to the provider or proxied through our abuse protection backend
 - [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner) - A free, source-available and fair-code licensed mac app cleaner
 - [BastiaanJansen/toast-swift](https://github.com/BastiaanJansen/toast-swift) - Customizable Swift Toast view built with UIKit. 🍞
 - [pcccccc/AngelLive](https://github.com/pcccccc/AngelLive) - 
