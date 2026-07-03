@@ -280,6 +280,7 @@
 
 ## ai 
 
+- [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major) - 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 - [lobehub/lobe-icons](https://github.com/lobehub/lobe-icons) - 🥨 Lobe Icons - Brings AI/LLM brand logos to your React & React Native apps — static SVG/PNG/WebP, no dependencies.
 - [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - AI watermark remover. CLI and Python library to strip visible and invisible AI watermarks (Gemini / Nano Banana sparkle, SynthID) and provenance metadata (C2PA, EXIF, IPTC) from images.
@@ -296,7 +297,7 @@
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
-- [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) - Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS and Linux coming soon.
+- [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) - Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS waitlist open! Linux coming s
 - [looplj/axonhub](https://github.com/looplj/axonhub) - ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing.
 - [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - Your AI trading terminal assistant for US stocks, commodities, forex, and crypto.
 - [coder/httpjail](https://github.com/coder/httpjail) - HTTP(s) request filter for processes
@@ -332,7 +333,7 @@
 
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
-- [aloth/olcli](https://github.com/aloth/olcli) - Overleaf CLI, library & MCP server — pull, push, sync, compile LaTeX projects. Use from terminal, import as TypeScript library, or connect AI agents via Model Context Protocol.
+- [aloth/olcli](https://github.com/aloth/olcli) - Overleaf CLI - pull, push, sync, compile LaTeX projects from your terminal. Git remote helper, MCP server for AI agents, and TypeScript library.
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. 
 - [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ A CLI tool for tracking token usage from OpenCode, Claude Code, 🦞OpenClaw, Pi, Codex, Gemini, Cursor, AmpCode, Factory Droid, Kimi, and more! • 🏅Global Leaderboard + 2D/3D Contributions Graph
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
@@ -346,13 +347,13 @@
 ## algorithm 
 
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3973 LeetCode Problems (Weekly Update)
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3977 LeetCode Problems (Weekly Update)
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 
 ## algorithms 
 
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3973 LeetCode Problems (Weekly Update)
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3977 LeetCode Problems (Weekly Update)
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 
 ## analytics 
@@ -679,7 +680,7 @@
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
 - [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - AI watermark remover. CLI and Python library to strip visible and invisible AI watermarks (Gemini / Nano Banana sparkle, SynthID) and provenance metadata (C2PA, EXIF, IPTC) from images.
 - [julesklord/mangofetch](https://github.com/julesklord/mangofetch) - tui/cli tool for fetch everythin' in internet
-- [aloth/olcli](https://github.com/aloth/olcli) - Overleaf CLI, library & MCP server — pull, push, sync, compile LaTeX projects. Use from terminal, import as TypeScript library, or connect AI agents via Model Context Protocol.
+- [aloth/olcli](https://github.com/aloth/olcli) - Overleaf CLI - pull, push, sync, compile LaTeX projects from your terminal. Git remote helper, MCP server for AI agents, and TypeScript library.
 - [ProjectKumo/KumoApp](https://github.com/ProjectKumo/KumoApp) - A calm, native macOS client for the Mihomo proxy core, built with SwiftUI and a shared agent-friendly CLI.
 - [cdinnison/ray-finance](https://github.com/cdinnison/ray-finance) - An open-source AI financial advisor that learns your situation and gets smarter every conversation.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
@@ -771,7 +772,7 @@
 ## cpp 
 
 - [skyzh/RISCV-Simulator](https://github.com/skyzh/RISCV-Simulator) - 💻 RISC-V Simulator of RV32I ISA. 5-stage pipeline / out-of-order execution with Tomasulo algorithm and Speculation. Support runtime visualization. Project report available.
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3973 LeetCode Problems (Weekly Update)
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3977 LeetCode Problems (Weekly Update)
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 
 ## crawler 
@@ -855,7 +856,7 @@
 ## developer-tools 
 
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
-- [aloth/olcli](https://github.com/aloth/olcli) - Overleaf CLI, library & MCP server — pull, push, sync, compile LaTeX projects. Use from terminal, import as TypeScript library, or connect AI agents via Model Context Protocol.
+- [aloth/olcli](https://github.com/aloth/olcli) - Overleaf CLI - pull, push, sync, compile LaTeX projects from your terminal. Git remote helper, MCP server for AI agents, and TypeScript library.
 - [razvandimescu/numa](https://github.com/razvandimescu/numa) - Portable DNS resolver in Rust — .numa local domains, ad blocking, developer overrides
 - [bevibing/remote-opencode](https://github.com/bevibing/remote-opencode) - Discord bot for remote OpenCode CLI access
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
@@ -1121,6 +1122,7 @@
 
 ## git 
 
+- [aloth/olcli](https://github.com/aloth/olcli) - Overleaf CLI - pull, push, sync, compile LaTeX projects from your terminal. Git remote helper, MCP server for AI agents, and TypeScript library.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [j178/prek](https://github.com/j178/prek) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
 - [runxiyu/furgit](https://github.com/runxiyu/furgit) - Low-level Git plumbing library in pure Go
@@ -1244,7 +1246,7 @@
 - [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [blacktop/ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife
 - [wader/goutubedl](https://github.com/wader/goutubedl) - Go wrapper for youtube-dl and yt-dlp
-- [go-pay/gopay](https://github.com/go-pay/gopay) - 微信、支付宝、通联支付、拉卡拉、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】
+- [go-pay/gopay](https://github.com/go-pay/gopay) - 微信、支付宝、抖音、通联支付、拉卡拉、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [The-NeXT-Project/NeXT-Server](https://github.com/The-NeXT-Project/NeXT-Server) - Next generation proxy server.
 - [ipinfo/cli](https://github.com/ipinfo/cli) - Official Command Line Interface for the IPinfo API (IP geolocation and other types of IP data)
@@ -1382,6 +1384,7 @@
 
 ## homebrew 
 
+- [aloth/olcli](https://github.com/aloth/olcli) - Overleaf CLI - pull, push, sync, compile LaTeX projects from your terminal. Git remote helper, MCP server for AI agents, and TypeScript library.
 - [momenbasel/PureMac](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The Package Manager for Everywhere
@@ -1454,6 +1457,7 @@
 
 ## ios 
 
+- [londek/ipadecrypt](https://github.com/londek/ipadecrypt) - 🔓 ipadecrypt is an open-source tool for downloading, patching and decrypting .ipa's with minimal user intervention on palera1n and dopamine jailbreaks
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [mudkipme/MoeMemos](https://github.com/mudkipme/MoeMemos) - An app to help you capture thoughts and ideas
@@ -1470,7 +1474,7 @@
 - [bahattinkoc/ipaverse](https://github.com/bahattinkoc/ipaverse) - Native macOS workbench to download, inspect, archive, re-sign, and install iOS App Store IPAs.
 - [DnV1eX/LiquidGlassKit](https://github.com/DnV1eX/LiquidGlassKit) - Backport of Apple’s Liquid Glass system for iOS 13–18 with native API parity. Includes a reimplementation for iOS 26+ that unlocks advanced customization beyond the native system's limits.
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
-- [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) - Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS and Linux coming soon.
+- [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) - Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS waitlist open! Linux coming s
 - [OwnGoalStudio/TrollVNC](https://github.com/OwnGoalStudio/TrollVNC) - VNC server for iOS devices, allowing remote access and control of the device’s screen.
 - [FouadRaheb/Regram-for-Instagram](https://github.com/FouadRaheb/Regram-for-Instagram) - The all-in-one tweak for Instagram
 - [Dean151/ButtonKit](https://github.com/Dean151/ButtonKit) - Asynchronous and Throwable button implementation for SwiftUI, with animations and progress tracking
@@ -1625,14 +1629,13 @@
 
 ## latex 
 
-- [aloth/olcli](https://github.com/aloth/olcli) - Overleaf CLI, library & MCP server — pull, push, sync, compile LaTeX projects. Use from terminal, import as TypeScript library, or connect AI agents via Model Context Protocol.
+- [aloth/olcli](https://github.com/aloth/olcli) - Overleaf CLI - pull, push, sync, compile LaTeX projects from your terminal. Git remote helper, MCP server for AI agents, and TypeScript library.
 - [mitex-rs/mitex](https://github.com/mitex-rs/mitex) - LaTeX support for Typst, powered by Rust and WASM. https://mitex-rs.github.io/mitex/
 - [erweixin/RaTeX](https://github.com/erweixin/RaTeX) - &gt;99.5% KaTeX syntax coverage. LaTeX math renderer in pure Rust. No JavaScript, no WebView, no DOM. One Rust core → iOS, Android, Flutter, Web, PNG. C ABI · WASM · Server-side PNG/SVG.
 - [tuna/thuthesis](https://github.com/tuna/thuthesis) - LaTeX Thesis Template for Tsinghua University
 
 ## library 
 
-- [aloth/olcli](https://github.com/aloth/olcli) - Overleaf CLI, library & MCP server — pull, push, sync, compile LaTeX projects. Use from terminal, import as TypeScript library, or connect AI agents via Model Context Protocol.
 - [gphoto/libgphoto2](https://github.com/gphoto/libgphoto2) - The libgphoto2 camera access and control library.
 - [coder/ghostty-web](https://github.com/coder/ghostty-web) - Ghostty for the web with xterm.js API compatibility
 - [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
@@ -1770,6 +1773,7 @@
 - [SuperCmdLabs/SuperCmd](https://github.com/SuperCmdLabs/SuperCmd) - Powerful MacOS Launcher
 - [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
 - [rorkai/App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more. JSON-first, no interactive prompts
+- [nickustinov/itsytv-macos](https://github.com/nickustinov/itsytv-macos) - The missing Apple TV remote app for macOS
 - [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
 - [Ebullioscopic/Atoll](https://github.com/Ebullioscopic/Atoll) - Dynamic Island for macOS
 - [bahattinkoc/ipaverse](https://github.com/bahattinkoc/ipaverse) - Native macOS workbench to download, inspect, archive, re-sign, and install iOS App Store IPAs.
@@ -1779,7 +1783,7 @@
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [HuLaSpark/HuLa](https://github.com/HuLaSpark/HuLa) - 🍀 A cross-platform instant messaging desktop application with exceptional performance built on Rust + Vue3, compatible with Windows, macOS, Linux, Android, and iOS（一款基于Rust+Vue3极致性能的跨平台即时通讯桌面应用，兼容Wind
 - [666OS/ClashMac](https://github.com/666OS/ClashMac) - Native Proxy Experience Built for macOS
-- [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) - Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS and Linux coming soon.
+- [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) - Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS waitlist open! Linux coming s
 - [XcodesOrg/XcodesApp](https://github.com/XcodesOrg/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click.
 - [gee1k/uPic](https://github.com/gee1k/uPic) - 📤uPic is a native, powerful, beautiful and simple picture and file upload tool for macOS.
 - [johnste/finicky](https://github.com/johnste/finicky) - A macOS app for customizing which browser to start
@@ -1887,7 +1891,7 @@
 
 - [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
 - [caezium/Burrow](https://github.com/caezium/Burrow) - 🐹 A free, open-source, native macOS GUI for the Mole CLI (mo): clean, uninstall, optimize, analyze disk, and watch live status. Plus long-range history + an MCP server for AI agents. Coming to Windows
-- [aloth/olcli](https://github.com/aloth/olcli) - Overleaf CLI, library & MCP server — pull, push, sync, compile LaTeX projects. Use from terminal, import as TypeScript library, or connect AI agents via Model Context Protocol.
+- [aloth/olcli](https://github.com/aloth/olcli) - Overleaf CLI - pull, push, sync, compile LaTeX projects from your terminal. Git remote helper, MCP server for AI agents, and TypeScript library.
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 - [punitarani/fli](https://github.com/punitarani/fli) - Google Flights MCP, CLI and Python Library
 - [agent-infra/sandbox](https://github.com/agent-infra/sandbox) - All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a single Docker container.
@@ -1941,6 +1945,7 @@
 
 ## music 
 
+- [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major) - 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器
 - [songloft-org/songloft](https://github.com/songloft-org/songloft) - 🎵 面向个人用户的自托管音乐服务器
 - [rasmuslos/AmpFin](https://github.com/rasmuslos/AmpFin) - Native Jellyfin music player for iOS & iPadOS
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
@@ -2010,7 +2015,7 @@
 
 ## nodejs 
 
-- [aloth/olcli](https://github.com/aloth/olcli) - Overleaf CLI, library & MCP server — pull, push, sync, compile LaTeX projects. Use from terminal, import as TypeScript library, or connect AI agents via Model Context Protocol.
+- [aloth/olcli](https://github.com/aloth/olcli) - Overleaf CLI - pull, push, sync, compile LaTeX projects from your terminal. Git remote helper, MCP server for AI agents, and TypeScript library.
 - [xdevplatform/samples](https://github.com/xdevplatform/samples) - Sample code for the X API v2 endpoints
 - [sdotee/docs](https://github.com/sdotee/docs) - Official documentation for S.EE
 - [galaxy-s10/billd-desk](https://github.com/galaxy-s10/billd-desk) - 基于Vue3 + WebRTC + Nodejs + Flutter搭建的远程桌面控制、游戏串流
@@ -2149,6 +2154,8 @@
 
 ## others 
 
+- [Lakr233/unfaird](https://github.com/Lakr233/unfaird) - 
+- [lbr77/unfaird](https://github.com/lbr77/unfaird) - modified for decrypting on iphone.
 - [cocoonstack/cocoon-macos](https://github.com/cocoonstack/cocoon-macos) - Run full macOS (Tahoe 26) as a QEMU/KVM guest on x86 Linux — image-build automation + thin cocoon-style CLI
 - [iniwex5/vohive-release](https://github.com/iniwex5/vohive-release) - 
 - [vikas5914/astro-takumi](https://github.com/vikas5914/astro-takumi) - Generate Open Graph images for your Astro site using Takumi.
@@ -2291,7 +2298,6 @@
 - [miantiao-me/cloud-claw](https://github.com/miantiao-me/cloud-claw) - Run OpenClaw with One Click on Cloudflare Containers to Create Your Personal Agent
 - [xdevplatform/xdk-typescript](https://github.com/xdevplatform/xdk-typescript) - TypeScript repo for the XDK auto-generated code.
 - [xdevplatform/xdk-python](https://github.com/xdevplatform/xdk-python) - Python repo for the XDK auto-generated code.
-- [nickustinov/itsytv-macos](https://github.com/nickustinov/itsytv-macos) - The missing Apple TV remote app for macOS
 - [hwangdev97/Rosetta](https://github.com/hwangdev97/Rosetta) - Vibe Coding with Cursor - Modern iOS localization file translator with beautiful CLI
 - [Dimillian/Skills](https://github.com/Dimillian/Skills) - My Codex Skills
 - [lynaghk/vibe](https://github.com/lynaghk/vibe) - Easy Linux virtual machine on MacOS to sandbox LLM agents.
@@ -2305,7 +2311,7 @@
 - [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X
 - [blader/humanizer](https://github.com/blader/humanizer) - Claude Code skill that removes signs of AI-generated writing from text
 - [xixu-me/deeplx](https://github.com/xixu-me/deeplx) - Best serverless implementation of DeepLX
-- [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim) - Slimmed, cleaned and fine-tuned oh-my-opencode fork, consumes much less tokens
+- [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim) - Lean, fine tuned Opencode multi agent suite · Mix any models · Auto delegate tasks
 - [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - The Generative UI framework
 - [amak-tech/port-buddy](https://github.com/amak-tech/port-buddy) - Expose local ports to the internet in seconds
 - [iannuttall/dotagents](https://github.com/iannuttall/dotagents) - One location for all of your hooks, commands, skills, and AGENT/CLAUDE.md files.
@@ -2908,6 +2914,7 @@
 
 ## pwa 
 
+- [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major) - 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 
@@ -2937,8 +2944,8 @@
 - [GilbN/geoip2influx](https://github.com/GilbN/geoip2influx) - A python script that will parse the nginx access.log and send geolocation metrics and log metrics to InfluxDB
 - [Soroosh-N/us_visa_scheduler](https://github.com/Soroosh-N/us_visa_scheduler) - US VISA (usvisa-info) appointment re-scheduler bot with python.
 - [yangwenmai/github-trending-backup](https://github.com/yangwenmai/github-trending-backup) - Github trending backup by everyday.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Python APIs for web automation, testing, and bypassing bot-detection.
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3973 LeetCode Problems (Weekly Update)
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 APIs for web automation, testing, and bypassing bot-detection.
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3977 LeetCode Problems (Weekly Update)
 - [ading2210/poe-api](https://github.com/ading2210/poe-api) - [UNMAINTAINED] A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
 - [ShadowWhisperer/Remove-MS-Edge](https://github.com/ShadowWhisperer/Remove-MS-Edge) - Uninstall Microsoft Edge with an executable or batch script.
 - [tobymao/sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler
@@ -3006,6 +3013,7 @@
 
 ## react 
 
+- [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major) - 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器
 - [Innei/yoake](https://github.com/Innei/yoake) - Local-only web tool for restoring DJI D-Log M footage with a LUT and exporting Ultra HDR JPEG stills — WebGPU, macOS Chrome.
 - [lobehub/lobe-icons](https://github.com/lobehub/lobe-icons) - 🥨 Lobe Icons - Brings AI/LLM brand logos to your React & React Native apps — static SVG/PNG/WebP, no dependencies.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
@@ -3325,8 +3333,9 @@
 - [sindresorhus/DSStore](https://github.com/sindresorhus/DSStore) - Parse and write macOS .DS_Store files from Swift
 - [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
 - [rorkai/App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more. JSON-first, no interactive prompts
+- [nickustinov/itsytv-macos](https://github.com/nickustinov/itsytv-macos) - The missing Apple TV remote app for macOS
 - [bahattinkoc/ipaverse](https://github.com/bahattinkoc/ipaverse) - Native macOS workbench to download, inspect, archive, re-sign, and install iOS App Store IPAs.
-- [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) - Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS and Linux coming soon.
+- [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) - Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS waitlist open! Linux coming s
 - [XcodesOrg/XcodesApp](https://github.com/XcodesOrg/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click.
 - [fatbobman/ObservableDefaults](https://github.com/fatbobman/ObservableDefaults) - A comprehensive solution integrating SwiftUI + Observation + UserDefaults + iCloud Key-Value Store
 - [gee1k/uPic](https://github.com/gee1k/uPic) - 📤uPic is a native, powerful, beautiful and simple picture and file upload tool for macOS.
@@ -3568,11 +3577,12 @@
 
 ## typescript 
 
+- [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major) - 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器
 - [satnaing/astro-paper](https://github.com/satnaing/astro-paper) - A minimal, accessible and SEO-friendly Astro blog theme.
 - [Innei/yoake](https://github.com/Innei/yoake) - Local-only web tool for restoring DJI D-Log M footage with a LUT and exporting Ultra HDR JPEG stills — WebGPU, macOS Chrome.
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 - [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
-- [aloth/olcli](https://github.com/aloth/olcli) - Overleaf CLI, library & MCP server — pull, push, sync, compile LaTeX projects. Use from terminal, import as TypeScript library, or connect AI agents via Model Context Protocol.
+- [aloth/olcli](https://github.com/aloth/olcli) - Overleaf CLI - pull, push, sync, compile LaTeX projects from your terminal. Git remote helper, MCP server for AI agents, and TypeScript library.
 - [tiajinsha/JKVideo](https://github.com/tiajinsha/JKVideo) - 高颜值第三方 B 站 React Native 客户端
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful & flexible React.js docs framework.
 - [steipete/sweet-cookie](https://github.com/steipete/sweet-cookie) - Extract cookies out of your browser. TypeScript. Any OS.
