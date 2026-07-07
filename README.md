@@ -314,7 +314,7 @@
 - [imperatrona/twitter-scraper](https://github.com/imperatrona/twitter-scraper) - Scrape the Twitter frontend API without authentication with Golang.
 - [liushuangls/go-anthropic](https://github.com/liushuangls/go-anthropic) - Anthropic Claude API wrapper for Go
 - [bililive-go/bililive-go](https://github.com/bililive-go/bililive-go) - 一个直播录制工具
-- [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun)
+- [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto)
 - [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for pers
 - [eatmoreapple/openwechat](https://github.com/eatmoreapple/openwechat) - golang微信SDK
 - [zhsj/wghttp](https://github.com/zhsj/wghttp) - Turn WireGuard to HTTP & SOCKS5 proxies
@@ -387,6 +387,7 @@
 - [fcambus/telize](https://github.com/fcambus/telize) - High performance JSON IP and GeoIP REST API (IP Geolocation)
 - [nekomeowww/elapsing](https://github.com/nekomeowww/elapsing) - A simple Golang library for measuring elapsed time in application, function calls, and goroutine
 - [52funny/pikpakcli](https://github.com/52funny/pikpakcli) - pikpak command line tool. Including download, upload, share and so on.
+- [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 - [bookstairs/bookhunter](https://github.com/bookstairs/bookhunter) - A download tools for clawing the ebooks from internets.
 - [lwch/natpass](https://github.com/lwch/natpass) - 🔥居家办公，远程开发神器
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
@@ -433,7 +434,6 @@
 - [zoegea/password-generator](https://github.com/zoegea/password-generator) - 密码生成工具
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-- [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 - [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
 - [ItzSudhan/Discord-MusicBot](https://github.com/ItzSudhan/Discord-MusicBot) - An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support!
 - [songquanpeng/go-file](https://github.com/songquanpeng/go-file) - 基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.
@@ -467,7 +467,7 @@
 - [vikiboss/r2-web](https://github.com/vikiboss/r2-web) - 📁 轻盈优雅的 Web 原生 Cloudflare R2 桶文件管理器，一切皆在浏览器中完成。 | 📁 A lightweight, elegant, pure-browser Cloudflare R2 file manager. Everything happens right in your browser.
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [lbr77/anisette-js](https://github.com/lbr77/anisette-js) - browser run local anisette support with js and wasm
-- [justlovemaki/AIClient2API](https://github.com/justlovemaki/AIClient2API) - Simulates Gemini CLI, Antigravity, Codex, Grok, and Kiro client requests, compatible with the OpenAI API. It supports thousands of Gemini model requests per day and offers free use of the built-in Cla
+- [justlovemaki/AIClient2API](https://github.com/justlovemaki/AIClient2API) - Self-hosted multi-protocol AI API proxy for Antigravity, Codex, Grok, Kiro, OpenAI, Claude, and custom providers. Supports OpenAI-compatible API, Claude API, Gemini protocol conversion, GPT, Grok Buil
 - [dompling/TrollScript-Store](https://github.com/dompling/TrollScript-Store) - TrollScript 商店脚本
 - [dompling/TrollScript-Release](https://github.com/dompling/TrollScript-Release) - 巨魔快捷指令脚本
 - [GargantuaX/gemini-watermark-remover](https://github.com/GargantuaX/gemini-watermark-remover) - A high-performance, 100% client-side tool for removing Gemini AI image & video watermarks. Built with pure JavaScript using mathematically precise Reverse Alpha Blending. / 基于 JavaScript 的纯浏览器端 Gemini
@@ -665,6 +665,7 @@
 - [Olcmyk/HuChenFeng](https://github.com/Olcmyk/HuChenFeng) - 收集户晨风的所有内容
 - [Xposed-Modules-Repo/com.houvven.impad](https://github.com/Xposed-Modules-Repo/com.houvven.impad) - I'm Pad
 - [PicoTrex/Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) - A curated collection of fun and creative examples generated with Nano Banana & Nano Banana Pro🍌, Gemini-2.5-flash-image based model. We also release Nano-consistent-150K openly to support the communit
+- [btjawa/BiliTools](https://github.com/btjawa/BiliTools) - 本项目已停止维护。
 - [sjzar/chatlog](https://github.com/sjzar/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
 - [FouadRaheb/Regram-for-Instagram](https://github.com/FouadRaheb/Regram-for-Instagram) - The all-in-one tweak for Instagram
 - [KHwang9883/MobileModels](https://github.com/KHwang9883/MobileModels) - 手机品牌型号汇总 | Mobile Models | This repository is licensed under CC BY-NC-SA 4.0
@@ -688,7 +689,7 @@
 - [h3110w0r1d-y/termius-cracked](https://github.com/h3110w0r1d-y/termius-cracked) - Termius Pro
 - [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 
 - [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - Awesome apps, software, and SaaS deals on Black Friday.
-- [1c7/Translate-Subtitle-File](https://github.com/1c7/Translate-Subtitle-File) - 🔥（26年6月20号更新 v5.5.8 版）产品名："译幕"，用途：翻译字幕文件 .srt .ass .vtt。软件有网页版（zimoo.app）和桌面版 。主要卖点：用户自己 API key，这样价格最低 （产品英文名：Zimoo） BYOK（Bring Your Own Key）
+- [1c7/Translate-Subtitle-File](https://github.com/1c7/Translate-Subtitle-File) - 🔥（26年7月6号更新 v5.5.14 版）产品名："译幕"，用途：翻译字幕文件 .srt .ass .vtt。软件有网页版（zimoo.app）和桌面版 。主要卖点：用户自己 API key，这样价格最低 （产品英文名：Zimoo） BYOK（Bring Your Own Key）
 - [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 - [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
 - [megaease/Remembering-Haoel](https://github.com/megaease/Remembering-Haoel) - 记录您对左耳朵耗子（陈皓）的点滴回忆
@@ -997,7 +998,6 @@
 - [yuezk/GlobalProtect-openconnect](https://github.com/yuezk/GlobalProtect-openconnect) - A GlobalProtect VPN client for Linux, written in Rust, based on OpenConnect and Tauri, supports SSO with MFA, YubiKey, and client certificate authentication, etc.
 - [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) - 由 Rust & Tokio 驱动的哔哩哔哩同步工具
 - [Xerxes-2/clewdr](https://github.com/Xerxes-2/clewdr) - High Performance LLM Reverse Proxy
-- [btjawa/BiliTools](https://github.com/btjawa/BiliTools) - A cross-platform bilibili toolbox. 跨平台哔哩哔哩工具箱，支持下载视频、番剧等等各类资源
 - [Skardyy/mcat](https://github.com/Skardyy/mcat) - Terminal image, video, and Markdown viewer
 - [quincy-rs/quincy](https://github.com/quincy-rs/quincy) - Post-quantum QUIC-based VPN
 - [meh/rust-tun](https://github.com/meh/rust-tun) - TUN device creation and handling.
@@ -1149,13 +1149,12 @@
 
 ## Swift 
 
+- [Paisseon/SatellaJailed](https://github.com/Paisseon/SatellaJailed) - Jailed in-app purchase cracker (iOS 12-16)
 - [Lakr233/unfaird](https://github.com/Lakr233/unfaird) - 
 - [lbr77/unfaird](https://github.com/lbr77/unfaird) - modified for decrypting on iphone.
 - [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
 - [madeye/shadowvpn-ios](https://github.com/madeye/shadowvpn-ios) - Native iOS client for ShadowVPN — a UDP, pre-shared-key, layer-3 tunnel using the shadowsocks AEAD UDP wire scheme (SwiftUI app + NEPacketTunnelProvider + Rust core).
-- [EEliberto/IPA-Download](https://github.com/EEliberto/IPA-Download) - 一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。
 - [caezium/Burrow](https://github.com/caezium/Burrow) - 🐹 A free, open-source, native macOS GUI for the Mole CLI (mo): clean, uninstall, optimize, analyze disk, and watch live status. Plus long-range history + an MCP server for AI agents. Coming to Windows
-- [NoopApp/noop](https://github.com/NoopApp/noop) - Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.
 - [mysk-research/loupe](https://github.com/mysk-research/loupe) - A privacy-focused iOS app that raises awareness about what native apps can see
 - [lbr77/AssppJailbroken](https://github.com/lbr77/AssppJailbroken) - Modified with ipa download & ipa decrypt workflow!
 - [kageroumado/phosphene](https://github.com/kageroumado/phosphene) - A video wallpaper engine for macOS Tahoe and Golden Gate
