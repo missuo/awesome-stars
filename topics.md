@@ -2178,6 +2178,7 @@
 
 ## others 
 
+- [V4bel/Januscape](https://github.com/V4bel/Januscape) - 
 - [Paisseon/SatellaJailed](https://github.com/Paisseon/SatellaJailed) - Jailed in-app purchase cracker (iOS 12-16)
 - [Lakr233/unfaird](https://github.com/Lakr233/unfaird) - 
 - [lbr77/unfaird](https://github.com/lbr77/unfaird) - modified for decrypting on iphone.
