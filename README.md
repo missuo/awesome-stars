@@ -185,6 +185,8 @@
 
 ## Go 
 
+- [giszh86/vohive](https://github.com/giszh86/vohive) - 
+- [boa-z/vowifi-go](https://github.com/boa-z/vowifi-go) - 本项目基于 VoHive 原本依赖的闭源 vowifi 版本的公共接口进行开发，本项目与 VoHive 官方团队无任何关联，本项目功能尚未实现且处于实验阶段，仅个人学习使用
 - [londek/ipadecrypt](https://github.com/londek/ipadecrypt) - 🔓 ipadecrypt is an open-source tool for downloading, patching and decrypting .ipa's with minimal user intervention on palera1n and dopamine jailbreaks
 - [cocoonstack/cocoon-macos](https://github.com/cocoonstack/cocoon-macos) - Run full macOS (Tahoe 26) as a QEMU/KVM guest on x86 Linux — image-build automation + thin cocoon-style CLI
 - [Lakr233/mini-control-public](https://github.com/Lakr233/mini-control-public) - Mac mini cluster management system for browser-controlled macOS VMs
@@ -372,7 +374,7 @@
 - [oschwald/geoip2-golang](https://github.com/oschwald/geoip2-golang) - Unofficial MaxMind GeoIP2 Reader for Go
 - [OwO-Network/WeiboSearcher](https://github.com/OwO-Network/WeiboSearcher) - Weibo Data Searcher
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
-- [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required
+- [OwO-Network/DLX](https://github.com/OwO-Network/DLX) - DLX - Self-hosted translation API server. Unofficial; not affiliated with DeepL SE.
 - [iyear/E5SubBot](https://github.com/iyear/E5SubBot) - 🤖 Telebot for E5 Renewal
 - [tucnak/telebot](https://github.com/tucnak/telebot) - Telebot is a Telegram bot framework in Go.
 - [go-telegram-bot-api/telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) - Golang bindings for the Telegram Bot API
@@ -458,7 +460,7 @@
 - [Archeb/peer.as](https://github.com/Archeb/peer.as) - PEER.AS — explore global BGP routing, IP prefixes, ASNs, AS_PATH, origins and peering.
 - [antfu/qr-scanner-wechat](https://github.com/antfu/qr-scanner-wechat) - QR Code scanner in JS with Open CV and WeChat's Algorithm
 - [aloth/olcli](https://github.com/aloth/olcli) - Overleaf CLI - pull, push, sync, compile LaTeX projects from your terminal. Git remote helper, MCP server for AI agents, and TypeScript library.
-- [dwgx/WindsurfAPI](https://github.com/dwgx/WindsurfAPI) - Windsurf OpenAI-compatible and Anthropic-compatible LLM API proxy
+- [dwgx/WindsurfAPI](https://github.com/dwgx/WindsurfAPI) - Turn Windsurf / Devin Desktop's 100+ AI models (Claude, GPT, Gemini, DeepSeek, Kimi, GLM, SWE) into OpenAI-, Anthropic- & Gemini-compatible APIs. Zero-dependency self-hosted reverse proxy for Claude C
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. 
 - [PVE-Tools/PVE-Tools-9](https://github.com/PVE-Tools/PVE-Tools-9) - 面向 Proxmox VE 9.x 的一键运维脚本，覆盖 VM 生命周期运维、宿主机网络 / 防火墙 / IPv6、GPU / PCI 直通、系统维护与第三方生态集成。
 - [lbr77/SideImpactor](https://github.com/lbr77/SideImpactor) - pure frontend ipa signing page.
@@ -1606,7 +1608,7 @@
 ## Zig 
 
 - [smithersai/claude-p](https://github.com/smithersai/claude-p) - Drop-in replacement for `claude -p` that drives the interactive Claude Code TUI inside an in-process zmux PTY session.
-- [vercel-labs/zero-native](https://github.com/vercel-labs/zero-native) - Build desktop + mobile apps with Zig and web UI
+- [vercel-labs/native](https://github.com/vercel-labs/native) - Toolkit for building native desktop apps
 - [zon-dev/zinc](https://github.com/zon-dev/zinc) - Zinc is a web framework written in pure Zig with a focus on high performance, usability, security, and extensibility.
 - [justrach/turboAPI](https://github.com/justrach/turboAPI) - FastAPI-compatible Python framework with Zig HTTP core; 7x faster, free-threading native
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
