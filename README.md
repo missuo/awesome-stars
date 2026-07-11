@@ -70,7 +70,7 @@
 - [V4bel/Januscape](https://github.com/V4bel/Januscape) - 
 - [w2599/Dopamine](https://github.com/w2599/Dopamine) - Dopamine is a semi-untethered permasigned jailbreak for iOS 15
 - [roothide/Dopamine2-roothide](https://github.com/roothide/Dopamine2-roothide) - Dopamine is a semi-untethered jailbreak for iOS 15 and 16
-- [gkoh/furble](https://github.com/gkoh/furble) - A bluetooth wireless remote shutter release for Fujifilm X/GFX, Canon EOS, Nikon and Sony cameras.
+- [gkoh/furble](https://github.com/gkoh/furble) - A bluetooth wireless remote shutter release for Fujifilm X/GFX, Canon EOS, Ricoh, Nikon and Sony cameras.
 - [califio/publications](https://github.com/califio/publications) - Publications from Calif
 - [Lakr233/SSHKit](https://github.com/Lakr233/SSHKit) - 
 - [gphoto/libgphoto2](https://github.com/gphoto/libgphoto2) - The libgphoto2 camera access and control library.
@@ -216,7 +216,6 @@
 - [danielpaulus/go-ios](https://github.com/danielpaulus/go-ios) - This is an operating system independent implementation of iOS device features. You can run UI tests, launch or kill apps, install apps etc. with it.
 - [sdotee/cli](https://github.com/sdotee/cli) - A command-line client for the S.EE content sharing platform
 - [jyz0309/NotionAI-go](https://github.com/jyz0309/NotionAI-go) - Unofficial NotionAI Go SDK
-- [openclaw/goplaces](https://github.com/openclaw/goplaces) - Modern Google Places CLI in Go
 - [openclaw/gogcli](https://github.com/openclaw/gogcli) - Google Workspace in your terminal.
 - [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
 - [nghyane/launchdock](https://github.com/nghyane/launchdock) - Use Claude and GPT through one local gateway with OpenAI-compatible and Claude-native APIs.
@@ -456,12 +455,13 @@
 
 ## JavaScript 
 
+- [zanwei/chatgpt-model-selector](https://github.com/zanwei/chatgpt-model-selector) - ChatGPT-inspired model intelligence picker as a zero-dependency Web Component (MIT)
 - [tiagozip/cap](https://github.com/tiagozip/cap) - Free, open-source and self-hosted CAPTCHA alternative to reCAPTCHA. Privacy-first and powered by proof-of-work and instrumentation challenges.
 - [Archeb/peer.as](https://github.com/Archeb/peer.as) - PEER.AS — explore global BGP routing, IP prefixes, ASNs, AS_PATH, origins and peering.
 - [antfu/qr-scanner-wechat](https://github.com/antfu/qr-scanner-wechat) - QR Code scanner in JS with Open CV and WeChat's Algorithm
 - [aloth/olcli](https://github.com/aloth/olcli) - Overleaf CLI - pull, push, sync, compile LaTeX projects from your terminal. Git remote helper, MCP server for AI agents, and TypeScript library.
 - [dwgx/WindsurfAPI](https://github.com/dwgx/WindsurfAPI) - Turn Windsurf / Devin Desktop's 100+ AI models (Claude, GPT, Gemini, DeepSeek, Kimi, GLM, SWE) into OpenAI-, Anthropic- & Gemini-compatible APIs. Zero-dependency self-hosted reverse proxy for Claude C
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. 
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI -
 - [PVE-Tools/PVE-Tools-9](https://github.com/PVE-Tools/PVE-Tools-9) - 面向 Proxmox VE 9.x 的一键运维脚本，覆盖 VM 生命周期运维、宿主机网络 / 防火墙 / IPv6、GPU / PCI 直通、系统维护与第三方生态集成。
 - [lbr77/SideImpactor](https://github.com/lbr77/SideImpactor) - pure frontend ipa signing page.
 - [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks.
@@ -983,7 +983,7 @@
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity
-- [ferronweb/ferron](https://github.com/ferronweb/ferron) - A fast, memory-safe web server written in Rust.
+- [ferronweb/ferron](https://github.com/ferronweb/ferron) - A fast, modern, and easily configurable web server with automatic TLS.
 - [vicanso/zedis](https://github.com/vicanso/zedis) - Zedis: A blazing-fast, native Redis GUI built with Rust and GPUI.
 - [deuxfleurs-org/garage](https://github.com/deuxfleurs-org/garage) - (Mirror) S3-compatible object store for small self-hosted geo-distributed deployments. Main repo: https://git.deuxfleurs.fr/Deuxfleurs/garage
 - [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) - Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能
@@ -1074,6 +1074,7 @@
 - [SahilH4ck4you/iOS-SSL-pinning-bypass-without-jalibreak](https://github.com/SahilH4ck4you/iOS-SSL-pinning-bypass-without-jalibreak) - SSL pinning bypass setup for iOS (No Jailbreak) using OpenVPN + iptables traffic redirection to proxy (Burp Suite / mitmproxy)
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [Dimillian/Skills](https://github.com/Dimillian/Skills) - My Codex Skills
+- [openclaw/goplaces](https://github.com/openclaw/goplaces) - Modern Google Places CLI in Go
 - [rust-cross/rust-musl-cross](https://github.com/rust-cross/rust-musl-cross) - Docker images for compiling static Rust binaries using musl-cross
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [ShadowsocksR-Live/overtls](https://github.com/ShadowsocksR-Live/overtls) - A minimalist proxy tunnel for bypassing the GFW.
