@@ -188,7 +188,7 @@
 - [giszh86/vohive](https://github.com/giszh86/vohive) - 
 - [boa-z/vowifi-go](https://github.com/boa-z/vowifi-go) - 本项目基于 VoHive 原本依赖的闭源 vowifi 版本的公共接口进行开发，本项目与 VoHive 官方团队无任何关联，本项目功能尚未实现且处于实验阶段，仅个人学习使用
 - [londek/ipadecrypt](https://github.com/londek/ipadecrypt) - 🔓 ipadecrypt is an open-source tool for downloading, patching and decrypting .ipa's with minimal user intervention on palera1n and dopamine jailbreaks
-- [cocoonstack/cocoon-macos](https://github.com/cocoonstack/cocoon-macos) - Run full macOS (Tahoe 26) as a QEMU/KVM guest on x86 Linux — image-build automation + thin cocoon-style CLI
+- [cocoonstack/cocoon-macos](https://github.com/cocoonstack/cocoon-macos) - macOS VM engine for x86 Linux/KVM, built on cocoon. Boots real macOS guests (Sequoia, Tahoe) via QEMU + OpenCore + OVMF, with ghcr golden images, snapshot & clone, per-VM SMBIOS identity, CNI networki
 - [Lakr233/mini-control-public](https://github.com/Lakr233/mini-control-public) - Mac mini cluster management system for browser-controlled macOS VMs
 - [foxcpp/maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
 - [songloft-org/songloft](https://github.com/songloft-org/songloft) - 🎵 面向个人用户的自托管音乐服务器
@@ -457,6 +457,7 @@
 
 - [zanwei/chatgpt-model-selector](https://github.com/zanwei/chatgpt-model-selector) - ChatGPT-inspired model intelligence picker as a zero-dependency Web Component (MIT)
 - [tiagozip/cap](https://github.com/tiagozip/cap) - Free, open-source and self-hosted CAPTCHA alternative to reCAPTCHA. Privacy-first and powered by proof-of-work and instrumentation challenges.
+- [expo/skills](https://github.com/expo/skills) - A collection of AI agent skills for working with Expo projects and Expo Application Services
 - [Archeb/peer.as](https://github.com/Archeb/peer.as) - PEER.AS — explore global BGP routing, IP prefixes, ASNs, AS_PATH, origins and peering.
 - [antfu/qr-scanner-wechat](https://github.com/antfu/qr-scanner-wechat) - QR Code scanner in JS with Open CV and WeChat's Algorithm
 - [aloth/olcli](https://github.com/aloth/olcli) - Overleaf CLI - pull, push, sync, compile LaTeX projects from your terminal. Git remote helper, MCP server for AI agents, and TypeScript library.
@@ -504,6 +505,7 @@
 - [ifyour/deeplx-js](https://github.com/ifyour/deeplx-js) - 🥰 JavaScript implementation of DeepLx with one-click deployment support
 - [haibbo/cf-openai-azure-proxy](https://github.com/haibbo/cf-openai-azure-proxy) - A Cloudflare worker script to proxy OpenAI‘s request to Azure OpenAI Service
 - [1kc/razer-macos](https://github.com/1kc/razer-macos) - Color effects manager for Razer devices for macOS. Supports High Sierra (10.13) to Monterey (12.0). Made by the community, based on openrazer.
+- [blueagler/DeepL-Helper](https://github.com/blueagler/DeepL-Helper) - Extend character support to 5,000+, lift editing limits, integrate with DeepL (Pro or API), enable formal/informal tone selection, and provide privacy‑friendly device fingerprint rotation.
 - [ijk0/vercel-azure-openai-proxy](https://github.com/ijk0/vercel-azure-openai-proxy) - Rapid deployment of Azure OpenAI service proxy to Vercel.
 - [sarkrui/MTR-Next-Train](https://github.com/sarkrui/MTR-Next-Train) - an API to retrieve MTR (Mass Transit Railway) train schedules for a specific line and station in Hong Kong.
 - [KOP-XIAO/QuantumultX](https://github.com/KOP-XIAO/QuantumultX) - 
@@ -659,6 +661,7 @@
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 - [krzyzanowskim/claude-better](https://github.com/krzyzanowskim/claude-better) - better claude harness
 - [dm-zharov/ricoh-gr-bluetooth-api](https://github.com/dm-zharov/ricoh-gr-bluetooth-api) - RICOH GR Bluetooth API Specifications
+- [Thearas/wechat-db-decrypt-macos](https://github.com/Thearas/wechat-db-decrypt-macos) - macOS arm64 微信 4.1 数据库解密，只在最新的微信 4.1.2.241 测试过，不支持4.0 以下版本
 - [blader/humanizer](https://github.com/blader/humanizer) - Claude Code skill that removes signs of AI-generated writing from text
 - [nooblk-98/noobwrt-arcadyan-aw1k](https://github.com/nooblk-98/noobwrt-arcadyan-aw1k) - A custom firmware built on top of OpenWrt, tailored specifically for the Arcadyan AW1000 Telstra 5G Home Modem.  Simply the best firmware available online for this router.
 - [k4yt3x/zed-theme-ayu-darker](https://github.com/k4yt3x/zed-theme-ayu-darker) - A darker variant of the Ayu Dark theme for Zed.
@@ -776,7 +779,6 @@
 - [public-clis/twitter-cli](https://github.com/public-clis/twitter-cli) - A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal
 - [ylytdeng/wechat-decrypt](https://github.com/ylytdeng/wechat-decrypt) - WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor
 - [pasquini-dario/LLMmap](https://github.com/pasquini-dario/LLMmap) - 
-- [Thearas/wechat-db-decrypt-macos](https://github.com/Thearas/wechat-db-decrypt-macos) - macOS arm64 微信 4.1 数据库解密，只在最新的微信 4.1.2.241 测试过，不支持4.0 以下版本
 - [xdevplatform/samples](https://github.com/xdevplatform/samples) - Sample code for the X API v2 endpoints
 - [xdevplatform/xdk-python](https://github.com/xdevplatform/xdk-python) - Python repo for the XDK auto-generated code.
 - [x011/smtp-tunnel-proxy](https://github.com/x011/smtp-tunnel-proxy) - A high-speed covert tunnel that disguises TCP traffic as SMTP email communication to bypass Deep Packet Inspection (DPI) firewalls.
@@ -847,7 +849,6 @@
 - [a-maliarov/amazoncaptcha](https://github.com/a-maliarov/amazoncaptcha) - Pure Python, lightweight, Pillow-based solver for Amazon's text captcha.
 - [SimplifyJobs/Summer2026-Internships](https://github.com/SimplifyJobs/Summer2026-Internships) - Summer 2026 software engineering, data science, AI, quant, product management, and hardware internship postings. Updated daily by Simplify and Pitt CSC.
 - [fuergaosi233/apple-health-exporter](https://github.com/fuergaosi233/apple-health-exporter) - 
-- [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2026 with HikerAPI SaaS
 - [ja-netfilter2/pandora](https://github.com/ja-netfilter2/pandora) - 
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [qiyuangong/leetcode](https://github.com/qiyuangong/leetcode) - Python & JAVA Solutions for Leetcode
@@ -1070,7 +1071,6 @@
 ## Shell 
 
 - [xsser/cliproxyapi-cloudflare-stack](https://github.com/xsser/cliproxyapi-cloudflare-stack) - 感谢马斯克 让我grok自由，免费注册grok 无数个号。然后cpa自由使用
-- [expo/skills](https://github.com/expo/skills) - A collection of AI agent skills for working with Expo projects and Expo Application Services
 - [neko-kai/claude-code-sandbox](https://github.com/neko-kai/claude-code-sandbox) - macOS sandbox-exec config for Claude Code that restricts filesystem READ access for enhanced security
 - [nilbuild/claude-queue](https://github.com/nilbuild/claude-queue) - Automated GitHub issue solver using Claude Code
 - [SahilH4ck4you/iOS-SSL-pinning-bypass-without-jalibreak](https://github.com/SahilH4ck4you/iOS-SSL-pinning-bypass-without-jalibreak) - SSL pinning bypass setup for iOS (No Jailbreak) using OpenVPN + iptables traffic redirection to proxy (Burp Suite / mitmproxy)
