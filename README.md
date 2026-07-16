@@ -230,7 +230,7 @@
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
-- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - An easy-to-use OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.
+- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude model through
 - [antoniomika/sish](https://github.com/antoniomika/sish) - HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
@@ -500,7 +500,6 @@
 - [AwesomeHomelab/awesome-homelab](https://github.com/AwesomeHomelab/awesome-homelab) - Curating Top Open Source Apps for Homelab Enthusiasts
 - [said7388/github-portfolio](https://github.com/said7388/github-portfolio) - Create a Portfolio Website using your GitHub username. This website template is constructed with next.js and tailwind CSS, allowing you to display your work and skills as a software developer.
 - [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
-- [Dalufishe/freegptjs](https://github.com/Dalufishe/freegptjs) - Free ChatGPT 3.5 API for Javascript.
 - [31b4/Leetcode-Premium-Bypass](https://github.com/31b4/Leetcode-Premium-Bypass) - Leetcode Premium Unlocker 2024
 - [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions
 - [barretlee/cloudflare-proxy](https://github.com/barretlee/cloudflare-proxy) - Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出
@@ -778,7 +777,6 @@
 - [dpearson2699/swift-ios-skills](https://github.com/dpearson2699/swift-ios-skills) - Agent Skills for iOS 26+, Swift 6.3, SwiftUI, and modern Apple frameworks
 - [imbue-bit/OpenClaw-PwnKit](https://github.com/imbue-bit/OpenClaw-PwnKit) - Get shell to almost any OpenClaw host machine.
 - [public-clis/twitter-cli](https://github.com/public-clis/twitter-cli) - A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal
-- [ylytdeng/wechat-decrypt](https://github.com/ylytdeng/wechat-decrypt) - WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor
 - [pasquini-dario/LLMmap](https://github.com/pasquini-dario/LLMmap) - 
 - [xdevplatform/samples](https://github.com/xdevplatform/samples) - Sample code for the X API v2 endpoints
 - [xdevplatform/xdk-python](https://github.com/xdevplatform/xdk-python) - Python repo for the XDK auto-generated code.
@@ -941,7 +939,7 @@
 
 ## Rust 
 
-- [jackwener/wx-cli](https://github.com/jackwener/wx-cli) - WeChat local data CLI with daemon architecture
+- [xai-org/grok-build](https://github.com/xai-org/grok-build) - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 - [DDULDDUCK/pingora-proxy-manager](https://github.com/DDULDDUCK/pingora-proxy-manager) - A high-performance, zero-downtime reverse proxy manager built on Cloudflare's Pingora. Simple, Modern, and Fast. Now supports Wildcard SSL & TCP/UDP Streams!
 - [Yeuoly/maleme](https://github.com/Yeuoly/maleme) - 骂了么
 - [c4pt0r/pie](https://github.com/c4pt0r/pie) - Rust port of the pi agent harness — coding agent + LLM runtime stack
@@ -1178,7 +1176,7 @@
 - [Lakr233/MuseAmp](https://github.com/Lakr233/MuseAmp) - 
 - [momenbasel/PureMac](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
 - [Lakr233/SwiftBonjour](https://github.com/Lakr233/SwiftBonjour) - 
-- [madeye/BaoLianDeng](https://github.com/madeye/BaoLianDeng) - A macOS VPN proxy app powered by Mihomo (Clash Meta)
+- [madeye/BaoLianDeng](https://github.com/madeye/BaoLianDeng) - A macOS VPN proxy app powered by meow-rs, a Clash-compatible proxy kernel written in Rust
 - [Lakr233/Cookey](https://github.com/Lakr233/Cookey) - 
 - [HMAKT99/UnTouchID](https://github.com/HMAKT99/UnTouchID) - Use your phone's Face ID or fingerprint to approve sudo and unlock your Mac. QR pairing, encrypted BLE, Secure Enclave signing — keys never leave your phone. Works with iPhone, Android, Apple Watch, W
 - [wiedymi/swift-cloudflared](https://github.com/wiedymi/swift-cloudflared) - Pure Swift Cloudflare Access TCP tunnel SDK for SSH clients on Apple platforms (iOS/macOS).
@@ -1340,6 +1338,7 @@
 
 ## TypeScript 
 
+- [better-notify/better-notify](https://github.com/better-notify/better-notify) - All your notifications from one library. For Node.js and Bun.
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTM
 - [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major) - 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器
 - [vikas5914/astro-takumi](https://github.com/vikas5914/astro-takumi) - Generate Open Graph images for your Astro site using Takumi.
