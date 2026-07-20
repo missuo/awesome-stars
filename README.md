@@ -187,6 +187,7 @@
 
 ## Go 
 
+- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 - [giszh86/vohive](https://github.com/giszh86/vohive) - 
 - [boa-z/vowifi-go](https://github.com/boa-z/vowifi-go) - 本项目基于 VoHive 原本依赖的闭源 vowifi 版本的公共接口进行开发，本项目与 VoHive 官方团队无任何关联，本项目功能尚未实现且处于实验阶段，仅个人学习使用
 - [londek/ipadecrypt](https://github.com/londek/ipadecrypt) - 🔓 ipadecrypt is an open-source tool for downloading, patching and decrypting .ipa's with minimal user intervention on palera1n and dopamine jailbreaks
@@ -945,6 +946,7 @@
 
 ## Rust 
 
+- [maddada/Ghostex](https://github.com/maddada/Ghostex) - Native Agent CLIs manager for macOS. Ghostty Terminals + Codex App Features/UX = Ghostex! Embedded browser & IDE. Strong agents support.
 - [femboyisp/yip](https://github.com/femboyisp/yip) - WIP: 🦊 Invisible low-latency P2P mesh VPN - silent to DPI, Reed–Solomon FEC loss-recovery, self-certifying mesh discovery, NAT hole-punching. What does the fox say? Nothing.
 - [zerx-lab/FluxDown](https://github.com/zerx-lab/FluxDown) - Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。
 - [xai-org/grok-build](https://github.com/xai-org/grok-build) - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
@@ -1344,6 +1346,7 @@
 
 ## TypeScript 
 
+- [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
 - [better-notify/better-notify](https://github.com/better-notify/better-notify) - All your notifications from one library. For Node.js and Bun.
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTM
 - [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major) - 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器
