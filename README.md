@@ -38,7 +38,6 @@
 - [Perl](#perl)
 - [PowerShell](#powershell)
 - [Python](#python)
-- [QML](#qml)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Shell](#shell)
@@ -84,7 +83,6 @@
 - [OwnGoalStudio/TrollVNC](https://github.com/OwnGoalStudio/TrollVNC) - VNC server for iOS devices, allowing remote access and control of the device’s screen.
 - [Q-WRT/Q-WRT](https://github.com/Q-WRT/Q-WRT) - Q-WRT, A Commercial product level fimware for IoT-Devices base OpenWrt
 - [dlundquist/sniproxy](https://github.com/dlundquist/sniproxy) - Proxies incoming HTTP and TLS connections based on the hostname contained in the initial request of the TCP session.
-- [Ysurac/openmptcprouter](https://github.com/Ysurac/openmptcprouter) - OpenMPTCProuter is an open source solution to aggregate multiple internet connections using Multipath TCP (MPTCP) on OpenWrt
 - [alfiecg24/TrollInstallerX](https://github.com/alfiecg24/TrollInstallerX) - A TrollStore installer for iOS 14.0 - 16.6.1
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
@@ -163,7 +161,7 @@
 ## Dart 
 
 - [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
-- [madeye/meow](https://github.com/madeye/meow) - Meow - A Clash/mihomo Android client with Flutter UI, powered by mihomo-rust and netstack-smoltcp tun2socks
+- [madeye/meow](https://github.com/madeye/meow) - Meow - A Clash/mihomo Android client with Flutter UI, powered by meow-rs and lwip-based tun2socks
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [lucinhu/bili_you](https://github.com/lucinhu/bili_you) - 一个用flutter制作的第三方B站客户端.
@@ -621,6 +619,7 @@
 - [Netskao/WCHideChatAvatars](https://github.com/Netskao/WCHideChatAvatars) - WeChat Hide Chat Avatars (Theos Tweak)
 - [pmkol/openwrt-lite](https://github.com/pmkol/openwrt-lite) - An enhanced OpenWrt variant for mainland China users.
 - [Netskao/QQiPadModeLogin](https://github.com/Netskao/QQiPadModeLogin) - QQ simulates iPad mode login (Theos Tweak)
+- [Ysurac/openmptcprouter](https://github.com/Ysurac/openmptcprouter) - OpenMPTCProuter is an open source solution to aggregate multiple internet connections using Multipath TCP (MPTCP) on OpenWrt
 - [openwrt/packages](https://github.com/openwrt/packages) - Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md
 
 ## Markdown 
@@ -666,7 +665,6 @@
 - [krzyzanowskim/claude-better](https://github.com/krzyzanowskim/claude-better) - better claude harness
 - [dm-zharov/ricoh-gr-bluetooth-api](https://github.com/dm-zharov/ricoh-gr-bluetooth-api) - RICOH GR Bluetooth API Specifications
 - [Thearas/wechat-db-decrypt-macos](https://github.com/Thearas/wechat-db-decrypt-macos) - macOS arm64 微信 4.1 数据库解密，只在最新的微信 4.1.2.241 测试过，不支持4.0 以下版本
-- [blader/humanizer](https://github.com/blader/humanizer) - Claude Code skill that removes signs of AI-generated writing from text
 - [nooblk-98/noobwrt-arcadyan-aw1k](https://github.com/nooblk-98/noobwrt-arcadyan-aw1k) - A custom firmware built on top of OpenWrt, tailored specifically for the Arcadyan AW1000 Telstra 5G Home Modem.  Simply the best firmware available online for this router.
 - [k4yt3x/zed-theme-ayu-darker](https://github.com/k4yt3x/zed-theme-ayu-darker) - A darker variant of the Ayu Dark theme for Zed.
 - [666OS/ClashMac](https://github.com/666OS/ClashMac) - Native Proxy Experience Built for macOS
@@ -783,6 +781,7 @@
 - [pasquini-dario/LLMmap](https://github.com/pasquini-dario/LLMmap) - 
 - [xdevplatform/samples](https://github.com/xdevplatform/samples) - Sample code for the X API v2 endpoints
 - [xdevplatform/xdk-python](https://github.com/xdevplatform/xdk-python) - Python repo for the XDK auto-generated code.
+- [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
 - [x011/smtp-tunnel-proxy](https://github.com/x011/smtp-tunnel-proxy) - A high-speed covert tunnel that disguises TCP traffic as SMTP email communication to bypass Deep Packet Inspection (DPI) firewalls.
 - [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop) - An open Apple AirDrop implementation written in Python
 - [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
@@ -934,10 +933,6 @@
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [testerSunshine/12306](https://github.com/testerSunshine/12306) - 12306智能刷票，订票
 
-## QML 
-
-- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
-
 ## Ruby 
 
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The Package Manager for Everywhere
@@ -1070,7 +1065,7 @@
 - [klausi/mastodon-twitter-sync](https://github.com/klausi/mastodon-twitter-sync) - Synchronizes posts from Mastodon to Twitter and back
 - [glotlabs/gdrive](https://github.com/glotlabs/gdrive) - Google Drive CLI Client
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - ❄️ ChatGPT Desktop Application (Mac, Windows and Linux)
 - [dracarys18/TweetBot](https://github.com/dracarys18/TweetBot) - A simple Telegram Bot to Stream the tweets from any twitter accounts to Telegram Channel
 - [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
 - [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
@@ -1093,6 +1088,7 @@
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [ChamodyaChiran/AW1000-NSS-Build-Public](https://github.com/ChamodyaChiran/AW1000-NSS-Build-Public) - ChamodyaWRT is a free, open-source firmware for the Telstra AW1000  router built with love for the community.
 - [GFW4Fun/x-ui-pro](https://github.com/GFW4Fun/x-ui-pro) - XUI-PRO nginx reverse proxy with ws/grpc/httpupgrade/splithttp,xray protocol support: vless,vmess,trojan,shadowsocks panel cloudflare ssl,xtls,ssr,v2fly,v2ray installer bypass restrictions sing-box,sh
+- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
 - [Jxck-S/airline-logos](https://github.com/Jxck-S/airline-logos) - Airline and Operator Banners/Logos
 - [RROrg/rr](https://github.com/RROrg/rr) - Redpill Recovery (arpl-i18n)
 - [songtianlun/mirrorGit](https://github.com/songtianlun/mirrorGit) - mirror your Github to Gitea.
@@ -1173,7 +1169,7 @@
 - [caezium/Burrow](https://github.com/caezium/Burrow) - 🐹 Cleanup, app management, maintenance, disk analysis, and live status in one free, open-source, native Mac app + extensive support for AI agents. Coming to Windows
 - [mysk-research/loupe](https://github.com/mysk-research/loupe) - A privacy-focused iOS app that raises awareness about what native apps can see
 - [lbr77/AssppJailbroken](https://github.com/lbr77/AssppJailbroken) - Modified with ipa download & ipa decrypt workflow!
-- [kageroumado/phosphene](https://github.com/kageroumado/phosphene) - A video wallpaper engine for macOS Tahoe and Golden Gate
+- [kageroumado/phosphene](https://github.com/kageroumado/phosphene) - Custom video wallpapers for macOS — any video, on the desktop and the lock screen, picked directly from System Settings' Wallpaper pane
 - [mudkipme/MoeMemos](https://github.com/mudkipme/MoeMemos) - An app to help you capture thoughts and ideas
 - [lbr77/unfair](https://github.com/lbr77/unfair) - Fairplay DRM decrypt. Modified for jailbroken device on iOS.
 - [AFK-surf/OpenBridge](https://github.com/AFK-surf/OpenBridge) - A free, safe and open agent for everything. Alternative to Claude Cowork & Codex. Open Bridge, the AI bridge between your intention and get the job done.
