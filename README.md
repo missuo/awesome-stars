@@ -67,6 +67,7 @@
 
 ## C 
 
+- [kornelski/pngquant](https://github.com/kornelski/pngquant) - Lossy PNG compressor — pngquant command based on libimagequant library
 - [V4bel/Januscape](https://github.com/V4bel/Januscape) - 
 - [w2599/Dopamine](https://github.com/w2599/Dopamine) - Dopamine is a semi-untethered permasigned jailbreak for iOS 15
 - [roothide/Dopamine2-roothide](https://github.com/roothide/Dopamine2-roothide) - Dopamine is a semi-untethered jailbreak for iOS 15 and 16
@@ -942,6 +943,7 @@
 
 ## Rust 
 
+- [Noelo-Lab/kuna](https://github.com/Noelo-Lab/kuna) - An agent-first decompiler designed to be refined by other agents. Kuna is written in Rust and was originally ported from Ghidra.
 - [maddada/Ghostex](https://github.com/maddada/Ghostex) - Native Agent CLIs manager for macOS. Ghostty Terminals + Codex App Features/UX = Ghostex! Embedded browser & IDE. Strong agents support.
 - [femboyisp/yip](https://github.com/femboyisp/yip) - 🦊 Invisible low-latency P2P mesh VPN - silent to DPI, Reed–Solomon FEC loss-recovery, self-certifying mesh discovery, NAT hole-punching. What does the fox say? Nothing.
 - [zerx-lab/FluxDown](https://github.com/zerx-lab/FluxDown) - Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。
@@ -1162,6 +1164,7 @@
 
 ## Swift 
 
+- [demiaochen/caffeinate-disablesleep](https://github.com/demiaochen/caffeinate-disablesleep) - Keep your Mac awake from the menu bar, even with the lid closed. caffeinate -disu and sudo pmset -a disablesleep 1, one click. 2.2 MB only.
 - [Paisseon/SatellaJailed](https://github.com/Paisseon/SatellaJailed) - Jailed in-app purchase cracker (iOS 12-16)
 - [Lakr233/unfaird](https://github.com/Lakr233/unfaird) - 
 - [lbr77/unfaird](https://github.com/lbr77/unfaird) - modified for decrypting on iphone.
@@ -1197,7 +1200,7 @@
 - [srimanachanta/Stasis](https://github.com/srimanachanta/Stasis) - Battery Management and Dashboard for Apple Silicon - A Better Battery Icon
 - [Dimillian/GithubMonitor](https://github.com/Dimillian/GithubMonitor) - A menu bar app to monitor your Github situation
 - [Lakr233/Iridium](https://github.com/Lakr233/Iridium) - An iOS app decrypter, full static using fouldecrypt.
-- [hehehai/voxt](https://github.com/hehehai/voxt) - 🎙️Voice input and translation app for macOS. Press to talk, release to paste.
+- [hehehai/voxt](https://github.com/hehehai/voxt) - 🎙️ Local-first voice input for Mac—cleanup, rewrite, translation, and per-app style from one hold-to-talk habit.
 - [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) - 
 - [pixelspark/sushitrain](https://github.com/pixelspark/sushitrain) - Securely synchronize files with your devices on iOS using Syncthing
 - [a7t-ai/poirot](https://github.com/a7t-ai/poirot) - A native macOS companion for Claude Code that lets you browse sessions, explore diffs, and re-run commands.
