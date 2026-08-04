@@ -246,7 +246,7 @@
 - [looplj/axonhub](https://github.com/looplj/axonhub) - ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing.
 - [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis
 - [acepanel/panel](https://github.com/acepanel/panel) - ⚡ AcePanel - Enterprise server operation and maintenance management panel
-- [dushixiang/pika](https://github.com/dushixiang/pika) - Pika Monitor
+- [pika-monitor/pika](https://github.com/pika-monitor/pika) - Pika Monitor
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [bqlpfy/flux-panel](https://github.com/bqlpfy/flux-panel) - 哆啦A梦转发面板
 - [runxiyu/furgit](https://github.com/runxiyu/furgit) - Low-level Git plumbing library in pure Go
@@ -300,7 +300,6 @@
 - [go-pay/gopay](https://github.com/go-pay/gopay) - 微信、支付宝、抖音、通联支付、拉卡拉、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [vinceanalytics/vince](https://github.com/vinceanalytics/vince) - Self Hosted Alternative To Google Analytics
-- [shawn1m/overture](https://github.com/shawn1m/overture) - A customized DNS relay server
 - [cbrgm/bluesky-github-action](https://github.com/cbrgm/bluesky-github-action) - Up-To-Date GitHub Action to send posts + media to Bluesky Social
 - [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
