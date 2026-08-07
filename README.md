@@ -201,7 +201,7 @@
 - [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/
 - [NetworkCats/Merged-IP-Data](https://github.com/NetworkCats/Merged-IP-Data) - merge multiple IP geolocation databases into a single MMDB file
 - [SagerNet/sing-tun](https://github.com/SagerNet/sing-tun) - Simple transparent proxy library
-- [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
+- [multica-ai/multica](https://github.com/multica-ai/multica) - Assign issues to Claude Code, Codex, Cursor, and 17 more coding agents like teammates — open-source and self-hostable.
 - [openai/openai-cli](https://github.com/openai/openai-cli) - Official CLI for the OpenAI API
 - [zackpollard/frameio-immich-relay](https://github.com/zackpollard/frameio-immich-relay) - Self-hosted relay: Frame.io Camera-to-Cloud uploads → Immich. Webhook-driven, SHA-1 dedup, delete-after-ingest.
 - [GALIAIS/Notion2API](https://github.com/GALIAIS/Notion2API) - 
