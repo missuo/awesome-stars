@@ -92,7 +92,7 @@
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
 - [RfidResearchGroup/proxmark3](https://github.com/RfidResearchGroup/proxmark3) - Iceman Fork - Proxmark3
 - [webserver-llc/angie](https://github.com/webserver-llc/angie) - Angie - drop-in replacement for nginx
-- [opa334/Dopamine](https://github.com/opa334/Dopamine) - Dopamine is a semi-untethered jailbreak for iOS 15 and 16
+- [opa334/Dopamine](https://github.com/opa334/Dopamine) - Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)
 - [antirez/botlib](https://github.com/antirez/botlib) - C Telegram bot framework
 - [antirez/smallchat](https://github.com/antirez/smallchat) - A minimal programming example for a chat server
 - [BandarHL/BHTwitter](https://github.com/BandarHL/BHTwitter) - Awesome tweak for Twitter
@@ -115,6 +115,7 @@
 
 ## C++ 
 
+- [Stapxs/pinentry-mac-swift](https://github.com/Stapxs/pinentry-mac-swift) - Pinentry Mac GUI Swift 版 / Pinentry Mac GUI Swift Edition
 - [anthropics/claude-desktop-buddy](https://github.com/anthropics/claude-desktop-buddy) - Reference and an example for the Bluetooth API for makers in Claude Cowork & Claude Code Desktop
 - [claration/Zsign-Package](https://github.com/claration/Zsign-Package) - It might be the quickest cross-platform codesign alternative for iOS 12+, supporting macOS, Linux, Windows, and more features.
 - [asdlokj1qpi233/subconverter](https://github.com/asdlokj1qpi233/subconverter) - About Utility to convert between various subscription format.Support anytls、mieru、hy2、hy and vless for singbox and clash meta.original git: https://github.com/asdlokj1qpi23/subconverter
@@ -260,7 +261,7 @@
 - [damonto/estkme-cloud](https://github.com/damonto/estkme-cloud) - eSTK.me cloud enhance server written in Go.
 - [ChristopherHX/github-act-runner](https://github.com/ChristopherHX/github-act-runner) - act as self-hosted runner
 - [situ2001/gitea-bulk-migration](https://github.com/situ2001/gitea-bulk-migration) - A command-line tool for bulk migrating GitHub repositories to Gitea as mirrors, with support for incremental syncs and configurable migration strategies
-- [gen2brain/jpegn](https://github.com/gen2brain/jpegn) - JPEG decoder with SIMD optimizations
+- [gen2brain/jpegn](https://github.com/gen2brain/jpegn) - JPEG decoder and encoder with SIMD optimizations
 - [lib/pq](https://github.com/lib/pq) - Go PostgreSQL driver for database/sql
 - [alireza0/s-ui](https://github.com/alireza0/s-ui) - An advanced Web Panel • Built for SagerNet/Sing-Box
 - [wyx2685/V2bX](https://github.com/wyx2685/V2bX) - 
