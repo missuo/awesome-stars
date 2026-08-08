@@ -39,6 +39,7 @@
 - [clash](#clash)
 - [claude](#claude)
 - [claude-code](#claude-code)
+- [claude-skills](#claude-skills)
 - [cli](#cli)
 - [cloud](#cloud)
 - [cms](#cms)
@@ -709,6 +710,10 @@
 - [coffeegrind123/gemini-for-claude-code](https://github.com/coffeegrind123/gemini-for-claude-code) - This python program allows you to use Claude Code with Google's Gemini models.
 - [maxnowack/anthropic-proxy](https://github.com/maxnowack/anthropic-proxy) - Proxy server that converts Anthropic API requests to OpenAI format and sends it to OpenRouter. It's used to use Claude Code with OpenRouter instead of the Anthropic API
 - [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) - Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (form
+
+## claude-skills 
+
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
 
 ## cli 
 
@@ -2208,6 +2213,7 @@
 
 ## others 
 
+- [Stapxs/pinentry-mac-swift](https://github.com/Stapxs/pinentry-mac-swift) - Pinentry Mac GUI Swift 版 / Pinentry Mac GUI Swift Edition
 - [Lakr233/mini-control-action](https://github.com/Lakr233/mini-control-action) - 
 - [ZenGeekLabs/DJOneHub](https://github.com/ZenGeekLabs/DJOneHub) - A native macOS management tool for the first-generation DJI 4G module.
 - [Noelo-Lab/kuna](https://github.com/Noelo-Lab/kuna) - An agent-first decompiler designed to be refined by other agents. Kuna is written in Rust and was originally ported from Ghidra.
@@ -2429,7 +2435,7 @@
 - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
 - [leonboe1/QuickDrop](https://github.com/leonboe1/QuickDrop) - An enhanced version of NearDrop, a Google Quick Share app for macOS 📲
 - [Innei/Innei](https://github.com/Innei/Innei) - 
-- [gen2brain/jpegn](https://github.com/gen2brain/jpegn) - JPEG decoder with SIMD optimizations
+- [gen2brain/jpegn](https://github.com/gen2brain/jpegn) - JPEG decoder and encoder with SIMD optimizations
 - [Lakr233/WhisperKit](https://github.com/Lakr233/WhisperKit) - 
 - [whoeevee/EeveeSpotifyReborn](https://github.com/whoeevee/EeveeSpotifyReborn) - A tweak to enhance Spotify experience
 - [FxEmbed/FxEmbed](https://github.com/FxEmbed/FxEmbed) - Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others
@@ -2611,7 +2617,7 @@
 - [supernotes/sn-pro](https://github.com/supernotes/sn-pro) - SN Pro Font Family
 - [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb) - MaxMind's GeoIP2 GeoLite2 Country, City, and ASN databases
 - [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) - the subtitle editor :)
-- [opa334/Dopamine](https://github.com/opa334/Dopamine) - Dopamine is a semi-untethered jailbreak for iOS 15 and 16
+- [opa334/Dopamine](https://github.com/opa334/Dopamine) - Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)
 - [MatthiasGrandl/Loungy](https://github.com/MatthiasGrandl/Loungy) - Loungy is a WIP launcher in the vein of Spotlight, Alfred, Raycast.
 - [Lakr233/Firework](https://github.com/Lakr233/Firework) - 烟花箱！
 - [Lakr233/FixTim](https://github.com/Lakr233/FixTim) - Fix every runtime bug on macOS.
