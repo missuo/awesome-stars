@@ -130,7 +130,7 @@
 - [skyzh/RISCV-Simulator](https://github.com/skyzh/RISCV-Simulator) - 💻 RISC-V Simulator of RV32I ISA. 5-stage pipeline / out-of-order execution with Tomasulo algorithm and Speculation. Support runtime visualization. Project report available.
 - [flipperdevices/qFlipper](https://github.com/flipperdevices/qFlipper) - qFlipper — desktop application for updating Flipper Zero firmware via PC
 - [vickiegpt/A16-microbenchmark](https://github.com/vickiegpt/A16-microbenchmark) - A repo to store what M1 explainer does and ~Armv9~ Armv8.6 ISA on A16
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 4013 LeetCode Problems (Weekly Update)
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 4019 LeetCode Problems (Weekly Update)
 - [qpdf/qpdf](https://github.com/qpdf/qpdf) - qpdf: A content-preserving PDF document transformer
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [google/fuse-archive](https://github.com/google/fuse-archive) - FUSE file system for archives and compressed files (ZIP, RAR, 7Z, ISO, TGZ, XZ...)
@@ -210,7 +210,7 @@
 - [GALIAIS/Notion2API](https://github.com/GALIAIS/Notion2API) - 
 - [Lakr233/FireProxy](https://github.com/Lakr233/FireProxy) - 
 - [stripe/stripe-cli](https://github.com/stripe/stripe-cli) - A command-line tool for Stripe
-- [tangxiaofeng7/cscan](https://github.com/tangxiaofeng7/cscan) - Enterprise-grade Distributed Asset & Vulnerability Scanner. Features: Port Scanning, Subdomain Brute-force, Fingerprinting, and PoC Detection. Built on Go-Zero & Vue3. 高性能分布式网络资产扫描平台 (子域名扫描/端口扫描/指纹识别/
+- [tangxiaofeng7/cscan](https://github.com/tangxiaofeng7/cscan) - Exposure Surface / Attack Surface Scanning Platform 暴露面/攻击面扫描平台
 - [adibhanna/tsm](https://github.com/adibhanna/tsm) - Terminal session manager
 - [xchacha20-poly1305/sing-trusttunnel](https://github.com/xchacha20-poly1305/sing-trusttunnel) - A sing style TrustTunnel implementation.
 - [memohai/Memoh](https://github.com/memohai/Memoh) - ✨ The open-source multi-agent platform. Every agent gets its own computer, desktop, network, and long-term memory.  You can bring your own key, or host your coding agent like Claude Code, Codex and so
@@ -705,7 +705,7 @@
 - [h3110w0r1d-y/termius-cracked](https://github.com/h3110w0r1d-y/termius-cracked) - Termius Pro
 - [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 
 - [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - Awesome apps, software, and SaaS deals on Black Friday.
-- [1c7/Translate-Subtitle-File](https://github.com/1c7/Translate-Subtitle-File) - 产品名："译幕"，用途：翻译字幕文件 .srt .ass .vtt。你只需要拖入字幕，点击翻译就行了。软件有网页版（zimoo.app）和桌面版。主要特点：用户可以自己填 API key。BYOK（Bring Your Own Key）
+- [1c7/Translate-Subtitle-File](https://github.com/1c7/Translate-Subtitle-File) - 🔥（26年8月15号更新 v5.5.20 版）产品名："译幕"，用途：翻译字幕文件 .srt .ass .vtt。你只需要拖入字幕，点击翻译就行了。软件有网页版（zimoo.app）和桌面版。主要特点：用户可以自己填 API key。BYOK（Bring Your Own Key）
 - [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
 - [megaease/Remembering-Haoel](https://github.com/megaease/Remembering-Haoel) - 记录您对左耳朵耗子（陈皓）的点滴回忆
 - [HMBSbige/qqwry](https://github.com/HMBSbige/qqwry) - 纯真 IP 库 建议切换到 https://github.com/FW27623/qqwry
@@ -1173,6 +1173,8 @@
 
 ## Swift 
 
+- [celldock/celldock-for-mac](https://github.com/celldock/celldock-for-mac) - Use cellular network, SMS, and calls on your Mac.
+- [RuochenLyu/run-shelf](https://github.com/RuochenLyu/run-shelf) - macOS 本地脚本管理工具：运行、定时和排查 Shell 脚本
 - [egoist/kero](https://github.com/egoist/kero) - A native terminal workspace for macOS.
 - [rooootdev/mond](https://github.com/rooootdev/mond) - Edit MobileGestalt on iOS 27.0 beta 1 - 4!
 - [iebb/when-reset](https://github.com/iebb/when-reset) - iOS usage-limit and banked-reset monitor for ChatGPT and Claude
@@ -1230,7 +1232,7 @@
 - [kyleduo/TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - Native client of TinyPNG on macOS
 - [scenee/FloatingPanel](https://github.com/scenee/FloatingPanel) - A clean and easy-to-use floating panel UI component for iOS
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
-- [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) - Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.
+- [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) - Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. DM us on X for an easter egg 😉 - https://x.com/fluidvoiceapp
 - [XcodesOrg/XcodesApp](https://github.com/XcodesOrg/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click.
 - [fatbobman/ObservableDefaults](https://github.com/fatbobman/ObservableDefaults) - A comprehensive solution integrating SwiftUI + Observation + UserDefaults + iCloud Key-Value Store
 - [leonboe1/QuickDrop](https://github.com/leonboe1/QuickDrop) - An enhanced version of NearDrop, a Google Quick Share app for macOS 📲
