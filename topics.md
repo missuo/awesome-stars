@@ -647,6 +647,7 @@
 
 ## clash 
 
+- [huacnlee/omarchy-mihoro](https://github.com/huacnlee/omarchy-mihoro) - Omarchy plugin to display Mihoro status.
 - [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 - [JUk1-GH/gpt-promo-scanner](https://github.com/JUk1-GH/gpt-promo-scanner) - ChatGPT Team(Business) 促销码自动扫描工具 — 批量发现/验证/价格收集，支持 17 国 34 个码，最高折扣 71% | ChatGPT Business promo code scanner — batch discovery, validation, price collection, 34 codes across 17 countries, up to 71% of
 - [ProjectKumo/KumoApp](https://github.com/ProjectKumo/KumoApp) - A calm, native macOS client for the Mihomo proxy core, built with SwiftUI and a shared agent-friendly CLI.
@@ -2225,6 +2226,8 @@
 
 ## others 
 
+- [yetone/cumora](https://github.com/yetone/cumora) - Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.
+- [b-nnett/codex-subscription-router](https://github.com/b-nnett/codex-subscription-router) - 
 - [celldock/celldock-for-mac](https://github.com/celldock/celldock-for-mac) - Use cellular network, SMS, and calls on your Mac.
 - [iebb/termgram](https://github.com/iebb/termgram) - A lightweight, keyboard-first Telegram client for the terminal
 - [egoist/kero](https://github.com/egoist/kero) - A native terminal workspace for macOS.
