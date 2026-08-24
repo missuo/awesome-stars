@@ -173,6 +173,7 @@
 - [pentesting](#pentesting)
 - [perl](#perl)
 - [php](#php)
+- [portfolio](#portfolio)
 - [portfolio-website](#portfolio-website)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
@@ -1293,6 +1294,7 @@
 - [pouriyajamshidi/tcping](https://github.com/pouriyajamshidi/tcping) - Ping TCP ports using tcping. Inspired by Linux's ping utility. Written in Go
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application
+- [pika-monitor/pika](https://github.com/pika-monitor/pika) - Lightweight probe monitoring — Go + VictoriaMetrics + PostgreSQL/SQLite | Real-time metrics, service checks, tamper protection & security audit
 - [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
 - [ChristopherHX/github-act-runner](https://github.com/ChristopherHX/github-act-runner) - act as self-hosted runner
 - [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
@@ -2005,6 +2007,7 @@
 - [komari-monitor/komari](https://github.com/komari-monitor/komari) - A simple server monitor tool.
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 - [ShadowsocksR-Live/overtls](https://github.com/ShadowsocksR-Live/overtls) - A minimalist proxy tunnel for bypassing the GFW.
+- [pika-monitor/pika](https://github.com/pika-monitor/pika) - Lightweight probe monitoring — Go + VictoriaMetrics + PostgreSQL/SQLite | Real-time metrics, service checks, tamper protection & security audit
 - [Helicone/helicone](https://github.com/Helicone/helicone) - 🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓
 - [Alice39s/kuma-mieru](https://github.com/Alice39s/kuma-mieru) - A 3rd-party Uptime Kuma monitoring dashboard built on Next.js 16, TypeScript and Recharts.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
@@ -2229,6 +2232,7 @@
 
 ## others 
 
+- [nfzerox/VirtualMacOniPad](https://github.com/nfzerox/VirtualMacOniPad) - People have dreamed of running macOS on iPad for more than a decade. Today, that dream comes true. With Virtual Mac, iPad finally breaks free from iPadOS, enabling pro apps like Xcode, Terminal, Final
 - [WhiteNightShadow/wx-mp-mcp](https://github.com/WhiteNightShadow/wx-mp-mcp) - 微信小程序逆向 MCP — 在线实时解包 + AI 静态分析还原接口签名/加密，产出本地 Node.js 直接能跑的脚本（零侵入，不碰微信进程）
 - [OwnGoalStudio/iGhostty](https://github.com/OwnGoalStudio/iGhostty) - Ghostty-powered terminal for jailbroken iOS — daemon-backed sessions that survive relaunch
 - [OwnGoalStudio/Relaxin](https://github.com/OwnGoalStudio/Relaxin) - Relaxin is a RootHide jailbreak.
@@ -2438,7 +2442,6 @@
 - [RhysSullivan/twitter-account-location-in-username](https://github.com/RhysSullivan/twitter-account-location-in-username) - 
 - [woxiqingxian/RevenueBell](https://github.com/woxiqingxian/RevenueBell) - RevenueBell 是轻量级的 Cloudflare Worker：接收 App Store Server Notifications V2，遇到订阅、续订、购买等收入事件，立即通过 Bark 把通知推送到你的手机。
 - [spiritLHLS/speedtest.net-CN-ID](https://github.com/spiritLHLS/speedtest.net-CN-ID) - speedtest.net部分地区的测速节点合集(数据每天更新一次)
-- [pika-monitor/pika](https://github.com/pika-monitor/pika) - Pika Monitor
 - [PDFMathTranslate-next/PDFMathTranslate-next](https://github.com/PDFMathTranslate-next/PDFMathTranslate-next) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker
 - [funstory-ai/BabelDOC](https://github.com/funstory-ai/BabelDOC) - Yet Another Document Translator
 - [bqlpfy/flux-panel](https://github.com/bqlpfy/flux-panel) - 哆啦A梦转发面板
@@ -2523,7 +2526,6 @@
 - [Aviv-public/apples-translation-api-demo](https://github.com/Aviv-public/apples-translation-api-demo) - Apple's Translation API demo
 - [RROrg/rr](https://github.com/RROrg/rr) - Redpill Recovery (arpl-i18n)
 - [songtianlun/mirrorGit](https://github.com/songtianlun/mirrorGit) - mirror your Github to Gitea.
-- [miantiao-me/astro-aria](https://github.com/miantiao-me/astro-aria) - A personal blog, portfolio, or blog template
 - [metoro-io/mcp-golang](https://github.com/metoro-io/mcp-golang) - Write Model Context Protocol servers in few lines of go code. Docs at https://mcpgolang.com . Created by https://metoro.io
 - [xxxbrian/Surge-Geosite](https://github.com/xxxbrian/Surge-Geosite) - Geosite ruleset for Surge
 - [Rishikant181/Rettiwt-API](https://github.com/Rishikant181/Rettiwt-API) - A CLI tool and an API for fetching data from Twitter for free!
@@ -2658,7 +2660,6 @@
 - [jw-12138/r2-uploader](https://github.com/jw-12138/r2-uploader) - Web Interface for Cloudflare R2
 - [akvorado/akvorado](https://github.com/akvorado/akvorado) - Flow collector, enricher and visualizer
 - [osrg/gobgp](https://github.com/osrg/gobgp) - BGP implemented in the Go Programming Language
-- [ddiu8081/ddiu.io](https://github.com/ddiu8081/ddiu.io) - Personal website.
 - [Hoshinonyaruko/palworld-go](https://github.com/Hoshinonyaruko/palworld-go) - Pal World all-in-one webui for pc and mobile devices.
 - [STranslate/STranslate](https://github.com/STranslate/STranslate) - A ready-to-go translation ocr tool developed with WPF/WPF 开发的一款即用即走的翻译、OCR工具
 - [antfu/resume](https://github.com/antfu/resume) - Résumé d'antfu
@@ -2790,7 +2791,6 @@
 - [go-gorm/clickhouse](https://github.com/go-gorm/clickhouse) - GORM clickhouse driver
 - [CN-Scars/A-Magisk-module-that-can-change-model-to-Google-Pixel-7-Pro](https://github.com/CN-Scars/A-Magisk-module-that-can-change-model-to-Google-Pixel-7-Pro) - Change the model of your Android device to Google Pixel 7 Pro
 - [wikihost-opensource/als](https://github.com/wikihost-opensource/als) - Another Looking-glass Server
-- [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
 - [google/fuse-archive](https://github.com/google/fuse-archive) - FUSE file system for archives and compressed files (ZIP, RAR, 7Z, ISO, TGZ, XZ...)
 - [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Use ChatGPT On Wechat via wechaty
 - [evalphobia/go-ip-fraud-check](https://github.com/evalphobia/go-ip-fraud-check) - To check ip address risk and proxy usage using ip address check services
@@ -2935,6 +2935,13 @@
 - [PrintNow/ChaoxingSign](https://github.com/PrintNow/ChaoxingSign) - PHP版超星学习通自动签到（包括普通签到、手势签到、位置签到，不支持二维码签到），支持多用户，二次开发便捷！
 - [missuo/Telegraph-Image-Hosting](https://github.com/missuo/Telegraph-Image-Hosting) - Build a free image hosting with Telegraph
 - [smi2/phpClickHouse](https://github.com/smi2/phpClickHouse) - php ClickHouse wrapper
+
+## portfolio 
+
+- [miantiao-me/astro-aria](https://github.com/miantiao-me/astro-aria) - A personal blog, portfolio, or blog template
+- [said7388/github-portfolio](https://github.com/said7388/github-portfolio) - Create a Portfolio Website using your GitHub username. This website template is constructed with next.js and tailwind CSS, allowing you to display your work and skills as a software developer.
+- [ddiu8081/ddiu.io](https://github.com/ddiu8081/ddiu.io) - Personal website.
+- [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
 
 ## portfolio-website 
 
