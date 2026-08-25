@@ -22,7 +22,6 @@
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
-- [Just](#just)
 - [Kotlin](#kotlin)
 - [Less](#less)
 - [Logos](#logos)
@@ -206,7 +205,7 @@
 - [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/
 - [NetworkCats/Merged-IP-Data](https://github.com/NetworkCats/Merged-IP-Data) - merge multiple IP geolocation databases into a single MMDB file
 - [SagerNet/sing-tun](https://github.com/SagerNet/sing-tun) - Simple transparent proxy library
-- [multica-ai/multica](https://github.com/multica-ai/multica) - Assign issues to Claude Code, Codex, Cursor, and 17 more coding agents like teammates — open-source and self-hostable.
+- [multica-ai/multica](https://github.com/multica-ai/multica) - Make humans and AI agents work as one team — open-source and self-hostable.
 - [openai/openai-cli](https://github.com/openai/openai-cli) - Official CLI for the OpenAI API
 - [zackpollard/frameio-immich-relay](https://github.com/zackpollard/frameio-immich-relay) - Self-hosted relay: Frame.io Camera-to-Cloud uploads → Immich. Webhook-driven, SHA-1 dedup, delete-after-ingest.
 - [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) - Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
@@ -575,10 +574,6 @@
 
 - [advimman/lama](https://github.com/advimman/lama) - 🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022
 
-## Just 
-
-- [gaoyifan/china-operator-ip](https://github.com/gaoyifan/china-operator-ip) - 中国运营商IPv4/IPv6地址库-每日更新
-
 ## Kotlin 
 
 - [suqi8/OShin](https://github.com/suqi8/OShin) - 一个专为ColorOS系统设计的辅助模块
@@ -711,7 +706,7 @@
 - [h3110w0r1d-y/termius-cracked](https://github.com/h3110w0r1d-y/termius-cracked) - Termius Pro
 - [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 
 - [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - Awesome apps, software, and SaaS deals on Black Friday.
-- [1c7/Translate-Subtitle-File](https://github.com/1c7/Translate-Subtitle-File) - 🔥（26年8月22号更新 v5.5.23 版）产品名："译幕"，用途：翻译字幕文件 .srt .ass .vtt。你只需要拖入字幕，点击翻译就行了。软件有网页版（zimoo.app）和桌面版。主要特点：用户可以自己填 API key。BYOK（Bring Your Own Key）
+- [1c7/Translate-Subtitle-File](https://github.com/1c7/Translate-Subtitle-File) - 🔥（26年8月24号更新 v5.5.26 版）产品名："译幕"，用途：翻译字幕文件 .srt .ass .vtt。你只需要拖入字幕，点击翻译就行了。软件有网页版（zimoo.app）和桌面版。主要特点：用户可以自己填 API key。BYOK（Bring Your Own Key）
 - [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
 - [megaease/Remembering-Haoel](https://github.com/megaease/Remembering-Haoel) - 记录您对左耳朵耗子（陈皓）的点滴回忆
 - [HMBSbige/qqwry](https://github.com/HMBSbige/qqwry) - 纯真 IP 库 建议切换到 https://github.com/FW27623/qqwry
@@ -1070,6 +1065,7 @@
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [nikivdev/code](https://github.com/nikivdev/code) - 
 - [mufeedvh/pdfrip](https://github.com/mufeedvh/pdfrip) - A multi-threaded PDF password cracking utility equipped with commonly encountered password format builders and dictionary attacks.
+- [gaoyifan/china-operator-ip](https://github.com/gaoyifan/china-operator-ip) - 中国运营商IPv4/IPv6地址库-每日更新
 - [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) - A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
 - [hoodie/notify-rust](https://github.com/hoodie/notify-rust) - ☝️send desktop notifications from your Rust app.
 - [Helixform/TeleGPT](https://github.com/Helixform/TeleGPT) - An out-of-box ChatGPT bot for Telegram.
