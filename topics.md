@@ -359,13 +359,13 @@
 ## algorithm 
 
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 4029 LeetCode Problems (Weekly Update)
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 4033 LeetCode Problems (Weekly Update)
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% | LeetCode 题解
 
 ## algorithms 
 
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 4029 LeetCode Problems (Weekly Update)
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 4033 LeetCode Problems (Weekly Update)
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% | LeetCode 题解
 
 ## analytics 
@@ -380,7 +380,7 @@
 
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
-- [madeye/meow](https://github.com/madeye/meow) - Meow - A Clash/mihomo Android client with Flutter UI, powered by meow-rs and lwip-based tun2socks
+- [meow-rs/meow-android](https://github.com/meow-rs/meow-android) - Meow - A Clash/mihomo Android client with Flutter UI, powered by meow-rs and lwip-based tun2socks
 - [erweixin/RaTeX](https://github.com/erweixin/RaTeX) - &gt;99.5% KaTeX syntax coverage. LaTeX math renderer in pure Rust. No JavaScript, no WebView, no DOM. One Rust core → iOS, Android, Flutter, Web, PNG. C ABI · WASM · Server-side PNG/SVG.
 - [HMAKT99/UnTouchID](https://github.com/HMAKT99/UnTouchID) - Use your phone's Face ID or fingerprint to approve sudo and unlock your Mac. QR pairing, encrypted BLE, Secure Enclave signing — keys never leave your phone. Works with iPhone, Android, Apple Watch, W
 - [tiajinsha/JKVideo](https://github.com/tiajinsha/JKVideo) - 高颜值第三方 B 站 React Native 客户端
@@ -652,7 +652,7 @@
 - [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 - [JUk1-GH/gpt-promo-scanner](https://github.com/JUk1-GH/gpt-promo-scanner) - ChatGPT Team(Business) 促销码自动扫描工具 — 批量发现/验证/价格收集，支持 17 国 34 个码，最高折扣 71% | ChatGPT Business promo code scanner — batch discovery, validation, price collection, 34 codes across 17 countries, up to 71% of
 - [ProjectKumo/KumoApp](https://github.com/ProjectKumo/KumoApp) - A calm, native macOS client for the Mihomo proxy core, built with SwiftUI and a shared agent-friendly CLI.
-- [madeye/meow](https://github.com/madeye/meow) - Meow - A Clash/mihomo Android client with Flutter UI, powered by meow-rs and lwip-based tun2socks
+- [meow-rs/meow-android](https://github.com/meow-rs/meow-android) - Meow - A Clash/mihomo Android client with Flutter UI, powered by meow-rs and lwip-based tun2socks
 - [666OS/ClashMac](https://github.com/666OS/ClashMac) - Native Proxy Experience Built for macOS
 - [enfein/mieru](https://github.com/enfein/mieru) - mieru is a socks5 / HTTP / HTTPS proxy to bypass censorship. 見える是一款 socks5 / HTTP / HTTPS 网络代理翻墙工具。
 - [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip) - 🌚 🌍 🌝 GeoIP 增强版，自由定制多种格式 GeoIP 文件，包括但不限于 V2Ray dat 格式文件 geoip.dat、MaxMind mmdb 格式文件、sing-box SRS 格式文件、mihomo MRS 格式文件、Clash ruleset、Surge ruleset、Nginx allow & deny 规则文件等。Enhanced edition of GeoIP for
@@ -826,7 +826,7 @@
 ## cpp 
 
 - [skyzh/RISCV-Simulator](https://github.com/skyzh/RISCV-Simulator) - 💻 RISC-V Simulator of RV32I ISA. 5-stage pipeline / out-of-order execution with Tomasulo algorithm and Speculation. Support runtime visualization. Project report available.
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 4029 LeetCode Problems (Weekly Update)
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 4033 LeetCode Problems (Weekly Update)
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 
 ## crawler 
@@ -863,7 +863,7 @@
 ## data 
 
 - [NateScarlet/holiday-cn](https://github.com/NateScarlet/holiday-cn) - 📅🇨🇳中国法定节假日数据 自动每日抓取国务院公告
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 APIs for web automation, testing, and bypassing bot-detection.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 APIs for web automation, testing, and bypassing bot-detection. (Now with MCP support!)
 
 ## data-science 
 
@@ -1110,7 +1110,7 @@
 
 - [ycccccccy/wx_key](https://github.com/ycccccccy/wx_key) - 获取微信4.0版本以上数据库密钥和图片密钥的工具 | A tool for obtaining database keys and image keys for WeChat versions 4.0 and above
 - [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
-- [madeye/meow](https://github.com/madeye/meow) - Meow - A Clash/mihomo Android client with Flutter UI, powered by meow-rs and lwip-based tun2socks
+- [meow-rs/meow-android](https://github.com/meow-rs/meow-android) - Meow - A Clash/mihomo Android client with Flutter UI, powered by meow-rs and lwip-based tun2socks
 - [erweixin/RaTeX](https://github.com/erweixin/RaTeX) - &gt;99.5% KaTeX syntax coverage. LaTeX math renderer in pure Rust. No JavaScript, no WebView, no DOM. One Rust core → iOS, Android, Flutter, Web, PNG. C ABI · WASM · Server-side PNG/SVG.
 - [galaxy-s10/billd-desk](https://github.com/galaxy-s10/billd-desk) - 基于Vue3 + WebRTC + Nodejs + Flutter搭建的远程桌面控制、游戏串流
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
@@ -2246,7 +2246,7 @@
 - [iebb/when-reset](https://github.com/iebb/when-reset) - iOS usage-limit and banked-reset monitor for ChatGPT and Claude
 - [JimmyHuang454/TLS-go](https://github.com/JimmyHuang454/TLS-go) - 
 - [duolahypercho/codex-router](https://github.com/duolahypercho/codex-router) - External-model router for Codex with guided Kimi OAuth/API, DeepSeek, safe migration, and rollback.
-- [Stapxs/pinentry-mac-swift](https://github.com/Stapxs/pinentry-mac-swift) - Pinentry Mac GUI Swift 版 / Pinentry Mac GUI Swift Edition
+- [Stapxs/pinentry-modern](https://github.com/Stapxs/pinentry-modern) - 更现代的 Pinentry GUI 实现 / More modern Pinentry GUI implementation
 - [Lakr233/mini-control-action](https://github.com/Lakr233/mini-control-action) - 
 - [ZenGeekLabs/DJOneHub](https://github.com/ZenGeekLabs/DJOneHub) - A native macOS management tool for the first-generation DJI 4G module.
 - [Noelo-Lab/kuna](https://github.com/Noelo-Lab/kuna) - An agent-first decompiler designed to be refined by other agents. Kuna is written in Rust and was originally ported from Ghidra.
@@ -2333,7 +2333,7 @@
 - [DIYgod/cloudflare-edge-tts](https://github.com/DIYgod/cloudflare-edge-tts) - 
 - [serenakeyitan/sbti-wiki](https://github.com/serenakeyitan/sbti-wiki) - SBTI 人格测试完整结果图鉴 · 27 种结局的中文 Wiki（25 标准人格 + HHHH 兜底 + DRUNK 隐藏）·  https://sbti-wiki.pages.dev
 - [UnluckyNinja/SBTI-test](https://github.com/UnluckyNinja/SBTI-test) - 注意建立这个repo只是因为网页自身就是全部源码，原作者并未声明license所以本repo也不包含license，一切行为请自行斟酌，不要给原作者添麻烦。 原作者：B站@蛆肉儿串儿
-- [madeye/meow-rs](https://github.com/madeye/meow-rs) - A high-performance Rust implementation of the mihomo (Clash Meta) proxy kernel.
+- [meow-rs/meow-rs](https://github.com/meow-rs/meow-rs) - A high-performance Rust implementation of the mihomo (Clash Meta) proxy kernel.
 - [madeye/BaoLianDeng](https://github.com/madeye/BaoLianDeng) - A macOS VPN proxy app powered by meow-rs, a Clash-compatible proxy kernel written in Rust
 - [dhinakg/aeota](https://github.com/dhinakg/aeota) - AEA OTA/IPSW decryption
 - [stripe/stripe-cli](https://github.com/stripe/stripe-cli) - A command-line tool for Stripe
@@ -3038,8 +3038,8 @@
 - [GilbN/geoip2influx](https://github.com/GilbN/geoip2influx) - A python script that will parse the nginx access.log and send geolocation metrics and log metrics to InfluxDB
 - [Soroosh-N/us_visa_scheduler](https://github.com/Soroosh-N/us_visa_scheduler) - US VISA (usvisa-info) appointment re-scheduler bot with python.
 - [yangwenmai/github-trending-backup](https://github.com/yangwenmai/github-trending-backup) - Github trending backup by everyday.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 APIs for web automation, testing, and bypassing bot-detection.
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 4029 LeetCode Problems (Weekly Update)
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 APIs for web automation, testing, and bypassing bot-detection. (Now with MCP support!)
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 4033 LeetCode Problems (Weekly Update)
 - [ading2210/poe-api](https://github.com/ading2210/poe-api) - [UNMAINTAINED] A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
 - [ShadowWhisperer/Remove-MS-Edge](https://github.com/ShadowWhisperer/Remove-MS-Edge) - Uninstall Microsoft Edge with an executable or batch script.
 - [tobymao/sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler
@@ -3204,7 +3204,7 @@
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-- [madeye/meow](https://github.com/madeye/meow) - Meow - A Clash/mihomo Android client with Flutter UI, powered by meow-rs and lwip-based tun2socks
+- [meow-rs/meow-android](https://github.com/meow-rs/meow-android) - Meow - A Clash/mihomo Android client with Flutter UI, powered by meow-rs and lwip-based tun2socks
 - [erweixin/RaTeX](https://github.com/erweixin/RaTeX) - &gt;99.5% KaTeX syntax coverage. LaTeX math renderer in pure Rust. No JavaScript, no WebView, no DOM. One Rust core → iOS, Android, Flutter, Web, PNG. C ABI · WASM · Server-side PNG/SVG.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
@@ -3790,7 +3790,7 @@
 
 - [femboyisp/yip](https://github.com/femboyisp/yip) - 🦊 Invisible low-latency P2P mesh VPN - silent to DPI, Reed–Solomon FEC loss-recovery, self-certifying mesh discovery, NAT hole-punching. What does the fox say? Nothing.
 - [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
-- [madeye/meow](https://github.com/madeye/meow) - Meow - A Clash/mihomo Android client with Flutter UI, powered by meow-rs and lwip-based tun2socks
+- [meow-rs/meow-android](https://github.com/meow-rs/meow-android) - Meow - A Clash/mihomo Android client with Flutter UI, powered by meow-rs and lwip-based tun2socks
 - [veil-net/conflux](https://github.com/veil-net/conflux) - Connector for decentralised post-quantum secure network - VeilNet
 - [TrustTunnel/TrustTunnel](https://github.com/TrustTunnel/TrustTunnel) - Modern, fast and obfuscated VPN protocol
 - [yuezk/GlobalProtect-openconnect](https://github.com/yuezk/GlobalProtect-openconnect) - A GlobalProtect VPN client for Linux, written in Rust, based on OpenConnect and Tauri, supports SSO with MFA, YubiKey, and client certificate authentication, etc.
