@@ -631,6 +631,7 @@
 
 ## chrome-extension 
 
+- [taresky/twitterclip](https://github.com/taresky/twitterclip) - 在 X/Twitter 分享菜单中生成当前帖、匿名或完整回复链截图的 Chrome 扩展。
 - [vaayne/NotionAI-Plus](https://github.com/vaayne/NotionAI-Plus) - NotionAI Plus is a browser extension that adds NotionAI's powerful features to any website you visit
 - [GargantuaX/gemini-watermark-remover](https://github.com/GargantuaX/gemini-watermark-remover) - A high-performance, 100% client-side tool for removing Gemini AI image & video watermarks. Built with pure JavaScript using mathematically precise Reverse Alpha Blending. / 基于 JavaScript 的纯浏览器端 Gemini
 - [xlch88/YouTubeTweak](https://github.com/xlch88/YouTubeTweak) - Packed with all the features you want: lock video quality, speed buttons, show commenter names, auto-translate comments, hide distractions, and more.
@@ -728,6 +729,7 @@
 
 ## cli 
 
+- [maksimryabkin/ipatool-sapfix](https://github.com/maksimryabkin/ipatool-sapfix) - macOS ipatool IPA downloader fixing Apple App Store login HTTP 403 with SAP X-Apple-ActionSignature via CommerceKit — Apple Silicon and Intel
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
 - [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - Remove visible and invisible AI watermarks and provenance metadata from images and video. Python library and CLI for SynthID, C2PA, EXIF, IPTC, XMP, and common generative-AI marks.
@@ -1219,6 +1221,7 @@
 
 ## go 
 
+- [maksimryabkin/ipatool-sapfix](https://github.com/maksimryabkin/ipatool-sapfix) - macOS ipatool IPA downloader fixing Apple App Store login HTTP 403 with SAP X-Apple-ActionSignature via CommerceKit — Apple Silicon and Intel
 - [xchacha20-poly1305/sing-trusttunnel](https://github.com/xchacha20-poly1305/sing-trusttunnel) - A sing style TrustTunnel implementation.
 - [rorkai/App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more
 - [openclaw/goplaces](https://github.com/openclaw/goplaces) - Modern Google Places CLI in Go
@@ -1284,6 +1287,7 @@
 
 ## golang 
 
+- [maksimryabkin/ipatool-sapfix](https://github.com/maksimryabkin/ipatool-sapfix) - macOS ipatool IPA downloader fixing Apple App Store login HTTP 403 with SAP X-Apple-ActionSignature via CommerceKit — Apple Silicon and Intel
 - [NetworkCats/Merged-IP-Data](https://github.com/NetworkCats/Merged-IP-Data) - merge multiple IP geolocation databases into a single MMDB file
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
 - [rorkai/App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more
@@ -1519,6 +1523,8 @@
 
 ## ios 
 
+- [EmergeTools/Pow](https://github.com/EmergeTools/Pow) - Delightful SwiftUI effects for your app
+- [maksimryabkin/ipatool-sapfix](https://github.com/maksimryabkin/ipatool-sapfix) - macOS ipatool IPA downloader fixing Apple App Store login HTTP 403 with SAP X-Apple-ActionSignature via CommerceKit — Apple Silicon and Intel
 - [ZingerLittleBee/Heeler](https://github.com/ZingerLittleBee/Heeler) - Native iOS agent console for herdr — watch and drive the coding agents on your machines over SSH, with a real libghostty terminal, QR pairing, and push notifications when an agent needs you
 - [londek/ipadecrypt](https://github.com/londek/ipadecrypt) - 🔓 ipadecrypt is an open-source tool for downloading, patching and decrypting .ipa's with minimal user intervention on palera1n and dopamine jailbreaks
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
@@ -1744,7 +1750,7 @@
 - [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - ❄️ ChatGPT Desktop Application (Mac, Windows and Linux)
-- [everettjf/easyvm](https://github.com/everettjf/easyvm) - Spin up isolated macOS or Linux VMs on Apple Silicon for AI agents to safely run code in.
+- [everettjf/ezvm](https://github.com/everettjf/ezvm) - Spin up isolated macOS or Linux VMs on Apple Silicon for AI agents to safely run code in.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 
@@ -1822,6 +1828,7 @@
 
 ## macos 
 
+- [maksimryabkin/ipatool-sapfix](https://github.com/maksimryabkin/ipatool-sapfix) - macOS ipatool IPA downloader fixing Apple App Store login HTTP 403 with SAP X-Apple-ActionSignature via CommerceKit — Apple Silicon and Intel
 - [RuochenLyu/run-shelf](https://github.com/RuochenLyu/run-shelf) - macOS 本地脚本管理工具：运行、定时和排查 Shell 脚本
 - [sozercan/kaset](https://github.com/sozercan/kaset) - 📼 The missing YouTube and YouTube Music macOS app
 - [demiaochen/caffeinate-disablesleep](https://github.com/demiaochen/caffeinate-disablesleep) - Keep your Mac awake from the menu bar, even with the lid closed. caffeinate -disu and sudo pmset -a disablesleep 1, one click. 2.2 MB only.
@@ -1918,7 +1925,7 @@
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - ❄️ ChatGPT Desktop Application (Mac, Windows and Linux)
 - [sindresorhus/Plash](https://github.com/sindresorhus/Plash) - 💦 Make any website your Mac desktop wallpaper
 - [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The first GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
-- [everettjf/easyvm](https://github.com/everettjf/easyvm) - Spin up isolated macOS or Linux VMs on Apple Silicon for AI agents to safely run code in.
+- [everettjf/ezvm](https://github.com/everettjf/ezvm) - Spin up isolated macOS or Linux VMs on Apple Silicon for AI agents to safely run code in.
 - [underthestars-zhy/IconChanger](https://github.com/underthestars-zhy/IconChanger) - Simply change your app's icon on macOS. Just a click.
 - [FaiChou/uCopy](https://github.com/FaiChou/uCopy) - Yet Another Pasteboard Tool
 - [paradiseduo/tcping](https://github.com/paradiseduo/tcping) - tcping command, written with Objective-C, on macOS,tcping for mac,ping over a tcp connection
@@ -2234,6 +2241,10 @@
 
 ## others 
 
+- [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history
+- [orionblur/NeoFreeBird](https://github.com/orionblur/NeoFreeBird) - A tweak for Twitter that reverts branding to pre-2023, blocks ads, unlocks Twitter Blue features, and more!
+- [jprx/darwin-vm](https://github.com/jprx/darwin-vm) - Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.
+- [Mac-XK/LiquidGlassKit](https://github.com/Mac-XK/LiquidGlassKit) - iOS 13-18，iOS26+ 的苹果Liquid Glass
 - [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale's data plane, without Tailscale's control plane
 - [34306/vphone-aio](https://github.com/34306/vphone-aio) - 1 script run the vphone
 - [nfzerox/VirtualMacOniPad](https://github.com/nfzerox/VirtualMacOniPad) - People have dreamed of running macOS on iPad for more than a decade. Today, that dream comes true. With Virtual Mac, iPad finally breaks free from iPadOS, enabling pro apps like Xcode, Terminal, Final
@@ -2973,6 +2984,7 @@
 
 ## privacy 
 
+- [taresky/twitterclip](https://github.com/taresky/twitterclip) - 在 X/Twitter 分享菜单中生成当前帖、匿名或完整回复链截图的 Chrome 扩展。
 - [SukkaW/location-guard-ng](https://github.com/SukkaW/location-guard-ng) - A UserScript that hide/spoof your geographic location from websites.
 - [sleep3r/mtproto.zig](https://github.com/sleep3r/mtproto.zig) - Keep the people you love connected — a tiny self-hosted Telegram proxy that hides in plain HTTPS
 - [femboyisp/yip](https://github.com/femboyisp/yip) - 🦊 Invisible low-latency P2P mesh VPN - silent to DPI, Reed–Solomon FEC loss-recovery, self-certifying mesh discovery, NAT hole-punching. What does the fox say? Nothing.
@@ -3425,6 +3437,7 @@
 
 ## swift 
 
+- [EmergeTools/Pow](https://github.com/EmergeTools/Pow) - Delightful SwiftUI effects for your app
 - [ZingerLittleBee/Heeler](https://github.com/ZingerLittleBee/Heeler) - Native iOS agent console for herdr — watch and drive the coding agents on your machines over SSH, with a real libghostty terminal, QR pairing, and push notifications when an agent needs you
 - [RuochenLyu/run-shelf](https://github.com/RuochenLyu/run-shelf) - macOS 本地脚本管理工具：运行、定时和排查 Shell 脚本
 - [sozercan/kaset](https://github.com/sozercan/kaset) - 📼 The missing YouTube and YouTube Music macOS app
@@ -3492,7 +3505,7 @@
 - [Daltron/NotificationBanner](https://github.com/Daltron/NotificationBanner) - The easiest way to display highly customizable in app notification banners in iOS
 - [sindresorhus/Plash](https://github.com/sindresorhus/Plash) - 💦 Make any website your Mac desktop wallpaper
 - [vapor/mysql-kit](https://github.com/vapor/mysql-kit) - 🐬 Pure Swift MySQL client built on non-blocking, event-driven sockets.
-- [everettjf/easyvm](https://github.com/everettjf/easyvm) - Spin up isolated macOS or Linux VMs on Apple Silicon for AI agents to safely run code in.
+- [everettjf/ezvm](https://github.com/everettjf/ezvm) - Spin up isolated macOS or Linux VMs on Apple Silicon for AI agents to safely run code in.
 - [vapor/sql-kit](https://github.com/vapor/sql-kit) - *️⃣ Build SQL queries in Swift. Extensible, protocol-based design that supports DQL, DML, and DDL.
 - [underthestars-zhy/IconChanger](https://github.com/underthestars-zhy/IconChanger) - Simply change your app's icon on macOS. Just a click.
 - [vapor/mysql-nio](https://github.com/vapor/mysql-nio) - 🐬 Non-blocking, event-driven Swift client for MySQL.
@@ -3508,6 +3521,7 @@
 
 ## swiftui 
 
+- [EmergeTools/Pow](https://github.com/EmergeTools/Pow) - Delightful SwiftUI effects for your app
 - [ZingerLittleBee/Heeler](https://github.com/ZingerLittleBee/Heeler) - Native iOS agent console for herdr — watch and drive the coding agents on your machines over SSH, with a real libghostty terminal, QR pairing, and push notifications when an agent needs you
 - [sozercan/kaset](https://github.com/sozercan/kaset) - 📼 The missing YouTube and YouTube Music macOS app
 - [demiaochen/caffeinate-disablesleep](https://github.com/demiaochen/caffeinate-disablesleep) - Keep your Mac awake from the menu bar, even with the lid closed. caffeinate -disu and sudo pmset -a disablesleep 1, one click. 2.2 MB only.
@@ -3550,7 +3564,7 @@
 - [Yoddikko/yoddChatGPT](https://github.com/Yoddikko/yoddChatGPT) - This app uses the OpenAISwift library, ChatGPTSwift library and OpenAI library to communicate with the popular ChatGPT artificial intelligence. The app allows you to have a quick message exchange with
 - [Dimillian/IceCubesApp](https://github.com/Dimillian/IceCubesApp) - A SwiftUI Mastodon client
 - [sindresorhus/Plash](https://github.com/sindresorhus/Plash) - 💦 Make any website your Mac desktop wallpaper
-- [everettjf/easyvm](https://github.com/everettjf/easyvm) - Spin up isolated macOS or Linux VMs on Apple Silicon for AI agents to safely run code in.
+- [everettjf/ezvm](https://github.com/everettjf/ezvm) - Spin up isolated macOS or Linux VMs on Apple Silicon for AI agents to safely run code in.
 - [underthestars-zhy/IconChanger](https://github.com/underthestars-zhy/IconChanger) - Simply change your app's icon on macOS. Just a click.
 - [FaiChou/uCopy](https://github.com/FaiChou/uCopy) - Yet Another Pasteboard Tool
 - [isaced/V2exOS](https://github.com/isaced/V2exOS) - 一个用 SwiftUI 编写的 V2ex macOS/iOS/tvOS 客户端 (A V2ex macOS/iOS/tvOS client written in SwiftUI)
@@ -3669,6 +3683,7 @@
 
 ## twitter 
 
+- [taresky/twitterclip](https://github.com/taresky/twitterclip) - 在 X/Twitter 分享菜单中生成当前帖、匿名或完整回复链截图的 Chrome 扩展。
 - [transitive-bullshit/tweet-to-md](https://github.com/transitive-bullshit/tweet-to-md) - Converts a Tweet to Markdown for LLMs.
 - [xdevplatform/samples](https://github.com/xdevplatform/samples) - Sample code for the X API v2 endpoints
 - [rymalia/bird](https://github.com/rymalia/bird) - Bird is a cli for twitter, so your agents can tweet. (Forked from @steipete, of course, who later shutdown his repo)
@@ -3740,7 +3755,7 @@
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [ophub/amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian) - Supports running Armbian on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.
 - [kastldratza/zoomrec](https://github.com/kastldratza/zoomrec) - Record Zoom meetings automatically in headless docker container with Python and FFmpeg
-- [everettjf/easyvm](https://github.com/everettjf/easyvm) - Spin up isolated macOS or Linux VMs on Apple Silicon for AI agents to safely run code in.
+- [everettjf/ezvm](https://github.com/everettjf/ezvm) - Spin up isolated macOS or Linux VMs on Apple Silicon for AI agents to safely run code in.
 
 ## ui 
 
