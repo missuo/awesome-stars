@@ -190,6 +190,7 @@
 
 ## Go 
 
+- [maksimryabkin/ipatool-sapfix](https://github.com/maksimryabkin/ipatool-sapfix) - macOS ipatool IPA downloader fixing Apple App Store login HTTP 403 with SAP X-Apple-ActionSignature via CommerceKit — Apple Silicon and Intel
 - [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale's data plane, without Tailscale's control plane
 - [b-nnett/codex-subscription-router](https://github.com/b-nnett/codex-subscription-router) - 
 - [JimmyHuang454/TLS-go](https://github.com/JimmyHuang454/TLS-go) - 
@@ -217,6 +218,7 @@
 - [tangxiaofeng7/cscan](https://github.com/tangxiaofeng7/cscan) - Exposure Surface / Attack Surface Scanning Platform 暴露面/攻击面扫描平台
 - [adibhanna/tsm](https://github.com/adibhanna/tsm) - Terminal session manager
 - [xchacha20-poly1305/sing-trusttunnel](https://github.com/xchacha20-poly1305/sing-trusttunnel) - A sing style TrustTunnel implementation.
+- [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) - Secure, Fast, and Extensible Sandbox runtime for AI agents.
 - [memohai/Memoh](https://github.com/memohai/Memoh) - ✨ The open-source multi-agent platform. Every agent gets its own computer, desktop, network, and long-term memory.  You can bring your own key, or host your coding agent like Claude Code, Codex and so
 - [chris1004tw/remote-adb](https://github.com/chris1004tw/remote-adb) - Remote ADB P2P forwarding tool - 遠端 ADB 設備 P2P 轉發工具
 - [Wikidepia/InstaFix](https://github.com/Wikidepia/InstaFix) - Fix Instagram embeds in Discord (and Telegram!)
@@ -641,6 +643,7 @@
 
 ## Objective-C 
 
+- [orionblur/NeoFreeBird](https://github.com/orionblur/NeoFreeBird) - A tweak for Twitter that reverts branding to pre-2023, blocks ads, unlocks Twitter Blue features, and more!
 - [nfzerox/VirtualMacOniPad](https://github.com/nfzerox/VirtualMacOniPad) - People have dreamed of running macOS on iPad for more than a decade. Today, that dream comes true. With Virtual Mac, iPad finally breaks free from iPadOS, enabling pro apps like Xcode, Terminal, Final
 - [dhinakg/aeota](https://github.com/dhinakg/aeota) - AEA OTA/IPSW decryption
 - [opa334/darksword-kexploit](https://github.com/opa334/darksword-kexploit) - iOS &lt;=26.0.1 DarkSword Kernel Exploit reimplemented in Objective-C
@@ -772,6 +775,7 @@
 
 ## Python 
 
+- [jprx/darwin-vm](https://github.com/jprx/darwin-vm) - Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 - [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - Remove visible and invisible AI watermarks and provenance metadata from images and video. Python library and CLI for SynthID, C2PA, EXIF, IPTC, XMP, and common generative-AI marks.
 - [JUk1-GH/gpt-promo-scanner](https://github.com/JUk1-GH/gpt-promo-scanner) - ChatGPT Team(Business) 促销码自动扫描工具 — 批量发现/验证/价格收集，支持 17 国 34 个码，最高折扣 71% | ChatGPT Business promo code scanner — batch discovery, validation, price collection, 34 codes across 17 countries, up to 71% of
@@ -785,7 +789,6 @@
 - [punitarani/fli](https://github.com/punitarani/fli) - Google Flights MCP, CLI and Python Library
 - [agent-infra/sandbox](https://github.com/agent-infra/sandbox) - All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a single Docker container.
 - [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) - State-of-the-art TTS model under 25MB 😻
-- [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) - Secure, Fast, and Extensible Sandbox runtime for AI agents.
 - [CodeDuet/codeduet-microvm-ai-agent-sandbox](https://github.com/CodeDuet/codeduet-microvm-ai-agent-sandbox) - MicroVM AI agent sandbox system using Cloud Hypervisor and Python with support for both Linux and Windows guest operating systems. The system provides hardware-level isolation through MicroVMs while m
 - [dpearson2699/swift-ios-skills](https://github.com/dpearson2699/swift-ios-skills) - Agent Skills for iOS 26+, Swift 6.3, SwiftUI, and modern Apple frameworks
 - [imbue-bit/OpenClaw-PwnKit](https://github.com/imbue-bit/OpenClaw-PwnKit) - Get shell to almost any OpenClaw host machine.
@@ -1178,6 +1181,9 @@
 
 ## Swift 
 
+- [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history
+- [EmergeTools/Pow](https://github.com/EmergeTools/Pow) - Delightful SwiftUI effects for your app
+- [Mac-XK/LiquidGlassKit](https://github.com/Mac-XK/LiquidGlassKit) - iOS 13-18，iOS26+ 的苹果Liquid Glass
 - [ZingerLittleBee/Heeler](https://github.com/ZingerLittleBee/Heeler) - Native iOS agent console for herdr — watch and drive the coding agents on your machines over SSH, with a real libghostty terminal, QR pairing, and push notifications when an agent needs you
 - [OwnGoalStudio/iGhostty](https://github.com/OwnGoalStudio/iGhostty) - Ghostty-powered terminal for jailbroken iOS — daemon-backed sessions that survive relaunch
 - [celldock/celldock-for-mac](https://github.com/celldock/celldock-for-mac) - Use cellular network, SMS, and calls on your Mac.
@@ -1345,7 +1351,7 @@
 - [vapor/mysql-kit](https://github.com/vapor/mysql-kit) - 🐬 Pure Swift MySQL client built on non-blocking, event-driven sockets.
 - [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The first GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
 - [ginsudev/WDBFontOverwrite](https://github.com/ginsudev/WDBFontOverwrite) - Proof-of-concept app to overwrite fonts on iOS using CVE-2022-46689.
-- [everettjf/easyvm](https://github.com/everettjf/easyvm) - Spin up isolated macOS or Linux VMs on Apple Silicon for AI agents to safely run code in.
+- [everettjf/ezvm](https://github.com/everettjf/ezvm) - Spin up isolated macOS or Linux VMs on Apple Silicon for AI agents to safely run code in.
 - [vapor/sql-kit](https://github.com/vapor/sql-kit) - *️⃣ Build SQL queries in Swift. Extensible, protocol-based design that supports DQL, DML, and DDL.
 - [underthestars-zhy/IconChanger](https://github.com/underthestars-zhy/IconChanger) - Simply change your app's icon on macOS. Just a click.
 - [vapor/mysql-nio](https://github.com/vapor/mysql-nio) - 🐬 Non-blocking, event-driven Swift client for MySQL.
@@ -1369,6 +1375,7 @@
 
 ## TypeScript 
 
+- [taresky/twitterclip](https://github.com/taresky/twitterclip) - 在 X/Twitter 分享菜单中生成当前帖、匿名或完整回复链截图的 Chrome 扩展。
 - [SukkaW/location-guard-ng](https://github.com/SukkaW/location-guard-ng) - A UserScript that hide/spoof your geographic location from websites.
 - [yetone/cumora](https://github.com/yetone/cumora) - Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.
 - [get-bb/bb](https://github.com/get-bb/bb) - The agent IDE that builds itself
