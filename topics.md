@@ -2249,7 +2249,7 @@
 - [34306/vphone-aio](https://github.com/34306/vphone-aio) - 1 script run the vphone
 - [nfzerox/VirtualMacOniPad](https://github.com/nfzerox/VirtualMacOniPad) - People have dreamed of running macOS on iPad for more than a decade. Today, that dream comes true. With Virtual Mac, iPad finally breaks free from iPadOS, enabling pro apps like Xcode, Terminal, Final
 - [WhiteNightShadow/wx-mp-mcp](https://github.com/WhiteNightShadow/wx-mp-mcp) - 微信小程序逆向 MCP — 在线实时解包 + AI 静态分析还原接口签名/加密，产出本地 Node.js 直接能跑的脚本（零侵入，不碰微信进程）
-- [OwnGoalStudio/iGhostty](https://github.com/OwnGoalStudio/iGhostty) - Ghostty-powered terminal for jailbroken iOS — daemon-backed sessions that survive relaunch
+- [OwnGoalStudio/GhostVT](https://github.com/OwnGoalStudio/GhostVT) - Ghostty-powered terminal for jailbroken iOS — daemon-backed sessions that survive relaunch
 - [OwnGoalStudio/Relaxin](https://github.com/OwnGoalStudio/Relaxin) - Relaxin is a RootHide jailbreak.
 - [yetone/cumora](https://github.com/yetone/cumora) - Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.
 - [b-nnett/codex-subscription-router](https://github.com/b-nnett/codex-subscription-router) - 
