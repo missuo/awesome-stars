@@ -769,7 +769,7 @@
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 - [ZingerLittleBee/netop](https://github.com/ZingerLittleBee/netop) - Network Top -- Help you monitor network traffic with bpf
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.
 
 ## cloud 
 
@@ -800,7 +800,7 @@
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [jordanbaird/createicns](https://github.com/jordanbaird/createicns) - Create 'icns' and 'iconset' files from standard images
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.
 
 ## compiler 
 
@@ -1283,7 +1283,7 @@
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for bui
 - [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :rocket:
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.
 - [hacdias/webdav](https://github.com/hacdias/webdav) - A simple and standalone WebDAV server.
 
 ## golang 
@@ -1368,7 +1368,7 @@
 - [HyNetworks/hysteria](https://github.com/HyNetworks/hysteria) - Hysteria is powerful, lightning-fast, and censorship-resistant open-source proxy software
 - [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :rocket:
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.
 
 ## google 
 
@@ -1390,6 +1390,7 @@
 
 ## gui 
 
+- [crmne/fastpotify](https://github.com/crmne/fastpotify) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 - [yuezk/GlobalProtect-openconnect](https://github.com/yuezk/GlobalProtect-openconnect) - A GlobalProtect VPN client for Linux, written in Rust, based on OpenConnect and Tauri, supports SSO with MFA, YubiKey, and client certificate authentication, etc.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 
@@ -1590,7 +1591,7 @@
 - [sail-tunnel/sail](https://github.com/sail-tunnel/sail) - A flutter demo client application for v2board.
 - [paulmillr/encrypted-dns](https://github.com/paulmillr/encrypted-dns) - DNS over HTTPS config profiles for iOS & macOS
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [Tencent/ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
 
@@ -1722,6 +1723,7 @@
 
 ## linux 
 
+- [crmne/fastpotify](https://github.com/crmne/fastpotify) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [gphoto/libgphoto2](https://github.com/gphoto/libgphoto2) - The libgphoto2 camera access and control library.
 - [danielpaulus/go-ios](https://github.com/danielpaulus/go-ios) - This is an operating system independent implementation of iOS device features. You can run UI tests, launch or kill apps, install apps etc. with it.
@@ -1830,6 +1832,7 @@
 
 ## macos 
 
+- [crmne/fastpotify](https://github.com/crmne/fastpotify) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 - [maksimryabkin/ipatool-sapfix](https://github.com/maksimryabkin/ipatool-sapfix) - macOS ipatool IPA downloader fixing Apple App Store login HTTP 403 with SAP X-Apple-ActionSignature via CommerceKit — Apple Silicon and Intel
 - [RuochenLyu/run-shelf](https://github.com/RuochenLyu/run-shelf) - macOS 本地脚本管理工具：运行、定时和排查 Shell 脚本
 - [sozercan/kaset](https://github.com/sozercan/kaset) - 📼 The missing YouTube and YouTube Music macOS app
@@ -1938,7 +1941,7 @@
 - [paulmillr/encrypted-dns](https://github.com/paulmillr/encrypted-dns) - DNS over HTTPS config profiles for iOS & macOS
 - [getgridea/gridea](https://github.com/getgridea/gridea) - ✍️ A static blog writing client (一个静态博客写作客户端)
 - [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 macOS 平台的翻译和 OCR 软件。
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [sarkrui/Eudic-for-Mac](https://github.com/sarkrui/Eudic-for-Mac) - 快速安装欧路词典并导入牛津高阶词典
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
@@ -2029,6 +2032,7 @@
 
 ## music 
 
+- [crmne/fastpotify](https://github.com/crmne/fastpotify) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 - [sozercan/kaset](https://github.com/sozercan/kaset) - 📼 The missing YouTube and YouTube Music macOS app
 - [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major) - 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器
 - [songloft-org/songloft](https://github.com/songloft-org/songloft) - 🎵 插件化、无广告的免费音乐服务器
@@ -2243,6 +2247,7 @@
 
 ## others 
 
+- [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) - Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, 
 - [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history
 - [orionblur/NeoFreeBird](https://github.com/orionblur/NeoFreeBird) - A tweak for Twitter that reverts branding to pre-2023, blocks ads, unlocks Twitter Blue features, and more!
 - [jprx/darwin-vm](https://github.com/jprx/darwin-vm) - Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.
@@ -3197,7 +3202,7 @@
 - [ReagentX/imessage-exporter](https://github.com/ReagentX/imessage-exporter) - Export iMessage data + run iMessage Diagnostics
 - [ReVanced/revanced-patches-template](https://github.com/ReVanced/revanced-patches-template) - 👋🧩Template repository for ReVanced Patches
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.
 
 ## robotics 
 
@@ -3211,6 +3216,7 @@
 
 ## rust 
 
+- [crmne/fastpotify](https://github.com/crmne/fastpotify) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 - [tectonic-typesetting/tectonic](https://github.com/tectonic-typesetting/tectonic) - A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
 - [egoist/waku](https://github.com/egoist/waku) - ⚡ A native app for all your coding agents.
 - [immunant/c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust
@@ -3307,7 +3313,7 @@
 - [mufeedvh/pdfrip](https://github.com/mufeedvh/pdfrip) - A multi-threaded PDF password cracking utility equipped with commonly encountered password format builders and dictionary attacks.
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.
 
 ## security-tools 
 
@@ -3518,7 +3524,7 @@
 - [isaced/V2exOS](https://github.com/isaced/V2exOS) - 一个用 SwiftUI 编写的 V2ex macOS/iOS/tvOS 客户端 (A V2ex macOS/iOS/tvOS client written in SwiftUI)
 - [argentlabs/web3.swift](https://github.com/argentlabs/web3.swift) - Ethereum Swift API with support for smart contracts, ENS & ERC20
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [fancymax/12306ForMac](https://github.com/fancymax/12306ForMac) - An unofficial 12306 Client for Mac
 
@@ -3899,6 +3905,7 @@
 
 ## windows 
 
+- [crmne/fastpotify](https://github.com/crmne/fastpotify) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 - [caezium/burrow](https://github.com/caezium/burrow) - 🐹 Cleanup, app management, maintenance, disk analysis, and live status in one free, open-source, native Mac app + extensive support for AI agents. Coming to Windows
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [yalue/onnxruntime_go](https://github.com/yalue/onnxruntime_go) - A Go (golang) library wrapping microsoft/onnxruntime.
