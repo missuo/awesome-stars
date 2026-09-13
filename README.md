@@ -1403,7 +1403,7 @@
 - [Gloridust/WechatOnCloud](https://github.com/Gloridust/WechatOnCloud) - 云微WOC，云微信，自由连接
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [lobehub/lobe-icons](https://github.com/lobehub/lobe-icons) - 🥨 Lobe Icons - Brings AI/LLM brand logos to your React & React Native apps — static SVG/PNG/WebP, no dependencies.
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.
 - [foru17/make-x-great-again](https://github.com/foru17/make-x-great-again) - Make X Great Again — passive ambient browser extension that makes X usable: spam shield, KOL signal score, profile digest, social graph hints. Public-good, open source.
 - [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - An AI prompt optimizer for writing better prompts and getting better AI results.
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
@@ -1468,7 +1468,7 @@
 - [iannuttall/dotagents](https://github.com/iannuttall/dotagents) - One location for all of your hooks, commands, skills, and AGENT/CLAUDE.md files.
 - [nexmoe/VidBee](https://github.com/nexmoe/VidBee) - Download video and audio from  YouTube ,  TikTok ,  Twitter ,  Instagram ,  Facebook ,  Twitch ,  Bilibili , and 1000+ sites—or import local media. Create searchable transcripts on your computer, then
 - [voidauth/voidauth](https://github.com/voidauth/voidauth) - Single Sign-On for Your Self-Hosted Universe
-- [miantiao-me/bm.md](https://github.com/miantiao-me/bm.md) - 更好用的 Markdown 排版助手｜一键适配微信公众号、网页与图片。
+- [miantiao-me/bm.md](https://github.com/miantiao-me/bm.md) - 更好用的 Markdown 排版助手｜专为微信公众号与多平台排版设计，支持富文本复制、图片生成与矢量 PDF 导出。
 - [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [shekohex/opencode-google-antigravity-auth](https://github.com/shekohex/opencode-google-antigravity-auth) - Antigravity (Google) auth plugin for opencode
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
