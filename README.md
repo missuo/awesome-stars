@@ -86,6 +86,7 @@
 - [estkme-group/lpac](https://github.com/estkme-group/lpac) - C-based eUICC LPA
 - [NetworkConfiguration/dhcpcd](https://github.com/NetworkConfiguration/dhcpcd) - DHCP / IPv4LL / IPv6RA / DHCPv6 client.
 - [owngoal-dev/TrollVNC](https://github.com/owngoal-dev/TrollVNC) - VNC server for iOS devices, allowing remote access and control of the device’s screen.
+- [Lakr233/Irisin](https://github.com/Lakr233/Irisin) - Modern. Fast. Beautiful.
 - [Q-WRT/Q-WRT](https://github.com/Q-WRT/Q-WRT) - Q-WRT, A Commercial product level fimware for IoT-Devices base OpenWrt
 - [dlundquist/sniproxy](https://github.com/dlundquist/sniproxy) - Proxies incoming HTTP and TLS connections based on the hostname contained in the initial request of the TCP session.
 - [alfiecg24/TrollInstallerX](https://github.com/alfiecg24/TrollInstallerX) - A TrollStore installer for iOS 14.0 - 16.6.1
@@ -126,7 +127,6 @@
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [claration/zsign](https://github.com/claration/zsign) - Fork of zsign which turns it into a compatible package for the swift package manager.
 - [asdlokj1qpi233/subconverter](https://github.com/asdlokj1qpi233/subconverter) - About Utility to convert between various subscription format.Support anytls、mieru、hy2、hy and vless for singbox and clash meta.original git: https://github.com/asdlokj1qpi23/subconverter
-- [pxx917144686/DYYY](https://github.com/pxx917144686/DYYY) - 抖音++
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [ml-explore/mlx-swift](https://github.com/ml-explore/mlx-swift) - Swift API for MLX
@@ -479,7 +479,7 @@
 - [duolahypercho/codex-router](https://github.com/duolahypercho/codex-router) - External-model router for Codex with guided Kimi OAuth/API, DeepSeek, safe migration, and rollback.
 - [zanwei/chatgpt-model-selector](https://github.com/zanwei/chatgpt-model-selector) - ChatGPT-inspired model intelligence picker as a zero-dependency Web Component (MIT)
 - [tiagozip/cap](https://github.com/tiagozip/cap) - Free, open-source and self-hosted CAPTCHA alternative to reCAPTCHA. Privacy-first and powered by proof-of-work and instrumentation challenges.
-- [Archeb/peer.as](https://github.com/Archeb/peer.as) - PEER.AS — explore global BGP routing, IP prefixes, ASNs, AS_PATH, origins and peering.
+- [Archeb/peer.as](https://github.com/Archeb/peer.as) - Explore global BGP routing, IP prefixes, ASNs, AS_PATH, origins and peering.
 - [antfu/qr-scanner-wechat](https://github.com/antfu/qr-scanner-wechat) - QR Code scanner in JS with Open CV and WeChat's Algorithm
 - [dwgx/WindsurfAPI](https://github.com/dwgx/WindsurfAPI) - Turn Windsurf / Devin Desktop's 100+ AI models (Claude, GPT, Gemini, DeepSeek, Kimi, GLM, SWE) into OpenAI-, Anthropic- & Gemini-compatible APIs. Zero-dependency self-hosted reverse proxy for Claude C
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Gro
@@ -613,7 +613,7 @@
 ## Lua 
 
 - [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
-- [appleshan/fcitx5-rime-dict](https://github.com/appleshan/fcitx5-rime-dict) - 
+- [AlanVane/fcitx5-rime-dict](https://github.com/AlanVane/fcitx5-rime-dict) - 
 - [wongdean/rime-settings](https://github.com/wongdean/rime-settings) - 接近原生的鼠须管 Rime 配置
 - [ssnhd/rime](https://github.com/ssnhd/rime) - Rime Squirrel 鼠须管配置文件（朙月拼音、小鹤双拼、自然码双拼）
 
@@ -651,6 +651,7 @@
 - [maderix/ANE](https://github.com/maderix/ANE) - Training neural networks on Apple Neural Engine via reverse-engineered private APIs
 - [sparkle-project/Sparkle](https://github.com/sparkle-project/Sparkle) - A software update framework for macOS
 - [mineek/MuffinStore](https://github.com/mineek/MuffinStore) - 
+- [pxx917144686/DYYY](https://github.com/pxx917144686/DYYY) - 抖音++
 - [uncor3/dig3st](https://github.com/uncor3/dig3st) - A free & open-source tweak for Notification Summarization for everyone.
 - [Helixform/Litext](https://github.com/Helixform/Litext) - A tiny rich-text supporting library for Apple platform.
 - [0xkuj/IPARanger](https://github.com/0xkuj/IPARanger) - GUI Interface for ipatool
@@ -777,6 +778,7 @@
 
 ## Python 
 
+- [TANGandXUE/wcdb-key-tool](https://github.com/TANGandXUE/wcdb-key-tool) - Extract WeChat (WCDB/SQLCipher4) database encryption keys on Linux. Auto-adapts to new versions via ELF static analysis — no manual reverse engineering needed per update. Linux 微信数据库密钥提取工具。通过 ELF静态分析自
 - [jprx/darwin-vm](https://github.com/jprx/darwin-vm) - Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 - [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - Remove visible and invisible AI watermarks and provenance metadata from images and video. Python library and CLI for SynthID, C2PA, EXIF, IPTC, XMP, and common generative-AI marks.
@@ -1217,7 +1219,7 @@
 - [lbr77/unfair](https://github.com/lbr77/unfair) - Fairplay DRM decrypt. Modified for jailbroken device on iOS.
 - [AFK-surf/OpenBridge](https://github.com/AFK-surf/OpenBridge) - A free, safe and open agent for everything. Alternative to Claude Cowork & Codex. Open Bridge, the AI bridge between your intention and get the job done.
 - [Kyle-Ye/airdrop-keychain-extractor](https://github.com/Kyle-Ye/airdrop-keychain-extractor) - Extracting Apple ID Validation Record, Certificate, and Key for AirDrop
-- [ProjectKumo/KumoApp](https://github.com/ProjectKumo/KumoApp) - A calm, native macOS client for the Mihomo proxy core, built with SwiftUI and a shared agent-friendly CLI.
+- [AstraFoundry/KumoApp](https://github.com/AstraFoundry/KumoApp) - A calm, native macOS client for the Mihomo proxy core, built with SwiftUI and a shared agent-friendly CLI.
 - [Lakr233/unfair](https://github.com/Lakr233/unfair) - 
 - [saihgupr/DMGMaker](https://github.com/saihgupr/DMGMaker) - A premium macOS DMG creation tool with live-rendered SwiftUI backgrounds, glassmorphism, and Retina support.
 - [Lakr233/MuseAmp](https://github.com/Lakr233/MuseAmp) - 
@@ -1275,7 +1277,6 @@
 - [Lakr233/AudioEditorKit](https://github.com/Lakr233/AudioEditorKit) - Simplified audio editing library for Swift + UIKit.
 - [Aviv-public/apples-translation-api-demo](https://github.com/Aviv-public/apples-translation-api-demo) - Apple's Translation API demo
 - [claration/feather](https://github.com/claration/feather) - Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
-- [Lakr233/Irisin](https://github.com/Lakr233/Irisin) - Modern. Fast. Beautiful.
 - [nathanborror/Heat](https://github.com/nathanborror/Heat) - An LLM agnostic desktop and mobile client.
 - [aws-amplify/aws-sdk-ios-spm](https://github.com/aws-amplify/aws-sdk-ios-spm) - This repository enables Swift Package Manager support for the AWS Mobile SDK for iOS
 - [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer) - A video player for iOS、macOS、tvOS、visionOS , based on AVPlayer and FFmpeg, support HLG、HDR10、 HDR10+、Dolby Vision、Dolby Atmos、Text/Image subtitle.
@@ -1577,7 +1578,7 @@
 - [ddiu8081/ddiu.io](https://github.com/ddiu8081/ddiu.io) - Personal website.
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
+- [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [xyxc0673/calendar-remark](https://github.com/xyxc0673/calendar-remark) - A simple calendar with nice design for remarking a date
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [soapbox-pub/soapbox](https://github.com/soapbox-pub/soapbox) - Software for the next generation of social media.
