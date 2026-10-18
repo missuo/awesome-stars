@@ -193,6 +193,7 @@
 
 ## Go 
 
+- [nekohasekai/open-screen-sharing](https://github.com/nekohasekai/open-screen-sharing) - Better Screen Sharing for Apple systems
 - [egoist/mygo](https://github.com/egoist/mygo) - Develop desktop apps with native UI or web frontend in Go
 - [mizorewww/x_gift_bot](https://github.com/mizorewww/x_gift_bot) - X Premium gift CLI and redemption site
 - [maksimryabkin/ipatool-sapfix](https://github.com/maksimryabkin/ipatool-sapfix) - Final macOS ipatool HTTP 403/SAP transition build; official fix is in majd/ipatool v2.4.0+.
@@ -555,6 +556,7 @@
 - [LCYLYM/Telegram-Channel-Mirror](https://github.com/LCYLYM/Telegram-Channel-Mirror) - 🎙️ 利用 CloudFlare Worker 搭建 telegram 频道镜像站，使得国内可以访问
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [paulmillr/encrypted-dns](https://github.com/paulmillr/encrypted-dns) - DNS over HTTPS config profiles for iOS & macOS
+- [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
 - [creativetimofficial/material-kit-react](https://github.com/creativetimofficial/material-kit-react) - Material Kit React free and open source by Creative Tim
 - [metowolf/iplist](https://github.com/metowolf/iplist) - IP CIDRs List / IP 地址列表
 - [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
@@ -780,7 +782,7 @@
 - [zhongerxin/iPhone-use](https://github.com/zhongerxin/iPhone-use) - 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。
 - [TANGandXUE/wcdb-key-tool](https://github.com/TANGandXUE/wcdb-key-tool) - Extract WeChat (WCDB/SQLCipher4) database encryption keys on Linux. Auto-adapts to new versions via ELF static analysis — no manual reverse engineering needed per update. Linux 微信数据库密钥提取工具。通过 ELF静态分析自
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
-- [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - Remove visible and invisible AI watermarks and provenance metadata from images and video. Python library and CLI for SynthID, C2PA, EXIF, IPTC, XMP, and common generative-AI marks.
+- [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - Remove visible and invisible AI watermarks from images and video, and AI provenance metadata from images, video, and audio. Python library, CLI, and agent skill for SynthID, C2PA, EXIF, IPTC, XMP, and
 - [JUk1-GH/gpt-promo-scanner](https://github.com/JUk1-GH/gpt-promo-scanner) - ChatGPT Team(Business) 促销码自动扫描工具 — 批量发现/验证/价格收集，支持 17 国 34 个码，最高折扣 71% | ChatGPT Business promo code scanner — batch discovery, validation, price collection, 34 codes across 17 countries, up to 71% of
 - [yoavst/ida-ios-helper](https://github.com/yoavst/ida-ios-helper) - Plugin to ease reversing iOS projects
 - [anthropics/financial-services](https://github.com/anthropics/financial-services) - 
@@ -963,7 +965,7 @@
 ## Rust 
 
 - [denoland/celld](https://github.com/denoland/celld) - self-hosted, distributed Durable Objects
-- [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
+- [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.
 - [ThisSeanZhang/landscape](https://github.com/ThisSeanZhang/landscape) - The goal is to make it easier to configure your favorite Linux distribution as a router. Built with Rust and eBPF.
 - [crmne/spotifast](https://github.com/crmne/spotifast) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 - [iebb/termgram](https://github.com/iebb/termgram) - A lightweight, keyboard-first Telegram client for the terminal
@@ -1191,6 +1193,7 @@
 
 ## Swift 
 
+- [netease-uuyc/uuremote-integration-guide](https://github.com/netease-uuyc/uuremote-integration-guide) - 把 UU 远程远控能力接入你的 App —— 设备绑定与发起远控的 URL Scheme 协议说明，覆盖全屏与画中画模式，含 iOS / Android 示例代码与完整错误码。
 - [Nongfsq/ftop](https://github.com/Nongfsq/ftop) - A small, quiet system monitor for Apple Silicon Macs: one floating glass panel that works at any size.
 - [mizorewww/catussh](https://github.com/mizorewww/catussh) - yet another SSH machine manager
 - [zoolapp/aime](https://github.com/zoolapp/aime) - 艾么输入法 · An open-source Chinese input method for macOS, built on RIME. Local first, optional AI.
@@ -1220,7 +1223,7 @@
 - [caezium/burrow](https://github.com/caezium/burrow) - 🐹 Cleanup, app management, maintenance, disk analysis, and live status in one free, open-source, native Mac app + extensive support for AI agents.
 - [mysk-research/loupe](https://github.com/mysk-research/loupe) - A privacy-focused iOS app that raises awareness about what native apps can see
 - [lbr77/AssppJailbroken](https://github.com/lbr77/AssppJailbroken) - Modified with ipa download & ipa decrypt workflow!
-- [kageroumado/phosphene](https://github.com/kageroumado/phosphene) - Custom video wallpapers for macOS — any video, on the desktop and the lock screen, picked directly from System Settings' Wallpaper pane
+- [kageroumado/phosphene](https://github.com/kageroumado/phosphene) - Video wallpapers for macOS, from your own videos or Wallpaper Engine's Steam Workshop — picked from System Settings' Wallpaper pane
 - [mudkipme/MoeMemos](https://github.com/mudkipme/MoeMemos) - An app to help you capture thoughts and ideas
 - [lbr77/unfair](https://github.com/lbr77/unfair) - Fairplay DRM decrypt. Modified for jailbroken device on iOS.
 - [AFK-surf/OpenBridge](https://github.com/AFK-surf/OpenBridge) - A free, safe and open agent for everything. Alternative to Claude Cowork & Codex. Open Bridge, the AI bridge between your intention and get the job done.
@@ -1407,7 +1410,7 @@
 - [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major) - 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器
 - [vikas5914/astro-takumi](https://github.com/vikas5914/astro-takumi) - Generate Open Graph images for your Astro site using Takumi.
 - [fuma-nama/tegami](https://github.com/fuma-nama/tegami) - A tool to manage changelogs, versioning, and publishing in monorepos.
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 - [Innei/yoake](https://github.com/Innei/yoake) - Local-only web tool for restoring DJI D-Log M footage with a LUT and exporting Ultra HDR JPEG stills — WebGPU, macOS Chrome.
 - [plastic-labs/claude-honcho](https://github.com/plastic-labs/claude-honcho) - Make Claude happy. Give it Honcho.
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
@@ -1642,7 +1645,6 @@
 - [metowolf/vCards](https://github.com/metowolf/vCards) - 📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验
 - [spicetify/marketplace](https://github.com/spicetify/marketplace) - Download extensions and themes directly from Spicetify
 - [hellodigua/code996-web](https://github.com/hellodigua/code996-web) - code996 web端实现
-- [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
 - [geekdada/bob-plugin-deepl-translate](https://github.com/geekdada/bob-plugin-deepl-translate) - Use DeepL translation with Bob
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more
 - [getgridea/gridea](https://github.com/getgridea/gridea) - ✍️ A static blog writing client (一个静态博客写作客户端)
