@@ -200,6 +200,7 @@
 - [maksimryabkin/ipatool-sapfix](https://github.com/maksimryabkin/ipatool-sapfix) - Final macOS ipatool HTTP 403/SAP transition build; official fix is in majd/ipatool v2.4.0+.
 - [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale's data plane, without Tailscale's control plane
 - [b-nnett/codex-subscription-router](https://github.com/b-nnett/codex-subscription-router) - 
+- [egoist/kero](https://github.com/egoist/kero) - A cross-platform native terminal app optimized for agents
 - [JimmyHuang454/TLS-go](https://github.com/JimmyHuang454/TLS-go) - 
 - [MiniMillionaire/mini-control-action](https://github.com/MiniMillionaire/mini-control-action) - 
 - [ZenGeekLabs/DJOneHub](https://github.com/ZenGeekLabs/DJOneHub) - A native macOS management tool for the first-generation DJI 4G module.
@@ -921,7 +922,7 @@
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 - [UltimaHoarder/UltimaScraper](https://github.com/UltimaHoarder/UltimaScraper) - Scrape all the media from an OnlyFans account - Updated regularly
-- [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) - 🚀 自托管的抖音、TikTok 数据采集与无水印视频下载 API，支持 AI agent 通过 MCP 调用与离线语音转文字，Docker 一键部署。| Self-hosted TikTok & Douyin scraper and no-watermark video downloader — async REST API, MCP server for AI agents, CLI and w
+- [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) - 🚀 自托管的抖音、TikTok、B 站数据采集与无水印视频下载 API，支持 AI agent 通过 MCP 调用与离线语音转文字，Docker 一键部署。| Self-hosted TikTok, Douyin & Bilibili scraper and no-watermark video downloader — async REST API, MCP server for AI agen
 - [HFrost0/bilix](https://github.com/HFrost0/bilix) - ⚡️Lightning-fast async download tool for bilibili and more
 - [mli/autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
 - [April-June-August/alfred-airpods-connector](https://github.com/April-June-August/alfred-airpods-connector) - Alfred Workflow to connect/disconnect wireless headsets/earphones made by Apple
@@ -974,8 +975,8 @@
 - [immunant/c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [Noelo-Lab/kuna](https://github.com/Noelo-Lab/kuna) - An agent-first decompiler designed to be refined by other agents. Kuna is written in Rust and was originally ported from Ghidra.
-- [maddada/Ghostex](https://github.com/maddada/Ghostex) - The Best & Most Powerful Native Agents Workspace. Fully Rust & GPUI based. Mobile apps. 20+ agents. Ghostty.
-- [femboyisp/yip](https://github.com/femboyisp/yip) - 🦊 Invisible low-latency P2P mesh VPN - silent to DPI, Reed–Solomon FEC loss-recovery, self-certifying mesh discovery, NAT hole-punching. What does the fox say? Nothing.
+- [maddada/Ghostex](https://github.com/maddada/Ghostex) - The Best Native Agents Workspace. Fully Rust & GPUI based. Mobile apps. 20+ agents. Native Ghostty.
+- [femboyisp/yip](https://github.com/femboyisp/yip) - 🦊 Low-latency P2P mesh VPN in Rust. Reed–Solomon FEC loss immunity, 40 Gbps AF_XDP multi-core scaling, NAT traversal, self-certifying routing, and anti-DPI TLS mimicry.
 - [zerx-lab/FluxDown](https://github.com/zerx-lab/FluxDown) - Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。
 - [xai-org/grok-build](https://github.com/xai-org/grok-build) - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 - [DDULDDUCK/pingora-proxy-manager](https://github.com/DDULDDUCK/pingora-proxy-manager) - A high-performance, zero-downtime reverse proxy manager built on Cloudflare's Pingora. Simple, Modern, and Fast. Now supports Wildcard SSL & TCP/UDP Streams!
@@ -1210,7 +1211,6 @@
 - [owngoal-dev/iGhostVT](https://github.com/owngoal-dev/iGhostVT) - 
 - [celldock/celldock-for-mac](https://github.com/celldock/celldock-for-mac) - Use cellular network, SMS, and calls on your Mac.
 - [RuochenLyu/run-shelf](https://github.com/RuochenLyu/run-shelf) - macOS 本地脚本管理工具：运行、定时和排查 Shell 脚本
-- [egoist/kero](https://github.com/egoist/kero) - A native terminal workspace for macOS.
 - [rooootdev/mond](https://github.com/rooootdev/mond) - Edit MobileGestalt on iOS 27.0 beta 1 - 4!
 - [iebb/when-reset](https://github.com/iebb/when-reset) - iOS usage-limit and banked-reset monitor for ChatGPT and Claude
 - [sozercan/kaset](https://github.com/sozercan/kaset) - 📼 The missing YouTube and YouTube Music macOS app
