@@ -1229,7 +1229,6 @@
 - [lbr77/unfair](https://github.com/lbr77/unfair) - Fairplay DRM decrypt. Modified for jailbroken device on iOS.
 - [AFK-surf/OpenBridge](https://github.com/AFK-surf/OpenBridge) - A free, safe and open agent for everything. Alternative to Claude Cowork & Codex. Open Bridge, the AI bridge between your intention and get the job done.
 - [Kyle-Ye/airdrop-keychain-extractor](https://github.com/Kyle-Ye/airdrop-keychain-extractor) - Extracting Apple ID Validation Record, Certificate, and Key for AirDrop
-- [AstraFoundry/KumoApp](https://github.com/AstraFoundry/KumoApp) - A calm, native macOS client for the Mihomo proxy core, built with SwiftUI and a shared agent-friendly CLI.
 - [Lakr233/unfair](https://github.com/Lakr233/unfair) - 
 - [saihgupr/DMGMaker](https://github.com/saihgupr/DMGMaker) - A premium macOS DMG creation tool with live-rendered SwiftUI backgrounds, glassmorphism, and Retina support.
 - [Lakr233/MuseAmp](https://github.com/Lakr233/MuseAmp) - 
@@ -1424,6 +1423,7 @@
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。
 - [aloth/olcli](https://github.com/aloth/olcli) - Overleaf CLI - pull, push, sync, compile LaTeX projects from your terminal. Git remote helper, MCP server for AI agents, and TypeScript library.
+- [AstraFoundry/KumoApp](https://github.com/AstraFoundry/KumoApp) - A calm, native macOS client for the Mihomo proxy core, built with SwiftUI and a shared agent-friendly CLI.
 - [SukkaW/dashflare](https://github.com/SukkaW/dashflare) - An unofficial Cloudflare dashboard built on top of Cloudflare API.
 - [SukkaW/sekisho](https://github.com/SukkaW/sekisho) - Authentication and Access Control for any React app
 - [mattpocock/sandcastle](https://github.com/mattpocock/sandcastle) - Orchestrate sandboxed coding agents in TypeScript with sandcastle.run()
