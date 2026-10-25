@@ -76,7 +76,7 @@
 - [kornelski/pngquant](https://github.com/kornelski/pngquant) - Lossy PNG compressor — pngquant command based on libimagequant library
 - [V4bel/Januscape](https://github.com/V4bel/Januscape) - 
 - [w2599/Dopamine](https://github.com/w2599/Dopamine) - Dopamine is a semi-untethered permasigned jailbreak for iOS 15
-- [roothide/Dopamine-roothide](https://github.com/roothide/Dopamine-roothide) - Open-source integration of roothide and Dopamine 3.x, In Merging...
+- [roothide/Dopamine-roothide](https://github.com/roothide/Dopamine-roothide) - Open-source integration of roothide and Dopamine 3.x
 - [gkoh/furble](https://github.com/gkoh/furble) - A bluetooth wireless remote shutter release for Fujifilm X/GFX, Canon EOS, Ricoh, Nikon and Sony cameras.
 - [califio/publications](https://github.com/califio/publications) - Publications from Calif
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% loca
@@ -613,6 +613,7 @@
 
 ## Logos 
 
+- [NeoFreeBird/app](https://github.com/NeoFreeBird/app) - A modified Twitter app, with branding reverts, BHTwitter and other QoL modifications.
 - [owngoal-dev/SingleMute](https://github.com/owngoal-dev/SingleMute) - Just a single mute icon on the status bar of iOS.
 
 ## Lua 
@@ -654,7 +655,6 @@
 - [donato-fiore/TrollDecrypt](https://github.com/donato-fiore/TrollDecrypt) - iOS IPA Decrypter for TrollStore
 - [maderix/ANE](https://github.com/maderix/ANE) - Training neural networks on Apple Neural Engine via reverse-engineered private APIs
 - [sparkle-project/Sparkle](https://github.com/sparkle-project/Sparkle) - A software update framework for macOS
-- [NeoFreeBird/app](https://github.com/NeoFreeBird/app) - A modified Twitter app, with branding reverts, BHTwitter and other QoL modifications.
 - [mineek/MuffinStore](https://github.com/mineek/MuffinStore) - 
 - [pxx917144686/DYYY](https://github.com/pxx917144686/DYYY) - 抖音++
 - [uncor3/dig3st](https://github.com/uncor3/dig3st) - A free & open-source tweak for Notification Summarization for everyone.
@@ -870,7 +870,7 @@
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 Python APIs for Web Automation, Testing, and Scraping. CDP Mode launches a stealth browser that bypasses bot-detection/CAPTCHAs. Has a stealth mode for Playwright. Includes an MCP server for AI agen
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 Python APIs for Web Automation, Testing, and Scraping. CDP Mode launches a stealth browser that bypasses bot-detection/CAPTCHAs. Adds stealth to Playwright and has an MCP server for AI agents.
 - [a-maliarov/amazoncaptcha](https://github.com/a-maliarov/amazoncaptcha) - Pure Python, lightweight, Pillow-based solver for Amazon's text captcha.
 - [SimplifyJobs/Summer2027-Internships](https://github.com/SimplifyJobs/Summer2027-Internships) - Summer 2027 software engineering, data science, AI, quant, product management, and hardware internship postings. Updated daily by Simplify and Pitt CSC.
 - [fuergaosi233/apple-health-exporter](https://github.com/fuergaosi233/apple-health-exporter) - 
