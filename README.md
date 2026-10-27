@@ -172,7 +172,6 @@
 ## Dart 
 
 - [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
-- [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [lucinhu/bili_you](https://github.com/lucinhu/bili_you) - 一个用flutter制作的第三方B站客户端.
 - [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
@@ -599,6 +598,7 @@
 - [sakana164/mytv-android](https://github.com/sakana164/mytv-android) - 使用Android原生开发的电视直播软件
 - [Ackites/Nrfr](https://github.com/Ackites/Nrfr) - 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制
 - [jinweijie/notify-me](https://github.com/jinweijie/notify-me) - An Android application that forwards Bark, Email, Webhook notifications upon receiving SMS messages or phone calls.
+- [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [YiiGuxing/TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin) - Translation plugin for IntelliJ-based IDEs/Android Studio.
 - [twiceyuan/WXAPK](https://github.com/twiceyuan/WXAPK) - 直接安装微信接收到的 APK
 - [BaltiApps/Pixelify-Google-Photos](https://github.com/BaltiApps/Pixelify-Google-Photos) - Pixelify GPhotos
@@ -615,6 +615,7 @@
 
 ## Logos 
 
+- [NeoFreeBird/app](https://github.com/NeoFreeBird/app) - A modified Twitter app, with branding reverts, BHTwitter and other QoL modifications.
 - [owngoal-dev/SingleMute](https://github.com/owngoal-dev/SingleMute) - Just a single mute icon on the status bar of iOS.
 
 ## Lua 
@@ -656,7 +657,6 @@
 - [donato-fiore/TrollDecrypt](https://github.com/donato-fiore/TrollDecrypt) - iOS IPA Decrypter for TrollStore
 - [maderix/ANE](https://github.com/maderix/ANE) - Training neural networks on Apple Neural Engine via reverse-engineered private APIs
 - [sparkle-project/Sparkle](https://github.com/sparkle-project/Sparkle) - A software update framework for macOS
-- [NeoFreeBird/app](https://github.com/NeoFreeBird/app) - A modified Twitter app, with branding reverts, BHTwitter and other QoL modifications.
 - [mineek/MuffinStore](https://github.com/mineek/MuffinStore) - 
 - [pxx917144686/DYYY](https://github.com/pxx917144686/DYYY) - 抖音++
 - [uncor3/dig3st](https://github.com/uncor3/dig3st) - A free & open-source tweak for Notification Summarization for everyone.
@@ -970,6 +970,7 @@
 
 ## Rust 
 
+- [heydeer/pngdeer](https://github.com/heydeer/pngdeer) - Smaller PNGs, same picture. Lossy PNG compression that picks the quality for you: 8–12% smaller than TinyPNG at the same quality. Command line and in the browser.
 - [ELY-Open-Source/ELYTerminal](https://github.com/ELY-Open-Source/ELYTerminal) - A terminal on GPUI and Ely components
 - [denoland/celld](https://github.com/denoland/celld) - self-hosted, distributed Durable Objects
 - [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.
@@ -1442,7 +1443,7 @@
 - [bevibing/remote-opencode](https://github.com/bevibing/remote-opencode) - Discord bot for remote OpenCode CLI access
 - [gkurt/tegaki](https://github.com/gkurt/tegaki) - Handwriting animation for the web. Supports any font or text.
 - [DIYgod/cloudflare-edge-tts](https://github.com/DIYgod/cloudflare-edge-tts) - 
-- [superset-sh/superset](https://github.com/superset-sh/superset) - Superset is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
+- [ParadevAI/Paradev](https://github.com/ParadevAI/Paradev) - Paradev (formerly Superset) is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
 - [myWsq/dekit](https://github.com/myWsq/dekit) - Design Kit CLI
 - [louislva/claude-peers-mcp](https://github.com/louislva/claude-peers-mcp) - Allow all your Claude Codes to message each other ad-hoc!
 - [freecodexyz/free-code](https://github.com/freecodexyz/free-code) - The free build of Claude Code. All telemetry removed, security-prompt guardrails stripped, all experimental features enabled.
@@ -1608,7 +1609,7 @@
 - [cokemine/nodestatus](https://github.com/cokemine/nodestatus) - Yet another servers monitor written in TypeScript
 - [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
 - [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) - An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)
-- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
+- [dubinc/dub.link](https://github.com/dubinc/dub.link) - The modern link attribution platform. Loved by world-class engineering teams at Twilio, Zillow, Jobber, Vercel, Raycast, and more.
 - [gee1k/coord-transform](https://github.com/gee1k/coord-transform) - 一个现代的、支持 TypeScript 的百度坐标（BD09）、火星坐标（GCJ02）、和WGS84坐标系相互转换。
 - [gaozhangmin/boxplayer](https://github.com/gaozhangmin/boxplayer) - BoxPlayer - 聚合网盘管理+影视聚合 支持 Windows Linux iOS macOS tvOS Android
 - [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
