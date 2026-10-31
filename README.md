@@ -176,7 +176,6 @@
 - [lucinhu/bili_you](https://github.com/lucinhu/bili_you) - 一个用flutter制作的第三方B站客户端.
 - [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
 - [xusun0623/river_lite](https://github.com/xusun0623/river_lite) - 河畔Lite是电子科技大学官方校园论坛【清水河畔】的第三方客户端，本Repo为此项目的开源代码仓库。此App轻量、简洁、设计优雅，拥有诸多特性和功能。 作者：xusun000@foxmail.com
-- [peakpassvpn/sail-app-demo](https://github.com/peakpassvpn/sail-app-demo) - A flutter demo client application for v2board.
 
 ## Dockerfile 
 
@@ -471,7 +470,6 @@
 - [jarvis2f/telegram-files](https://github.com/jarvis2f/telegram-files) - A self-hosted Telegram file downloader for continuous, stable, and unattended downloads.
 - [qaiu/netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download) - 聚合多种主流网盘的直链解析下载服务, 一键解析下载，已支持夸克网盘/uc网盘/蓝奏云/蓝奏优享/小飞机盘/123云盘等. 支持文件夹分享解析. 体验地址: https://lz.qaiu.top https://189.qaiu.top
 - [MoshiCoCo/Apple-Monitor](https://github.com/MoshiCoCo/Apple-Monitor) - Apple store inventory monitoring tool implemented in Java, supporting Bark, Feishu, Lark robot and other message push methods.  Currently supports monitoring Apple stores in mainland China, Hong Kong,
-- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
 - [davinci1012/pinduoduo_backdoor_unpacker](https://github.com/davinci1012/pinduoduo_backdoor_unpacker) - Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo
 - [niumoo/bing-wallpaper](https://github.com/niumoo/bing-wallpaper) - 必应每日超清壁纸（4K） Bing Daily Wallpaper (4K)
 - [MinaMichita/MiuiEULocalizationToolsBox](https://github.com/MinaMichita/MiuiEULocalizationToolsBox) - Miui EU 本地化项目工具箱app
@@ -1356,6 +1354,7 @@
 - [insidegui/AssetCatalogTinkerer](https://github.com/insidegui/AssetCatalogTinkerer) - An app that lets you open .car files and browse/extract their images.
 - [yujon/ipa-mac-builder](https://github.com/yujon/ipa-mac-builder) - 对ipa进行ios证书重签名并安装/导出ipa
 - [Lakr233/ActionBee](https://github.com/Lakr233/ActionBee) - A programmable pasteboard action trigger
+- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
 - [Lakr233/CameraTools](https://github.com/Lakr233/CameraTools) - EXIF Tool Kit
 - [ninxsoft/Mist](https://github.com/ninxsoft/Mist) - A Mac utility that automatically downloads macOS Firmwares / Installers.
 - [Lakr233/BBackupp](https://github.com/Lakr233/BBackupp) - Automated iOS Backup Robot
