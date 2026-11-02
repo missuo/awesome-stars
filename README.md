@@ -458,7 +458,6 @@
 - [186526/CloudflareCustomErrorPage](https://github.com/186526/CloudflareCustomErrorPage) - 
 - [zoegea/password-generator](https://github.com/zoegea/password-generator) - 密码生成工具
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
-- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
 - [ItzSudhan/Discord-MusicBot](https://github.com/ItzSudhan/Discord-MusicBot) - An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support!
 - [songquanpeng/go-file](https://github.com/songquanpeng/go-file) - 基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.
@@ -627,6 +626,7 @@
 
 - [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
 - [sdotee/docs](https://github.com/sdotee/docs) - Official documentation for S.EE
+- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## Makefile 
 
@@ -969,6 +969,7 @@
 
 ## Rust 
 
+- [anomalyco/hex](https://github.com/anomalyco/hex) - Local voice dictation for mac, windows and linux
 - [daeuniverse/honk](https://github.com/daeuniverse/honk) - Inspired by dae & sing-box
 - [heydeer/pngdeer](https://github.com/heydeer/pngdeer) - Smaller images, same picture. Compress PNGs to PNG or WebP with automatic quality. PNG output is 8–12% smaller than TinyPNG at equal quality on the median image. Command line and browser.
 - [ELY-Open-Source/ELYTerminal](https://github.com/ELY-Open-Source/ELYTerminal) - A terminal on GPUI and Ely components
@@ -1202,6 +1203,7 @@
 
 ## Swift 
 
+- [zzjcool/krd](https://github.com/zzjcool/krd) - macOS desktop in a terminal pane over SSH: ScreenCaptureKit capture, kitty graphics rendering, no VNC/codec/extra port
 - [Lakr233/libghostty-spm](https://github.com/Lakr233/libghostty-spm) - 
 - [netease-uuyc/uuremote-integration-guide](https://github.com/netease-uuyc/uuremote-integration-guide) - 把 UU 远程远控能力接入你的 App —— 设备绑定与发起远控的 URL Scheme 协议说明，覆盖全屏与画中画模式，含 iOS / Android 示例代码与完整错误码。
 - [Nongfsq/ftop](https://github.com/Nongfsq/ftop) - A small, quiet system monitor for Apple Silicon Macs: one floating glass panel that works at any size.
@@ -1405,6 +1407,7 @@
 
 ## TypeScript 
 
+- [Maxwooow/Ricoh-GRMod](https://github.com/Maxwooow/Ricoh-GRMod) - Unofficial modding tool for the Ricoh GR IV Series: import .xmp / .cube presets into Image Control, add custom cut aspect ratios, custom power-off images.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [taresky/twitterclip](https://github.com/taresky/twitterclip) - 在 X/Twitter 分享菜单中生成当前帖、匿名或完整回复链截图的 Chrome 扩展。
 - [SukkaW/location-guard-ng](https://github.com/SukkaW/location-guard-ng) - A UserScript that hide/spoof your geographic location from websites.
@@ -1490,7 +1493,7 @@
 - [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - The Generative UI framework
 - [vercel/examples](https://github.com/vercel/examples) - Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
 - [iannuttall/dotagents](https://github.com/iannuttall/dotagents) - One location for all of your hooks, commands, skills, and AGENT/CLAUDE.md files.
-- [nexmoe/VidBee](https://github.com/nexmoe/VidBee) - Download video and audio from  YouTube ,  TikTok ,  Twitter ,  Instagram ,  Facebook ,  Twitch ,  Bilibili , and 1000+ sites—or import local media. Create searchable transcripts on your computer, then
+- [nexmoe/VidBee](https://github.com/nexmoe/VidBee) - Download video and audio from 1000+ sites, transcribe locally with speaker labels, and summarize, translate, or chat with your media using your preferred AI provider.
 - [voidauth/voidauth](https://github.com/voidauth/voidauth) - Single Sign-On for Your Self-Hosted Universe
 - [miantiao-me/bm.md](https://github.com/miantiao-me/bm.md) - 更好用的 Markdown 排版助手｜专为微信公众号与多平台排版设计，支持富文本复制、图片生成与矢量 PDF 导出。
 - [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
