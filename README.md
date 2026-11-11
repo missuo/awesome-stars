@@ -124,6 +124,7 @@
 
 ## C++ 
 
+- [Niko1221/Strata](https://github.com/Niko1221/Strata) - Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
 - [jwise/HoRNDIS](https://github.com/jwise/HoRNDIS) - Android USB tethering driver for Mac OS X
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [klzgrad/naiveproxy](https://github.com/klzgrad/naiveproxy) - Make a fortune quietly
@@ -195,7 +196,8 @@
 
 ## Go 
 
-- [21stware/bowel](https://github.com/21stware/bowel) - 
+- [sylvinus/agent-vm](https://github.com/sylvinus/agent-vm) - Run AI agents in safe VMs scoped to a local folder
+- [21stware/bowel](https://github.com/21stware/bowel) - Bowel is a mihomo client for macOS, Windows, Linux and Android.
 - [DejavuMoe/Pail](https://github.com/DejavuMoe/Pail) - Cross-platform desktop manager for S3-compatible object storage: Amazon S3, MinIO, Cloudflare R2, VersityGW, Wasabi and other services that speak the S3 API.
 - [egoist/mygo-music](https://github.com/egoist/mygo-music) - A native music player you extend with plugins
 - [DrWhax/unfairplay](https://github.com/DrWhax/unfairplay) - Decrypt IPA's on MacOS
@@ -972,6 +974,7 @@
 
 ## Rust 
 
+- [Gloridust/WowType](https://github.com/Gloridust/WowType) - 像微信输入法一样顺手的Linux输入法：长句一次打完、按错键也能认出来、纯离线语音输入，越用越懂你。
 - [anomalyco/rune](https://github.com/anomalyco/rune) - Rune: Native UI framework
 - [chris124567/cfsolve](https://github.com/chris124567/cfsolve) - Cloudflare turnstile and challenge page solver in Rust (full reverse, request based)
 - [longbridge/nsh](https://github.com/longbridge/nsh) - Native Shell is a native UI framework for iOS, Android, macOS, Windows, Linux and the web, built in Rust.
@@ -1415,6 +1418,7 @@
 
 ## TypeScript 
 
+- [egoist/tinytraffic](https://github.com/egoist/tinytraffic) - self-host web analytics in a single binary
 - [Maxwooow/Ricoh-GRMod](https://github.com/Maxwooow/Ricoh-GRMod) - Unofficial modding tool for the Ricoh GR IV Series: import .xmp / .cube presets into Image Control, add custom cut aspect ratios, custom power-off images.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [taresky/twitterclip](https://github.com/taresky/twitterclip) - 在 X/Twitter 分享菜单中生成当前帖、匿名或完整回复链截图的 Chrome 扩展。
