@@ -67,6 +67,7 @@
 
 ## C 
 
+- [owngoal-dev/Apelin](https://github.com/owngoal-dev/Apelin) - An on-device IDE for iOS, where an agent writes, builds and installs tweaks.
 - [SuperTurtleDev/gbl_root_canoe](https://github.com/SuperTurtleDev/gbl_root_canoe) - No TrickyStore on Canoe
 - [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next) - An advanced Kernel based root solution for Android
 - [oosexgang/hakios-xnu-kernel](https://github.com/oosexgang/hakios-xnu-kernel) - Apple's open-source XNU kernel on Android phones: its own loader and drivers, Metal on the Adreno. Runs from RAM; a reboot gives the phone back to Android.
@@ -90,6 +91,7 @@
 - [NetworkConfiguration/dhcpcd](https://github.com/NetworkConfiguration/dhcpcd) - DHCP / IPv4LL / IPv6RA / DHCPv6 client.
 - [owngoal-dev/TrollVNC](https://github.com/owngoal-dev/TrollVNC) - VNC server for iOS devices, allowing remote access and control of the device’s screen.
 - [Lakr233/Irisin](https://github.com/Lakr233/Irisin) - Modern. Fast. Beautiful.
+- [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [Q-WRT/Q-WRT](https://github.com/Q-WRT/Q-WRT) - Q-WRT, A Commercial product level fimware for IoT-Devices base OpenWrt
 - [dlundquist/sniproxy](https://github.com/dlundquist/sniproxy) - Proxies incoming HTTP and TLS connections based on the hostname contained in the initial request of the TCP session.
 - [alfiecg24/TrollInstallerX](https://github.com/alfiecg24/TrollInstallerX) - A TrollStore installer for iOS 14.0 - 16.6.1
@@ -196,6 +198,7 @@
 
 ## Go 
 
+- [SukkaW/hikyaku](https://github.com/SukkaW/hikyaku) - A high-performance multiplexing proxy that stays lightning fast and highly reliable everywhere, from fiber broadband to lossy in-flight Wi-Fi.
 - [sylvinus/agent-vm](https://github.com/sylvinus/agent-vm) - Run AI agents in safe VMs scoped to a local folder
 - [21stware/bowel](https://github.com/21stware/bowel) - Bowel is a mihomo client for macOS, Windows, Linux and Android.
 - [DejavuMoe/Pail](https://github.com/DejavuMoe/Pail) - Cross-platform desktop manager for S3-compatible object storage: Amazon S3, MinIO, Cloudflare R2, VersityGW, Wasabi and other services that speak the S3 API.
@@ -234,6 +237,7 @@
 - [tangxiaofeng7/cscan](https://github.com/tangxiaofeng7/cscan) - Exposure Surface / Attack Surface Scanning Platform 暴露面/攻击面扫描平台
 - [adibhanna/tsm](https://github.com/adibhanna/tsm) - Terminal session manager
 - [xchacha20-poly1305/sing-trusttunnel](https://github.com/xchacha20-poly1305/sing-trusttunnel) - A sing style TrustTunnel implementation.
+- [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) - Secure, Fast, and Extensible Sandbox runtime for AI agents.
 - [felinics/Memoh](https://github.com/felinics/Memoh) - ✨ The open-source multi-agent platform. Every agent gets its own computer, desktop, network, and long-term memory.  You can bring your own key, or host your coding agent like Claude Code, Codex and so
 - [chris1004tw/remote-adb](https://github.com/chris1004tw/remote-adb) - Remote ADB P2P forwarding tool - 遠端 ADB 設備 P2P 轉發工具
 - [Wikidepia/InstaFix](https://github.com/Wikidepia/InstaFix) - Fix Instagram embeds in Discord (and Telegram!)
@@ -486,7 +490,7 @@
 - [WhiteNightShadow/wx-mp-mcp](https://github.com/WhiteNightShadow/wx-mp-mcp) - 微信小程序逆向 MCP — 在线实时解包 + AI 静态分析还原接口签名/加密，产出本地 Node.js 直接能跑的脚本（零侵入，不碰微信进程）
 - [duolahypercho/codex-router](https://github.com/duolahypercho/codex-router) - External-model router for Codex with guided Kimi OAuth/API, DeepSeek, safe migration, and rollback.
 - [zanwei/chatgpt-model-selector](https://github.com/zanwei/chatgpt-model-selector) - ChatGPT-inspired model intelligence picker as a zero-dependency Web Component (MIT)
-- [tiagozip/cap](https://github.com/tiagozip/cap) - privacy-first, open-source and self-hosted CAPTCHA alternative with PoW and instrumentation challenges.
+- [tiagozip/cap](https://github.com/tiagozip/cap) - The open-source, privacy-friendly CAPTCHA you host yourself. Bots and AI agents out, people in.
 - [Archeb/peer.as](https://github.com/Archeb/peer.as) - Explore global BGP routing, IP prefixes, ASNs, AS_PATH, origins and peering.
 - [antfu/qr-scanner-wechat](https://github.com/antfu/qr-scanner-wechat) - QR Code scanner in JS with Open CV and WeChat's Algorithm
 - [dwgx/WindsurfAPI](https://github.com/dwgx/WindsurfAPI) - Turn Windsurf / Devin Desktop's 100+ AI models (Claude, GPT, Gemini, DeepSeek, Kimi, GLM, SWE) into OpenAI-, Anthropic- & Gemini-compatible APIs. Zero-dependency self-hosted reverse proxy for Claude C
@@ -789,6 +793,7 @@
 
 ## Python 
 
+- [PeronGH/canoe_gbl](https://github.com/PeronGH/canoe_gbl) - Python port of upstream C patcher: use modified ABL as GBL
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [PastKing/tgbot-verify](https://github.com/PastKing/tgbot-verify) - 一个基于 Python Telegram Bot 的自动化认证工具，能够自动完成 SheerID 平台的学生/教师身份验证流程。
 - [zhongerxin/iPhone-use](https://github.com/zhongerxin/iPhone-use) - 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。
@@ -808,7 +813,6 @@
 - [punitarani/fli](https://github.com/punitarani/fli) - Google Flights MCP, CLI and Python Library
 - [agent-infra/sandbox](https://github.com/agent-infra/sandbox) - All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a single Docker container.
 - [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) - Open-source State-of-the-art TTS model which runs on a CPU 😻
-- [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) - Secure, Fast, and Extensible Sandbox runtime for AI agents.
 - [CodeDuet/codeduet-microvm-ai-agent-sandbox](https://github.com/CodeDuet/codeduet-microvm-ai-agent-sandbox) - MicroVM AI agent sandbox system using Cloud Hypervisor and Python with support for both Linux and Windows guest operating systems. The system provides hardware-level isolation through MicroVMs while m
 - [dpearson2699/swift-ios-skills](https://github.com/dpearson2699/swift-ios-skills) - Agent Skills for iOS 26+, Swift 6.3, SwiftUI, and modern Apple frameworks
 - [imbue-bit/OpenClaw-PwnKit](https://github.com/imbue-bit/OpenClaw-PwnKit) - Get shell to almost any OpenClaw host machine.
@@ -846,7 +850,6 @@
 - [ddCat-main/cursor-auto-register](https://github.com/ddCat-main/cursor-auto-register) - cursor-auto-register
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi
-- [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [daijro/hrequests](https://github.com/daijro/hrequests) - 🚀 Web scraping for humans
 - [leonboe1/GoogleFindMyTools](https://github.com/leonboe1/GoogleFindMyTools) - Framework for tracking and building your own Google Find My Device / Find Hub trackers 🧭
 - [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free) - auto sign cursor
@@ -974,7 +977,8 @@
 
 ## Rust 
 
-- [Gloridust/WowType](https://github.com/Gloridust/WowType) - 像微信输入法一样顺手的Linux输入法：长句一次打完、按错键也能认出来、纯离线语音输入，越用越懂你。
+- [Entwining/rexume](https://github.com/Entwining/rexume) - Reopens Claude Code, Codex, Pi, and omp conversations in the panes Rex restores after its server stops, and carries worker results back to the orchestrator.
+- [Gloridust/WowType](https://github.com/Gloridust/WowType) - 像微信输入法一样顺手的Linux输入法：长句一次打完、按错键也能认出来、纯离线语音输入、实时翻译，越用越懂你。
 - [anomalyco/rune](https://github.com/anomalyco/rune) - Rune: Native UI framework
 - [chris124567/cfsolve](https://github.com/chris124567/cfsolve) - Cloudflare turnstile and challenge page solver in Rust (full reverse, request based)
 - [longbridge/nsh](https://github.com/longbridge/nsh) - Native Shell is a native UI framework for iOS, Android, macOS, Windows, Linux and the web, built in Rust.
@@ -1022,6 +1026,7 @@
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
+- [mweinbach/agent-coworker](https://github.com/mweinbach/agent-coworker) - Terminal-first coworker agent (Bun + OpenTUI)
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
@@ -1215,6 +1220,7 @@
 
 ## Swift 
 
+- [EYHN/kwwk](https://github.com/EYHN/kwwk) - 
 - [Kianuni/Erosion-CN](https://github.com/Kianuni/Erosion-CN) - iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）
 - [jailbreakdotparty/Erosion](https://github.com/jailbreakdotparty/Erosion) - iOS customization toolbox using the worse_query sandbox escape. Supports iOS 26.0 - 26.7.2, iOS 27.0 - 27.2.1, & 27.3b1.
 - [zzjcool/krd](https://github.com/zzjcool/krd) - macOS desktop in a terminal pane over SSH: ScreenCaptureKit capture, kitty graphics rendering, no VNC/codec/extra port
@@ -1475,7 +1481,6 @@
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named local URLs. For humans and agents.
 - [chekusu/mails](https://github.com/chekusu/mails) - email for agents. Built for AI agents that need to send, receive, and understand emails programmatically
-- [mweinbach/agent-coworker](https://github.com/mweinbach/agent-coworker) - Terminal-first coworker agent (Bun + OpenTUI)
 - [Timeraa/skills](https://github.com/Timeraa/skills) - AI coding agent skills
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line 
 - [photon-hq/qclaw-wechat-client](https://github.com/photon-hq/qclaw-wechat-client) - Reverse-engineered TypeScript client for QClaw's WeChat Access API.
