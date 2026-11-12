@@ -281,6 +281,7 @@
 ## agent-skills 
 
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
+- [emilkowalski/skills](https://github.com/emilkowalski/skills) - Skills for Designers and Engineers.
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Sha
 - [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Good content deserves good paper. Layout rules and templates that let AI agents export PDF, PNG and editable PowerPoint.
 - [dpearson2699/swift-ios-skills](https://github.com/dpearson2699/swift-ios-skills) - Agent Skills for iOS 26+, Swift 6.3, SwiftUI, and modern Apple frameworks
@@ -445,6 +446,7 @@
 ## animation 
 
 - [EmergeTools/Pow](https://github.com/EmergeTools/Pow) - Delightful SwiftUI effects for your app
+- [emilkowalski/skills](https://github.com/emilkowalski/skills) - Skills for Designers and Engineers.
 - [gkurt/tegaki](https://github.com/gkurt/tegaki) - Handwriting animation for the web. Supports any font or text.
 - [jtrivedi/VariableBlurView](https://github.com/jtrivedi/VariableBlurView) - An example of how to create a live, variable blur effect on iOS.
 
@@ -722,6 +724,7 @@
 - [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
 - [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Serie
 - [looplj/axonhub](https://github.com/looplj/axonhub) - ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing.
 - [KroMiose/claude-code-nexus](https://github.com/KroMiose/claude-code-nexus) - Claude API Proxy platform - Seamlessly forward Claude Code requests to any OpenAI-compatible API service with smart model mapping, streaming support, deployed on Cloudflare Worker.
 - [coffeegrind123/gemini-for-claude-code](https://github.com/coffeegrind123/gemini-for-claude-code) - This python program allows you to use Claude Code with Google's Gemini models.
@@ -745,6 +748,7 @@
 - [egoist/waku](https://github.com/egoist/waku) - ⚡ A native app for all your coding agents.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [get-bb/bb](https://github.com/get-bb/bb) - The agent IDE that builds itself
+- [emilkowalski/skills](https://github.com/emilkowalski/skills) - Skills for Designers and Engineers.
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Good content deserves good paper. Layout rules and templates that let AI agents export PDF, PNG and editable PowerPoint.
@@ -1689,7 +1693,7 @@
 ## javascript 
 
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
-- [tiagozip/cap](https://github.com/tiagozip/cap) - privacy-first, open-source and self-hosted CAPTCHA alternative with PoW and instrumentation challenges.
+- [tiagozip/cap](https://github.com/tiagozip/cap) - The open-source, privacy-friendly CAPTCHA you host yourself. Bots and AI agents out, people in.
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。
 - [xdevplatform/samples](https://github.com/xdevplatform/samples) - Sample code for the X API v2 endpoints
@@ -2359,9 +2363,14 @@
 
 ## others 
 
+- [EYHN/kwwk](https://github.com/EYHN/kwwk) - 
+- [owngoal-dev/Apelin](https://github.com/owngoal-dev/Apelin) - An on-device IDE for iOS, where an agent writes, builds and installs tweaks.
+- [SukkaW/hikyaku](https://github.com/SukkaW/hikyaku) - A high-performance multiplexing proxy that stays lightning fast and highly reliable everywhere, from fiber broadband to lossy in-flight Wi-Fi.
+- [PeronGH/canoe_gbl](https://github.com/PeronGH/canoe_gbl) - Python port of upstream C patcher: use modified ABL as GBL
+- [Entwining/rexume](https://github.com/Entwining/rexume) - Reopens Claude Code, Codex, Pi, and omp conversations in the panes Rex restores after its server stops, and carries worker results back to the orchestrator.
 - [sylvinus/agent-vm](https://github.com/sylvinus/agent-vm) - Run AI agents in safe VMs scoped to a local folder
 - [egoist/tinytraffic](https://github.com/egoist/tinytraffic) - self-host web analytics in a single binary
-- [Gloridust/WowType](https://github.com/Gloridust/WowType) - 像微信输入法一样顺手的Linux输入法：长句一次打完、按错键也能认出来、纯离线语音输入，越用越懂你。
+- [Gloridust/WowType](https://github.com/Gloridust/WowType) - 像微信输入法一样顺手的Linux输入法：长句一次打完、按错键也能认出来、纯离线语音输入、实时翻译，越用越懂你。
 - [Niko1221/Strata](https://github.com/Niko1221/Strata) - Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
 - [Kianuni/Erosion-CN](https://github.com/Kianuni/Erosion-CN) - iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）
 - [yetone/rewind-for-x](https://github.com/yetone/rewind-for-x) - Chrome extension: look back at posts that scrolled past on your X home timeline
@@ -2419,7 +2428,6 @@
 - [maddada/Ghostex](https://github.com/maddada/Ghostex) - The Best Native Agents Workspace. Fully Rust & GPUI based. Mobile apps. 20+ agents. Native Ghostty.
 - [zerx-lab/FluxDown](https://github.com/zerx-lab/FluxDown) - Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。
 - [xai-org/grok-build](https://github.com/xai-org/grok-build) - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
-- [emilkowalski/skills](https://github.com/emilkowalski/skills) - Skills for Designers and Engineers.
 - [zanwei/chatgpt-model-selector](https://github.com/zanwei/chatgpt-model-selector) - ChatGPT-inspired model intelligence picker as a zero-dependency Web Component (MIT)
 - [giszh86/vohive](https://github.com/giszh86/vohive) - 
 - [boa-z/vowifi-go](https://github.com/boa-z/vowifi-go) - 本项目基于 VoHive 原本依赖的闭源 vowifi 版本的公共接口进行开发，本项目与 VoHive 官方团队无任何关联，本项目功能尚未实现且处于实验阶段，仅个人学习使用
