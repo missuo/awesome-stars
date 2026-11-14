@@ -200,6 +200,7 @@
 
 - [SukkaW/hikyaku](https://github.com/SukkaW/hikyaku) - A high-performance multiplexing proxy that stays lightning fast and highly reliable everywhere, from fiber broadband to lossy in-flight Wi-Fi.
 - [sylvinus/agent-vm](https://github.com/sylvinus/agent-vm) - Run AI agents in safe VMs scoped to a local folder
+- [egoist/tinytraffic](https://github.com/egoist/tinytraffic) - self-host web analytics in a single binary
 - [21stware/bowel](https://github.com/21stware/bowel) - Bowel is a mihomo client for macOS, Windows, Linux and Android.
 - [DejavuMoe/Pail](https://github.com/DejavuMoe/Pail) - Cross-platform desktop manager for S3-compatible object storage: Amazon S3, MinIO, Cloudflare R2, VersityGW, Wasabi and other services that speak the S3 API.
 - [egoist/mygo-music](https://github.com/egoist/mygo-music) - A native music player you extend with plugins
@@ -258,7 +259,7 @@
 - [Qv2ray/mmp-go](https://github.com/Qv2ray/mmp-go) - Mega Multiplexer, a single port multi-service relay for shadowsocks. 中转机单端口转发多台shadowsocks服务器。
 - [anytls/anytls-go](https://github.com/anytls/anytls-go) - 
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, 
-- [TogawaSakiko363/YALS](https://github.com/TogawaSakiko363/YALS) - NR
+- [K4NAgod/YALS](https://github.com/K4NAgod/YALS) - NR
 - [pouriyajamshidi/tcping](https://github.com/pouriyajamshidi/tcping) - Ping TCP ports using tcping. Inspired by Linux's ping utility. Written in Go
 - [certimate-go/certimate](https://github.com/certimate-go/certimate) - An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, renewal, and monitoring visually. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主
 - [Lakr233/spotify-api](https://github.com/Lakr233/spotify-api) - 
@@ -879,7 +880,7 @@
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Python APIs for web automation, testing, and bypassing bot-detection.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Python APIs for web automation, e2e testing, and bypassing bot-detection with ease.
 - [a-maliarov/amazoncaptcha](https://github.com/a-maliarov/amazoncaptcha) - Pure Python, lightweight, Pillow-based solver for Amazon's text captcha.
 - [SimplifyJobs/Summer2027-Internships](https://github.com/SimplifyJobs/Summer2027-Internships) - Summer 2027 software engineering, data science, AI, quant, product management, and hardware internship postings. Updated daily by Simplify and Pitt CSC.
 - [fuergaosi233/apple-health-exporter](https://github.com/fuergaosi233/apple-health-exporter) - 
@@ -1007,7 +1008,7 @@
 - [aeroxy/tunnix](https://github.com/aeroxy/tunnix) - An encrypted SOCKS5/HTTP proxy tunnel over HTTP/SSE — built for environments where only plain HTTP works.
 - [EvanDbg/doubao-ime-win](https://github.com/EvanDbg/doubao-ime-win) - 
 - [pnpm/pacquet](https://github.com/pnpm/pacquet) - The official pnpm rewrite in Rust
-- [Le-Syl21/exiftool-rs](https://github.com/Le-Syl21/exiftool-rs) - Pure Rust reimplementation of ExifTool 13.59 with 100% tag parity: read, write and edit EXIF, XMP, IPTC and MakerNote metadata in images, video, audio and documents. Library, CLI and GUI.
+- [Le-Syl21/exiftool-rs](https://github.com/Le-Syl21/exiftool-rs) - Faithful Rust port of ExifTool 13.60: ExifTool's own modules run by a Perl interpreter written in Rust. Read, write and edit metadata in images, video, audio and documents. Library, CLI and GUI.
 - [2mawi2/para](https://github.com/2mawi2/para) - Manage sandboxed parallel claude code sessions on git worktrees
 - [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ Track token usage across AI coding agents from your terminal. 🏅 Global leaderboard with trillions of tokens tracked.
 - [razvandimescu/numa](https://github.com/razvandimescu/numa) - Portable DNS resolver in Rust: .numa local domains, ad blocking, developer overrides, DoT/DoH/ODoH, DNSSEC
@@ -1220,6 +1221,7 @@
 
 ## Swift 
 
+- [reorx/feishu-lite](https://github.com/reorx/feishu-lite) - 
 - [EYHN/kwwk](https://github.com/EYHN/kwwk) - 
 - [Kianuni/Erosion-CN](https://github.com/Kianuni/Erosion-CN) - iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）
 - [jailbreakdotparty/Erosion](https://github.com/jailbreakdotparty/Erosion) - iOS customization toolbox using the worse_query sandbox escape. Supports iOS 26.0 - 26.7.2, iOS 27.0 - 27.2.1, & 27.3b1.
@@ -1248,7 +1250,7 @@
 - [Paisseon/SatellaJailed](https://github.com/Paisseon/SatellaJailed) - Jailed in-app purchase cracker (iOS 12-16)
 - [Lakr233/unfaird](https://github.com/Lakr233/unfaird) - 
 - [lbr77/unfaird](https://github.com/lbr77/unfaird) - modified for decrypting on iphone.
-- [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
+- [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The open-source agent harness for macOS. Run local or cloud models with persistent memory, skills, tools, and autonomous execution. Built in Swift.
 - [madeye/shadowvpn-ios](https://github.com/madeye/shadowvpn-ios) - Native iOS client for ShadowVPN — a UDP, pre-shared-key, layer-3 tunnel using the shadowsocks AEAD UDP wire scheme (SwiftUI app + NEPacketTunnelProvider + Rust core).
 - [caezium/burrow](https://github.com/caezium/burrow) - 🐹 Cleanup, app management, maintenance, disk analysis, and live status in one free, open-source, native Mac app + extensive support for AI agents.
 - [mysk-research/loupe](https://github.com/mysk-research/loupe) - A privacy-focused iOS app that raises awareness about what native apps can see
@@ -1278,7 +1280,7 @@
 - [srimanachanta/Stasis](https://github.com/srimanachanta/Stasis) - Battery Management and Dashboard for Apple Silicon - A Better Battery Icon
 - [Dimillian/GithubMonitor](https://github.com/Dimillian/GithubMonitor) - A menu bar app to monitor your Github situation
 - [Lakr233/Iridium](https://github.com/Lakr233/Iridium) - An iOS app decrypter, full static using fouldecrypt.
-- [hehehai/voxt](https://github.com/hehehai/voxt) - We've moved to SGLang Omni Voxt: https://github.com/sgl-project/sglang-omni/tree/main/Voxt
+- [hehehai/VoxtMini](https://github.com/hehehai/VoxtMini) - Voice input for macOS on local models: transcribe, translate and rewrite in any app. The successor of Voxt.
 - [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) - Run a virtual iPhone on an Apple Silicon Mac.
 - [pixelspark/sushitrain](https://github.com/pixelspark/sushitrain) - Securely synchronize files with your devices on iOS using Syncthing
 - [a7t-ai/poirot](https://github.com/a7t-ai/poirot) - A native macOS companion for Claude Code that lets you browse sessions, explore diffs, and re-run commands.
@@ -1424,8 +1426,7 @@
 
 ## TypeScript 
 
-- [egoist/tinytraffic](https://github.com/egoist/tinytraffic) - self-host web analytics in a single binary
-- [Maxwooow/Ricoh-GRMod](https://github.com/Maxwooow/Ricoh-GRMod) - Unofficial modding tool for the Ricoh GR IV Series: import .xmp / .cube presets into Image Control, add custom cut aspect ratios, custom power-off images.
+- [Maxwooow/Ricoh-GRMod](https://github.com/Maxwooow/Ricoh-GRMod) - Unofficial modding tool for the Ricoh GR IV Series: import .xmp / .cube presets into Image Control, add custom cut aspect ratios, custom power-off images, and more.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [taresky/twitterclip](https://github.com/taresky/twitterclip) - 在 X/Twitter 分享菜单中生成当前帖、匿名或完整回复链截图的 Chrome 扩展。
 - [SukkaW/location-guard-ng](https://github.com/SukkaW/location-guard-ng) - A UserScript that hide/spoof your geographic location from websites.
