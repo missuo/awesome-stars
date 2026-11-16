@@ -1616,6 +1616,8 @@
 
 ## ios 
 
+- [Xplo8E/Liter8](https://github.com/Xplo8E/Liter8) - Tethered iOS 27 jailbreak
+- [ichitaso/Regitela](https://github.com/ichitaso/Regitela) - A file explorer and tweak toolbox for iOS, built on the worse_query sandbox escape.
 - [YTLitePlus/YTLitePlus](https://github.com/YTLitePlus/YTLitePlus) - ⚠️ DEPRECATED — DEAD for now as YTPlus is now paid.
 - [jailbreakdotparty/Erosion](https://github.com/jailbreakdotparty/Erosion) - iOS customization toolbox using the worse_query sandbox escape. Supports iOS 26.0 - 26.7.2, iOS 27.0 - 27.2.1, & 27.3b1.
 - [nekohasekai/open-screen-sharing](https://github.com/nekohasekai/open-screen-sharing) - Better Screen Sharing for Apple systems
@@ -2107,7 +2109,7 @@
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 1,600+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Blazing fast Python framework for web crawling, e2e testing, scraping, and reporting. Supports pytest. Bypasses bot-detection with UC / CDP Mode or Stealthy Playwright.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 Blazing fast Python framework for web crawling, testing, scraping, and stealth. Supports pytest. Bypasses bot-detection with CDP Mode. Compatible with Playwright.
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 - [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) - Open-source personal AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-agent, multi-model, multi-channel. Lightweight, extensible, one-lin
 
@@ -2387,7 +2389,7 @@
 - [egoist/tinytraffic](https://github.com/egoist/tinytraffic) - self-host web analytics in a single binary
 - [Gloridust/WowType](https://github.com/Gloridust/WowType) - 像微信输入法一样顺手的Linux输入法：长句一次打完、按错键也能认出来、纯离线语音输入、实时翻译，越用越懂你。
 - [Niko1221/Strata](https://github.com/Niko1221/Strata) - Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
-- [Kianuni/Erosion-CN](https://github.com/Kianuni/Erosion-CN) - iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）
+- [Kianuni/Erosion-CN](https://github.com/Kianuni/Erosion-CN) - iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（中英双语 · 防白苹果安全加固版） | Bootloop-safe iOS / iPadOS System Configuration & MobileGestalt Toolbox (Bilingual EN/ZH)
 - [yetone/rewind-for-x](https://github.com/yetone/rewind-for-x) - Chrome extension: look back at posts that scrolled past on your X home timeline
 - [forcequitOS/worse_query](https://github.com/forcequitOS/worse_query) - A sandbox escape for iOS 26 and 27, again
 - [anomalyco/rune](https://github.com/anomalyco/rune) - Rune: Native UI framework
@@ -2545,7 +2547,7 @@
 - [mweinbach/agent-coworker](https://github.com/mweinbach/agent-coworker) - Terminal-first coworker agent (Bun + OpenTUI)
 - [CodeDuet/codeduet-microvm-ai-agent-sandbox](https://github.com/CodeDuet/codeduet-microvm-ai-agent-sandbox) - MicroVM AI agent sandbox system using Cloud Hypervisor and Python with support for both Linux and Windows guest operating systems. The system provides hardware-level isolation through MicroVMs while m
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
-- [hugeBlack/OpenParsec](https://github.com/hugeBlack/OpenParsec) - An open-source Parsec client for iOS/iPadOS. This repo implements mouse & keyboard & touch screen support.
+- [NearFrame/OpenParsec](https://github.com/NearFrame/OpenParsec) - An open-source Parsec client for iOS/iPadOS. This repo implements mouse & keyboard & touch screen support.
 - [Timeraa/skills](https://github.com/Timeraa/skills) - AI coding agent skills
 - [pasky/chrome-cdp-skill](https://github.com/pasky/chrome-cdp-skill) - Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open
 - [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with TypeScript, Zig, Rust, Go, or Odin.
@@ -3224,7 +3226,7 @@
 - [GilbN/geoip2influx](https://github.com/GilbN/geoip2influx) - A python script that will parse the nginx access.log and send geolocation metrics and log metrics to InfluxDB
 - [sorooshnoorzad/us_visa_scheduler](https://github.com/sorooshnoorzad/us_visa_scheduler) - US VISA (usvisa-info) appointment re-scheduler bot with python.
 - [yangwenmai/github-trending-backup](https://github.com/yangwenmai/github-trending-backup) - Github trending backup by everyday.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Blazing fast Python framework for web crawling, e2e testing, scraping, and reporting. Supports pytest. Bypasses bot-detection with UC / CDP Mode or Stealthy Playwright.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 Blazing fast Python framework for web crawling, testing, scraping, and stealth. Supports pytest. Bypasses bot-detection with CDP Mode. Compatible with Playwright.
 - [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 4100 LeetCode Problems (Weekly Update)
 - [ading2210/poe-api](https://github.com/ading2210/poe-api) - [UNMAINTAINED] A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
 - [tobymao/sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler
@@ -3717,6 +3719,7 @@
 
 ## swiftui 
 
+- [ichitaso/Regitela](https://github.com/ichitaso/Regitela) - A file explorer and tweak toolbox for iOS, built on the worse_query sandbox escape.
 - [fif7y/dimble](https://github.com/fif7y/dimble) - A calm menu bar, done the native way. Hides the icons you don't need until you do.
 - [RockxyApp/Rockxy](https://github.com/RockxyApp/Rockxy) - Open-source native macOS HTTP debugging proxy — intercept HTTPS, inspect APIs, mock responses, debug WebSocket & GraphQL. Community-driven. For developers, by developers.
 - [EmergeTools/Pow](https://github.com/EmergeTools/Pow) - Delightful SwiftUI effects for your app
