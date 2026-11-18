@@ -371,7 +371,7 @@
 
 ## ai-agents 
 
-- [ZingerLittleBee/Heeler](https://github.com/ZingerLittleBee/Heeler) - Native iPhone and iPad console for herdr: watch and drive coding agents on your machines over SSH, in Herdr TUI or the Herdr desktop app (herdr-core), with a real libghostty terminal, native Chat, QR 
+- [ZingerLittleBee/Heeler](https://github.com/ZingerLittleBee/Heeler) - Native iPhone and iPad console for the coding agents on your own machines. Works with herdr and tmux over SSH.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
@@ -1625,10 +1625,10 @@
 - [ichitaso/Regitela](https://github.com/ichitaso/Regitela) - A file explorer and tweak toolbox for iOS, built on the worse_query sandbox escape.
 - [YTLitePlus/YTLitePlus](https://github.com/YTLitePlus/YTLitePlus) - ⚠️ DEPRECATED — DEAD for now as YTPlus is now paid.
 - [jailbreakdotparty/Erosion](https://github.com/jailbreakdotparty/Erosion) - iOS customization toolbox using the worse_query sandbox escape. Supports iOS 26.0 - 26.7.2, iOS 27.0 - 27.2.1, & 27.3b1.
-- [nekohasekai/open-screen-sharing](https://github.com/nekohasekai/open-screen-sharing) - Better Screen Sharing for Apple systems
+- [nekohasekai/open-screen-sharing](https://github.com/nekohasekai/open-screen-sharing) - A remote desktop client that doesn't suck.
 - [EmergeTools/Pow](https://github.com/EmergeTools/Pow) - Delightful SwiftUI effects for your app
 - [maksimryabkin/ipatool-sapfix](https://github.com/maksimryabkin/ipatool-sapfix) - Final macOS ipatool HTTP 403/SAP transition build; official fix is in majd/ipatool v2.4.0+.
-- [ZingerLittleBee/Heeler](https://github.com/ZingerLittleBee/Heeler) - Native iPhone and iPad console for herdr: watch and drive coding agents on your machines over SSH, in Herdr TUI or the Herdr desktop app (herdr-core), with a real libghostty terminal, native Chat, QR 
+- [ZingerLittleBee/Heeler](https://github.com/ZingerLittleBee/Heeler) - Native iPhone and iPad console for the coding agents on your own machines. Works with herdr and tmux over SSH.
 - [londek/ipadecrypt](https://github.com/londek/ipadecrypt) - 🔓 ipadecrypt is an open-source tool for downloading, patching and decrypting .ipa's with minimal user intervention on palera1n and dopamine jailbreaks
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
@@ -2114,7 +2114,7 @@
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 1,600+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 Blazing fast Python framework for web crawling, testing, scraping, and stealth. Supports pytest. Bypasses bot-detection with CDP Mode. Compatible with Playwright.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Fast, reliable browser automation for web crawling, E2E testing, scraping, and stealth. Bypasses bot-detection with CDP Mode. Lots of integrations, such as pytest, Playwright, and MCP.
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 - [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) - Open-source personal AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-agent, multi-model, multi-channel. Lightweight, extensible, one-lin
 
@@ -2811,6 +2811,7 @@
 - [gopkg-dev/amazoncaptcha](https://github.com/gopkg-dev/amazoncaptcha) - Amazon captcha recognition solution based on Go language standard library
 - [alfiecg24/TrollInstallerX](https://github.com/alfiecg24/TrollInstallerX) - A TrollStore installer for iOS 14.0 - 16.6.1
 - [Kyle-Ye/XcodeLLMEligible](https://github.com/Kyle-Ye/XcodeLLMEligible) - 
+- [huami1314/SuperIcons](https://github.com/huami1314/SuperIcons) - This is a tool for replacing TrollStore's app icons
 - [sjlleo/nexttrace-backend](https://github.com/sjlleo/nexttrace-backend) - NextTrace BackEnd
 - [Lakr233/ColorfulX](https://github.com/Lakr233/ColorfulX) - ColorfulX is a high-performance library designed for creating vibrant & animated mesh gradient views.
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
@@ -3233,7 +3234,7 @@
 - [GilbN/geoip2influx](https://github.com/GilbN/geoip2influx) - A python script that will parse the nginx access.log and send geolocation metrics and log metrics to InfluxDB
 - [sorooshnoorzad/us_visa_scheduler](https://github.com/sorooshnoorzad/us_visa_scheduler) - US VISA (usvisa-info) appointment re-scheduler bot with python.
 - [yangwenmai/github-trending-backup](https://github.com/yangwenmai/github-trending-backup) - Github trending backup by everyday.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 Blazing fast Python framework for web crawling, testing, scraping, and stealth. Supports pytest. Bypasses bot-detection with CDP Mode. Compatible with Playwright.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Fast, reliable browser automation for web crawling, E2E testing, scraping, and stealth. Bypasses bot-detection with CDP Mode. Lots of integrations, such as pytest, Playwright, and MCP.
 - [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 4100 LeetCode Problems (Weekly Update)
 - [ading2210/poe-api](https://github.com/ading2210/poe-api) - [UNMAINTAINED] A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
 - [tobymao/sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler
@@ -3641,7 +3642,7 @@
 - [fayazara/Screendrop](https://github.com/fayazara/Screendrop) - A beautiful screenshot + screen recording + Loom alternative - all native, self hostable and free.
 - [RockxyApp/Rockxy](https://github.com/RockxyApp/Rockxy) - Open-source native macOS HTTP debugging proxy — intercept HTTPS, inspect APIs, mock responses, debug WebSocket & GraphQL. Community-driven. For developers, by developers.
 - [EmergeTools/Pow](https://github.com/EmergeTools/Pow) - Delightful SwiftUI effects for your app
-- [ZingerLittleBee/Heeler](https://github.com/ZingerLittleBee/Heeler) - Native iPhone and iPad console for herdr: watch and drive coding agents on your machines over SSH, in Herdr TUI or the Herdr desktop app (herdr-core), with a real libghostty terminal, native Chat, QR 
+- [ZingerLittleBee/Heeler](https://github.com/ZingerLittleBee/Heeler) - Native iPhone and iPad console for the coding agents on your own machines. Works with herdr and tmux over SSH.
 - [RuochenLyu/run-shelf](https://github.com/RuochenLyu/run-shelf) - macOS 本地脚本管理工具：运行、定时和排查 Shell 脚本
 - [sozercan/kaset](https://github.com/sozercan/kaset) - 📼 The missing YouTube and YouTube Music macOS app
 - [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The open-source agent harness for macOS. Run local or cloud models with persistent memory, skills, tools, and autonomous execution. Built in Swift.
@@ -3842,7 +3843,7 @@
 
 - [fazxes/rex-durable](https://github.com/fazxes/rex-durable) - Keep the programs in your Rex tabs across server restarts and reboots. fx, Claude Code, and Codex chats reopen on their own conversation.
 - [zzjcool/krd](https://github.com/zzjcool/krd) - macOS desktop in a terminal pane over SSH: ScreenCaptureKit capture, kitty graphics rendering, no VNC/codec/extra port
-- [ZingerLittleBee/Heeler](https://github.com/ZingerLittleBee/Heeler) - Native iPhone and iPad console for herdr: watch and drive coding agents on your machines over SSH, in Herdr TUI or the Herdr desktop app (herdr-core), with a real libghostty terminal, native Chat, QR 
+- [ZingerLittleBee/Heeler](https://github.com/ZingerLittleBee/Heeler) - Native iPhone and iPad console for the coding agents on your own machines. Works with herdr and tmux over SSH.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
