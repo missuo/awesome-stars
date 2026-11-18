@@ -204,6 +204,7 @@
 - [DejavuMoe/Pail](https://github.com/DejavuMoe/Pail) - Cross-platform desktop manager for S3-compatible object storage: Amazon S3, MinIO, Cloudflare R2, VersityGW, Wasabi and other services that speak the S3 API.
 - [egoist/mygo-music](https://github.com/egoist/mygo-music) - A native music player you extend with plugins
 - [DrWhax/unfairplay](https://github.com/DrWhax/unfairplay) - Decrypt IPA's on MacOS
+- [nekohasekai/open-screen-sharing](https://github.com/nekohasekai/open-screen-sharing) - A remote desktop client that doesn't suck.
 - [egoist/mygo](https://github.com/egoist/mygo) - Develop desktop apps with native UI or web frontend in Go
 - [mizorewww/x_gift_bot](https://github.com/mizorewww/x_gift_bot) - X Premium gift CLI and redemption site
 - [maksimryabkin/ipatool-sapfix](https://github.com/maksimryabkin/ipatool-sapfix) - Final macOS ipatool HTTP 403/SAP transition build; official fix is in majd/ipatool v2.4.0+.
@@ -313,6 +314,7 @@
 - [metoro-io/mcp-golang](https://github.com/metoro-io/mcp-golang) - Write Model Context Protocol servers in few lines of go code. Docs at https://mcpgolang.com . Created by https://metoro.io
 - [xjasonlyu/vercel-deeplx](https://github.com/xjasonlyu/vercel-deeplx) - Serverless DeepLX on Vercel (Golang)
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
+- [jetkvm/kvm](https://github.com/jetkvm/kvm) - Control any computer remotely
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [Qv2ray/gun-lite](https://github.com/Qv2ray/gun-lite) - Same gRPC Tunnel, but without gRPC / Protobuf
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
@@ -593,7 +595,6 @@
 
 ## Kotlin 
 
-- [nekohasekai/open-screen-sharing](https://github.com/nekohasekai/open-screen-sharing) - Better Screen Sharing for Apple systems
 - [YTwsy/pixel-proxy-gateway](https://github.com/YTwsy/pixel-proxy-gateway) - Open-source ad-free Android HTTP/SOCKS proxy gateway for Pixel Google VPN, powered by GOST; an Every Proxy alternative for mihomo/PAC LAN routing.
 - [suqi8/OShin](https://github.com/suqi8/OShin) - 一个专为ColorOS系统设计的辅助模块
 - [meow-rs/meow-android](https://github.com/meow-rs/meow-android) - Meow - A Clash/mihomo Android client with Flutter UI, powered by meow-rs and lwip-based tun2socks
@@ -886,7 +887,7 @@
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 Blazing fast Python framework for web crawling, testing, scraping, and stealth. Supports pytest. Bypasses bot-detection with CDP Mode. Compatible with Playwright.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Fast, reliable browser automation for web crawling, E2E testing, scraping, and stealth. Bypasses bot-detection with CDP Mode. Lots of integrations, such as pytest, Playwright, and MCP.
 - [a-maliarov/amazoncaptcha](https://github.com/a-maliarov/amazoncaptcha) - Pure Python, lightweight, Pillow-based solver for Amazon's text captcha.
 - [SimplifyJobs/Summer2027-Internships](https://github.com/SimplifyJobs/Summer2027-Internships) - Summer 2027 software engineering, data science, AI, quant, product management, and hardware internship postings. Updated daily by Simplify and Pitt CSC.
 - [fuergaosi233/apple-health-exporter](https://github.com/fuergaosi233/apple-health-exporter) - 
@@ -1248,7 +1249,7 @@
 - [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - A native macOS launcher for everyday productivity. Lightweight and open source.
 - [EmergeTools/Pow](https://github.com/EmergeTools/Pow) - Delightful SwiftUI effects for your app
 - [Mac-XK/LiquidGlassKit](https://github.com/Mac-XK/LiquidGlassKit) - iOS 13-18，iOS26+ 的苹果Liquid Glass
-- [ZingerLittleBee/Heeler](https://github.com/ZingerLittleBee/Heeler) - Native iPhone and iPad console for herdr: watch and drive coding agents on your machines over SSH, in Herdr TUI or the Herdr desktop app (herdr-core), with a real libghostty terminal, native Chat, QR 
+- [ZingerLittleBee/Heeler](https://github.com/ZingerLittleBee/Heeler) - Native iPhone and iPad console for the coding agents on your own machines. Works with herdr and tmux over SSH.
 - [owngoal-dev/iGhostVT](https://github.com/owngoal-dev/iGhostVT) - 
 - [celldock/celldock-for-mac](https://github.com/celldock/celldock-for-mac) - Use cellular network, SMS, and calls on your Mac.
 - [RuochenLyu/run-shelf](https://github.com/RuochenLyu/run-shelf) - macOS 本地脚本管理工具：运行、定时和排查 Shell 脚本
@@ -1349,6 +1350,7 @@
 - [Lakr233/AppleWebLogin](https://github.com/Lakr233/AppleWebLogin) - Replaced login method for Xcodes.
 - [Lakr233/WindowAnimation](https://github.com/Lakr233/WindowAnimation) - Provide animation when animating SwiftUI windows on macOS.
 - [Lakr233/NotchNotification](https://github.com/Lakr233/NotchNotification) - Display Notification Inside Mac's Notch.
+- [huami1314/SuperIcons](https://github.com/huami1314/SuperIcons) - This is a tool for replacing TrollStore's app icons
 - [Lakr233/ColorfulX](https://github.com/Lakr233/ColorfulX) - ColorfulX is a high-performance library designed for creating vibrant & animated mesh gradient views.
 - [Lessica/TrollFools](https://github.com/Lessica/TrollFools) - In-place tweak injection with insert_dylib and ChOma.
 - [Lakr233/Asspp](https://github.com/Lakr233/Asspp) - The App Store for your multi-account eco system.
@@ -1577,7 +1579,6 @@
 - [niieani/gpt-tokenizer](https://github.com/niieani/gpt-tokenizer) - The fastest JavaScript BPE Tokenizer Encoder Decoder for OpenAI's GPT models (gpt-5, gpt-o*, gpt-4o, etc.). Port of OpenAI's tiktoken with additional features.
 - [raycast/ray-so](https://github.com/raycast/ray-so) - Create code snippets, browse AI prompts, create extension icons and more.
 - [iszhouhua/social-media-copilot](https://github.com/iszhouhua/social-media-copilot) - 社媒助手开源版 - 小红书、抖音、快手等平台数据采集的浏览器插件，可通过API调用，支持Docker部署。
-- [jetkvm/kvm](https://github.com/jetkvm/kvm) - Control any computer remotely
 - [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) - Admin Dashboard UI built with Shadcn and Vite.
 - [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Reference Servers
