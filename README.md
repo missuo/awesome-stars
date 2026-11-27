@@ -67,6 +67,7 @@
 
 ## C 
 
+- [yyyywaiwai/DeviceHubEnabler](https://github.com/yyyywaiwai/DeviceHubEnabler) - Rootless tweak that enables Xcode DeviceHub screen viewing and system audio on jailbroken iOS 17–26 devices.
 - [owngoal-dev/Apelin](https://github.com/owngoal-dev/Apelin) - An on-device IDE for iOS, where an agent writes, builds and installs tweaks.
 - [SuperTurtleDev/gbl_root_canoe](https://github.com/SuperTurtleDev/gbl_root_canoe) - No TrickyStore on Canoe
 - [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next) - An advanced Kernel based root solution for Android
@@ -91,7 +92,6 @@
 - [NetworkConfiguration/dhcpcd](https://github.com/NetworkConfiguration/dhcpcd) - DHCP / IPv4LL / IPv6RA / DHCPv6 client.
 - [owngoal-dev/TrollVNC](https://github.com/owngoal-dev/TrollVNC) - VNC server for iOS devices, allowing remote access and control of the device’s screen.
 - [Lakr233/Irisin](https://github.com/Lakr233/Irisin) - Modern. Fast. Beautiful.
-- [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [Q-WRT/Q-WRT](https://github.com/Q-WRT/Q-WRT) - Q-WRT, A Commercial product level fimware for IoT-Devices base OpenWrt
 - [dlundquist/sniproxy](https://github.com/dlundquist/sniproxy) - Proxies incoming HTTP and TLS connections based on the hostname contained in the initial request of the TCP session.
 - [alfiecg24/TrollInstallerX](https://github.com/alfiecg24/TrollInstallerX) - A TrollStore installer for iOS 14.0 - 16.6.1
@@ -113,6 +113,7 @@
 - [h3xx/jphs](https://github.com/h3xx/jphs) - jphide & seek steganography tools
 - [easychen/pushdeer](https://github.com/easychen/pushdeer) - 开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备
 - [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) - Lean's LEDE source
+- [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - A better-looking desktop music player for local files, media servers, and plugins. For macOS, Windows and Linux.
 
 ## C# # 
 
@@ -200,11 +201,10 @@
 - [SukkaW/hikyaku](https://github.com/SukkaW/hikyaku) - A high-performance multiplexing proxy that stays lightning fast and highly reliable everywhere, from fiber broadband to lossy in-flight Wi-Fi.
 - [sylvinus/agent-vm](https://github.com/sylvinus/agent-vm) - Run AI agents in safe VMs scoped to a local folder
 - [egoist/tinytraffic](https://github.com/egoist/tinytraffic) - self-host web analytics in a single binary
-- [21stware/bowel](https://github.com/21stware/bowel) - Bowel is a mihomo client for macOS, Windows, Linux and Android.
+- [21stware/bowel](https://github.com/21stware/bowel) - Native mihomo (Clash Meta) client for macOS, Windows, Linux & Android: GPU-rendered Go UI, no Electron or WebView. Rules, TUN, gateway mode, CLI/TUI and a built-in MCP server.
 - [DejavuMoe/Pail](https://github.com/DejavuMoe/Pail) - Cross-platform desktop manager for S3-compatible object storage: Amazon S3, MinIO, Cloudflare R2, VersityGW, Wasabi and other services that speak the S3 API.
 - [egoist/mygo-music](https://github.com/egoist/mygo-music) - A native music player you extend with plugins
 - [DrWhax/unfairplay](https://github.com/DrWhax/unfairplay) - Decrypt IPA's on MacOS
-- [nekohasekai/open-screen-sharing](https://github.com/nekohasekai/open-screen-sharing) - A remote desktop client that doesn't suck.
 - [egoist/mygo](https://github.com/egoist/mygo) - Develop desktop apps with native UI or web frontend in Go
 - [mizorewww/x_gift_bot](https://github.com/mizorewww/x_gift_bot) - X Premium gift CLI and redemption site
 - [maksimryabkin/ipatool-sapfix](https://github.com/maksimryabkin/ipatool-sapfix) - Final macOS ipatool HTTP 403/SAP transition build; official fix is in majd/ipatool v2.4.0+.
@@ -227,7 +227,7 @@
 - [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/
 - [NetworkCats/Merged-IP-Data](https://github.com/NetworkCats/Merged-IP-Data) - A free MMDB IP database, updated daily, with geolocation, ASN, and VPN/proxy detection merged from multiple sources.
 - [SagerNet/sing-tun](https://github.com/SagerNet/sing-tun) - Simple transparent proxy library
-- [multica-ai/multica](https://github.com/multica-ai/multica) - Make humans and AI agents work as one team — open-source and self-hostable.
+- [multica-ai/multica](https://github.com/multica-ai/multica) - Shared task board where people and AI coding agents work as teammates. Source-available, self-hostable.
 - [openai/openai-cli](https://github.com/openai/openai-cli) - Official CLI for the OpenAI API
 - [zackpollard/frameio-immich-relay](https://github.com/zackpollard/frameio-immich-relay) - Self-hosted relay: Frame.io Camera-to-Cloud uploads → Immich. Webhook-driven, SHA-1 dedup, delete-after-ingest.
 - [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) - Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
@@ -461,7 +461,6 @@
 - [UnluckyNinja/SBTI-test](https://github.com/UnluckyNinja/SBTI-test) - 注意建立这个repo只是因为网页自身就是全部源码，原作者并未声明license所以本repo也不包含license，一切行为请自行斟酌，不要给原作者添麻烦。 原作者：B站@蛆肉儿串儿
 - [theforeveriris/simulated-12306-view](https://github.com/theforeveriris/simulated-12306-view) - 简易的12306购票模拟器.用于应急应付对方请求看购票截图的无理要求
 - [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Generator for customized Cloudflare error pages. (unofficial)
-- [EltonChou/TwitterMediaHarvest](https://github.com/EltonChou/TwitterMediaHarvest) - Download twitter media with only one-click.
 - [zouzhekang/YJYpaper](https://github.com/zouzhekang/YJYpaper) - 一个用来记录武汉大学杨景媛论文问题的仓库
 - [Aemulo/Release](https://github.com/Aemulo/Release) - 
 - [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
@@ -476,6 +475,7 @@
 
 ## Java 
 
+- [xdevplatform/samples](https://github.com/xdevplatform/samples) - Sample code for the X API v2 endpoints
 - [amak-tech/port-buddy](https://github.com/amak-tech/port-buddy) - Expose local ports to the internet in seconds
 - [jarvis2f/telegram-files](https://github.com/jarvis2f/telegram-files) - A self-hosted Telegram file downloader for continuous, stable, and unattended downloads.
 - [qaiu/netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download) - 聚合多种主流网盘的直链解析下载服务, 一键解析下载，已支持夸克网盘/uc网盘/蓝奏云/蓝奏优享/小飞机盘/123云盘等. 支持文件夹分享解析. 体验地址: https://lz.qaiu.top https://189.qaiu.top
@@ -486,6 +486,7 @@
 
 ## JavaScript 
 
+- [Innei/artideck](https://github.com/Innei/artideck) - Artideck — Artifacts for coding agents, made to decide with you. Your agent draws artboards, design docs, whiteboards, decks, and verify reports; you pick, comment, and pass right on the page.
 - [yetone/rewind-for-x](https://github.com/yetone/rewind-for-x) - Chrome extension: look back at posts that scrolled past on your X home timeline
 - [huilang-me/CF-Server-Monitor](https://github.com/huilang-me/CF-Server-Monitor) - 一个基于 Cloudflare Workers + D1 + Durable Objects 的免费多服务器监控探针系统，支持实时监控、离线告警，到期通知，历史数据查看、延迟追踪、地图展示等功能。兼容主流Linux系统，Alpine Linux，OpenWrt，macOS，群晖 DSM、飞牛 fnOS、Windows系统。
 - [WhiteNightShadow/wx-mp-mcp](https://github.com/WhiteNightShadow/wx-mp-mcp) - 微信小程序逆向 MCP — 在线实时解包 + AI 静态分析还原接口签名/加密，产出本地 Node.js 直接能跑的脚本（零侵入，不碰微信进程）
@@ -593,6 +594,7 @@
 
 ## Kotlin 
 
+- [nekohasekai/open-screen-sharing](https://github.com/nekohasekai/open-screen-sharing) - A remote desktop client that doesn't suck.
 - [YTwsy/pixel-proxy-gateway](https://github.com/YTwsy/pixel-proxy-gateway) - Open-source ad-free Android HTTP/SOCKS proxy gateway for Pixel Google VPN, powered by GOST; an Every Proxy alternative for mihomo/PAC LAN routing.
 - [suqi8/OShin](https://github.com/suqi8/OShin) - 一个专为ColorOS系统设计的辅助模块
 - [meow-rs/meow-android](https://github.com/meow-rs/meow-android) - Meow - A Clash/mihomo Android client with Flutter UI, powered by meow-rs and lwip-based tun2socks
@@ -689,7 +691,7 @@
 ## Objective-C++ 
 
 - [Lessica/TrollSpeed](https://github.com/Lessica/TrollSpeed) - Shows upload & download speed below the status bar. Supports opa334’s TrollStore.
-- [Lessica/TrollRecorder](https://github.com/Lessica/TrollRecorder) - (i18n/CLI) Not the first, but the best phone call recorder with TrollStore.
+- [owngoal-dev/TrollRecorder](https://github.com/owngoal-dev/TrollRecorder) - (i18n/CLI) Not the first, but the best phone call recorder with TrollStore.
 
 ## Others 
 
@@ -731,6 +733,7 @@
 - [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device.
 - [supernotes/sn-pro](https://github.com/supernotes/sn-pro) - SN Pro Font Family
 - [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb) - MaxMind's GeoIP2 GeoLite2 Country, City, and ASN databases
+- [h3110w0r1d-y/termius-cracked](https://github.com/h3110w0r1d-y/termius-cracked) - Termius Pro
 - [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 
 - [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - Awesome apps, software, and SaaS deals on Black Friday.
 - [1c7/Translate-Subtitle-File](https://github.com/1c7/Translate-Subtitle-File) - 译幕（Zimoo）是字幕翻译工具，支持 .srt / .ass / .vtt 文件，提供网页版和 macOS / Windows 桌面版，可使用 DeepSeek、Gemini、GPT、Claude、Kimi、智谱等 AI 模型，核心卖点（和其他产品的主要区别）：用户配置自己的 API Key，好处是这样价格最低。
@@ -823,7 +826,6 @@
 - [imbue-bit/OpenClaw-PwnKit](https://github.com/imbue-bit/OpenClaw-PwnKit) - Get shell to almost any OpenClaw host machine.
 - [public-clis/twitter-cli](https://github.com/public-clis/twitter-cli) - A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal
 - [pasquini-dario/LLMmap](https://github.com/pasquini-dario/LLMmap) - 
-- [xdevplatform/samples](https://github.com/xdevplatform/samples) - Sample code for the X API v2 endpoints
 - [xdevplatform/xdk-python](https://github.com/xdevplatform/xdk-python) - Python repo for the XDK auto-generated code.
 - [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
 - [coachpo/immortalwrt-firmware-builder](https://github.com/coachpo/immortalwrt-firmware-builder) - Seed configs, Docker build env, and CI workflow producing ImmortalWrt images for Cudy TR3000 and Xiaomi CR6606
@@ -856,6 +858,7 @@
 - [ddCat-main/cursor-auto-register](https://github.com/ddCat-main/cursor-auto-register) - cursor-auto-register
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi
+- [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [daijro/hrequests](https://github.com/daijro/hrequests) - 🚀 Web scraping for humans
 - [leonboe1/GoogleFindMyTools](https://github.com/leonboe1/GoogleFindMyTools) - Framework for tracking and building your own Google Find My Device / Find Hub trackers 🧭
 - [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free) - auto sign cursor
@@ -885,7 +888,7 @@
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Fast and reliable browser automation for e2e testing, scraping, and stealth. Bypasses bot-detection with CDP Mode. Has integrations for pytest, Playwright, and MCP.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A modern framework for E2E testing, web scraping, and CAPTCHA-bypass.
 - [a-maliarov/amazoncaptcha](https://github.com/a-maliarov/amazoncaptcha) - Pure Python, lightweight, Pillow-based solver for Amazon's text captcha.
 - [SimplifyJobs/Summer2027-Internships](https://github.com/SimplifyJobs/Summer2027-Internships) - Summer 2027 software engineering, data science, AI, quant, product management, and hardware internship postings. Updated daily by Simplify and Pitt CSC.
 - [fuergaosi233/apple-health-exporter](https://github.com/fuergaosi233/apple-health-exporter) - 
@@ -990,7 +993,7 @@
 - [chris124567/cfsolve](https://github.com/chris124567/cfsolve) - Cloudflare turnstile and challenge page solver in Rust (full reverse, request based)
 - [longbridge/nsh](https://github.com/longbridge/nsh) - Native Shell is a native UI framework for iOS, Android, macOS, Windows, Linux and the web, built in Rust.
 - [anomalyco/hex](https://github.com/anomalyco/hex) - Local voice dictation for mac, windows and linux
-- [daeuniverse/honk](https://github.com/daeuniverse/honk) - Inspired by dae & sing-box
+- [daeuniverse/honk](https://github.com/daeuniverse/honk) - │ A Linux transparent proxy inspired by dae & sing-box, with eBPF routing and its own TCP/IP stack.
 - [heydeer/slimdeer](https://github.com/heydeer/slimdeer) - Smaller images, same picture. Compress PNGs to PNG or WebP with automatic quality. PNG output is 8–12% smaller than TinyPNG at equal quality on the median image. Command line and browser.
 - [ELY-Open-Source/ELYTerminal](https://github.com/ELY-Open-Source/ELYTerminal) - A terminal on GPUI and Ely components
 - [denoland/celld](https://github.com/denoland/celld) - self-hosted, distributed Durable Objects
@@ -1036,7 +1039,7 @@
 - [mweinbach/agent-coworker](https://github.com/mweinbach/agent-coworker) - Terminal-first coworker agent (Bun + OpenTUI)
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
-- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Community CLI for Google Workspace APIs.
 - [zerobrewhq/zerobrew](https://github.com/zerobrewhq/zerobrew) - An up to 10x faster Homebrew client
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
 - [CleverCloud/mdr](https://github.com/CleverCloud/mdr) - a very light rust based markdown reader with support of mermaid (web, native, TUI). vibe coded
@@ -1226,6 +1229,7 @@
 
 ## Swift 
 
+- [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) - macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
 - [Xplo8E/Liter8](https://github.com/Xplo8E/Liter8) - Tethered iOS 27 jailbreak
 - [ichitaso/Regitela](https://github.com/ichitaso/Regitela) - A file explorer and tweak toolbox for iOS, built on the worse_query sandbox escape.
 - [reorx/feishu-lite](https://github.com/reorx/feishu-lite) - 
@@ -1236,17 +1240,16 @@
 - [Lakr233/libghostty-spm](https://github.com/Lakr233/libghostty-spm) - 
 - [netease-uuyc/uuremote-integration-guide](https://github.com/netease-uuyc/uuremote-integration-guide) - 把 UU 远程远控能力接入你的 App —— 设备绑定与发起远控的 URL Scheme 协议说明，覆盖全屏与画中画模式，含 iOS / Android 示例代码与完整错误码。
 - [Nongfsq/ftop](https://github.com/Nongfsq/ftop) - A small, quiet system monitor for Apple Silicon Macs: one floating glass panel that works at any size.
-- [mizorewww/catussh](https://github.com/mizorewww/catussh) - yet another SSH machine manager
 - [zoolapp/aime](https://github.com/zoolapp/aime) - 艾么输入法 · An open-source Chinese input method for macOS, built on RIME. Local first, optional AI.
 - [fif7y/dimble](https://github.com/fif7y/dimble) - A calm menu bar, done the native way. Hides the icons you don't need until you do.
 - [RuiNelson/SwiftSMB](https://github.com/RuiNelson/SwiftSMB) - Access SMB shares with libsmb2 using Swift
 - [robinebers/openusage](https://github.com/robinebers/openusage) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.
 - [fayazara/Screendrop](https://github.com/fayazara/Screendrop) - A beautiful screenshot + screen recording + Loom alternative - all native, self hostable and free.
 - [RockxyApp/Rockxy](https://github.com/RockxyApp/Rockxy) - Open-source native macOS HTTP debugging proxy — intercept HTTPS, inspect APIs, mock responses, debug WebSocket & GraphQL. Community-driven. For developers, by developers.
-- [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - A native macOS launcher for everyday productivity. Lightweight and open source.
+- [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - A native macOS launcher built for productivity. Fast, lightweight, and open source.
 - [EmergeTools/Pow](https://github.com/EmergeTools/Pow) - Delightful SwiftUI effects for your app
 - [Mac-XK/LiquidGlassKit](https://github.com/Mac-XK/LiquidGlassKit) - iOS 13-18，iOS26+ 的苹果Liquid Glass
-- [ZingerLittleBee/Heeler](https://github.com/ZingerLittleBee/Heeler) - Native iPhone and iPad console for the coding agents on your own machines. Works with herdr and tmux over SSH.
+- [ZingerLittleBee/Heeler](https://github.com/ZingerLittleBee/Heeler) - Native iPhone & iPad console for Claude Code, Codex, and other coding agents on your own machines. Connect over SSH to Herdr TUI, herdr-core, or tmux.
 - [owngoal-dev/iGhostVT](https://github.com/owngoal-dev/iGhostVT) - 
 - [celldock/celldock-for-mac](https://github.com/celldock/celldock-for-mac) - Use cellular network, SMS, and calls on your Mac.
 - [RuochenLyu/run-shelf](https://github.com/RuochenLyu/run-shelf) - macOS 本地脚本管理工具：运行、定时和排查 Shell 脚本
@@ -1424,7 +1427,7 @@
 - [paradiseduo/appdecrypt](https://github.com/paradiseduo/appdecrypt) - appdecrypt is a tool to make decrypt application encrypted binaries on macOS when SIP-enabled  (macOS 11.3 or below)
 - [argentlabs/web3.swift](https://github.com/argentlabs/web3.swift) - Ethereum Swift API with support for smart contracts, ENS & ERC20
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
-- [Lakr233/Rayon](https://github.com/Lakr233/Rayon) - yet another SSH machine manager
+- [mizorewww/Rayon](https://github.com/mizorewww/Rayon) - Native macOS SSH terminal, SFTP, and live server monitor built on Ghostty.
 - [fancymax/12306ForMac](https://github.com/fancymax/12306ForMac) - An unofficial 12306 Client for Mac
 
 ## TeX 
@@ -1537,6 +1540,7 @@
 - [Innei/Shiro](https://github.com/Innei/Shiro) - 📜 A minimalist personal website embodying the purity of paper and freshness of snow.
 - [egoist/whispo](https://github.com/egoist/whispo) - AI-powered dictation tool
 - [iyinchao/liquid-glass-studio](https://github.com/iyinchao/liquid-glass-studio) - 🔮 The Ultimate Apple Liquid Glass UI — Recreated for the Web, powered by WebGL2 & WebGPU
+- [EltonChou/TwitterMediaHarvest](https://github.com/EltonChou/TwitterMediaHarvest) - Download twitter media with only one-click.
 - [oiov/vmail](https://github.com/oiov/vmail) - 📫 只需一个域名部署临时邮箱到 Cloudflare Worker，支持收发邮件，使用 D1 保存数据，支持多域名后缀，密码找回，开放API接口。
 - [iebb/NekokoLPA](https://github.com/iebb/NekokoLPA) - Open-source LPA Software for Android and iOS
 - [HoshinoSuzumi/chronoframe](https://github.com/HoshinoSuzumi/chronoframe) - Self-hosted personal gallery application with online photo management and albums, supporting Live/Motion Photos, EXIF parsing, geolocation recognition, and an explore map.
@@ -1557,7 +1561,7 @@
 - [thecuvii/fuji-recipes](https://github.com/thecuvii/fuji-recipes) - A TypeScript library to extract Fujifilm camera recipe data from EXIF maker notes.
 - [Innei/photo-gallery](https://github.com/Innei/photo-gallery) - Capturing beautiful moments in life, documenting daily warmth and emotions through my lens.
 - [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open-source AI language learning & flashcards, an Immersive Translate alternative | 🐸 陪读蛙 - 开源 AI 语言学习与闪词卡，沉浸式翻译替代
-- [antfu/case-police](https://github.com/antfu/case-police) - 🚨 Make the case correct, PLEASE!
+- [made-in-common/case-police](https://github.com/made-in-common/case-police) - 🚨 Make the case correct, PLEASE!
 - [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍 导出并模糊搜索 Telegram 聊天记录 | Export and fuzzy search your Telegram chat history
 - [egoist/walk-ignore](https://github.com/egoist/walk-ignore) - Read files from a directory recursively and ignore patterns specified in `.gitignore`.
 - [voideditor/void](https://github.com/voideditor/void) - 
@@ -1583,7 +1587,7 @@
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Reference Servers
 - [hamster1963/nezha-dash](https://github.com/hamster1963/nezha-dash) - A simple dashboard for nezha.
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
-- [jimp-dev/jimp](https://github.com/jimp-dev/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
+- [jimp-dev/jimp](https://github.com/jimp-dev/jimp) - Image processing in pure JavaScript for Node.js and the browser, with zero native dependencies.
 - [besscroft/PicImpact](https://github.com/besscroft/PicImpact) - 自部署的摄影作品网站，支持多种功能特性。PicImpact，分享你和世界！
 - [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simp
 - [fdarkaou/open-deep-research](https://github.com/fdarkaou/open-deep-research) - An open-source alternative to OpenAI and Gemini's deep research.
@@ -1721,13 +1725,12 @@
 - [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
 - [wikihost-opensource/als](https://github.com/wikihost-opensource/als) - Another Looking-glass Server
 - [lookscanned/lookscanned.io](https://github.com/lookscanned/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned
-- [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 - [gonelist/gonelist-web](https://github.com/gonelist/gonelist-web) - vue+iview
 
 ## Zig 
 
 - [sleep3r/mtproto.zig](https://github.com/sleep3r/mtproto.zig) - Keep the people you love connected — a tiny self-hosted Telegram proxy that hides in plain HTTPS
-- [smithersai/claude-p](https://github.com/smithersai/claude-p) - Drop-in replacement for `claude -p` that drives the interactive Claude Code TUI inside an in-process zmux PTY session.
+- [smithersai/claude-p](https://github.com/smithersai/claude-p) - Emulates claude -p by driving interactive Claude Code inside an in-process zmux PTY session.
 - [vercel-labs/native](https://github.com/vercel-labs/native) - Toolkit for building native desktop apps
 - [zon-dev/zinc](https://github.com/zon-dev/zinc) - Zinc is a web framework written in pure Zig with a focus on high performance, usability, security, and extensibility.
 - [justrach/turboAPI](https://github.com/justrach/turboAPI) - FastAPI-compatible Python framework with Zig HTTP core; 7x faster, free-threading native
